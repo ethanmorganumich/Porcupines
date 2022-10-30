@@ -1,0 +1,3 @@
+gcloud auth application-default login
+gcloud config set project notesmart
+python3 backend/gcp_NLP_API_local.py
