@@ -9,6 +9,8 @@ import time
 API_URL = 'https://lwheswmvrtoltfogtrvv.supabase.co'
 API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx3aGVzd212cnRvbHRmb2d0cnZ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjcxNTUxMDgsImV4cCI6MTk4MjczMTEwOH0.2PL2EGizWXNXUh6T_wKuPM1KZrgJ0X41zsWGkR0lgJA'
 
+@csrf_exempt
+# @api_view(['GET', 'POST', 'DELETE', 'UPDATE'])
 def notes(request):
     if request.method == 'POST':
         return notes_post(request)
@@ -27,6 +29,7 @@ def notes(request):
     response['chatts'] = rows
     return JsonResponse(response)
 
+@csrf_exempt
 def notes_post(request):
     supabase = create_client(API_URL, API_KEY)
     json_data = json.loads(request.body)
@@ -34,7 +37,7 @@ def notes_post(request):
     currentTime = time.time()
     data = {
         'note_id': note_id,
-        'content': json_data['context'],
+        'content': json_data['content'],
         'deleted': False
     }
     supabase.table('notes').insert(data).execute() # inserting one record
@@ -43,17 +46,29 @@ def notes_post(request):
     response['note_id'] = note_id
     return JsonResponse(response)
 
+@csrf_exempt
 def notes_get(request):
     supabase = create_client(API_URL, API_KEY)
     t = supabase.table('notes').select('*').execute()
-    return JsonResponse(t.data)
+    return JsonResponse({"notes": t.data})
 
+
+@csrf_exempt
+def note_action(request, note_id):
+    if request.method == 'UPDATE':
+        return notes_update(request, note_id)
+    elif request.method == 'DELETE':
+        return notes_delete(request, note_id)
+
+
+@csrf_exempt
 def notes_update(request, note_id):
     supabase = create_client(API_URL, API_KEY)
     json_data = json.loads(request.body)
     t = supabase.table('notes').update({'content': json_data['content']}).eq('note_id', note_id).execute()
     return JsonResponse({})
 
+@csrf_exempt
 def notes_delete(request, note_id):
     supabase = create_client(API_URL, API_KEY)
     supabase.table('notes').delete().eq('note_id', note_id).execute()
