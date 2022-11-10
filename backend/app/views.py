@@ -35,10 +35,14 @@ def notes_post(request):
     json_data = json.loads(request.body)
     note_id = str(uuid.uuid4())
     currentTime = time.time()
+    if 'title' not in json_data:
+        json_data['title'] = "title"
+
     data = {
         'note_id': note_id,
         'content': json_data['content'],
-        'deleted': False
+        'deleted': False,
+        'title': json_data['title']
     }
     supabase.table('notes').insert(data).execute() # inserting one record
 
@@ -65,7 +69,13 @@ def note_action(request, note_id):
 def notes_update(request, note_id):
     supabase = create_client(API_URL, API_KEY)
     json_data = json.loads(request.body)
-    t = supabase.table('notes').update({'content': json_data['content']}).eq('note_id', note_id).execute()
+    data = {}
+    if 'title' in json_data:
+        data['title'] = json_data['title']
+    if 'content' in json_data:
+        data['content'] = json_data['content']
+
+    t = supabase.table('notes').update(data).eq('note_id', note_id).execute()
     return JsonResponse({})
 
 @csrf_exempt
@@ -74,3 +84,4 @@ def notes_delete(request, note_id):
     supabase.table('notes').delete().eq('note_id', note_id).execute()
     return JsonResponse({})
 
+# a1251f20-3a24-4fbc-b23e-8f38e2c2e64c
