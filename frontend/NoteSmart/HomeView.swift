@@ -30,9 +30,7 @@ struct ProfileButtonView : View {
     var body : some View {
         HStack {
             Spacer()
-            Button(action: {
-//                UserState.shared.view = "profile view"
-            }) {
+            Button(action: {}) {
                 Spacer()
                 Text("SJ")
                     .font(Font.custom("Inter-Regular", size: 21))
@@ -54,11 +52,11 @@ struct SearchFilterIconsView : View {
                     .font(.system(size: 30))
                     .foregroundColor(Color("blue70"))
             }
-            Button(action: {}) {
-                Image(systemName: "slider.horizontal.3")
-                    .font(.system(size: 30))
-                    .foregroundColor(Color("blue70"))
-            }
+//            Button(action: {}) {
+//                Image(systemName: "slider.horizontal.3")
+//                    .font(.system(size: 30))
+//                    .foregroundColor(Color("blue70"))
+//            }
             Spacer()
         }
         .frame(width: 300)
@@ -109,7 +107,7 @@ struct NoteItemView: View {
                 }
                 .frame(height: 30)
                 HStack {
-                    Text(note.timestamp! + " - " + note.text!)
+                    Text(note.text!)//(note.timestamp! + " - " + note.text!)
                         .font(Font.custom("Inter-Regular", size: 15))
                         .lineLimit(1)
                     Spacer()

@@ -19,8 +19,6 @@ struct ViewManager: View {
             SignInView()
         case "home view":
             HomeView()
-        case "profile view":
-            ProfileView()
         case "new note view":
             NewNoteView()
         case "existing note view":
