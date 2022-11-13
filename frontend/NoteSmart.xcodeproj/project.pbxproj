@@ -8,9 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		A5BDF1DE29154801001D957C /* BottomControlButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1DD29154801001D957C /* BottomControlButtons.swift */; };
-		A5BDF1E02915771A001D957C /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1DF2915771A001D957C /* ProfileView.swift */; };
 		A5BDF1E2291594B6001D957C /* NoteViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1E1291594B6001D957C /* NoteViews.swift */; };
-		A5BDF1E6291A0538001D957C /* NoteSmart.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1E5291A0538001D957C /* NoteSmart.swift */; };
+		A5BDF1E6291A0538001D957C /* UserState.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1E5291A0538001D957C /* UserState.swift */; };
 		A5BDF1E8291A0694001D957C /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1E7291A0694001D957C /* Note.swift */; };
 		A5DDE2B7290EFC9700A5C4E8 /* NoteSmartApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DDE2B6290EFC9700A5C4E8 /* NoteSmartApp.swift */; };
 		A5DDE2B9290EFC9700A5C4E8 /* ViewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DDE2B8290EFC9700A5C4E8 /* ViewManager.swift */; };
@@ -33,9 +32,8 @@
 
 /* Begin PBXFileReference section */
 		A5BDF1DD29154801001D957C /* BottomControlButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomControlButtons.swift; sourceTree = "<group>"; };
-		A5BDF1DF2915771A001D957C /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		A5BDF1E1291594B6001D957C /* NoteViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteViews.swift; sourceTree = "<group>"; };
-		A5BDF1E5291A0538001D957C /* NoteSmart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteSmart.swift; sourceTree = "<group>"; };
+		A5BDF1E5291A0538001D957C /* UserState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserState.swift; sourceTree = "<group>"; };
 		A5BDF1E7291A0694001D957C /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
 		A5DDE2B3290EFC9700A5C4E8 /* NoteSmart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NoteSmart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5DDE2B6290EFC9700A5C4E8 /* NoteSmartApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteSmartApp.swift; sourceTree = "<group>"; };
@@ -94,11 +92,10 @@
 				A5DDE2E12910281000A5C4E8 /* SignUpView.swift */,
 				A5DDE2E62910654100A5C4E8 /* SignInView.swift */,
 				A5DDE2E82910767600A5C4E8 /* HomeView.swift */,
-				A5BDF1DF2915771A001D957C /* ProfileView.swift */,
 				A5BDF1DD29154801001D957C /* BottomControlButtons.swift */,
 				A5BDF1E1291594B6001D957C /* NoteViews.swift */,
 				A5DDE2E429102BC500A5C4E8 /* SetUpView.swift */,
-				A5BDF1E5291A0538001D957C /* NoteSmart.swift */,
+				A5BDF1E5291A0538001D957C /* UserState.swift */,
 				A5BDF1E7291A0694001D957C /* Note.swift */,
 				A5DDE2C4290EFF8800A5C4E8 /* fonts */,
 				A5DDE2BA290EFC9A00A5C4E8 /* Assets.xcassets */,
@@ -210,10 +207,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A5BDF1E02915771A001D957C /* ProfileView.swift in Sources */,
 				A5BDF1DE29154801001D957C /* BottomControlButtons.swift in Sources */,
 				A5DDE2B9290EFC9700A5C4E8 /* ViewManager.swift in Sources */,
-				A5BDF1E6291A0538001D957C /* NoteSmart.swift in Sources */,
+				A5BDF1E6291A0538001D957C /* UserState.swift in Sources */,
 				A5DDE2E529102BC500A5C4E8 /* SetUpView.swift in Sources */,
 				A5DDE2E32910290900A5C4E8 /* SignUpView.swift in Sources */,
 				A5DDE2E92910767600A5C4E8 /* HomeView.swift in Sources */,

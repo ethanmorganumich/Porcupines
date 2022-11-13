@@ -70,11 +70,11 @@ struct NoteEditor: View {
                 .font(Font.custom("Inter-SemiBold", size: 25))
                 .lineLimit(1)
                 .frame(height: 40)
-            HStack {
-                Text(note_edited)
-                    .font(Font.custom("Inter-Regular", size: 15))
-                Spacer()
-            }
+//            HStack {
+//                Text(note_edited)
+//                    .font(Font.custom("Inter-Regular", size: 15))
+//                Spacer()
+//            }
             .padding([.leading], 3)
             .padding([.bottom], 25)
             TextEditor(text: $note_content)

@@ -15,18 +15,18 @@ struct BottomControlButtons: View {
     
     var body: some View {
         HStack {
-            Spacer()
-            Button(action: {}) {
-                Image(systemName: "folder")
-                    .font(.system(size: 30))
-                    .foregroundColor(Color("blue70"))
-            }
-            Spacer()
-            Button(action: {}) {
-                Image(systemName: "house")
-                    .font(.system(size: 30))
-                    .foregroundColor(Color("blue70"))
-            }
+//            Spacer()
+//            Button(action: {}) {
+//                Image(systemName: "folder")
+//                    .font(.system(size: 30))
+//                    .foregroundColor(Color("blue70"))
+//            }
+//            Spacer()
+//            Button(action: {}) {
+//                Image(systemName: "house")
+//                    .font(.system(size: 30))
+//                    .foregroundColor(Color("blue70"))
+//            }
             Spacer()
             Button(action: {
                 UserState.shared.previous_view = UserState.shared.view

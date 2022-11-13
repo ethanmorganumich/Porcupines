@@ -5,13 +5,13 @@ final class UserState : ObservableObject {
     @Published var previous_view: String;
     @Published var note_idx: Int;
 
-    static let shared = UserState() // create one instance of the class to be shared
+    static let shared = UserState()
     private init() {
         self.view = ""
         self.previous_view = ""
         self.note_idx = -1
     }
-    private let serverUrl = "https://34.134.70.89/"
+    private let serverUrl = "https://us-central1-notesmart.cloudfunctions.net/"
     @Published private(set) var notes = [Note]()
     private let nFields = Mirror(reflecting: Note()).children.count
     
@@ -20,9 +20,9 @@ final class UserState : ObservableObject {
             print("getNotes: Bad URL")
             return
         }
-        print("here")
+
         var request = URLRequest(url: apiUrl)
-        request.setValue("application/json; charset=utf-8", forHTTPHeaderField: "Accept") // expect response in JSON
+        request.setValue("application/json; charset=utf-8", forHTTPHeaderField: "Accept")
         request.httpMethod = "GET"
         
         URLSession.shared.dataTask(with: request) { data, response, error in
@@ -37,29 +37,27 @@ final class UserState : ObservableObject {
             }
             
             guard let jsonObj = try? JSONSerialization.jsonObject(with: data) as? [String:Any] else {
-                print("getChatts: failed JSON deserialization")
+                print("getNotes: failed JSON deserialization")
                 return
             }
             let notesReceived = jsonObj["notes"] as? [[String:Any]] ?? []
-            print(notesReceived)
             DispatchQueue.main.async {
                 self.notes = [Note]()
                 for (note_idx, noteEntry) in notesReceived.enumerated() {
-                    print(noteEntry)
-//                    if noteEntry.count == self.nFields {
-                        self.notes.append(Note(title: (noteEntry["title"] as! String),
+                    let tag_data = noteEntry["metadata"] as? [[String:Any]] ?? []
+                    var tags_list = []
+                    for tag_item in tag_data.enumerated() {
+                        tags_list.append((tag_item.element["name"]) as! String)
+                    }
+                        self.notes.append(Note(title: (noteEntry["title"] as? String) ?? "",
                                                text: (noteEntry["content"] as! String),
                                                timestamp: "timestamp",
                                                idx: note_idx,
                                                id: (noteEntry["note_id"] as! String),
-                                               tags: ["test", "tags"]
+                                               tags: (tags_list as! [String])
                                               ))
-//                    } else {
-//                        print("getNotes: Received unexpected number of fields: \(noteEntry.count) instead of \(self.nFields).")
-//                    }
                 }
             }
-            print(self.notes)
         }.resume()
     }
     
@@ -74,28 +72,28 @@ final class UserState : ObservableObject {
                        "content": updated_content]
         
         guard let jsonData = try? JSONSerialization.data(withJSONObject: jsonObj) else {
-            print("postNote: jsonData serialization error")
+            print("saveNote: jsonData serialization error")
             return
         }
         
         guard let apiUrl = URL(string: serverUrl+"notes/"+note.id!) else {
-            print("postNote: Bad URL")
+            print("saveNote: Bad URL")
             return
         }
         
         var request = URLRequest(url: apiUrl)
         request.setValue("application/json; charset=utf-8", forHTTPHeaderField: "Content-Type")
-        request.httpMethod = "UPDATE"
+        request.httpMethod = "POST"
         request.httpBody = jsonData
         
         URLSession.shared.dataTask(with: request) { data, response, error in
             guard let _ = data, error == nil else {
-                print("postNote: NETWORKING ERROR")
+                print("saveNote: NETWORKING ERROR")
                 return
             }
             if let httpStatus = response as? HTTPURLResponse {
                 if httpStatus.statusCode != 200 {
-                    print("postNote: HTTP STATUS: \(httpStatus.statusCode)")
+                    print("saveNote: HTTP STATUS: \(httpStatus.statusCode)")
                     return
                 } else {
                     self.getNotes()
@@ -109,12 +107,12 @@ final class UserState : ObservableObject {
                        "content": content]
         
         guard let jsonData = try? JSONSerialization.data(withJSONObject: jsonObj) else {
-            print("postNote: jsonData serialization error")
+            print("createNote: jsonData serialization error")
             return
         }
         
         guard let apiUrl = URL(string: serverUrl+"notes/") else {
-            print("postNote: Bad URL")
+            print("createNote: Bad URL")
             return
         }
         
@@ -125,12 +123,12 @@ final class UserState : ObservableObject {
         
         URLSession.shared.dataTask(with: request) { data, response, error in
             guard let _ = data, error == nil else {
-                print("postNote: NETWORKING ERROR")
+                print("createNote: NETWORKING ERROR")
                 return
             }
             if let httpStatus = response as? HTTPURLResponse {
                 if httpStatus.statusCode != 200 {
-                    print("postNote: HTTP STATUS: \(httpStatus.statusCode)")
+                    print("createNote: HTTP STATUS: \(httpStatus.statusCode)")
                     return
                 } else {
                     self.getNotes()
@@ -142,7 +140,7 @@ final class UserState : ObservableObject {
     func deleteNote() {
         
         guard let apiUrl = URL(string: serverUrl+"notes/"+self.notes[self.note_idx].id!) else {
-            print("postNote: Bad URL")
+            print("deleteNote: Bad URL")
             return
         }
         
@@ -152,12 +150,12 @@ final class UserState : ObservableObject {
         
         URLSession.shared.dataTask(with: request) { data, response, error in
             guard let _ = data, error == nil else {
-                print("postNote: NETWORKING ERROR")
+                print("deleteNote: NETWORKING ERROR")
                 return
             }
             if let httpStatus = response as? HTTPURLResponse {
                 if httpStatus.statusCode != 200 {
-                    print("postNote: HTTP STATUS: \(httpStatus.statusCode)")
+                    print("deleteNote: HTTP STATUS: \(httpStatus.statusCode)")
                     return
                 } else {
                     self.getNotes()
