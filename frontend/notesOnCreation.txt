@@ -1,0 +1,20 @@
+Need before running:
+    Personal own gcp account
+    MAC
+
+1. Create GCP account
+2. Run StartBackendScript.sh
+3. Link GCP account to personal computer
+    a. When you run the script and the command below it will redirct you to login as a connection
+    gcloud auth application-default login
+
+4. Make sure you are in the python env
+5. run the gcpNLPAI.py
+
+
+Natural Language Client Library link (Parental Start link (PG-13)):
+https://cloud.google.com/natural-language/docs/reference/libraries#client-libraries-install-python
+
+link on creating credentials:
+https://cloud.google.com/docs/authentication/application-default-credentials
+

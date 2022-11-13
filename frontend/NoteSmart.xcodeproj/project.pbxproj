@@ -1,0 +1,428 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A5BDF1DE29154801001D957C /* BottomControlButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1DD29154801001D957C /* BottomControlButtons.swift */; };
+		A5BDF1E02915771A001D957C /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1DF2915771A001D957C /* ProfileView.swift */; };
+		A5BDF1E2291594B6001D957C /* NoteViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1E1291594B6001D957C /* NoteViews.swift */; };
+		A5BDF1E6291A0538001D957C /* NoteSmart.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1E5291A0538001D957C /* NoteSmart.swift */; };
+		A5BDF1E8291A0694001D957C /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1E7291A0694001D957C /* Note.swift */; };
+		A5DDE2B7290EFC9700A5C4E8 /* NoteSmartApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DDE2B6290EFC9700A5C4E8 /* NoteSmartApp.swift */; };
+		A5DDE2B9290EFC9700A5C4E8 /* ViewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DDE2B8290EFC9700A5C4E8 /* ViewManager.swift */; };
+		A5DDE2BB290EFC9A00A5C4E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5DDE2BA290EFC9A00A5C4E8 /* Assets.xcassets */; };
+		A5DDE2BE290EFC9A00A5C4E8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5DDE2BD290EFC9A00A5C4E8 /* Preview Assets.xcassets */; };
+		A5DDE2D8290F024E00A5C4E8 /* Inter-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5DDE2C7290EFFC700A5C4E8 /* Inter-Black.ttf */; };
+		A5DDE2D9290F024E00A5C4E8 /* Inter-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5DDE2CB290EFFC700A5C4E8 /* Inter-Light.ttf */; };
+		A5DDE2DA290F024E00A5C4E8 /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5DDE2C8290EFFC700A5C4E8 /* Inter-Regular.ttf */; };
+		A5DDE2DB290F024E00A5C4E8 /* Inter-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5DDE2CD290EFFC700A5C4E8 /* Inter-ExtraLight.ttf */; };
+		A5DDE2DC290F024E00A5C4E8 /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5DDE2CA290EFFC700A5C4E8 /* Inter-Medium.ttf */; };
+		A5DDE2DD290F024E00A5C4E8 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5DDE2C5290EFFC700A5C4E8 /* Inter-Bold.ttf */; };
+		A5DDE2DE290F024E00A5C4E8 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5DDE2C9290EFFC700A5C4E8 /* Inter-SemiBold.ttf */; };
+		A5DDE2DF290F024E00A5C4E8 /* Inter-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5DDE2CC290EFFC700A5C4E8 /* Inter-Thin.ttf */; };
+		A5DDE2E0290F024E00A5C4E8 /* Inter-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5DDE2C6290EFFC700A5C4E8 /* Inter-ExtraBold.ttf */; };
+		A5DDE2E32910290900A5C4E8 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DDE2E12910281000A5C4E8 /* SignUpView.swift */; };
+		A5DDE2E529102BC500A5C4E8 /* SetUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DDE2E429102BC500A5C4E8 /* SetUpView.swift */; };
+		A5DDE2E72910654100A5C4E8 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DDE2E62910654100A5C4E8 /* SignInView.swift */; };
+		A5DDE2E92910767600A5C4E8 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DDE2E82910767600A5C4E8 /* HomeView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A5BDF1DD29154801001D957C /* BottomControlButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomControlButtons.swift; sourceTree = "<group>"; };
+		A5BDF1DF2915771A001D957C /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		A5BDF1E1291594B6001D957C /* NoteViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteViews.swift; sourceTree = "<group>"; };
+		A5BDF1E5291A0538001D957C /* NoteSmart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteSmart.swift; sourceTree = "<group>"; };
+		A5BDF1E7291A0694001D957C /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
+		A5DDE2B3290EFC9700A5C4E8 /* NoteSmart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NoteSmart.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5DDE2B6290EFC9700A5C4E8 /* NoteSmartApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteSmartApp.swift; sourceTree = "<group>"; };
+		A5DDE2B8290EFC9700A5C4E8 /* ViewManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewManager.swift; sourceTree = "<group>"; };
+		A5DDE2BA290EFC9A00A5C4E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A5DDE2BD290EFC9A00A5C4E8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A5DDE2C5290EFFC700A5C4E8 /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Bold.ttf"; sourceTree = "<group>"; };
+		A5DDE2C6290EFFC700A5C4E8 /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
+		A5DDE2C7290EFFC700A5C4E8 /* Inter-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Black.ttf"; sourceTree = "<group>"; };
+		A5DDE2C8290EFFC700A5C4E8 /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		A5DDE2C9290EFFC700A5C4E8 /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		A5DDE2CA290EFFC700A5C4E8 /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		A5DDE2CB290EFFC700A5C4E8 /* Inter-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Light.ttf"; sourceTree = "<group>"; };
+		A5DDE2CC290EFFC700A5C4E8 /* Inter-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Thin.ttf"; sourceTree = "<group>"; };
+		A5DDE2CD290EFFC700A5C4E8 /* Inter-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraLight.ttf"; sourceTree = "<group>"; };
+		A5DDE2CE290F006200A5C4E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		A5DDE2E12910281000A5C4E8 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		A5DDE2E429102BC500A5C4E8 /* SetUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetUpView.swift; sourceTree = "<group>"; };
+		A5DDE2E62910654100A5C4E8 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
+		A5DDE2E82910767600A5C4E8 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A5DDE2B0290EFC9700A5C4E8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A5DDE2AA290EFC9700A5C4E8 = {
+			isa = PBXGroup;
+			children = (
+				A5DDE2B5290EFC9700A5C4E8 /* NoteSmart */,
+				A5DDE2B4290EFC9700A5C4E8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A5DDE2B4290EFC9700A5C4E8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A5DDE2B3290EFC9700A5C4E8 /* NoteSmart.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A5DDE2B5290EFC9700A5C4E8 /* NoteSmart */ = {
+			isa = PBXGroup;
+			children = (
+				A5DDE2CE290F006200A5C4E8 /* Info.plist */,
+				A5DDE2B6290EFC9700A5C4E8 /* NoteSmartApp.swift */,
+				A5DDE2B8290EFC9700A5C4E8 /* ViewManager.swift */,
+				A5DDE2E12910281000A5C4E8 /* SignUpView.swift */,
+				A5DDE2E62910654100A5C4E8 /* SignInView.swift */,
+				A5DDE2E82910767600A5C4E8 /* HomeView.swift */,
+				A5BDF1DF2915771A001D957C /* ProfileView.swift */,
+				A5BDF1DD29154801001D957C /* BottomControlButtons.swift */,
+				A5BDF1E1291594B6001D957C /* NoteViews.swift */,
+				A5DDE2E429102BC500A5C4E8 /* SetUpView.swift */,
+				A5BDF1E5291A0538001D957C /* NoteSmart.swift */,
+				A5BDF1E7291A0694001D957C /* Note.swift */,
+				A5DDE2C4290EFF8800A5C4E8 /* fonts */,
+				A5DDE2BA290EFC9A00A5C4E8 /* Assets.xcassets */,
+				A5DDE2BC290EFC9A00A5C4E8 /* Preview Content */,
+			);
+			path = NoteSmart;
+			sourceTree = "<group>";
+		};
+		A5DDE2BC290EFC9A00A5C4E8 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				A5DDE2BD290EFC9A00A5C4E8 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A5DDE2C4290EFF8800A5C4E8 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				A5DDE2C7290EFFC700A5C4E8 /* Inter-Black.ttf */,
+				A5DDE2C5290EFFC700A5C4E8 /* Inter-Bold.ttf */,
+				A5DDE2C6290EFFC700A5C4E8 /* Inter-ExtraBold.ttf */,
+				A5DDE2CD290EFFC700A5C4E8 /* Inter-ExtraLight.ttf */,
+				A5DDE2CB290EFFC700A5C4E8 /* Inter-Light.ttf */,
+				A5DDE2CA290EFFC700A5C4E8 /* Inter-Medium.ttf */,
+				A5DDE2C8290EFFC700A5C4E8 /* Inter-Regular.ttf */,
+				A5DDE2C9290EFFC700A5C4E8 /* Inter-SemiBold.ttf */,
+				A5DDE2CC290EFFC700A5C4E8 /* Inter-Thin.ttf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A5DDE2B2290EFC9700A5C4E8 /* NoteSmart */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A5DDE2C1290EFC9A00A5C4E8 /* Build configuration list for PBXNativeTarget "NoteSmart" */;
+			buildPhases = (
+				A5DDE2AF290EFC9700A5C4E8 /* Sources */,
+				A5DDE2B0290EFC9700A5C4E8 /* Frameworks */,
+				A5DDE2B1290EFC9700A5C4E8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NoteSmart;
+			productName = NoteSmart;
+			productReference = A5DDE2B3290EFC9700A5C4E8 /* NoteSmart.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A5DDE2AB290EFC9700A5C4E8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					A5DDE2B2290EFC9700A5C4E8 = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+				};
+			};
+			buildConfigurationList = A5DDE2AE290EFC9700A5C4E8 /* Build configuration list for PBXProject "NoteSmart" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A5DDE2AA290EFC9700A5C4E8;
+			productRefGroup = A5DDE2B4290EFC9700A5C4E8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A5DDE2B2290EFC9700A5C4E8 /* NoteSmart */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A5DDE2B1290EFC9700A5C4E8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5DDE2BE290EFC9A00A5C4E8 /* Preview Assets.xcassets in Resources */,
+				A5DDE2E0290F024E00A5C4E8 /* Inter-ExtraBold.ttf in Resources */,
+				A5DDE2DB290F024E00A5C4E8 /* Inter-ExtraLight.ttf in Resources */,
+				A5DDE2DD290F024E00A5C4E8 /* Inter-Bold.ttf in Resources */,
+				A5DDE2DE290F024E00A5C4E8 /* Inter-SemiBold.ttf in Resources */,
+				A5DDE2DA290F024E00A5C4E8 /* Inter-Regular.ttf in Resources */,
+				A5DDE2D8290F024E00A5C4E8 /* Inter-Black.ttf in Resources */,
+				A5DDE2DC290F024E00A5C4E8 /* Inter-Medium.ttf in Resources */,
+				A5DDE2D9290F024E00A5C4E8 /* Inter-Light.ttf in Resources */,
+				A5DDE2DF290F024E00A5C4E8 /* Inter-Thin.ttf in Resources */,
+				A5DDE2BB290EFC9A00A5C4E8 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A5DDE2AF290EFC9700A5C4E8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5BDF1E02915771A001D957C /* ProfileView.swift in Sources */,
+				A5BDF1DE29154801001D957C /* BottomControlButtons.swift in Sources */,
+				A5DDE2B9290EFC9700A5C4E8 /* ViewManager.swift in Sources */,
+				A5BDF1E6291A0538001D957C /* NoteSmart.swift in Sources */,
+				A5DDE2E529102BC500A5C4E8 /* SetUpView.swift in Sources */,
+				A5DDE2E32910290900A5C4E8 /* SignUpView.swift in Sources */,
+				A5DDE2E92910767600A5C4E8 /* HomeView.swift in Sources */,
+				A5BDF1E8291A0694001D957C /* Note.swift in Sources */,
+				A5DDE2B7290EFC9700A5C4E8 /* NoteSmartApp.swift in Sources */,
+				A5BDF1E2291594B6001D957C /* NoteViews.swift in Sources */,
+				A5DDE2E72910654100A5C4E8 /* SignInView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A5DDE2BF290EFC9A00A5C4E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A5DDE2C0290EFC9A00A5C4E8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A5DDE2C2290EFC9A00A5C4E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"NoteSmart/Preview Content\"";
+				DEVELOPMENT_TEAM = MW58A6YUP4;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NoteSmart/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = edu.umich.sjaehnig.NoteSmart;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A5DDE2C3290EFC9A00A5C4E8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"NoteSmart/Preview Content\"";
+				DEVELOPMENT_TEAM = MW58A6YUP4;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NoteSmart/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = edu.umich.sjaehnig.NoteSmart;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A5DDE2AE290EFC9700A5C4E8 /* Build configuration list for PBXProject "NoteSmart" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5DDE2BF290EFC9A00A5C4E8 /* Debug */,
+				A5DDE2C0290EFC9A00A5C4E8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A5DDE2C1290EFC9A00A5C4E8 /* Build configuration list for PBXNativeTarget "NoteSmart" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5DDE2C2290EFC9A00A5C4E8 /* Debug */,
+				A5DDE2C3290EFC9A00A5C4E8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A5DDE2AB290EFC9700A5C4E8 /* Project object */;
+}
