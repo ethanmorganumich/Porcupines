@@ -20,6 +20,10 @@ def notes(request):
         return notes_update(request)
     elif request.method == 'DELETE':
         return notes_delete(request)
+    elif request.method == 'SEARCH':
+        return notes_search_by_tag(request)
+    # elif request.method == 'SEARCHBYCONTENT':
+    #     return notes_search_by_content(request)
 
     cursor = connection.cursor()
     cursor.execute('SELECT username, message, time FROM chatts ORDER BY time DESC;')
@@ -83,5 +87,28 @@ def notes_delete(request, note_id):
     supabase = create_client(API_URL, API_KEY)
     supabase.table('notes').delete().eq('note_id', note_id).execute()
     return JsonResponse({})
+
+@csrf_exempt
+def notes_search_by_tag(request):
+    supabase = create_client(API_URL, API_KEY)
+    json_data = json.loads(request.body)
+    
+    tag_id = supabase.table('tags').select('tag_id').eq('name', json_data['content']).execute()
+    note_ids = supabase.table('notes_tags').select('note_id').eq('tag_id', tag_id.data[0]['tag_id']).execute()
+    notes_with_tag = []
+    for note_id in note_ids.data:
+        one_note = supabase.table('notes').select('*').eq('note_id', note_id['note_id']).execute()
+        notes_with_tag.append(one_note.data)
+    return JsonResponse({"notes": notes_with_tag})
+
+# @csrf_exempt
+# def notes_search_by_content(request):
+#     supabase = create_client(API_URL, API_KEY)
+#     json_data = json.loads(request.body)
+    
+#     #find all notes with the requested content
+#     notes = supabase.table('notes').select('*')..filter('content', 'textSearch', '(json_data['content'])').execute()
+#     return JsonResponse({"notes": notes.data})
+
 
 # a1251f20-3a24-4fbc-b23e-8f38e2c2e64c
