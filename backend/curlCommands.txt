@@ -1,0 +1,27 @@
+GET:
+curl --insecure http://127.0.0.1:8080/
+
+POST: new note
+curl -d '{"content":"hello world this is a test"}' -H "Content-Type: application/json" -X UPDATE http://127.0.0.1:8080 --insecure
+
+UPDATE:
+curl -d '{"content":"hello world this is a test"}' -H "Content-Type: application/json" -X POST http://127.0.0.1:8080/#PUT_note_id_HERE --insecure
+
+DELETE:
+curl -X DELETE http://127.0.0.1:8080/#PUT_note_id_HERE --insecure
+
+
+
+GET:
+curl --insecure https://us-central1-notesmart.cloudfunctions.net/notes/
+
+POST: new note
+curl -d '{"content":"hello world this is a test"}' -H "Content-Type: application/json" -X POST https://us-central1-notesmart.cloudfunctions.net/notes --insecure
+
+UPDATE:
+curl -d '{"content":"hello world this is a test"}' -H "Content-Type: application/json" -X POST https://us-central1-notesmart.cloudfunctions.net/notes/#PUT_note_id_HERE --insecure
+
+DELETE:
+curl -X DELETE https://us-central1-notesmart.cloudfunctions.net/notes/#PUT_note_id_HERE --insecure
+
+
