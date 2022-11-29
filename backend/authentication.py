@@ -14,4 +14,40 @@ API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6
 
 @functions_framework.http
 def authentication_request(request):
-    return
+    if request.method == 'POST':
+        return user_post(request)
+    elif request.method == 'GET':
+        return user_get(request)
+    
+    # cursor = connection.cursor()
+    # cursor.execute('SELECT username, message, time FROM chatts ORDER BY time DESC;')
+    # rows = cursor.fetchall()
+
+    # response = {}
+    # response['chatts'] = rows
+    # return JsonResponse(response)
+
+def user_post(request):
+    supabase = create_client(API_URL, API_KEY)
+    json_data = request.get_json()
+    print(json_data['email'])
+    print(json_data['password'])
+    user = supabase.auth.sign_up(email=json_data['email'], password=json_data['password'])
+    print(vars(user))
+    return ({
+        "user_id": user.id
+    })
+
+def user_get(request):
+    supabase = create_client(API_URL, API_KEY)
+    json_data = request.get_json() 
+    user = supabase.auth.sign_in(email=json_data['email'], password=json_data['password'])
+    return ({
+        "token": user.access_token,
+        "refresh_token": user.refresh_token,
+        "user_id": user.user.id,
+        "email": user.user.email
+            })
+
+# a1251f20-3a24-4fbc-b23e-8f38e2c2e64c
+
