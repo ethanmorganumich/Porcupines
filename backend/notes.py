@@ -75,9 +75,8 @@ def notes_update(request):
     if 'content' in json_data:
         data['content'] = json_data['content']
 
-    
+    data['metadata'] = gcp_nlp_api(data['content'])
     t = supabase.table('notes').update(data).eq('note_id', note_id).execute()
-
     return {}
 
 def notes_delete(request):
