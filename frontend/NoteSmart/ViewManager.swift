@@ -21,6 +21,8 @@ struct ViewManager: View {
             HomeView()
         case "new note view":
             NewNoteView()
+        case "preview note view":
+            PreviewNoteView()
         case "existing note view":
             ExistingNoteView()
         default:

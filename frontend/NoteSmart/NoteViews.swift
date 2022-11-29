@@ -20,7 +20,7 @@ struct NewNoteView: View {
         VStack {
             VStack{
                 HStack {
-                    BackButton(note_title: $note_title, note_content: $note_content, close_action: "create")
+                    SaveBackButton(note_title: $note_title, note_content: $note_content, close_action: "create")
                     Spacer()
                 }
                 NoteEditor(note_title: $note_title, note_content: $note_content)
@@ -28,6 +28,47 @@ struct NewNoteView: View {
             }
         }
     }
+}
+
+struct PreviewNoteView: View {
+    @ObservedObject var user_state = UserState.shared
+
+    @State var note_title: String = "";
+    @State var note_content: LocalizedStringKey = "";
+    @State var note_details_showing: Bool = false;
+
+    var body: some View {
+        VStack {
+            VStack {
+                HStack {
+                    SimpleBackButton()
+                    Spacer()
+                    DeleteNoteButton(note_details_showing: $note_details_showing)
+                }
+                if let note = user_state.notes[user_state.note_idx] {
+                    VStack (alignment: .leading){
+                        Text(note_title)
+                            .font(Font.custom("Inter-SemiBold", size: 25))
+                            .lineLimit(1)
+                            .frame(height: 40)
+                            .padding([.leading], 3)
+                            .padding([.bottom], 25)
+                        Text(note_content)
+                            .font(Font.custom("Inter-Regular", size: 15))
+                    }
+                    .onTapGesture { user_state.view = "existing note view" }
+                    .onAppear {
+                        note_content = LocalizedStringKey(note.text!)
+                        note_title = note.title!
+                    }
+                    Spacer()
+                }
+                Spacer()
+                TagList()
+            }
+        }
+    }
+    
 }
 
 struct ExistingNoteView: View {
@@ -39,9 +80,9 @@ struct ExistingNoteView: View {
 
     var body: some View {
         VStack {
-            VStack{
+            VStack {
                 HStack {
-                    BackButton(note_title: $note_title, note_content: $note_content, close_action: "save")
+                    SaveBackButton(note_title: $note_title, note_content: $note_content, close_action: "save")
                     Spacer()
                     DeleteNoteButton(note_details_showing: $note_details_showing)
                 }
@@ -84,7 +125,7 @@ struct NoteEditor: View {
     }
 }
 
-struct BackButton: View {
+struct SaveBackButton: View {
     @Binding var note_title: String;
     @Binding var note_content: String;
     @ObservedObject var user_state = UserState.shared
@@ -98,6 +139,25 @@ struct BackButton: View {
                 else {
                     user_state.createNote(note_title, note_content)
                 }
+            }) {
+                Image(systemName: "chevron.backward.circle")
+                    .font(.system(size: 30))
+                    .foregroundColor(Color("blue70"))
+            }
+            .padding(.bottom, 50)
+            .padding(.leading, 25)
+            Spacer()
+        }
+    }
+}
+
+struct SimpleBackButton: View {
+    @ObservedObject var user_state = UserState.shared
+
+    var body: some View {
+        HStack {
+            Button(action: {
+                user_state.view = user_state.previous_view
             }) {
                 Image(systemName: "chevron.backward.circle")
                     .font(.system(size: 30))

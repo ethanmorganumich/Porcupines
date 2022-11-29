@@ -64,7 +64,7 @@ final class UserState : ObservableObject {
     func viewNote(_ idx: Int) {
         note_idx = idx
         previous_view = view
-        view = "existing note view"
+        view = "preview note view"//"existing note view"
     }
     
     func saveNote(_ note: Note, _ updated_title: String, _ updated_content: String) {
