@@ -163,4 +163,60 @@ final class UserState : ObservableObject {
             }
         }.resume()
     }
+
+    func createUser(_ email: String, _ password: String){
+        let jsonObj = ["email": email,
+                        "password": password]
+        
+        guard let jsonData = try? JSONSerialization.data(withJSONObject: jsonObj) else {
+            print("saveNote: jsonData serialization error")
+            return
+        }
+
+        guard let apiUrl = URL(string: serverUrl+"users/") else {
+            print("createUser: Bad URL")
+            return
+        }
+
+        var request = URLRequest(url: apiUrl)
+        request.setValue("application/json; charset=utf-8", forHTTPHeaderField: "Accept")
+        request.httpMethod = "POST"
+        request.httpBody = jsonData
+        
+        URLSession.shared.dataTask(with: request) { data, response, error in
+            if let httpStatus = response as? HTTPURLResponse, httpStatus.statusCode != 200 {
+                print("getNotes: HTTP STATUS: \(httpStatus.statusCode)")
+                return
+            }
+
+        }.resume()
+    }
+
+    func signIn(_ email: String, _ password: String){
+        let jsonObj = ["email": email,
+                        "password": password]
+        
+        guard let jsonData = try? JSONSerialization.data(withJSONObject: jsonObj) else {
+            print("saveNote: jsonData serialization error")
+            return
+        }
+
+        guard let apiUrl = URL(string: serverUrl+"users/") else {
+            print("getUser: Bad URL")
+            return
+        }
+
+        var request = URLRequest(url: apiUrl)
+        request.setValue("application/json; charset=utf-8", forHTTPHeaderField: "Accept")
+        request.httpMethod = "GET"
+        request.httpBody = jsonData
+        
+        URLSession.shared.dataTask(with: request) { data, response, error in
+            if let httpStatus = response as? HTTPURLResponse, httpStatus.statusCode != 200 {
+                print("getNotes: HTTP STATUS: \(httpStatus.statusCode)")
+                return
+            }
+
+        }.resume()
+    }
 }

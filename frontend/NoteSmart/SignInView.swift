@@ -22,7 +22,10 @@ struct SignInView: View {
                     FormTextField(result: $password, text_type: "secure", text: "password")
                 }
                 .padding(.bottom, 20)
-                StyledButton(next_view: "home view", text: "submit", color: "blue50")
+                BaseStyledButton(action: {
+                    UserState.shared.signIn(username, password)
+                    //if (UserState.)
+                }, text: "submit", color: "blue50")
                 
             }
             .padding([.leading, .trailing], 75)

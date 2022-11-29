@@ -48,3 +48,22 @@ struct StyledButton: View {
         }
     }
 }
+    
+struct BaseStyledButton: View {
+    var action: () -> Void;
+    var text: String;
+    var color: String;
+    
+    var body: some View {
+        VStack {
+            Button(action: action) {
+                Text(text)
+                    .font(Font.custom("Inter-Regular", size: 18))
+                    .foregroundColor(.black)
+            }
+            .padding([.top, .bottom], 5)
+            .padding([.leading, .trailing], 25)
+            .background(Color(color), in: Capsule())
+        }
+    }
+}

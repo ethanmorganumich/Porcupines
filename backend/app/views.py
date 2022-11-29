@@ -84,4 +84,30 @@ def notes_delete(request, note_id):
     supabase.table('notes').delete().eq('note_id', note_id).execute()
     return JsonResponse({})
 
+@csrf_exempt
+# @api_view(['GET', 'POST', 'DELETE', 'UPDATE'])
+def user(request):
+    if request.method == 'POST':
+        return user_post(request)
+    elif request.method == 'GET':
+        return user_get(request)
+    
+    # cursor = connection.cursor()
+    # cursor.execute('SELECT username, message, time FROM chatts ORDER BY time DESC;')
+    # rows = cursor.fetchall()
+
+    # response = {}
+    # response['chatts'] = rows
+    # return JsonResponse(response)
+
+@csrf_exempt
+def user_post(request):
+    supabase = create_client(API_URL, API_KEY)
+    return supabase.auth.signUp(request)
+
+@csrf_exempt
+def user_get(request):
+    supabase = create_client(API_URL, API_KEY)
+    return supabase.auth.signInWithPassword(request)
+
 # a1251f20-3a24-4fbc-b23e-8f38e2c2e64c

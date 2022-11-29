@@ -20,5 +20,6 @@ from app import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('notes/', views.notes, name='notes'),
+    path('user/', views.users, name='users'),
     path('notes/<str:note_id>', views.note_action),
 ]

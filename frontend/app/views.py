@@ -84,4 +84,41 @@ def notes_delete(request, note_id):
     supabase.table('notes').delete().eq('note_id', note_id).execute()
     return JsonResponse({})
 
+@csrf_exempt
+# @api_view(['GET', 'POST', 'DELETE', 'UPDATE'])
+def user(request):
+    if request.method == 'POST':
+        return user_post(request)
+    elif request.method == 'GET':
+        return user_get(request)
+    
+    # cursor = connection.cursor()
+    # cursor.execute('SELECT username, message, time FROM chatts ORDER BY time DESC;')
+    # rows = cursor.fetchall()
+
+    # response = {}
+    # response['chatts'] = rows
+    # return JsonResponse(response)
+
+# returns a session object for newly created user
+@csrf_exempt
+def user_post(request):
+    supabase = create_client(API_URL, API_KEY)
+    json_data = json.loads(request.body)
+    return supabase.auth.sign_up(json_data['email'], json_data['password'])
+
+# returns a session object for logged in user
+@csrf_exempt
+def user_get(request):
+    supabase = create_client(API_URL, API_KEY)
+    json_data = json.loads(request.body)
+    return supabase.auth.sign_in(json_data['email'], json_data['password'])
+
+# logged de out (not sure what info she needs)
+@csrf_exempt
+def user_logout(request):
+    supabase = create_client(API_URL, API_KEY)
+    supabase.auth.sign_out()
+    return
+
 # a1251f20-3a24-4fbc-b23e-8f38e2c2e64c

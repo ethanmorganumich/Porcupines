@@ -32,7 +32,9 @@ struct SignUpView: View {
                     FormTextField(result: $password_repeated, text_type: "secure", text: "password (again)")
                 }
                 .padding(.bottom, 20)
-                StyledButton(next_view: "home view", text: "submit", color: "blue30")
+                BaseStyledButton(action: {
+                    UserState.shared.createUser(username, password)
+                }, text: "submit", color: "blue50")
             }
             .padding([.leading, .trailing], 75)
             .padding(.top, 100)
