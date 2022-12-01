@@ -27,8 +27,8 @@ def notes_request(request):
             return notes_post(request)
         else:
             return notes_update(request)
-    # elif request.method == "UPDATE":
-    #     return notes_update(request)
+    elif request.method == "UPDATE":
+        return notes_update(request)
     elif request.method == "DELETE":
         return notes_delete(request)
 
@@ -41,31 +41,61 @@ def notes_post(request):
     if 'title' not in json_data:
         json_data['title'] = "title"
 
-    metadata = gcp_nlp_api(json_data["content"])
+    # NLP API
+    document = language_v1.Document(
+        content=json_data['content'], type_=language_v1.Document.Type.PLAIN_TEXT
+    )
+
+    request = language_v1.AnalyzeEntitiesRequest(
+        document=document,
+    )
+    nlp_client = language_v1.LanguageServiceClient()
+
+    response = nlp_client.analyze_entities(request=request)
 
     data = {
         'note_id': note_id,
         'content': json_data['content'],
         'deleted': False,
         'title': json_data['title'],
-        'metadata': metadata
     }
-    supabase.table('notes').insert(data).execute() # inserting one record
+    supabase.table('notes').insert(data).execute()  # inserting one record
+
+    metadata = []
+    for entity in response.entities:
+        insert_tag(entity, note_id)
+        # no longer using metadata field
 
     response = {}
     response['note_id'] = note_id
     return response
 
+
 def notes_get(request):
     supabase = create_client(API_URL, API_KEY)
-    t = supabase.table('notes').select('*').execute()
-    return {"notes": t.data}
+    all_notes = supabase.rpc('get_tags_for_notes', {}).execute()
+    response = {}
+    response['notes'] = []
+    note_id_hash = {}
+
+    for note in all_notes.data:
+        if note['note_id'] not in note_id_hash:
+            note_id_hash[note['note_id']] = {
+                'note_id': note['note_id'],
+                'content': note['content'],
+                'title': note['title'],
+                'tags': [{"tag_id": note["tag_id"], "name": note["name"], "salience": note["salience"]}]
+            }
+        else:
+            note_id_hash[note['note_id']]['tags'].append(
+                {"tag_id": note["tag_id"], "name": note["name"], "salience": note["salience"]})
+
+    for note in note_id_hash:
+        response['notes'].append(note_id_hash[note])
+    return response
 
 
 def notes_update(request):
-    # print(request.path[7:])
-    # print(vars(request))
-    # print(type(request.url))
     note_id = request.path[len("/"):]
     supabase = create_client(API_URL, API_KEY)
     json_data = request.get_json()
@@ -75,42 +105,36 @@ def notes_update(request):
     if 'content' in json_data:
         data['content'] = json_data['content']
 
-    data['metadata'] = gcp_nlp_api(data['content'])
     t = supabase.table('notes').update(data).eq('note_id', note_id).execute()
+    supabase.table("notes_tags").delete().eq("note_id", note_id).execute()
+
+    document = language_v1.Document(
+        content=json_data['content'], type_=language_v1.Document.Type.PLAIN_TEXT
+    )
+
+    request = language_v1.AnalyzeEntitiesRequest(
+        document=document,
+    )
+    nlp_client = language_v1.LanguageServiceClient()
+
+    response = nlp_client.analyze_entities(request=request)
+    for tag in response.entities:
+        insert_tag(tag, note_id)
     return {}
+
 
 def notes_delete(request):
     note_id = request.path[len("/"):]
     supabase = create_client(API_URL, API_KEY)
+    # only doing soft deletes, not hard deletes
+    # supabase.table('notes').delete().eq('note_id', note_id).execute()
     supabase.table('notes').delete().eq('note_id', note_id).execute()
+    supabase.table('notes_tags').delete().eq('note_id', note_id).execute()
     return {}
 
 
-def notes_search_by_tag(request):
-    supabase = create_client(API_URL, API_KEY)
-    json_data = json.loads(request.body)
-
-    tag_id = supabase.table('tags').select('tag_id').eq('name', json_data['content']).execute()
-    note_ids = supabase.table('notes_tags').select('note_id').eq('tag_id', tag_id.data[0]['tag_id']).execute()
-    notes_with_tag = []
-    for note_id in note_ids.data:
-        one_note = supabase.table('notes').select('*').eq('note_id', note_id['note_id']).execute()
-        notes_with_tag.append(one_note.data)
-    return {"notes": notes_with_tag}
-
-# @csrf_exempt
-# def notes_search_by_content(request):
-#     supabase = create_client(API_URL, API_KEY)
-#     json_data = json.loads(request.body)
-
-#     #find all notes with the requested content
-#     notes = supabase.table('notes').select('*')..filter('content', 'textSearch', '(json_data['content'])').execute()
-#     return JsonResponse({"notes": notes.data})
-
-
-
 # input: string containing the content
-# output: array of dict containing name, saleince, type
+# output: array of dict containing name, salience, type
 def gcp_nlp_api(text):
     client = language_v1.LanguageServiceClient()
 
@@ -125,5 +149,24 @@ def gcp_nlp_api(text):
 
     metadata = []
     for entity in response.entities:
-        metadata.append({"name": entity.name, "saleince": entity.salience, "type":entity.type_})
+        metadata.append({"name": entity.name, "salience": entity.salience, "type":entity.type_})
     return metadata
+
+
+def insert_tag(tag, note_id):
+    # tag: {"name": tag_name, "salience": salience}
+    # note_id: uuid
+    supabase = create_client(API_URL, API_KEY)
+    current_tag = supabase.table("tags").select(
+        "*").eq("name", tag.name).execute()
+    print("CURRENT TAG: ", current_tag)
+    if current_tag.data == []:
+        print("INSERTING TAG")
+        tag_id = str(uuid.uuid4())
+        supabase.table("tags").insert(
+            {"name": tag.name, "tag_id": tag_id}).execute()
+        supabase.table("notes_tags").insert(
+            {"tag_id": tag_id, "note_id": note_id, "salience": tag.salience}).execute()
+    else:
+        supabase.table("notes_tags").insert(
+            {"note_id": note_id, "tag_id": current_tag.data[0]["tag_id"], "salience":  tag.salience}).execute()
