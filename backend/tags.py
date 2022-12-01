@@ -27,6 +27,9 @@ def tags_request(request):
 
 def notes_search_by_tag(request):
     supabase = create_client(API_URL, API_KEY)
+    json_data = request.get_json()
+    supabase.auth.api.get_user(jwt=json_data['access_token'])
+
     tag_id = request.path[len("/"):]
     # Find tag_id from name
     # tag_id = supabase.table('tags').select('tag_id').eq('name', json_data['content']).execute()
@@ -42,8 +45,10 @@ def notes_search_by_tag(request):
     return {"notes": notes_with_tag}
 
 
-def get_all_tags():
+def get_all_tags(request):
     supabase = create_client(API_URL, API_KEY)
+    json_data = request.get_json()
+    supabase.auth.api.get_user(jwt=json_data['access_token'])
     # this code segment gets all notes for that tag
     # ex:
         #   "notes": [

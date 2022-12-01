@@ -36,6 +36,7 @@ def notes_request(request):
 def notes_post(request):
     supabase = create_client(API_URL, API_KEY)
     json_data = request.get_json()
+    supabase.auth.api.get_user(jwt=json_data['access_token'])
     note_id = str(uuid.uuid4())
     currentTime = time.time()
     if 'title' not in json_data:
@@ -73,6 +74,8 @@ def notes_post(request):
 
 def notes_get(request):
     supabase = create_client(API_URL, API_KEY)
+    json_data = request.get_json()
+    supabase.auth.api.get_user(jwt=json_data['access_token'])
     all_notes = supabase.rpc('get_tags_for_notes', {}).execute()
     response = {}
     response['notes'] = []
@@ -99,6 +102,7 @@ def notes_update(request):
     note_id = request.path[len("/"):]
     supabase = create_client(API_URL, API_KEY)
     json_data = request.get_json()
+    supabase.auth.api.get_user(jwt=json_data['access_token'])
     data = {}
     if 'title' in json_data:
         data['title'] = json_data['title']
@@ -126,6 +130,8 @@ def notes_update(request):
 def notes_delete(request):
     note_id = request.path[len("/"):]
     supabase = create_client(API_URL, API_KEY)
+    json_data = request.get_json()
+    supabase.auth.api.get_user(jwt=json_data['access_token'])
     # only doing soft deletes, not hard deletes
     # supabase.table('notes').delete().eq('note_id', note_id).execute()
     supabase.table('notes').delete().eq('note_id', note_id).execute()

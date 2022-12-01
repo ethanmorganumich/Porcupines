@@ -183,13 +183,7 @@ final class UserState : ObservableObject {
         request.httpMethod = "POST"
         request.httpBody = jsonData
         
-        URLSession.shared.dataTask(with: request) { data, response, error in
-            if let httpStatus = response as? HTTPURLResponse, httpStatus.statusCode != 200 {
-                print("getNotes: HTTP STATUS: \(httpStatus.statusCode)")
-                return
-            }
-
-        }.resume()
+        // dont care about response
     }
 
     func signIn(_ email: String, _ password: String){
@@ -211,12 +205,6 @@ final class UserState : ObservableObject {
         request.httpMethod = "GET"
         request.httpBody = jsonData
         
-        URLSession.shared.dataTask(with: request) { data, response, error in
-            if let httpStatus = response as? HTTPURLResponse, httpStatus.statusCode != 200 {
-                print("getNotes: HTTP STATUS: \(httpStatus.statusCode)")
-                return
-            }
-
-        }.resume()
+        // needs logic to get access_token from response
     }
 }
