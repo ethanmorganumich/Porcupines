@@ -4,9 +4,11 @@ from supabase import create_client
 import time
 import functions_framework
 from google.cloud import language_v1
+import requests
 
 API_URL = 'https://lwheswmvrtoltfogtrvv.supabase.co'
 API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx3aGVzd212cnRvbHRmb2d0cnZ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjcxNTUxMDgsImV4cCI6MTk4MjczMTEwOH0.2PL2EGizWXNXUh6T_wKuPM1KZrgJ0X41zsWGkR0lgJA'
+
 
 @functions_framework.http
 def notes_request(request):
@@ -41,17 +43,7 @@ def notes_post(request):
     if 'title' not in json_data:
         json_data['title'] = "title"
 
-    # NLP API
-    document = language_v1.Document(
-        content=json_data['content'], type_=language_v1.Document.Type.PLAIN_TEXT
-    )
-
-    request = language_v1.AnalyzeEntitiesRequest(
-        document=document,
-    )
-    nlp_client = language_v1.LanguageServiceClient()
-
-    response = nlp_client.analyze_entities(request=request)
+    response = request.json()
 
     data = {
         'note_id': note_id,
@@ -61,14 +53,25 @@ def notes_post(request):
     }
     supabase.table('notes').insert(data).execute()  # inserting one record
 
-    metadata = []
-    for entity in response.entities:
-        insert_tag(entity, note_id)
-        # no longer using metadata field
+    generate_tags(json_data['content'], note_id)
 
     response = {}
     response['note_id'] = note_id
     return response
+
+
+def generate_tags(text, note_id):
+  # request the url https://us-central1-notesmart.cloudfunctions.net/get_tags and get the response
+    request = requests.get(
+        "https://us-central1-notesmart.cloudfunctions.net/get_tags", json={"note_text": text})
+
+    if request.ok:
+        tags = request.json()
+        for tag in tags:
+            insert_tag(tag, note_id)
+        return tags
+    else:
+        raise Exception("Error getting tags from cloud function")
 
 
 def notes_get(request):
@@ -107,19 +110,7 @@ def notes_update(request):
 
     t = supabase.table('notes').update(data).eq('note_id', note_id).execute()
     supabase.table("notes_tags").delete().eq("note_id", note_id).execute()
-
-    document = language_v1.Document(
-        content=json_data['content'], type_=language_v1.Document.Type.PLAIN_TEXT
-    )
-
-    request = language_v1.AnalyzeEntitiesRequest(
-        document=document,
-    )
-    nlp_client = language_v1.LanguageServiceClient()
-
-    response = nlp_client.analyze_entities(request=request)
-    for tag in response.entities:
-        insert_tag(tag, note_id)
+    generate_tags(json_data['content'], note_id)
     return {}
 
 
@@ -149,7 +140,8 @@ def gcp_nlp_api(text):
 
     metadata = []
     for entity in response.entities:
-        metadata.append({"name": entity.name, "salience": entity.salience, "type":entity.type_})
+        metadata.append(
+          {"name": entity.name, "salience": entity.salience, "type": entity.type_})
     return metadata
 
 
@@ -169,4 +161,4 @@ def insert_tag(tag, note_id):
             {"tag_id": tag_id, "note_id": note_id, "salience": tag.salience}).execute()
     else:
         supabase.table("notes_tags").insert(
-            {"note_id": note_id, "tag_id": current_tag.data[0]["tag_id"], "salience":  tag.salience}).execute()
+            {"note_id": note_id, "tag_id": current_tag.data[0]["tag_id"], "salience": tag.salience}).execute()
