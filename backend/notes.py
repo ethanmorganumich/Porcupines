@@ -1,12 +1,13 @@
-import json
-import uuid
-from supabase import create_client
-import time
-import functions_framework
+import uuid, time, os, functions_framework 
+from utils import check_valid_request, Merge
 from google.cloud import language_v1
+from supabase import create_client
+from dotenv import load_dotenv
 
-API_URL = 'https://lwheswmvrtoltfogtrvv.supabase.co'
-API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx3aGVzd212cnRvbHRmb2d0cnZ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjcxNTUxMDgsImV4cCI6MTk4MjczMTEwOH0.2PL2EGizWXNXUh6T_wKuPM1KZrgJ0X41zsWGkR0lgJA'
+load_dotenv()
+API_URL = os.getenv("API_URL")
+API_KEY = os.getenv("API_KEY")
+SECRET = os.getenv("SECRET")
 
 @functions_framework.http
 def notes_request(request):
@@ -18,31 +19,35 @@ def notes_request(request):
         Response object using
         `make_response <http://flask.pocoo.org/docs/1.0/api/#flask.Flask.make_response>`.
     """
-    # print(vars(request))
-    # print(request.method)
+    
+    # ---- Start Check valid request ----
+    tokens = check_valid_request(request)
+    if(type(tokens) is Exception):
+        return tokens
+    # ---- End Check Valid Request ----
+
     if request.method == "GET":
-        return notes_get(request)
+        return Merge(notes_get(), tokens)
     elif request.method == "POST":
         if len(request.path) == 1:
-            return notes_post(request)
+            return Merge(notes_post(request), tokens)
         else:
-            return notes_update(request)
+            return Merge(notes_update(request), tokens)
     elif request.method == "UPDATE":
-        return notes_update(request)
+        return Merge(notes_update(request), tokens)
     elif request.method == "DELETE":
-        return notes_delete(request)
+        return Merge(notes_delete(request), tokens)
 
 
 def notes_post(request):
+
     supabase = create_client(API_URL, API_KEY)
+
     json_data = request.get_json()
-    supabase.auth.api.get_user(jwt=json_data['access_token'])
-    note_id = str(uuid.uuid4())
-    currentTime = time.time()
     if 'title' not in json_data:
         json_data['title'] = "title"
 
-    # NLP API
+    # ---- Start NLP API ----
     document = language_v1.Document(
         content=json_data['content'], type_=language_v1.Document.Type.PLAIN_TEXT
     )
@@ -53,34 +58,37 @@ def notes_post(request):
     nlp_client = language_v1.LanguageServiceClient()
 
     response = nlp_client.analyze_entities(request=request)
+    # ---- End NLP Api ----
 
+    note_id = str(uuid.uuid4())
     data = {
         'note_id': note_id,
         'content': json_data['content'],
         'deleted': False,
         'title': json_data['title'],
     }
+
     supabase.table('notes').insert(data).execute()  # inserting one record
 
-    metadata = []
     for entity in response.entities:
-        insert_tag(entity, note_id)
+        insert_tag(entity, note_id, json_data['access_token'])
         # no longer using metadata field
 
-    response = {}
-    response['note_id'] = note_id
+    response = {
+        'note_id': note_id,
+    }
     return response
 
 
-def notes_get(request):
+def notes_get():
     supabase = create_client(API_URL, API_KEY)
-    json_data = request.get_json()
-    supabase.auth.api.get_user(jwt=json_data['access_token'])
+    
     all_notes = supabase.rpc('get_tags_for_notes', {}).execute()
-    response = {}
-    response['notes'] = []
-    note_id_hash = {}
+    response = {
+        'notes': []
+    }
 
+    note_id_hash = {}
     for note in all_notes.data:
         if note['note_id'] not in note_id_hash:
             note_id_hash[note['note_id']] = {
@@ -102,7 +110,7 @@ def notes_update(request):
     note_id = request.path[len("/"):]
     supabase = create_client(API_URL, API_KEY)
     json_data = request.get_json()
-    supabase.auth.api.get_user(jwt=json_data['access_token'])
+    supabase.auth.set_auth(jwt=json_data['access_token'])
     data = {}
     if 'title' in json_data:
         data['title'] = json_data['title']
@@ -123,15 +131,14 @@ def notes_update(request):
 
     response = nlp_client.analyze_entities(request=request)
     for tag in response.entities:
-        insert_tag(tag, note_id)
+        insert_tag(tag, note_id, json_data['access_token'])
     return {}
 
 
 def notes_delete(request):
+
     note_id = request.path[len("/"):]
     supabase = create_client(API_URL, API_KEY)
-    json_data = request.get_json()
-    supabase.auth.api.get_user(jwt=json_data['access_token'])
     # only doing soft deletes, not hard deletes
     # supabase.table('notes').delete().eq('note_id', note_id).execute()
     supabase.table('notes').delete().eq('note_id', note_id).execute()
@@ -159,10 +166,11 @@ def gcp_nlp_api(text):
     return metadata
 
 
-def insert_tag(tag, note_id):
+def insert_tag(tag, note_id, access_token):
     # tag: {"name": tag_name, "salience": salience}
     # note_id: uuid
     supabase = create_client(API_URL, API_KEY)
+    supabase.auth.set_auth(jwt=access_token)
     current_tag = supabase.table("tags").select(
         "*").eq("name", tag.name).execute()
     print("CURRENT TAG: ", current_tag)
