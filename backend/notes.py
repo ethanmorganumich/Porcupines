@@ -1,7 +1,7 @@
 import uuid, time, os, functions_framework 
 from utils import check_valid_request, Merge
+from supabase import create_client, Client
 from google.cloud import language_v1
-from supabase import create_client
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -38,9 +38,8 @@ def notes_request(request):
     elif request.method == "DELETE":
         return Merge(notes_delete(request), tokens)
 
-
+# Make sure this inserts a user_notes entry
 def notes_post(request):
-
     supabase = create_client(API_URL, API_KEY)
 
     json_data = request.get_json()
@@ -71,15 +70,14 @@ def notes_post(request):
     supabase.table('notes').insert(data).execute()  # inserting one record
 
     for entity in response.entities:
-        insert_tag(entity, note_id, json_data['access_token'])
-        # no longer using metadata field
+        insert_tag(entity, note_id, supabase)
 
     response = {
         'note_id': note_id,
     }
     return response
 
-
+# Refactor to only pull down notes of user
 def notes_get():
     supabase = create_client(API_URL, API_KEY)
     
@@ -107,56 +105,58 @@ def notes_get():
 
 
 def notes_update(request):
-    note_id = request.path[len("/"):]
     supabase = create_client(API_URL, API_KEY)
+    
     json_data = request.get_json()
-    supabase.auth.set_auth(jwt=json_data['access_token'])
     data = {}
     if 'title' in json_data:
         data['title'] = json_data['title']
     if 'content' in json_data:
         data['content'] = json_data['content']
 
-    t = supabase.table('notes').update(data).eq('note_id', note_id).execute()
+    note_id = request.path[len("/"):]
+    supabase.table('notes').update(data).eq('note_id', note_id).execute()
     supabase.table("notes_tags").delete().eq("note_id", note_id).execute()
 
-    document = language_v1.Document(
-        content=json_data['content'], type_=language_v1.Document.Type.PLAIN_TEXT
-    )
-
     request = language_v1.AnalyzeEntitiesRequest(
-        document=document,
+        document=language_v1.Document(
+            content=json_data['content'], type_=language_v1.Document.Type.PLAIN_TEXT
+        )
     )
     nlp_client = language_v1.LanguageServiceClient()
 
     response = nlp_client.analyze_entities(request=request)
     for tag in response.entities:
-        insert_tag(tag, note_id, json_data['access_token'])
-    return {}
+        insert_tag(tag, note_id, supabase)
+
+    response = {
+        'note_id': note_id,
+    }
+    return response
 
 
 def notes_delete(request):
-
-    note_id = request.path[len("/"):]
     supabase = create_client(API_URL, API_KEY)
+    note_id = request.path[len("/"):]
+
     # only doing soft deletes, not hard deletes
-    # supabase.table('notes').delete().eq('note_id', note_id).execute()
     supabase.table('notes').delete().eq('note_id', note_id).execute()
     supabase.table('notes_tags').delete().eq('note_id', note_id).execute()
-    return {}
-
+    
+    response = {
+        'note_id': note_id,
+    }
+    return response
 
 # input: string containing the content
 # output: array of dict containing name, salience, type
 def gcp_nlp_api(text):
     client = language_v1.LanguageServiceClient()
 
-    document = language_v1.Document(
-        content=text, type_=language_v1.Document.Type.PLAIN_TEXT
-    )
-
     request = language_v1.AnalyzeEntitiesRequest(
-        document=document,
+        document=language_v1.Document(
+            content=text, type_=language_v1.Document.Type.PLAIN_TEXT
+        )
     )
     response = client.analyze_entities(request=request)
 
@@ -165,12 +165,11 @@ def gcp_nlp_api(text):
         metadata.append({"name": entity.name, "salience": entity.salience, "type":entity.type_})
     return metadata
 
+# tag: {"name": tag_name, "salience": salience}
+# note_id: uuid
+def insert_tag(tag, note_id, supabase: Client):
 
-def insert_tag(tag, note_id, access_token):
-    # tag: {"name": tag_name, "salience": salience}
-    # note_id: uuid
-    supabase = create_client(API_URL, API_KEY)
-    supabase.auth.set_auth(jwt=access_token)
+    
     current_tag = supabase.table("tags").select(
         "*").eq("name", tag.name).execute()
     print("CURRENT TAG: ", current_tag)
@@ -183,4 +182,4 @@ def insert_tag(tag, note_id, access_token):
             {"tag_id": tag_id, "note_id": note_id, "salience": tag.salience}).execute()
     else:
         supabase.table("notes_tags").insert(
-            {"note_id": note_id, "tag_id": current_tag.data[0]["tag_id"], "salience":  tag.salience}).execute()
+            {"note_id": note_id, "tag_id": current_tag.data[0]["tag_id"], "salience": tag.salience}).execute()

@@ -31,7 +31,7 @@ def tags_request(request):
     # return notes_get(request)
     if request.method == "GET":
         if len(request.path) != 1:
-            return Merge(notes_search_by_tag(request=request), tokens)
+            return Merge(notes_search_by_tag(request), tokens)
         else:
             # Get all tags
             return Merge(get_all_tags(), tokens)
@@ -39,28 +39,20 @@ def tags_request(request):
 
 def notes_search_by_tag(request):
     supabase = create_client(API_URL, API_KEY)
-    json_data = request.get_json()
-    supabase.auth.api.get_user(jwt=json_data['access_token'])
 
     tag_id = request.path[len("/"):]
     # Find tag_id from name
-    # tag_id = supabase.table('tags').select('tag_id').eq('name', json_data['content']).execute()
-    print("tag_id:", tag_id)
-    # note_ids = supabase.table('notes_tags').select('note_id').eq('tag_id', tag_id.data[0]['tag_id']).execute()
     note_ids = supabase.table('notes_tags').select('note_id').eq('tag_id', tag_id).execute()
-    print("note_ids:", note_ids)
+    
     notes_with_tag = []
     for note_id in note_ids.data:
         one_note = supabase.table('notes').select('content', 'title', 'note_id').eq('note_id', note_id['note_id']).execute()
         notes_with_tag.append(one_note.data[0])
-    print({"notes": notes_with_tag})
     return {"notes": notes_with_tag}
 
 
-def get_all_tags(request):
+def get_all_tags():
     supabase = create_client(API_URL, API_KEY)
-    json_data = request.get_json()
-    supabase.auth.api.get_user(jwt=json_data['access_token'])
     # this code segment gets all notes for that tag
     # ex:
         #   "notes": [
@@ -72,5 +64,5 @@ def get_all_tags(request):
         #   "tag_id": "02200df4-d2ad-48fc-8a95-39d86deefe8e",
         #   "title": "title title man"
         # },
-    s = supabase.rpc('get_tags_for_notes', {}).execute()
-    return {"notes": s.data}
+    res = supabase.rpc('get_tags_for_notes', {}).execute()
+    return {"notes": res.data}
