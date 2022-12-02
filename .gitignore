@@ -1,2 +1,5 @@
 **/.DS_Store
 env/
+**/.env
+backend/__pycache__
+/Users/misiakm/Documents/GitHub/Porcupines/frontend/NoteSmart.xcodeproj/xcuserdata
