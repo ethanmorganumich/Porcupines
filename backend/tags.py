@@ -1,9 +1,14 @@
-from supabase import create_client
-import functions_framework
+from utils import check_valid_request, Merge
 from google.cloud import language_v1
+from supabase import create_client
+from dotenv import load_dotenv
+import functions_framework
+import os
 
-API_URL = 'https://lwheswmvrtoltfogtrvv.supabase.co'
-API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx3aGVzd212cnRvbHRmb2d0cnZ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjcxNTUxMDgsImV4cCI6MTk4MjczMTEwOH0.2PL2EGizWXNXUh6T_wKuPM1KZrgJ0X41zsWGkR0lgJA'
+load_dotenv()
+API_URL = os.getenv("API_URL")
+API_KEY = os.getenv("API_KEY")
+SECRET = os.getenv("SECRET")
 
 """This is following the implementation of https://github.com/ethanmorganumich/Porcupines/wiki/3.-APIs-and-Controller"""
 @functions_framework.http
@@ -16,29 +21,33 @@ def tags_request(request):
         Response object using
         `make_response <http://flask.pocoo.org/docs/1.0/api/#flask.Flask.make_response>`.
     """
+
+    # ---- Start Check valid request ----
+    tokens = check_valid_request(request)
+    if(type(tokens) is Exception):
+        return tokens
+    # ---- End Check Valid Request ----
+
     # return notes_get(request)
     if request.method == "GET":
         if len(request.path) != 1:
-            return notes_search_by_tag(request=request)
+            return Merge(notes_search_by_tag(request), tokens)
         else:
             # Get all tags
-            return get_all_tags()
+            return Merge(get_all_tags(), tokens)
 
 
 def notes_search_by_tag(request):
     supabase = create_client(API_URL, API_KEY)
+
     tag_id = request.path[len("/"):]
     # Find tag_id from name
-    # tag_id = supabase.table('tags').select('tag_id').eq('name', json_data['content']).execute()
-    print("tag_id:", tag_id)
-    # note_ids = supabase.table('notes_tags').select('note_id').eq('tag_id', tag_id.data[0]['tag_id']).execute()
     note_ids = supabase.table('notes_tags').select('note_id').eq('tag_id', tag_id).execute()
-    print("note_ids:", note_ids)
+    
     notes_with_tag = []
     for note_id in note_ids.data:
         one_note = supabase.table('notes').select('content', 'title', 'note_id').eq('note_id', note_id['note_id']).execute()
         notes_with_tag.append(one_note.data[0])
-    print({"notes": notes_with_tag})
     return {"notes": notes_with_tag}
 
 
@@ -55,5 +64,5 @@ def get_all_tags():
         #   "tag_id": "02200df4-d2ad-48fc-8a95-39d86deefe8e",
         #   "title": "title title man"
         # },
-    s = supabase.rpc('get_tags_for_notes', {}).execute()
-    return {"notes": s.data}
+    res = supabase.rpc('get_tags_for_notes', {}).execute()
+    return {"notes": res.data}

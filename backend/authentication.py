@@ -1,16 +1,11 @@
 from supabase import create_client
-import functions_framework
-from google.cloud import language_v1
-import json
+from urllib.parse import urlparse
+from dotenv import load_dotenv
+import functions_framework, os, re
 
-
-API_URL = 'https://lwheswmvrtoltfogtrvv.supabase.co'
-API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx3aGVzd212cnRvbHRmb2d0cnZ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjcxNTUxMDgsImV4cCI6MTk4MjczMTEwOH0.2PL2EGizWXNXUh6T_wKuPM1KZrgJ0X41zsWGkR0lgJA'
-
-
-"""
-    This is following the implementation of https://developers.google.com/identity/sign-in/ios/start
-"""
+load_dotenv()
+API_URL = os.getenv("API_URL")
+API_KEY = os.getenv("API_KEY")
 
 @functions_framework.http
 def authentication_request(request):
@@ -18,36 +13,32 @@ def authentication_request(request):
         return user_post(request)
     elif request.method == 'GET':
         return user_get(request)
-    
-    # cursor = connection.cursor()
-    # cursor.execute('SELECT username, message, time FROM chatts ORDER BY time DESC;')
-    # rows = cursor.fetchall()
-
-    # response = {}
-    # response['chatts'] = rows
-    # return JsonResponse(response)
 
 def user_post(request):
     supabase = create_client(API_URL, API_KEY)
     json_data = request.get_json()
-    print(json_data['email'])
-    print(json_data['password'])
-    user = supabase.auth.sign_up(email=json_data['email'], password=json_data['password'])
-    print(vars(user))
+    
+    res = supabase.auth.sign_up(
+        email=json_data['email'], 
+        password=json_data['password']
+    )
+    
     return ({
-        "user_id": user.id
+        "user_id": res.id,
     })
 
 def user_get(request):
     supabase = create_client(API_URL, API_KEY)
-    json_data = request.get_json() 
-    user = supabase.auth.sign_in(email=json_data['email'], password=json_data['password'])
+
+    json_data = re.split(';|=', urlparse(request.path).params)
+    
+    res = supabase.auth.sign_in(
+        email=json_data[1], 
+        password=json_data[3]
+    )
+    
     return ({
-        "token": user.access_token,
-        "refresh_token": user.refresh_token,
-        "user_id": user.user.id,
-        "email": user.user.email
-            })
-
-# a1251f20-3a24-4fbc-b23e-8f38e2c2e64c
-
+        "access_token": res.access_token,
+        "refresh_token": res.refresh_token,
+        "user_id": res.user.id,
+    })

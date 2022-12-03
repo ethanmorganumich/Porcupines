@@ -4,19 +4,23 @@ final class UserState : ObservableObject {
     @Published var view: String;
     @Published var previous_view: String;
     @Published var note_idx: Int;
+    @Published var access_token: String;
+    @Published var refresh_token: String;
 
     static let shared = UserState()
     private init() {
         self.view = ""
         self.previous_view = ""
         self.note_idx = -1
+        self.access_token = ""
+        self.refresh_token = ""
     }
     private let serverUrl = "https://us-central1-notesmart.cloudfunctions.net/"
     @Published private(set) var notes = [Note]()
     private let nFields = Mirror(reflecting: Note()).children.count
     
     func getNotes() {
-        guard let apiUrl = URL(string: serverUrl+"notes/") else {
+        guard let apiUrl = URL(string: serverUrl+"notes/access_token="+access_token+";refresh_token"+refresh_token+";?#") else {
             print("getNotes: Bad URL")
             return
         }
@@ -69,7 +73,9 @@ final class UserState : ObservableObject {
     
     func saveNote(_ note: Note, _ updated_title: String, _ updated_content: String) {
         let jsonObj = ["title": updated_title,
-                       "content": updated_content]
+                       "content": updated_content,
+                        "access_token": access_token,
+                        "refresh_token": refresh_token]
         
         guard let jsonData = try? JSONSerialization.data(withJSONObject: jsonObj) else {
             print("saveNote: jsonData serialization error")
@@ -104,7 +110,9 @@ final class UserState : ObservableObject {
     
     func createNote(_ title: String, _ content: String) {
         let jsonObj = ["title": title,
-                       "content": content]
+                       "content": content,
+                        "access_token": access_token,
+                        "refresh_token": refresh_token]
         
         guard let jsonData = try? JSONSerialization.data(withJSONObject: jsonObj) else {
             print("createNote: jsonData serialization error")
@@ -183,40 +191,19 @@ final class UserState : ObservableObject {
         request.httpMethod = "POST"
         request.httpBody = jsonData
         
-        URLSession.shared.dataTask(with: request) { data, response, error in
-            if let httpStatus = response as? HTTPURLResponse, httpStatus.statusCode != 200 {
-                print("getNotes: HTTP STATUS: \(httpStatus.statusCode)")
-                return
-            }
-
-        }.resume()
+        // needs logic to get response
     }
 
     func signIn(_ email: String, _ password: String){
-        let jsonObj = ["email": email,
-                        "password": password]
-        
-        guard let jsonData = try? JSONSerialization.data(withJSONObject: jsonObj) else {
-            print("saveNote: jsonData serialization error")
-            return
-        }
 
-        guard let apiUrl = URL(string: serverUrl+"users/") else {
+        guard let apiUrl = URL(string: serverUrl+"authentication/email="+email+";password"+password+";?#") else {
             print("getUser: Bad URL")
             return
         }
 
         var request = URLRequest(url: apiUrl)
-        request.setValue("application/json; charset=utf-8", forHTTPHeaderField: "Accept")
         request.httpMethod = "GET"
-        request.httpBody = jsonData
         
-        URLSession.shared.dataTask(with: request) { data, response, error in
-            if let httpStatus = response as? HTTPURLResponse, httpStatus.statusCode != 200 {
-                print("getNotes: HTTP STATUS: \(httpStatus.statusCode)")
-                return
-            }
-
-        }.resume()
+        // needs logic to get access_token from response
     }
 }

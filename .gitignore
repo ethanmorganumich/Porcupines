@@ -4,3 +4,7 @@ __pycache__/
 __pycache__
 .vscode/
 .vscode
+**/.env
+xcuserdata
+xcuserdata/
+/xcuserdata
