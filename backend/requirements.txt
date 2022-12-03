@@ -1,0 +1,5 @@
+functions_framework==3.2.1
+protobuf==4.21.10
+PyJWT==2.6.0
+python-dotenv==0.21.0
+supabase==0.7.1
