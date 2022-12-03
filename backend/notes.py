@@ -43,8 +43,6 @@ def notes_post(request):
     if 'title' not in json_data:
         json_data['title'] = "title"
 
-    response = request.json()
-
     data = {
         'note_id': note_id,
         'content': json_data['content'],
@@ -62,13 +60,14 @@ def notes_post(request):
 
 def generate_tags(text, note_id):
   # request the url https://us-central1-notesmart.cloudfunctions.net/get_tags and get the response
-    request = requests.get(
+    request = requests.post(
         "https://us-central1-notesmart.cloudfunctions.net/get_tags", json={"note_text": text})
 
     if request.ok:
         tags = request.json()
         for tag in tags:
-            insert_tag(tag, note_id)
+            tag_parsed = {"name": tag[0], "salience": tag[1]}
+            insert_tag(tag_parsed, note_id)
         return tags
     else:
         raise Exception("Error getting tags from cloud function")
@@ -150,15 +149,15 @@ def insert_tag(tag, note_id):
     # note_id: uuid
     supabase = create_client(API_URL, API_KEY)
     current_tag = supabase.table("tags").select(
-        "*").eq("name", tag.name).execute()
+        "*").eq("name", tag["name"]).execute()
     print("CURRENT TAG: ", current_tag)
     if current_tag.data == []:
         print("INSERTING TAG")
         tag_id = str(uuid.uuid4())
         supabase.table("tags").insert(
-            {"name": tag.name, "tag_id": tag_id}).execute()
+            {"name": tag["name"], "tag_id": tag_id}).execute()
         supabase.table("notes_tags").insert(
-            {"tag_id": tag_id, "note_id": note_id, "salience": tag.salience}).execute()
+            {"tag_id": tag_id, "note_id": note_id, "salience": tag["salience"]}).execute()
     else:
         supabase.table("notes_tags").insert(
-            {"note_id": note_id, "tag_id": current_tag.data[0]["tag_id"], "salience": tag.salience}).execute()
+            {"note_id": note_id, "tag_id": current_tag.data[0]["tag_id"], "salience": tag["salience"]}).execute()
