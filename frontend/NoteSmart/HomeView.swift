@@ -9,7 +9,7 @@ import SwiftUI
 
 struct HomeView: View {
     @ObservedObject var user_state = UserState.shared
-    
+
     var body: some View {
         VStack {
             ProfileIconView()
