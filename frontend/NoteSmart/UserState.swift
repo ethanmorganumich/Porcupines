@@ -17,7 +17,7 @@ final class UserState : ObservableObject {
         self.view = ""
         self.previous_view = ""
         self.trial_demo = false
-        self.tag_viewed = Tag(text: "", id: "")
+        self.tag_viewed = Tag(text: "")
         self.note_viewed = Note(title: "", text: "", id: "", tags: [Tag]())
         self.access_token = ""
         self.refresh_token = ""
@@ -65,11 +65,10 @@ final class UserState : ObservableObject {
                 self.notes = [Note]()
                 self.tags = [Tag]()
                 for (_, noteEntry) in notesReceived.enumerated() {
-                    let tag_data = noteEntry["tags"] as? [[String:Any]] ?? []
+                    let tag_data = noteEntry["tags"] as? [String] ?? []
                     var tags_list = [Tag]()
-                    print(tag_data)
                     for tag_item in tag_data.enumerated() {
-                        let tag = Tag(text: (tag_item.element["name"]) as? String, id: tag_item.element["tag_id"] as? String)
+                        let tag = Tag(text: tag_item.element)
                         tags_list.append(tag)
                         self.tags.append(tag)
                     }
@@ -232,11 +231,11 @@ final class UserState : ObservableObject {
     
     func filterTagMatches(_ searchFilter: Bool = true, _ search: String = "", _ tags: [Tag]) -> [Tag] {
         var curr_tags = [Tag]()
-        var curr_tag_ids = [String]()
+        var curr_tag_texts = [String]()
         for tag in tags {
-            if((!searchFilter || self.tagMatch(search, tag)) && !curr_tag_ids.contains(tag.id!)) {
+            if((!searchFilter || self.tagMatch(search, tag)) && !curr_tag_texts.contains(tag.text!)) {
                 curr_tags.append(tag)
-                curr_tag_ids.append(tag.id!)
+                curr_tag_texts.append(tag.text!)
             }
         }
         return curr_tags

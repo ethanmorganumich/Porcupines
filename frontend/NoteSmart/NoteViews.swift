@@ -62,7 +62,7 @@ struct PreviewNoteView: View {
                             .padding([.leading, .trailing], 15)
                             .padding([.top, .bottom], 15)
                             .background(Color("grey"), in: RoundedRectangle(cornerRadius: 10))
-                            .frame(height: 600, alignment: .top)
+                            .frame(height: 500, alignment: .top)
                         Spacer()
                     }
                     .onTapGesture { user_state.view = "existing note view" }

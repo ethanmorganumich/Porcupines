@@ -1,6 +1,5 @@
 struct Tag {
     var text: String?
-    var id: String?
     
     @propertyWrapper
     struct NotePropWrapper {
