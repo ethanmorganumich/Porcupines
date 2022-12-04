@@ -9,12 +9,16 @@
 import SwiftUI
 
 struct SetUpView: View {
+    @ObservedObject var user_state = UserState.shared
     
     var body: some View {
         VStack {
+            Spacer()
             WelcomeText()
-            StyledButton(next_view: "sign-in view", text: "sign-in", color: "blue50")
-            StyledButton(next_view: "sign-up view", text: "sign-up", color: "blue30")
+            StyledButton(action: {user_state.view = "sign-in view"}, text: "sign-in", color: "blue50")
+            StyledButton(action: {user_state.view = "sign-up view"}, text: "sign-up", color: "blue30")
+            Spacer()
+            BottomControlButtons()
         }
     }
 }
@@ -29,14 +33,17 @@ struct WelcomeText: View {
 }
 
 struct StyledButton: View {
-    var next_view: String;
-    var text: String;
-    var color: String;
+    @ObservedObject var user_state = UserState.shared
+
+    var action: () -> Void
+//    var next_view: String
+    var text: String
+    var color: String
     
     var body: some View {
         VStack {
             Button(action: {
-                UserState.shared.view = next_view
+                action()
             }) {
                 Text(text)
                     .font(Font.custom("Inter-Regular", size: 18))

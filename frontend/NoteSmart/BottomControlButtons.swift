@@ -9,34 +9,41 @@
 import SwiftUI
 
 struct BottomControlButtons: View {
-    @State var folder_intensity: Float = 0.5;
-    @State var home_intensity: Float = 0.5;
-    @State var edit_intensity: Float = 0.5;
-    
+    @ObservedObject var user_state = UserState.shared
+        
     var body: some View {
         HStack {
-//            Spacer()
-//            Button(action: {}) {
-//                Image(systemName: "folder")
-//                    .font(.system(size: 30))
-//                    .foregroundColor(Color("blue70"))
-//            }
-//            Spacer()
-//            Button(action: {}) {
-//                Image(systemName: "house")
-//                    .font(.system(size: 30))
-//                    .foregroundColor(Color("blue70"))
-//            }
             Spacer()
-            Button(action: {
-                UserState.shared.previous_view = UserState.shared.view
-                UserState.shared.view = "new note view"
-            }) {
-                Image(systemName: "square.and.pencil")
-                    .font(.system(size: 30))
-                    .foregroundColor(Color("blue70"))
+            if(user_state.view == "") {
+                Button(action: {
+                    user_state.previous_view = UserState.shared.view
+                    user_state.view = "new note view"
+                    user_state.trial_demo = true
+                }) {
+                    Image(systemName: "square.and.pencil")
+                        .font(.system(size: 30))
+                        .foregroundColor(Color("blue70"))
+                }
+            } else if(user_state.view == "home view") {
+                Button(action: {
+                    user_state.previous_view = UserState.shared.view
+                    user_state.view = "new note view"
+                }) {
+                    Image(systemName: "square.and.pencil")
+                        .font(.system(size: 30))
+                        .foregroundColor(Color("blue70"))
+                }
+            } else if(user_state.view == "tag view") {
+                Button(action: {
+                    user_state.view = "home view"
+                }) {
+                    Image(systemName: "house.fill")
+                        .font(.system(size: 30))
+                        .foregroundColor(Color("blue70"))
+                }
             }
             Spacer()
+            
         }
         
     }

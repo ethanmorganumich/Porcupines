@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A554B8452935B80600EA65F7 /* TagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A554B8442935B80600EA65F7 /* TagView.swift */; };
+		A554B84729380A1100EA65F7 /* Tag.swift in Sources */ = {isa = PBXBuildFile; fileRef = A554B84629380A1100EA65F7 /* Tag.swift */; };
+		A554B84E293C157D00EA65F7 /* MarkdownUI in Frameworks */ = {isa = PBXBuildFile; productRef = A554B84D293C157D00EA65F7 /* MarkdownUI */; };
 		A5BDF1DE29154801001D957C /* BottomControlButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1DD29154801001D957C /* BottomControlButtons.swift */; };
 		A5BDF1E2291594B6001D957C /* NoteViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1E1291594B6001D957C /* NoteViews.swift */; };
 		A5BDF1E6291A0538001D957C /* UserState.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BDF1E5291A0538001D957C /* UserState.swift */; };
@@ -31,6 +34,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A554B8442935B80600EA65F7 /* TagView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagView.swift; sourceTree = "<group>"; };
+		A554B84629380A1100EA65F7 /* Tag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tag.swift; sourceTree = "<group>"; };
 		A5BDF1DD29154801001D957C /* BottomControlButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomControlButtons.swift; sourceTree = "<group>"; };
 		A5BDF1E1291594B6001D957C /* NoteViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteViews.swift; sourceTree = "<group>"; };
 		A5BDF1E5291A0538001D957C /* UserState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserState.swift; sourceTree = "<group>"; };
@@ -61,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A554B84E293C157D00EA65F7 /* MarkdownUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -96,7 +102,9 @@
 				A5BDF1E1291594B6001D957C /* NoteViews.swift */,
 				A5DDE2E429102BC500A5C4E8 /* SetUpView.swift */,
 				A5BDF1E5291A0538001D957C /* UserState.swift */,
+				A554B8442935B80600EA65F7 /* TagView.swift */,
 				A5BDF1E7291A0694001D957C /* Note.swift */,
+				A554B84629380A1100EA65F7 /* Tag.swift */,
 				A5DDE2C4290EFF8800A5C4E8 /* fonts */,
 				A5DDE2BA290EFC9A00A5C4E8 /* Assets.xcassets */,
 				A5DDE2BC290EFC9A00A5C4E8 /* Preview Content */,
@@ -144,6 +152,9 @@
 			dependencies = (
 			);
 			name = NoteSmart;
+			packageProductDependencies = (
+				A554B84D293C157D00EA65F7 /* MarkdownUI */,
+			);
 			productName = NoteSmart;
 			productReference = A5DDE2B3290EFC9700A5C4E8 /* NoteSmart.app */;
 			productType = "com.apple.product-type.application";
@@ -172,6 +183,9 @@
 				Base,
 			);
 			mainGroup = A5DDE2AA290EFC9700A5C4E8;
+			packageReferences = (
+				A554B84C293C157D00EA65F7 /* XCRemoteSwiftPackageReference "MarkdownUI" */,
+			);
 			productRefGroup = A5DDE2B4290EFC9700A5C4E8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -207,8 +221,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A554B84729380A1100EA65F7 /* Tag.swift in Sources */,
 				A5BDF1DE29154801001D957C /* BottomControlButtons.swift in Sources */,
 				A5DDE2B9290EFC9700A5C4E8 /* ViewManager.swift in Sources */,
+				A554B8452935B80600EA65F7 /* TagView.swift in Sources */,
 				A5BDF1E6291A0538001D957C /* UserState.swift in Sources */,
 				A5DDE2E529102BC500A5C4E8 /* SetUpView.swift in Sources */,
 				A5DDE2E32910290900A5C4E8 /* SignUpView.swift in Sources */,
@@ -419,6 +435,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A554B84C293C157D00EA65F7 /* XCRemoteSwiftPackageReference "MarkdownUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/gonzalezreal/MarkdownUI";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A554B84D293C157D00EA65F7 /* MarkdownUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A554B84C293C157D00EA65F7 /* XCRemoteSwiftPackageReference "MarkdownUI" */;
+			productName = MarkdownUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A5DDE2AB290EFC9700A5C4E8 /* Project object */;
 }

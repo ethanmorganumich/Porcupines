@@ -8,13 +8,11 @@
 import SwiftUI
 
 struct SignUpView: View {
-    
-    @State var firstname = ""
-    @State var lastname = ""
-    @State var username = ""
+    @ObservedObject var user_state = UserState.shared
+
     @State var email = ""
     @State var password = ""
-    @State var password_repeated = ""
+    @State var overlay_showing: Bool = false;
     
     var body: some View {
         VStack {
@@ -22,24 +20,21 @@ struct SignUpView: View {
                 .font(Font.custom("Inter-SemiBold", size: 25))
             VStack {
                 VStack {
-                    HStack {
-                        FormTextField(result: $firstname, text_type: "", text: "first name")
-                        FormTextField(result: $lastname, text_type: "", text: "last name")
-                    }
-                    FormTextField(result: $username, text_type: "", text: "username")
                     FormTextField(result: $email, text_type: "", text: "email")
                     FormTextField(result: $password, text_type: "secure", text: "password")
-                    FormTextField(result: $password_repeated, text_type: "secure", text: "password (again)")
                 }
                 .padding(.bottom, 20)
-                StyledButton(next_view: "home view", text: "submit", color: "blue30")
+                StyledButton(action: {
+                    user_state.signUp(email, password)
+                    overlay_showing = true
+                }, text: "submit", color: "blue30")
             }
             .padding([.leading, .trailing], 75)
-            .padding(.top, 100)
+            .padding(.top, 25)
             .padding(.bottom, 75)
             TextButton(next_view: "sign-in view", text: "already have an account?")
-            TextButton(next_view: "forgot password view", text: "forgot your password?")
         }
+        .overlay(SignUpOverlay(overlay_showing: $overlay_showing))
     }
 }
 
@@ -71,17 +66,39 @@ struct FormTextField: View {
     var body: some View {
         switch text_type {
         case "secure":
-            SecureField("password (again)", text: $result)
+            SecureField("password", text: $result)
                 .padding([.top, .bottom], 10)
                 .padding([.leading, .trailing], 10)
                 .font(Font.custom("Inter-Regular", size: 14))
                 .background(Color("grey"), in: RoundedRectangle(cornerRadius: 10))
+                .autocapitalization(.none)
         default:
             TextField(text, text: $result)
                 .padding([.top, .bottom], 10)
                 .padding([.leading, .trailing], 10)
                 .font(Font.custom("Inter-Regular", size: 14))
                 .background(Color("grey"), in: RoundedRectangle(cornerRadius: 10))
+                .autocapitalization(.none)
         }
+    }
+}
+
+struct SignUpOverlay: View {
+    @Binding var overlay_showing: Bool;
+    
+    var body: some View {
+        VStack {
+            if overlay_showing {
+                Text("Please check your email and click the link provided to finish signing-up!")
+                    .font(Font.custom("Inter-Regular", size: 20))
+                    .multilineTextAlignment(.center)
+                    .frame(width: 300, height: 100)
+                    .padding([.top, .bottom], 150)
+                    .padding([.leading, .trailing], 25)
+            }
+            
+        }
+        .background(Color("grey"), in: RoundedRectangle(cornerRadius: 10))
+
     }
 }

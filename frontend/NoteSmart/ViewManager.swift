@@ -25,6 +25,8 @@ struct ViewManager: View {
             PreviewNoteView()
         case "existing note view":
             ExistingNoteView()
+        case "tag view":
+            TagView()
         default:
             SetUpView()
         }

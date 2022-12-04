@@ -6,22 +6,29 @@
 //
 
 import SwiftUI
+import MarkdownUI
 
 struct NewNoteView: View {
     
     @ObservedObject var user_state = UserState.shared
-
+    
     @State var note_title: String = "Note title...";
-    @State var note_edited: String = "created just now";
     @State var note_content: String = "start writing...";
-    @State var note_details_showing: Bool = false;
-
+    
     var body: some View {
         VStack {
             VStack{
                 HStack {
-                    SaveBackButton(note_title: $note_title, note_content: $note_content, close_action: "create")
+                    if(!user_state.trial_demo) {
+                        SaveBackButton(note_title: $note_title, note_content: $note_content, close_action: "create")
+                    }
                     Spacer()
+                    if(user_state.trial_demo) {
+                        TrialDemoSaveButton(action: {
+                            user_state.trial_demo_note["note_title"] = note_title
+                            user_state.trial_demo_note["note_content"] = note_content
+                        })
+                    }
                 }
                 NoteEditor(note_title: $note_title, note_content: $note_content)
                 Spacer()
@@ -32,35 +39,39 @@ struct NewNoteView: View {
 
 struct PreviewNoteView: View {
     @ObservedObject var user_state = UserState.shared
-
+    
     @State var note_title: String = "";
-    @State var note_content: LocalizedStringKey = "";
-    @State var note_details_showing: Bool = false;
-
+    @State var note_content: String = "";
+    
     var body: some View {
         VStack {
             VStack {
                 HStack {
                     SimpleBackButton()
                     Spacer()
-                    DeleteNoteButton(note_details_showing: $note_details_showing)
                 }
-                if let note = user_state.notes[user_state.note_idx] {
+                if let note = user_state.note_viewed {
                     VStack (alignment: .leading){
                         Text(note_title)
-                            .font(Font.custom("Inter-SemiBold", size: 25))
                             .lineLimit(1)
                             .frame(height: 40)
                             .padding([.leading], 3)
                             .padding([.bottom], 25)
-                        Text(note_content)
-                            .font(Font.custom("Inter-Regular", size: 15))
+                            .font(Font.custom("Inter-SemiBold", size: 25))
+                        Markdown(note_content)
+                            .padding([.leading, .trailing], 15)
+                            .padding([.top, .bottom], 15)
+                            .background(Color("grey"), in: RoundedRectangle(cornerRadius: 10))
+                            .frame(height: 600, alignment: .top)
+                        Spacer()
                     }
                     .onTapGesture { user_state.view = "existing note view" }
                     .onAppear {
-                        note_content = LocalizedStringKey(note.text!)
+                        note_content = note.text!
                         note_title = note.title!
                     }
+                    .frame(width: 300, alignment: .leading)
+                    .padding(.leading, 5)
                     Spacer()
                 }
                 Spacer()
@@ -73,20 +84,20 @@ struct PreviewNoteView: View {
 
 struct ExistingNoteView: View {
     @ObservedObject var user_state = UserState.shared
-
+    
     @State var note_title: String = "";
     @State var note_content: String = "";
     @State var note_details_showing: Bool = false;
-
+    
     var body: some View {
         VStack {
             VStack {
                 HStack {
                     SaveBackButton(note_title: $note_title, note_content: $note_content, close_action: "save")
                     Spacer()
-                    DeleteNoteButton(note_details_showing: $note_details_showing)
+                    DeleteNoteButton()
                 }
-                if let note = user_state.notes[user_state.note_idx] {
+                if let note = user_state.note_viewed {
                     NoteEditor(note_title: $note_title, note_content: $note_content)
                         .onAppear() {
                             note_content = note.text!
@@ -101,9 +112,13 @@ struct ExistingNoteView: View {
 }
 
 struct NoteEditor: View {
+    @ObservedObject var user_state = UserState.shared
+    
     @Binding var note_title: String;
     @State var note_edited: String = "timestamp";
     @Binding var note_content: String;
+    @State var placeholder_title: Bool = true;
+    @State var placeholder_content: Bool = true;
     
     var body: some View {
         VStack {
@@ -111,17 +126,48 @@ struct NoteEditor: View {
                 .font(Font.custom("Inter-SemiBold", size: 25))
                 .lineLimit(1)
                 .frame(height: 40)
-//            HStack {
-//                Text(note_edited)
-//                    .font(Font.custom("Inter-Regular", size: 15))
-//                Spacer()
-//            }
-            .padding([.leading], 3)
-            .padding([.bottom], 25)
+                .onTapGesture {
+                    if(user_state.view == "new note view" && placeholder_title) {
+                        note_title = ""
+                        placeholder_title = false
+                    }
+                }
+                .padding([.bottom], 25)
+                .autocapitalization(.none)
             TextEditor(text: $note_content)
                 .font(Font.custom("Inter-Regular", size: 15))
+                .onTapGesture {
+                    if(user_state.view == "new note view" && placeholder_content) {
+                        note_content = ""
+                        placeholder_content = false
+                    }
+                }
+                .autocapitalization(.none)
+                .frame(height: 600)
         }
-        .frame(width: 300)
+        .frame(width: 300, alignment: .leading)
+    }
+}
+
+struct TrialDemoSaveButton: View {
+    @ObservedObject var user_state = UserState.shared
+    var action: () -> Void
+    
+    var body: some View {
+        HStack {
+            Spacer()
+            Button(action: {
+                action()
+                user_state.view = "sign-up view"
+            }) {
+                Image(systemName: "checkmark.circle")
+                    .font(.system(size: 30))
+                    .foregroundColor(Color("blue70"))
+            }
+            
+            .padding(.bottom, 50)
+            .padding(.trailing, 25)
+        }
     }
 }
 
@@ -130,12 +176,12 @@ struct SaveBackButton: View {
     @Binding var note_content: String;
     @ObservedObject var user_state = UserState.shared
     var close_action: String;
-
+    
     var body: some View {
         HStack {
             Button(action: {
                 user_state.view = user_state.previous_view
-                if(close_action == "save") { user_state.saveNote(user_state.notes[user_state.note_idx], note_title, note_content)}
+                if(close_action == "save") { user_state.saveNote(user_state.note_viewed, note_title, note_content)}
                 else {
                     user_state.createNote(note_title, note_content)
                 }
@@ -153,7 +199,7 @@ struct SaveBackButton: View {
 
 struct SimpleBackButton: View {
     @ObservedObject var user_state = UserState.shared
-
+    
     var body: some View {
         HStack {
             Button(action: {
@@ -173,12 +219,10 @@ struct SimpleBackButton: View {
 
 struct DeleteNoteButton: View {
     @ObservedObject var user_state = UserState.shared
-    @Binding var note_details_showing: Bool;
     
     var body: some View {
         Button(action: {
             user_state.deleteNote()
-            note_details_showing = false
             user_state.view = user_state.previous_view
         }) {
             Image(systemName: "trash")
@@ -194,25 +238,41 @@ struct TagList: View {
     @ObservedObject var user_state = UserState.shared
     
     var body: some View {
-        HStack {
-            ForEach(user_state.notes[user_state.note_idx].tags!, id: \.self) {tag in
-                Tag(tag_content: tag!)
+        GeometryReader { geometry in
+            VStack{
+                Spacer()
+                ScrollView(.horizontal){
+                    HStack {
+                        if let tags = user_state.filterTagMatches(false, "", user_state.note_viewed.tags!) {
+                            ForEach(tags.indices, id: \.self) {
+                                TagItem(tag: tags[$0])
+                            }
+                        }
+                    }
+                    .padding(.bottom, 10)
+                    .padding([.leading, .trailing], 20)
+                    .frame(minWidth: geometry.size.width)
+                }
             }
         }
-        .padding(.bottom, 10)
     }
 }
 
-struct Tag: View {
-    var tag_content: String;
+struct TagItem: View {
+    @ObservedObject var user_state = UserState.shared
+    var tag: Tag;
     
     var body: some View {
-        Text(tag_content)
+        Text(tag.text!)
             .font(Font.custom("Inter-Regular", size: 15))
             .foregroundColor(.black)
             .padding([.top, .bottom], 5)
             .padding([.leading, .trailing], 15)
             .background(Color("grey"), in: RoundedRectangle(cornerRadius: 10))
+            .onTapGesture {
+                user_state.tag_viewed = tag
+                user_state.view = "tag view"
+            }
     }
 }
 

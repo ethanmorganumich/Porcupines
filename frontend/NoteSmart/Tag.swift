@@ -1,8 +1,6 @@
-struct Note {
-    var title: String?
+struct Tag {
     var text: String?
     var id: String?
-    var tags: [Tag]?
     
     @propertyWrapper
     struct NotePropWrapper {
