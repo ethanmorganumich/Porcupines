@@ -8,7 +8,6 @@ final class UserState : ObservableObject {
     @Published var note_viewed: Note
     @Published var access_token: String
     @Published var refresh_token: String
-    @Published var user_id: String
     @Published var email: String
     @Published var trial_demo_note: [String: String]
     
@@ -21,7 +20,6 @@ final class UserState : ObservableObject {
         self.note_viewed = Note(title: "", text: "", id: "", tags: [Tag]())
         self.access_token = ""
         self.refresh_token = ""
-        self.user_id = ""
         self.email = ""
         self.trial_demo_note = [:]
     }
@@ -39,6 +37,7 @@ final class UserState : ObservableObject {
             print("getNotes: Bad URL")
             return
         }
+        print(apiUrl)
         
         var request = URLRequest(url: apiUrl)
         request.setValue("application/json; charset=utf-8", forHTTPHeaderField: "Accept")
@@ -270,7 +269,6 @@ final class UserState : ObservableObject {
             DispatchQueue.main.async {
                 self.access_token = jsonObj["access_token"] as? String ?? ""
                 self.refresh_token = jsonObj["refresh_token"] as? String ?? ""
-                self.user_id = jsonObj["user_id"] as? String ?? ""
                 self.view = "home view"
                 self.email = email
                 if(self.trial_demo) {

@@ -34,7 +34,7 @@ struct SignUpView: View {
             .padding(.bottom, 75)
             TextButton(next_view: "sign-in view", text: "already have an account?")
         }
-        .overlay(SignUpOverlay(overlay_showing: $overlay_showing))
+        .overlay(SignUpOverlay(overlay_showing: $overlay_showing, email: $email, password: $password))
     }
 }
 
@@ -84,17 +84,27 @@ struct FormTextField: View {
 }
 
 struct SignUpOverlay: View {
+    @ObservedObject var user_state = UserState.shared
+
     @Binding var overlay_showing: Bool;
+    @Binding var email: String;
+    @Binding var password: String;
     
     var body: some View {
         VStack {
             if overlay_showing {
-                Text("Please check your email and click the link provided to finish signing-up!")
+                Text("Please check your email and click the link provided to finish signing-up! When you are done, click here:")
                     .font(Font.custom("Inter-Regular", size: 20))
                     .multilineTextAlignment(.center)
                     .frame(width: 300, height: 100)
-                    .padding([.top, .bottom], 150)
+                    .padding([.top], 100)
                     .padding([.leading, .trailing], 25)
+                StyledButton(action: {
+                    user_state.signIn(email, password)
+                    overlay_showing = true
+                }, text: "done", color: "blue30")
+                .padding([.top], 25)
+                .padding([.bottom], 100)
             }
             
         }

@@ -58,12 +58,13 @@ struct PreviewNoteView: View {
                             .padding([.leading], 3)
                             .padding([.bottom], 25)
                             .font(Font.custom("Inter-SemiBold", size: 25))
-                        Markdown(note_content)
-                            .padding([.leading, .trailing], 15)
-                            .padding([.top, .bottom], 15)
-                            .background(Color("grey"), in: RoundedRectangle(cornerRadius: 10))
-                            .frame(height: 500, alignment: .top)
-                        Spacer()
+                        ScrollView(.vertical){
+                            Markdown(note_content)
+                                .padding([.leading, .trailing], 15)
+                                .padding([.top, .bottom], 15)
+                                .background(Color("grey"), in: RoundedRectangle(cornerRadius: 10))
+                        }
+                        .frame(height: 500)
                     }
                     .onTapGesture { user_state.view = "existing note view" }
                     .onAppear {
@@ -134,18 +135,23 @@ struct NoteEditor: View {
                 }
                 .padding([.bottom], 25)
                 .autocapitalization(.none)
-            TextEditor(text: $note_content)
-                .font(Font.custom("Inter-Regular", size: 15))
-                .onTapGesture {
-                    if(user_state.view == "new note view" && placeholder_content) {
-                        note_content = ""
-                        placeholder_content = false
-                    }
+            GeometryReader { geometry in
+                ScrollView(.vertical){
+                    TextEditor(text: $note_content)
+                        .font(Font.custom("Inter-Regular", size: 15))
+                        .onTapGesture {
+                            if(user_state.view == "new note view" && placeholder_content) {
+                                note_content = ""
+                                placeholder_content = false
+                            }
+                        }
+                        .autocapitalization(.none)
+                        .frame(minHeight: 500)
                 }
-                .autocapitalization(.none)
-                .frame(height: 600)
+                .frame(minHeight: 500)
+            }
         }
-        .frame(width: 300, alignment: .leading)
+        .frame(width: 300)
     }
 }
 
