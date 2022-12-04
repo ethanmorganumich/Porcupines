@@ -10,6 +10,7 @@ final class UserState : ObservableObject {
     @Published var refresh_token: String
     @Published var email: String
     @Published var trial_demo_note: [String: String]
+    @Published var failed_sign_in: Bool
     
     static let shared = UserState()
     private init() {
@@ -22,6 +23,7 @@ final class UserState : ObservableObject {
         self.refresh_token = ""
         self.email = ""
         self.trial_demo_note = [:]
+        self.failed_sign_in = false
     }
     private let serverUrl = "https://us-central1-notesmart.cloudfunctions.net/"
     @Published private(set) var notes = [Note]()
@@ -259,6 +261,9 @@ final class UserState : ObservableObject {
             }
             if let httpStatus = response as? HTTPURLResponse, httpStatus.statusCode != 200 {
                 print("signIn: HTTP STATUS: \(httpStatus.statusCode)")
+                DispatchQueue.main.async {
+                    self.failed_sign_in = true
+                }
                 return
             }
             

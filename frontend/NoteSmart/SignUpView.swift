@@ -90,25 +90,31 @@ struct SignUpOverlay: View {
     @Binding var email: String;
     @Binding var password: String;
     
+    @State var show_submit: Bool = true;
+    @State var signup_message: String = "Please check your email and click the link provided to finish signing-up! When you are done, click here:"
+    
     var body: some View {
-        VStack {
-            if overlay_showing {
-                Text("Please check your email and click the link provided to finish signing-up! When you are done, click here:")
+        if overlay_showing {
+            VStack {
+                Spacer()
+                Text(signup_message)
                     .font(Font.custom("Inter-Regular", size: 20))
                     .multilineTextAlignment(.center)
-                    .frame(width: 300, height: 100)
-                    .padding([.top], 100)
                     .padding([.leading, .trailing], 25)
-                StyledButton(action: {
-                    user_state.signIn(email, password)
-                    overlay_showing = true
-                }, text: "done", color: "blue30")
-                .padding([.top], 25)
-                .padding([.bottom], 100)
+                if show_submit {
+                    StyledButton(action: {
+                        user_state.signIn(email, password)
+                        show_submit = false
+                        signup_message = "You will be signed-in shortly!"
+                    }, text: "done", color: "blue30")
+                    .padding([.top], 25)
+                    Spacer()
+                }
+                Spacer()
             }
-            
+            .frame(minHeight: 300)
+            .frame(width: 300)
+            .background(Color("grey"), in: RoundedRectangle(cornerRadius: 10))
         }
-        .background(Color("grey"), in: RoundedRectangle(cornerRadius: 10))
-
     }
 }

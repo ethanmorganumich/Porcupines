@@ -36,7 +36,6 @@ struct StyledButton: View {
     @ObservedObject var user_state = UserState.shared
 
     var action: () -> Void
-//    var next_view: String
     var text: String
     var color: String
     

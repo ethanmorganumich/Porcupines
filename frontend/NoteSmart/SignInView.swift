@@ -19,6 +19,15 @@ struct SignInView: View {
             Text("sign-in")
                 .font(Font.custom("Inter-SemiBold", size: 25))
             VStack {
+                if(user_state.failed_sign_in) {
+                    Text("invalid login - please try again")
+                        .padding([.top, .bottom], 5)
+                        .padding([.leading, .trailing], 10)
+                        .font(Font.custom("Inter-Regular", size: 15))
+                        .background(Color("red_lighter"), in: RoundedRectangle(cornerRadius: 10))
+                        .frame(width: 250)
+                        
+                }
                 VStack {
                     FormTextField(result: $email, text_type: "", text: "email")
                     FormTextField(result: $password, text_type: "secure", text: "password")
@@ -27,6 +36,7 @@ struct SignInView: View {
                 StyledButton(action: {
                     user_state.signIn(email, password)
                     overlay_showing = true
+                    user_state.failed_sign_in = false
                 }, text: "submit", color: "blue50")
                 
             }
@@ -41,11 +51,12 @@ struct SignInView: View {
 
 
 struct SignInOverlay: View {
+    @ObservedObject var user_state = UserState.shared
     @Binding var overlay_showing: Bool;
 
     var body: some View {
         VStack {
-            if overlay_showing {
+            if overlay_showing && !user_state.failed_sign_in {
                 Text("You will be signed-in shortly!")
                     .font(Font.custom("Inter-Regular", size: 20))
                     .multilineTextAlignment(.center)
@@ -53,9 +64,7 @@ struct SignInOverlay: View {
                     .padding([.top, .bottom], 150)
                     .padding([.leading, .trailing], 25)
             }
-            
         }
         .background(Color("grey"), in: RoundedRectangle(cornerRadius: 10))
-
     }
 }
