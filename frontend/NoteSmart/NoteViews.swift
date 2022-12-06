@@ -187,7 +187,7 @@ struct SaveBackButton: View {
         HStack {
             Button(action: {
                 user_state.view = user_state.previous_view
-                if(close_action == "save") { user_state.saveNote(user_state.note_viewed, note_title, note_content)}
+                if(close_action == "save") { user_state.saveNote(note_title, note_content)}
                 else {
                     user_state.createNote(note_title, note_content)
                 }

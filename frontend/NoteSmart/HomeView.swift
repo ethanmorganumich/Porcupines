@@ -17,7 +17,9 @@ struct HomeView: View {
             Spacer()
             BottomControlButtons()
         }
-        .onAppear() {user_state.getNotes()}
+        .onAppear() {
+            user_state.getNotes()
+        }
     }
 }
 

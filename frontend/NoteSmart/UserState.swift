@@ -39,7 +39,6 @@ final class UserState : ObservableObject {
             print("getNotes: Bad URL")
             return
         }
-        print(apiUrl)
         
         var request = URLRequest(url: apiUrl)
         request.setValue("application/json; charset=utf-8", forHTTPHeaderField: "Accept")
@@ -98,7 +97,7 @@ final class UserState : ObservableObject {
         
     }
     
-    func saveNote(_ note: Note, _ updated_title: String, _ updated_content: String) {
+    func saveNote(_ updated_title: String, _ updated_content: String) {
         let jsonObj = ["title": updated_title,
                        "content": updated_content,
                        "access_token": self.access_token,
@@ -109,7 +108,7 @@ final class UserState : ObservableObject {
             return
         }
         
-        guard let apiUrl = URL(string: serverUrl+"notes/"+note.id!) else {
+        guard let apiUrl = URL(string: serverUrl+"notes/"+self.note_viewed.id!) else {
             print("saveNote: Bad URL")
             return
         }
@@ -150,7 +149,7 @@ final class UserState : ObservableObject {
             print("createNote: Bad URL")
             return
         }
-                
+        
         var request = URLRequest(url: apiUrl)
         request.setValue("application/json; charset=utf-8", forHTTPHeaderField: "Content-Type")
         request.httpMethod = "POST"
@@ -176,16 +175,16 @@ final class UserState : ObservableObject {
         let jsonObj = ["access_token": self.access_token,
                        "refresh_token": self.refresh_token]
         
+        guard let jsonData = try? JSONSerialization.data(withJSONObject: jsonObj) else {
+            print("deleteNote: jsonData serialization error")
+            return
+        }
+        
         guard let apiUrl = URL(string: serverUrl+"notes/"+self.note_viewed.id!) else {
             print("deleteNote: Bad URL")
             return
         }
         
-        guard let jsonData = try? JSONSerialization.data(withJSONObject: jsonObj) else {
-            print("createNote: jsonData serialization error")
-            return
-        }
-                
         var request = URLRequest(url: apiUrl)
         request.setValue("application/json; charset=utf-8", forHTTPHeaderField: "Content-Type")
         request.httpMethod = "DELETE"
@@ -243,18 +242,18 @@ final class UserState : ObservableObject {
     }
     
     func signIn(_ email: String, _ password: String) {
-
+        
         guard let apiUrl = URL(string: serverUrl+"authentication/;email="+email+";password="+password+";?#") else {
             print("signIn: Bad URL")
             return
         }
-
+        
         var request = URLRequest(url: apiUrl)
         request.setValue("application/json; charset=utf-8", forHTTPHeaderField: "Accept")
         request.httpMethod = "GET"
-
+        
         URLSession.shared.dataTask(with: request) { data, response, error in
-
+            
             guard let data = data, error == nil else {
                 print("signIn: NETWORKING ERROR")
                 return
