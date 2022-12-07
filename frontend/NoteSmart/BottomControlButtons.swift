@@ -1,11 +1,10 @@
 //
-//  HomeView.swift
+//  BottomControlButtons.swift
 //  NoteSmart
 //
 //  Created by Sam Jaehnig on 10/31/22.
 //
 
-//
 import SwiftUI
 
 struct BottomControlButtons: View {

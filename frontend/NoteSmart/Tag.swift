@@ -1,3 +1,7 @@
+//
+//  Tag.swift
+//  NoteSmart
+
 struct Tag {
     var text: String?
     

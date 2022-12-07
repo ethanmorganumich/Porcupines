@@ -1,3 +1,7 @@
+//
+//  UserState.swift
+//  NoteSmart
+
 import SwiftUI
 
 final class UserState : ObservableObject {
@@ -310,9 +314,6 @@ final class UserState : ObservableObject {
             if let httpStatus = response as? HTTPURLResponse {
                 if httpStatus.statusCode != 200 {
                     print("signUp: HTTP STATUS: \(httpStatus.statusCode)")
-                    DispatchQueue.main.async {
-                        // tell user to authenticate email
-                    }
                     return
                 } else {
                     self.signIn(email, password)

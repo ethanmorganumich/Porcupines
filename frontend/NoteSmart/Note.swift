@@ -1,3 +1,7 @@
+//
+//  Note.swift
+//  NoteSmart
+
 struct Note {
     var title: String?
     var text: String?

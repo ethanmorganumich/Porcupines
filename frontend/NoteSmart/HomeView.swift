@@ -1,5 +1,5 @@
 //
-//  signUpView.swift
+//  HomeView.swift
 //  NoteSmart
 //
 //  Created by Sam Jaehnig on 10/31/22.

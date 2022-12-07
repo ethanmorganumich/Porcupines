@@ -1,5 +1,5 @@
 //
-//  HomeView.swift
+//  ViewManager.swift
 //  NoteSmart
 //
 //  Created by Sam Jaehnig on 10/30/22.

@@ -1,5 +1,5 @@
 //
-//  NewNoteView.swift
+//  NoteViews.swift
 //  NoteSmart
 //
 //  Created by Sam Jaehnig on 11/4/22.
@@ -116,7 +116,6 @@ struct NoteEditor: View {
     @ObservedObject var user_state = UserState.shared
     
     @Binding var note_title: String;
-    @State var note_edited: String = "timestamp";
     @Binding var note_content: String;
     @State var placeholder_title: Bool = true;
     @State var placeholder_content: Bool = true;
@@ -135,7 +134,6 @@ struct NoteEditor: View {
                 }
                 .padding([.bottom], 25)
                 .autocapitalization(.none)
-            GeometryReader { geometry in
                 ScrollView(.vertical){
                     TextEditor(text: $note_content)
                         .font(Font.custom("Inter-Regular", size: 15))
@@ -149,7 +147,6 @@ struct NoteEditor: View {
                         .frame(minHeight: 500)
                 }
                 .frame(minHeight: 500)
-            }
         }
         .frame(width: 300)
     }
@@ -257,7 +254,7 @@ struct TagList: View {
                     }
                     .padding(.bottom, 10)
                     .padding([.leading, .trailing], 20)
-                    .frame(minWidth: geometry.size.width)
+                    .frame(minWidth: geometry.size.width, alignment: .center)
                 }
             }
         }
