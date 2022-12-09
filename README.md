@@ -1,11 +1,11 @@
-# UM EECS441§3&4 F22 Porcupines
+# UM EECS441 F22 Porcupines
 
 | Video  |  Wiki |  Trello  |
 |:-----:|:-----:|:--------:|
 |[<img src="https://eecs441.eecs.umich.edu/img/admin/video.png">][video_page]|[<img src="https://eecs441.eecs.umich.edu/img/admin/wiki.png">][https://github.com/ethanmorganumich/Porcupines/wiki]|[<img src="https://eecs441.eecs.umich.edu/img/admin/trello.png">][https://trello.com/b/DRWdFlf2/porcupines]|
 
-![Elevator Pitch](https://user-images.githubusercontent.com/58456051/133131373-e909da64-93cb-449f-b9f0-3a58dcb1b9db.png) <!-- MUST be placed in user-images.githubusercontent.com -->
-![Team](/assets/team.png)
+![Elevator Pitch](https://github.com/ethanmorganumich/Porcupines/blob/main/images/TitleSlideNoteSmart.png) <!-- MUST be placed in user-images.githubusercontent.com -->
+![Team](https://github.com/ethanmorganumich/Porcupines/blob/main/images/TeamRosterNoteSmart.png)
 
 [video_page]: https://youtu.be/sample
 [wiki_page]: https://github.com/member/team/wiki
