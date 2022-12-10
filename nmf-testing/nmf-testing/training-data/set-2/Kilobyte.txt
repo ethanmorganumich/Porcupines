@@ -1,0 +1,6 @@
+Units of information~
+||||||
+Kilobyte
+||||||
+The kilobyte is a multiple of the unit byte for digital information.
+The International System of Units (SI) defines the prefix kilo as 1000 (103); per this definition, one kilobyte is 1000 bytes. The internationally recommended unit symbol for the kilobyte is kB.In some areas of information technology, particularly in reference to solid-state memory capacity, kilobyte instead typically refers to 1024 (210) bytes. This arises from the prevalence of sizes that are powers of two in modern digital memory architectures, coupled with the accident that 210 differs from 103 by less than 2.5%. A kibibyte is defined by Clause 4 of IEC 80000-13 as 1024 bytes.

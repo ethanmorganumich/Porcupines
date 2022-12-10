@@ -1,0 +1,10 @@
+Programming paradigms~Scripting languages~
+||||||
+Scripting language
+||||||
+A scripting language or script language is a programming language that is used to manipulate, customize, and automate the facilities of an existing system. Scripting languages are usually interpreted at runtime rather than compiled.
+A scripting language's primitives are usually elementary tasks or API calls, and the scripting language allows them to be combined into more programs. Environments that can be automated through scripting include application software, text editors, web pages, operating system shells, embedded systems, and computer games. A scripting language can be viewed as a domain-specific language for a particular environment; in the case of scripting an application, it is also known as an extension language. Scripting languages are also sometimes referred to as very high-level programming languages, as they sometimes operate at a high level of abstraction, or as control languages, particularly for job control languages on mainframes.
+The term scripting language is also used in a wider sense, namely, to refer to dynamic high-level programming languages in general; some are strictly interpreted languages, while others use a form of compilation.
+In this context, the term script refers to a small program in such a language; typically, contained in a single file, and no larger than a few thousand lines of code.
+The spectrum of scripting languages ranges from small to large, and from highly domain-specific language to general-purpose programming languages. A language may start as small and highly domain-specific and later develop into a portable and general-purpose language; conversely, a general-purpose language may later develop special domain-specific dialects.
+

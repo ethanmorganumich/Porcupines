@@ -1,0 +1,24 @@
+Can you write me a packing list for my trip to go skiing?
+
+-Skis 
+-Snowshoes 
+-Gloves 
+-A hat 
+-A scarf 
+-A jacket 
+-A pair of sunglasses 
+-A phone charger 
+-A first-aid kit 
+-A map of the area 
+-A phone 
+-A camera 
+-A whistle 
+-A whistle key ring 
+-A set of headphones 
+-A set of headphones 
+-A set of sunglasses 
+-A set of sunglasses 
+-A set of earrings 
+-A set of earrings 
+-A set of sunglasses 
+-A set of headphones 

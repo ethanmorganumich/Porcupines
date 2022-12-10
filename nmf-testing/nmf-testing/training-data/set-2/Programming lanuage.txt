@@ -1,0 +1,8 @@
+Programming language comparisons~
+||||||
+Comparison of programming languages
+||||||
+Programming languages are used for controlling the behavior of a machine (often a computer). Like natural languages, programming languages follow the rules for syntax and semantics.
+There are thousands of programming languages and new ones are created every year. Few languages ever become sufficiently popular that they are used by more than a few people, but professional programmers may use dozens of languages in a career.
+Most programming languages are not standardized by an international (or national) standard, even widely used ones, such as Perl or Standard ML (despite the name). Notable standardized programming languages include ALGOL, C, C++, JavaScript (under the name ECMAScript), Smalltalk, Prolog, Common Lisp, Scheme (IEEE standard), ISLISP, Ada, Fortran, COBOL, SQL and XQuery.
+

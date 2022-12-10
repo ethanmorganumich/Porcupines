@@ -1,0 +1,12 @@
+What are 10 things I should study for my machine learning exam?
+
+1. Algorithms
+2. Data structures
+3. Neural networks
+4. Machine learning algorithms
+5. Statistics
+6. Neural networks and machine learning models
+7. Python programming language
+8. Data analysis tools        
+9. machine learning libraries and frameworks
+10. Test material

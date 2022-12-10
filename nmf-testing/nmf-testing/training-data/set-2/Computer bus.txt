@@ -1,0 +1,5 @@
+Communication interfaces~Computer buses~Digital electronics~Motherboard~
+||||||
+Bus (computing)
+||||||
+In computer architecture, a bus (shortened form of the Latin omnibus, and historically also called data highway or databus) is a communication system that transfers data between components inside a computer, or between computers. This expression covers all related hardware components (wire, optical fiber, etc.) and software, including communication protocols.Early computer buses were parallel electrical wires with multiple hardware connections, but the term is now used for any physical arrangement that provides the same logical function as a parallel electrical busbar. Modern computer buses can use both parallel and bit serial connections, and can be wired in either a multidrop (electrical parallel) or daisy chain topology, or connected by switched hubs, as in the case of Universal Serial Bus (USB).
