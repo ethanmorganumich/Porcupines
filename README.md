@@ -4,8 +4,8 @@
 |:-----:|:-----:|:--------:|
 |[<img src="https://eecs441.eecs.umich.edu/img/admin/video.png">][video_page]|[<img src="https://eecs441.eecs.umich.edu/img/admin/wiki.png">][wiki_page]|[<img src="https://eecs441.eecs.umich.edu/img/admin/trello.png">][agile_page]|
 
-![Elevator Pitch](https://github.com/ethanmorganumich/Porcupines/blob/main/images/TitleSlideNoteSmart.png) <!-- MUST be placed in user-images.githubusercontent.com -->
-![Team](https://github.com/ethanmorganumich/Porcupines/blob/main/images/TeamRosterNoteSmart.png)
+![Elevator Pitch](https://user-images.githubusercontent.com/55860743/206828320-e7031721-6dad-4557-86e0-072aebf99e22.png) <!-- MUST be placed in user-images.githubusercontent.com -->
+![Team](https://user-images.githubusercontent.com/55860743/206828346-b152c504-f535-4382-8c50-7776a3ac441f.png)
 
 [video_page]: https://www.youtube.com/watch?v=DqzMjKfpLJw
 [wiki_page]: https://github.com/ethanmorganumich/Porcupines/wiki
