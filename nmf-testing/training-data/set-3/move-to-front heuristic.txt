@@ -1,0 +1,6 @@
+Data compression~Lossless compression algorithms~Transforms~
+||||||
+Move-to-front transform
+||||||
+The move-to-front (MTF) transform is an encoding of data (typically a stream of bytes) designed to improve the performance of entropy encoding techniques of compression.  When efficiently implemented, it is fast enough that its benefits usually justify including it as an extra step in data compression algorithm.
+This algorithm was first published by B. Ryabko under the name of "book stack" in 1980. Subsequently, it was rediscovered by J.K. Bentley et al. in 1986, as attested in the explanatory note.

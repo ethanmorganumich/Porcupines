@@ -1,0 +1,6 @@
+Auditory illusions~
+||||||
+Shepard tone
+||||||
+A Shepard tone, named after Roger Shepard, is a sound consisting of a superposition of sine waves separated by octaves. When played with the bass pitch of the tone moving upward or downward, it is referred to as the Shepard scale. This creates the auditory illusion of a tone that seems to continually ascend or descend in pitch, yet which ultimately gets no higher or lower.
+

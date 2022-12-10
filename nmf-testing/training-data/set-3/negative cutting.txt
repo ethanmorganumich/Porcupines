@@ -1,0 +1,7 @@
+Cinematography~Film and video technology~
+||||||
+Negative cutting
+||||||
+Negative cutting (also known as negative matching and negative conforming) is the process of cutting motion picture negative to match precisely the final edit as specified by the film editor. Original camera negative (OCN) is cut with scissors and joined using a film splicer and film cement. Negative cutting is part of the post-production process and occurs after editing and prior to striking internegatives and release prints. The process of negative cutting has changed little since the beginning of cinema in the early 20th century. In the early 1980s computer software was first used to aid the cutting process.  Kodak introduced barcode on motion picture negative in the mid-1990s. This enabled negative cutters to more easily track shots and identify film sections based on keykode.
+Toward the late 1990s and early 2000s negative cutting changed due to the advent of digital cinema technologies such as digital intermediate (DI), digital projection and high-definition television. In some countries, due to the high cost of online suites, negative cutting is still used for commercials by reducing footage. Increasingly feature films are bypassing the negative cutting process altogether and are being scanned directly from the uncut rushes.
+The existence of digital intermediates (DI) has created a new demand for negative cutters to extract selected takes which are cut from the rushes and re-spliced into new rolls (in edit order) to reduce the volume of footage for scanning.

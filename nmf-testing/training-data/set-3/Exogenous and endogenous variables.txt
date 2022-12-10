@@ -1,0 +1,5 @@
+Economic terminology stubs~Economics models~Technical terminology~
+||||||
+Exogenous and endogenous variables
+||||||
+In an economic model, an exogenous variable is one whose measure is determined outside the model and is imposed on the model, and an exogenous change is a change in an exogenous variable.: p. 8 : p. 202 : p. 8 In contrast, an endogenous variable is a variable whose measure is determined by the model. An endogenous change is a change in an endogenous variable in response to an exogenous change that is imposed upon the model.: p. 8 : p. 8 The term endogeneity in econometrics has a related but distinct meaning. An endogenous random variable is correlated with the error term in the econometric model, while an exogenous variable is not.

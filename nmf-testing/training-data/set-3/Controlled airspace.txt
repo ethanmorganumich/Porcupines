@@ -1,0 +1,10 @@
+Air traffic control~Aviation stubs~
+||||||
+Controlled airspace
+||||||
+Controlled airspace is airspace of defined dimensions within which air traffic control (ATC) services are provided. The level of control varies with different classes of airspace. Controlled airspace usually imposes higher weather minimums than are applicable in uncontrolled airspace. It is the opposite of uncontrolled airspace.
+Controlled airspace is established mainly for three different reasons:
+
+high-volume air traffic areas, e.g. near airports
+Instrument flight rules traffic under ATC guidance
+security, e.g. within an Air Defense Identification ZoneControlled airspace usually exists in the immediate vicinity of busier airports, where aircraft used in commercial air transport flights are climbing out from or making an approach to the airport, or at higher levels where air transport flights would tend to cruise.  Some countries also provide controlled airspace almost generally, however in most countries it is common to provide uncontrolled airspace in areas where significant air transport or military activity is not expected.The International Civil Aviation Organization classifies airspace in seven classes, from A to G, in order of decreasing ATC regulation of flights.  Classes A to E are controlled airspace. Flight under instrument flight rules (IFR) is allowed in all controlled airspace. Some countries also permit IFR in uncontrolled airspace). Flight under visual flight rules (VFR) is permitted in all airspace except class A.

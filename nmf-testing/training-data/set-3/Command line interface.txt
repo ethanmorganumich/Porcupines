@@ -1,0 +1,9 @@
+Computing commands~History of human–computer interaction~Software architecture~User interface techniques~User interfaces~Windows commands~
+||||||
+Command-line interface
+||||||
+A command-line interpreter or command-line processor uses a command-line interface (CLI) to receive commands from a user in the form of lines of text. This provides a means of setting parameters for the environment, invoking executables and providing information to them as to what actions they are to perform. In some cases the invocation is conditional based on conditions established by the user or previous executables. Such access was first provided by computer terminals starting in the mid-1960s. This provided an interactive environment not available with punched cards or other input methods.
+Today, many users rely upon graphical user interfaces and menu-driven interactions. However, some programming and maintenance tasks may not have a graphical user interface and use a command line.
+Alternatives to the command-line interface include text-based user interface menus (for example, IBM AIX SMIT), keyboard shortcuts, and various desktop metaphors centered on the pointer (usually controlled with a mouse). Examples of this include the Microsoft Windows, DOS Shell, and Mouse Systems PowerPanel. Command-line interfaces are often implemented in terminal devices that are also capable of screen-oriented text-based user interfaces that use cursor addressing to place symbols on a display screen.
+Programs with command-line interfaces are generally easier to automate via scripting.
+Many software systems implement command-line interfaces for control and operation. This includes programming environments and utility programs.

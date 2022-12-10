@@ -1,0 +1,7 @@
+Persian music~
+||||||
+Koron (music)
+||||||
+The koron (Persian: کرن), meaning "less than lower in pitch", is a symbol used in traditional Persian music in order to lower or "flatten" a written note by an interval smaller than a semitone (broadly corresponding to a quarter tone, or specifically a half flat). It is used to alter the pitch of a written note, similar to that of a sharp or a flat. It is written as a line with an open triangular head at the top-right.
+The koron symbol is positioned in the same manner as other accidentals in Western music, and can even be used in key signatures (see example below).
+In the early 20th century, Iranian master musician Alinaghi Vaziri established the standard usage of this symbol in written music. It is used for notating many of the microtones found in traditional Persian music. A note so altered can be labeled as the note's letter, followed by "koron" (e.g., "B koron", "D koron", etc.). Character representation of this accidental symbol together with Sori encoding (encoded as U+1D1E9 and U+1D1EA) microtones used in modern Iranian classical music added to the Unicode standard in Version 14.0.0.

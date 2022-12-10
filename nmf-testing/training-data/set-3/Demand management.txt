@@ -1,0 +1,6 @@
+Demand~Demand management~Economic planning~Supply chain management~
+||||||
+Demand management
+||||||
+Demand management is a planning methodology used to forecast, plan for and manage the demand for products and services.  This can be at macro-levels as in economics and at micro-levels within individual organizations.  For example, at macro-levels, a government may influence interest rates to regulate financial demand.  At the micro-level, a cellular service provider may provide free night and weekend use to reduce demand during peak hours.
+Demand management has a defined set of processes, capabilities and recommended behaviors for companies that produce goods and services.  Consumer electronics and goods companies often lead in the application of demand management practices to their demand chains; demand management outcomes are a reflection of policies and programs to influence demand as well as competition and options available to users and consumers.  Effective demand management follows the concept of a "closed loop" where feedback from the results of the demand plans is fed back into the planning process to improve the predictability of outcomes.  Many practices reflect elements of systems dynamics.  Volatility is being recognized as significant an issue as the focus on variance of demand to plans and forecasts.

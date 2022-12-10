@@ -1,0 +1,5 @@
+.22 LR rifles~Ammunition~Pistol and rifle cartridges~Shotgun shells~
+||||||
+Garden gun
+||||||
+Garden guns are small bore shotguns commonly used by gardeners and farmers for pest control. They are made to fire small gauges such as .410 bore, 9mm Flobert, or .22 rimfire shot shells. They are short range shotguns that can do little harm past 15 to 20 yards, and they are relatively quiet when fired with rimfire ammunition. These guns are especially suitable for use inside barns and sheds, as the low velocity small shot will not penetrate roof or walls, or injure livestock with a ricochet. Such guns are also used for pest control at airports, warehouses, stockyards, etc.

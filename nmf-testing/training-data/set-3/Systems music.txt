@@ -1,0 +1,7 @@
+Contemporary classical music~Experimental music genres~
+||||||
+Systems music
+||||||
+Systems music is music with sound continua which evolve gradually, often over very long periods of time. Historically, the American minimalists Steve Reich, La Monte Young and Philip Glass are considered the principal proponents of this compositional approach. Works by this group of composers are often characterized by features such as stasis or repetitiveness.
+A number of English experimental composers have also developed systems based music particularly Michael Parsons, Howard Skempton, John White, and Michael Nyman.In the realm of computer music, "systems music" refers to fractal-based, computer-assisted composition, and in particular iterated function systems music, in which a function "is applied repeatedly, each time taking as argument its value at the previous application",
+

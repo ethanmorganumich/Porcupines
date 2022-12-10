@@ -1,0 +1,8 @@
+Musical notation~Pitch (music)~
+||||||
+Flat (music)
+||||||
+In music, flat (Italian bemolle for "soft B") means "lower in pitch". Flat is the opposite of sharp, which is a raising of pitch. In musical notation, flat means "lower in pitch by one semitone (half step)", notated using the symbol ♭ which is derived from a stylised lowercase 'b'. For instance, the music below has a key signature with three flats (indicating either E♭ major or C minor) and the note, D♭, has a flat accidental.
+
+Under twelve-tone equal temperament, D♭ for instance is enharmonically equivalent to C♯, and G♭ is equivalent to F♯. In any other tuning system, such enharmonic equivalences in general do not exist. To allow extended just intonation, composer Ben Johnston uses a sharp as an accidental to indicate a note is raised 70.6 cents (ratio 25:24), and a flat to indicate a note is lowered 70.6 cents.In intonation, flat can also mean "slightly lower in pitch" (by some unspecified amount). If two simultaneous notes are slightly out-of-tune, the lower-pitched one (assuming the higher one is properly pitched) is "flat" with respect to the other. Furthermore, the verb flatten means to lower the pitch of a note, typically by a small musical interval.
+

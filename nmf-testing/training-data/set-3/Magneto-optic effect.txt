@@ -1,0 +1,7 @@
+Electric and magnetic fields in matter~Magneto-optic effects~Optical phenomena~
+||||||
+Magneto-optic effect
+||||||
+A magneto-optic effect is any one of a number of phenomena in which an electromagnetic wave propagates through a medium that has been altered by the presence of a quasistatic magnetic field.   In such a medium, which is also called gyrotropic or gyromagnetic, left- and right-rotating elliptical polarizations can propagate at different speeds, leading to a number of important phenomena.  When light is transmitted through a layer of magneto-optic material, the result is called the Faraday effect: the plane of polarization can be rotated, forming a Faraday rotator.  The results of reflection from a magneto-optic material are known as the magneto-optic Kerr effect (not to be confused with the nonlinear Kerr effect).
+In general, magneto-optic effects break time reversal symmetry  locally (i.e. when only the propagation of light, and not the source of the magnetic field, is considered) as well as Lorentz reciprocity, which is a necessary condition to construct devices such as optical isolators (through which light passes in one direction but not the other).
+Two gyrotropic materials with reversed rotation directions of the two principal polarizations, corresponding to complex-conjugate ε tensors for lossless media, are called optical isomers.

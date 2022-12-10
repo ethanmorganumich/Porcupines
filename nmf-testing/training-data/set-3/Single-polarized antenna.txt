@@ -1,0 +1,8 @@
+Antennas (radio)~Helices~Radio frequency antenna types~
+||||||
+Helical antenna
+||||||
+A helical antenna is an antenna consisting of one or more conducting wires wound in the form of a helix.  A helical antenna made of one helical wire, the most common type, is called monofilar, while antennas with two or four wires in a helix are called bifilar, or quadrifilar, respectively.
+In most cases, directional helical antennas are mounted over a ground plane, while omnidirectional designs may not be. The feed line is connected between the bottom of the helix and the ground plane.  Helical antennas can operate in one of two principal modes: normal or axial.
+In the normal mode or broadside helical antenna, the diameter and the pitch of the aerial are small compared with the wavelength. The antenna acts similarly to an electrically short dipole or monopole, equivalent to a 1/4 wave vertical and the radiation pattern,  similar to these antennas is omnidirectional, with maximum radiation at right angles to the helix axis. For monofilar designs the radiation is linearly polarized parallel to the helix axis.  These are used for compact antennas for portable hand held as well as mobile vehicle mount two-way radios, and in larger scale for UHF television broadcasting antennas. In bifilar or quadrifilar implementations, broadside circularly polarized radiation can be realized.
+In the axial mode or end-fire helical antenna, the diameter and pitch of the helix are comparable to a wavelength.  The antenna functions as a directional antenna radiating a beam off the ends of the helix, along the antenna's axis.  It radiates circularly polarized radio waves.  These are used for satellite communication. Axial mode operation was discovered by physicist John D. Kraus

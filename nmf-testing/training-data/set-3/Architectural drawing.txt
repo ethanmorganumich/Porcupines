@@ -1,0 +1,7 @@
+Architecture~Technical drawing~
+||||||
+Architectural drawing
+||||||
+An architectural drawing or architect's drawing is a technical drawing of a building (or building project) that falls within the definition of architecture. Architectural drawings are used by architects and others for a number of purposes: to develop a design idea into a coherent proposal, to communicate ideas and concepts, to convince clients of the merits of a design, to assist a building contractor to construct it based on design intent, as a record of the design and planned development, or to make a record of a building that already exists.
+Architectural drawings are made according to a set of conventions, which include particular views (floor plan, section etc.), sheet sizes, units of measurement and scales, annotation and cross referencing.
+Historically, drawings were made in ink on paper or similar material, and any copies required had to be laboriously made by hand. The twentieth century saw a shift to drawing on tracing paper so that mechanical copies could be run off efficiently. The development of the computer had a major impact on the methods used to design and create technical drawings, making manual drawing almost obsolete, and opening up new possibilities of form using organic shapes and complex geometry. Today the vast majority of drawings are created using CAD software.

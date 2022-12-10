@@ -1,0 +1,6 @@
+Economic growth~Technological change~
+||||||
+Investment-specific technological progress
+||||||
+Investment-specific technological progress refers to progress that requires investment in new equipment and structures embodying the latest technology in order to realize its benefits. To model the influence of technological change upon production the influence of a technological change upon the specific inputs (i.e. labor and capital) of a production model is assessed in terms of the resulting effect upon the final good of the model (i.e. goods and services). 
+To realize the benefits of such technological change for production a firm must invest to attain the new technology as a component of production. For example, the advent of the microchip (an important technological improvement in computers) will affect the production of Ford cars only if Ford Motor Co.'s assembly plants invest in computers with microchips (instead of computers with punched cards) and use them in the production of a product, i.e. Mustangs. Investment-specific technological progress requires investing in new production inputs which contain or embody the latest technology. Notice that the term investment can be general: not only must a firm buy the new technology to reap its benefits, but it also must invest in training its workers and managers to be able to use this new technology.

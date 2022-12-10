@@ -1,0 +1,10 @@
+Digital systems~Network architecture~Telecommunications equipment~
+||||||
+Digital cross-connect system
+||||||
+A digital cross-connect system (DCS or DXC) is a piece of circuit-switched network equipment, used in telecommunications networks, that allows lower-level TDM bit streams, such as DS0 bit streams, to be rearranged and interconnected among higher-level TDM signals, such as DS1 bit streams. DCS units are available that operate on both older T-carrier/E-carrier bit streams, as well as newer SONET/SDH bit streams.
+DCS devices can be used for "grooming" telecommunications traffic, switching traffic from one circuit to another in the event of a network failure, supporting automated provisioning, and other applications. Having a DCS in a circuit-switched network provides important flexibility that can otherwise only be obtained at higher cost using manual "DSX" cross-connect patch panels.
+It is important to realize that while DCS devices "switch" traffic, they are not packet switches—they switch circuits, not packets, and the circuit arrangements they are used to manage tend to persist over very long time spans, typically months or longer, as compared to packet switches, which can route every packet differently, and operate on micro- or millisecond time spans.
+DCS units are also sometimes colloquially called "DACS" units, after a proprietary brand name of DCS units created and sold by AT&T's Western Electric division, now Alcatel-Lucent.
+Modern digital access and cross-connect systems are not limited to the T-carrier system, and may accommodate high data rates such as those of SONET.
+

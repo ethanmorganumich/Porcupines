@@ -1,0 +1,8 @@
+Compositions in C minor~Minor scales~Musical keys~
+||||||
+C minor
+||||||
+C minor is a minor scale based on C, consisting of the pitches C, D, E♭, F, G, A♭, and B♭. Its key signature consists of three flats. Its relative major is E♭ major and its parallel major is C major.
+The C natural minor scale is:
+
+Changes needed for the melodic and harmonic versions of the scale are written in with accidentals as necessary. The C harmonic minor and melodic minor scales are:

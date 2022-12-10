@@ -1,0 +1,10 @@
+Computer hardware stubs~IAS architecture computers~Lund University~
+||||||
+SMIL (computer)
+||||||
+SMIL (Swedish: Siffermaskinen i Lund, "The Number Machine in Lund") was a first-generation computer built at Lund University in Lund, Sweden. SMIL was based on the IAS architecture developed by John von Neumann.
+Carl-Erik Fröberg belonged to the group of five young Swedish scientists 1947–48 that IVA sent to the U.S. to gather information about the early computer development, and then came to strongly influence the development in Sweden. Fröberg visited with Erik Stemme the Institute for Advanced Study, and John von Neumann's research group. Back in Lund, he played a leading role in the creation of SMIL, which was the first computer developed in Lund and among the first in Sweden. SMIL was introduced in 1956 and then was in operation until 1970.
+In February 1962 SMIL was fitted with a compiler for ALGOL 60. The compiler was constructed by Torgil Ekman and Leif Robertson.
+Carl-Erik Fröberg was also behind the early emergence of numerical analysis as a separate university subject. In this context, he wrote himself and collaborated with others on several textbooks in computer education, for example, Textbook on Numerical Analysis (1962) and Textbook of Algol (1964). These books were widely distributed and translated into several languages.
+Parts of SMIL are exhibited at Malmö Technical Museum.
+On January 4, 2006, an emulator of SMIL named SMILemu was released with a Java and Mac OS X version.

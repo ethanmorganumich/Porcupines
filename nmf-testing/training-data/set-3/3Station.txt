@@ -1,0 +1,5 @@
+Computer workstations~Diskless workstations~
+||||||
+3Station
+||||||
+The 3Station was a diskless workstation, developed by Bob Metcalfe at 3Com and first available in 1986. The 3Station/2E had a 10 MHz 80286 processor, 1 megabyte of RAM (expandable to 5 MB), VGA-compatible graphics with 256 kB of video RAM, and integrated AUI/10BASE2 (BNC) network transceivers for LAN access.  The product used a single printed-circuit board with four custom ASICs.  It had neither a floppy disk drive nor a hard disk; it was booted from a server and stored all end-user files there.3Com advertised "significant cost savings" due to the 3Station's ease of installation and low maintenance (this would now be referred to under the banner of total cost of ownership). The 3Station's cost lay somewhere between that of an IBM PC clone and an IBM PC of the day.  It was not commercially successful, nor were any of the similarly configured "low end" workstations that followed.

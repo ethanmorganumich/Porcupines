@@ -1,0 +1,7 @@
+Common law legal terminology~Juries~
+||||||
+Hung jury
+||||||
+A hung jury, also called a deadlocked jury, is a judicial jury that cannot agree upon a verdict after extended deliberation and is unable to reach the required unanimity or supermajority. Hung jury usually results in the case being tried again.
+This situation can occur only in common law legal systems, because civil law systems either do not use juries at all or provide that the defendant is immediately acquitted if the majority or supermajority required for conviction is not reached during a single, solemn vote.
+

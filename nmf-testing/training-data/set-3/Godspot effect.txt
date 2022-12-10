@@ -1,0 +1,9 @@
+Stage lighting~Stage lighting instruments~Stagecraft stubs~
+||||||
+Godspot
+||||||
+A Godspot is an effect used in stage lighting for the theatre.
+The effect is created using a powerful spotlight (usually a beam projector, Fresnel, or ERS) placed directly above the stage at an angle of less than 10 degrees from vertical, i.e. almost straight down. The light has no color gel, and is usually directed downwards to hit a single actor or a huddled group of actors with a bright white light. 
+The effect is meant to evoke an understanding that God is present and directly watching the scenes proceeding below. Use of the godspot in this fashion often foreshadows a deus ex machina ending.  The godspot can also be used at times to suggest an angelic nature of a particular character.
+Sometimes this effect is used to simulate an alien abduction.
+This is used in the science fiction TV shows Stargate SG-1 and Stargate Atlantis as part of the Asgard transporter effect.

@@ -1,0 +1,11 @@
+Circuit theorems~Linear electronic circuits~
+||||||
+Thévenin's theorem
+||||||
+As originally stated in terms of direct-current resistive circuits only, Thévenin's theorem states that "For any linear electrical network containing only voltage sources, current sources and resistances can be replaced at terminals A–B by an equivalent combination of a voltage source Vth in a series connection with a resistance Rth."
+
+The equivalent voltage Vth is the voltage obtained at terminals A–B of the network with terminals A–B open circuited.
+The equivalent resistance Rth is the resistance that the circuit between terminals A and B would have if all ideal voltage sources in the circuit were replaced by a short circuit and all ideal current sources were replaced by an open circuit.
+If terminals A and B are connected to one another, the current flowing from A to B will be Vth/Rth. This means that Rth could alternatively be calculated as Vth divided by the short-circuit current between A and B when they are connected together.In circuit theory terms, the theorem allows any one-port network to be reduced to a single voltage source and a single impedance.
+The theorem also applies to frequency domain AC circuits consisting of reactive (inductive and capacitive) and resistive impedances. It means the theorem applies for AC in an exactly same way to DC except that resistances are generalized to impedances.
+The theorem was independently derived in 1853 by the German scientist Hermann von Helmholtz and in 1883 by Léon Charles Thévenin (1857–1926), an electrical engineer with France's national Postes et Télégraphes telecommunications organization.Thévenin's theorem and its dual, Norton's theorem, are widely used to make circuit analysis simpler and to study a circuit's initial-condition and steady-state response. Thévenin's theorem can be used to convert any circuit's sources and impedances to a Thévenin equivalent; use of the theorem may in some cases be more convenient than use of Kirchhoff's circuit laws.

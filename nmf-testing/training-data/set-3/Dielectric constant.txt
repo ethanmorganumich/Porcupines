@@ -1,0 +1,8 @@
+Colloidal chemistry~Electric and magnetic fields in matter~Electricity~
+||||||
+Relative permittivity
+||||||
+The relative permittivity (in older texts, dielectric constant) is the permittivity of a material expressed as a ratio with the electric permittivity of a vacuum. A dielectric is an insulating material, and the dielectric constant of an insulator measures the ability of the insulator to store electric energy in an electrical field.
+Permittivity is a material's property that affects the Coulomb force between two point charges in the material. Relative permittivity is the factor by which the electric field between the charges is decreased relative to vacuum.
+Likewise, relative permittivity is the ratio of the capacitance of a capacitor using that material as a dielectric, compared with a similar capacitor that has vacuum as its dielectric. Relative permittivity is also commonly known as the dielectric constant, a term still used but deprecated by standards organizations in engineering as well as in chemistry.
+

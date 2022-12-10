@@ -1,0 +1,192 @@
+Binary arithmetic~Boolean algebra~Logic gates~Programming constructs~
+||||||
+Boolean function
+||||||
+In mathematics, a Boolean function is a function whose arguments and result assume values from a two-element set (usually {true, false}, {0,1} or {-1,1}). Alternative names are switching function, used especially in older computer science literature, and truth function (or logical function), used in logic. Boolean functions are the subject of Boolean algebra and switching theory.A Boolean function takes the form 
+  
+    
+      
+        f
+        :
+        {
+        0
+        ,
+        1
+        
+          }
+          
+            k
+          
+        
+        →
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle f:\{0,1\}^{k}\to \{0,1\}}
+  , where 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle \{0,1\}}
+   is known as the Boolean domain and 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   is a non-negative integer called the arity of the function. In the case where 
+  
+    
+      
+        k
+        =
+        0
+      
+    
+    {\displaystyle k=0}
+  , the function is a constant element of 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle \{0,1\}}
+  . A Boolean function with multiple outputs, 
+  
+    
+      
+        f
+        :
+        {
+        0
+        ,
+        1
+        
+          }
+          
+            k
+          
+        
+        →
+        {
+        0
+        ,
+        1
+        
+          }
+          
+            m
+          
+        
+      
+    
+    {\displaystyle f:\{0,1\}^{k}\to \{0,1\}^{m}}
+   with 
+  
+    
+      
+        m
+        >
+        1
+      
+    
+    {\displaystyle m>1}
+   is a vectorial or vector-valued Boolean function (an S-box in symmetric cryptography).There are 
+  
+    
+      
+        
+          2
+          
+            
+              2
+              
+                k
+              
+            
+          
+        
+      
+    
+    {\displaystyle 2^{2^{k}}}
+   different Boolean functions with 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   arguments; equal to the number of different truth tables with 
+  
+    
+      
+        
+          2
+          
+            k
+          
+        
+      
+    
+    {\displaystyle 2^{k}}
+   entries. 
+Every 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -ary Boolean function can be expressed as a propositional formula in 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   variables 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          x
+          
+            k
+          
+        
+      
+    
+    {\displaystyle x_{1},...,x_{k}}
+  , and two propositional formulas are logically equivalent if and only if they express the same Boolean function.

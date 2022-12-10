@@ -1,0 +1,8 @@
+Bankruptcy~Credit~Insolvency~
+||||||
+Preferential creditor
+||||||
+A preferential creditor (in some jurisdictions called a preferred creditor) is a creditor receiving a preferential right to payment upon the debtor's bankruptcy under applicable insolvency laws.
+In most legal systems, some creditors are given priority over ordinary creditors, either for the whole amount of their claims or up to a certain value. In some legal systems, preferential creditors take priority over all other creditors, including creditors holding security, but more commonly, the preferential creditors are only given priority over unsecured creditors.  Some legal systems operate a hybrid approach; in the United Kingdom preferential creditors have priority over secured creditors whose security is in the nature of a floating charge, but creditors with fixed security take ahead of the preferential creditors generally.
+In English law the concept was first introduced for personal bankruptcy in 1825 pursuant to the Bankruptcy Act 1825, and for companies in 1888 pursuant to the Preferential Payments in Bankruptcy Act 1888.  Prior to that, all unsecured creditors ranked equally and without preference ("pari passu") in a series of statutes stretching back to the Statute of Bankrupts 1542.
+

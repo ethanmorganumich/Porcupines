@@ -1,0 +1,90 @@
+Binary relations~
+||||||
+Binary relation
+||||||
+In mathematics, a binary relation associates elements of one set, called the domain, with elements of another set, called the codomain.  A binary relation over sets X and Y is a new set of ordered pairs (x, y) consisting of elements x in X and y in Y. It is a generalization of the more widely understood idea of a unary function, but with fewer restrictions. It encodes the common concept of relation: an element x is related to an element y, if and only if the pair (x, y) belongs to the set of ordered pairs that defines the binary relation. A binary relation is the most studied special case n = 2 of an n-ary relation over sets X1, ..., Xn, which is a subset of the Cartesian product 
+  
+    
+      
+        
+          X
+          
+            1
+          
+        
+        ×
+        ⋯
+        ×
+        
+          X
+          
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle X_{1}\times \cdots \times X_{n}.}
+  An example of a binary relation is the "divides" relation over the set of prime numbers 
+  
+    
+      
+        
+          P
+        
+      
+    
+    {\displaystyle \mathbb {P} }
+   and the set of integers 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  , in which each prime p is related to each integer z that is a multiple of p, but not to an integer that is not a multiple of p. In this relation, for instance, the prime number 2 is related to numbers such as −4, 0, 6, 10, but not to 1 or 9, just as the prime number 3 is related to 0, 6, and 9, but not to 4 or 13.
+Binary relations are used in many branches of mathematics to model a wide variety of concepts. These include, among others:
+
+the "is greater than", "is equal to", and "divides" relations in arithmetic;
+the "is congruent to" relation in geometry;
+the "is adjacent to" relation in graph theory;
+the "is orthogonal to" relation in linear algebra.A function may be defined as a special kind of binary relation. Binary relations are also heavily used in computer science.
+A binary relation over sets X and Y is an element of the power set of 
+  
+    
+      
+        X
+        ×
+        Y
+        .
+      
+    
+    {\displaystyle X\times Y.}
+   Since the latter set is ordered by inclusion (⊆), each relation has a place in the lattice of subsets of 
+  
+    
+      
+        X
+        ×
+        Y
+        .
+      
+    
+    {\displaystyle X\times Y.}
+   A binary relation is called a homogeneous relation when X = Y. A binary relation is also called a heterogeneous relation when it is not necessary that X = Y.
+Since relations are sets, they can be manipulated using set operations, including union, intersection, and complementation, and satisfying the laws of an algebra of sets. Beyond that, operations like the converse of a relation and the composition of relations are available, satisfying the laws of a calculus of relations, for which there are textbooks by Ernst Schröder, Clarence Lewis, and Gunther Schmidt. A deeper analysis of relations involves decomposing them into subsets called concepts, and placing them in a complete lattice.
+In some systems of axiomatic set theory, relations are extended to classes, which are generalizations of sets. This extension is needed for, among other things, modeling the concepts of "is an element of" or "is a subset of" in set theory, without running into logical inconsistencies such as Russell's paradox.
+The terms correspondence, dyadic relation and two-place relation are synonyms for binary relation, though some authors use the term "binary relation" for any subset of a Cartesian product 
+  
+    
+      
+        X
+        ×
+        Y
+      
+    
+    {\displaystyle X\times Y}
+   without reference to X and Y, and reserve the term "correspondence" for a binary relation with reference to X and Y.

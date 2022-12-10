@@ -1,0 +1,5 @@
+Causal fallacies~Cognitive biases~Heuristics~Inductive fallacies~Prospect theory~
+||||||
+Availability heuristic
+||||||
+The availability heuristic, also known as availability bias, is a mental shortcut that relies on immediate examples that come to a given person's mind when evaluating a specific topic, concept, method, or decision. This heuristic, operating on the notion that, if something can be recalled, it must be important, or at least more important than alternative solutions not as readily recalled, is inherently biased toward recently acquired information.The mental availability of an action's consequences is positively related to those consequences' perceived magnitude. In other words, the easier it is to recall the consequences of something, the greater those consequences are often perceived to be. Most notably, people often rely on the content of their recall if its implications are not called into question by the difficulty they have in recalling it.

@@ -1,0 +1,8 @@
+Intervals (music)~
+||||||
+Subminor and supermajor
+||||||
+In music, a subminor interval is an interval that is noticeably wider than a diminished interval but noticeably narrower than a minor interval. It is found in between a minor and diminished interval, thus making it below, or subminor to, the minor interval. A supermajor interval is a musical interval that is noticeably wider than a major interval but noticeably narrower than an augmented interval. It is found in between a major and augmented interval, thus making it above, or supermajor to, the major interval. The inversion of a supermajor interval is a subminor interval, and there are four major and four minor intervals, allowing for eight supermajor and subminor intervals, each with variants.
+
+Traditionally, "supermajor and superminor, [are] the names given to certain thirds [9:7 and 17:14] found in the justly intoned scale with a natural or subminor seventh."
+

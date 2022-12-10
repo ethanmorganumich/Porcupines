@@ -1,0 +1,6 @@
+5-limit tuning and intervals~Heptatonic scales~Ptolemy~
+||||||
+Ptolemy's intense diatonic scale
+||||||
+Ptolemy's intense diatonic scale, also known as the Ptolemaic sequence,justly tuned major scale,Ptolemy's tense diatonic scale, or the syntonous (or  syntonic) diatonic scale, is a tuning for the diatonic scale proposed by Ptolemy, and corresponding with modern 5-limit just intonation.This tuning was declared by Zarlino to be the only tuning that could be reasonably sung, it was also supported by Giuseppe Tartini, and is equivalent to Indian Gandhar tuning which features exactly the same intervals.
+It is produced through a tetrachord consisting of a greater tone (9:8), lesser tone (10:9), and just diatonic semitone (16:15). This is called Ptolemy's intense diatonic tetrachord (or "tense"), as opposed to Ptolemy's soft diatonic tetrachord (or "relaxed"), which is formed by 21:20, 10:9 and 8:7 intervals.

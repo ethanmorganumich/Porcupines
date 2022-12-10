@@ -1,0 +1,31 @@
+Energy~Energy economics~Environmental social science~Resource economics~
+||||||
+Energy economics
+||||||
+Energy economics is a broad scientific subject area which includes topics related to supply and use of energy in societies. Considering the cost of energy services and associated value gives economic meaning to the efficiency at which energy can be produced. Energy services can be defined as functions that generate and provide energy to the “desired end services or states”. The efficiency of energy services is dependent on the engineered technology used to produce and supply energy. The goal is to minimise energy input required (e.g. kWh, mJ, see Units of Energy) to produce the energy service, such as lighting (lumens), heating (temperature) and fuel (natural gas). The main sectors considered in energy economics are transportation and building, although it is relevant to a broad scale of human activities, including households and businesses at a microeconomic level and resource management and environmental impacts at a macroeconomic level.
+Due to diversity of issues and methods applied and shared with a number of academic disciplines, energy economics does not present itself as a self-contained academic discipline, but it is an applied subdiscipline of economics. From the list of main topics of economics, some relate strongly to energy economics:
+
+Computable general equilibrium
+Econometrics
+Environmental economics
+Finance
+Industrial organization
+Input–output model
+Microeconomics
+Macroeconomics
+Operations research
+Resource economicsEnergy economics also draws heavily on results of energy engineering, geology, political sciences, ecology etc. Recent focus of energy economics includes the following issues:
+
+Climate change and climate policy
+Demand response
+Elasticity of supply and demand in energy market
+Energy and economic growth
+Energy derivatives
+Energy elasticity
+Energy forecasting
+Energy markets and electricity markets  - liberalisation, (de- or re-) regulation
+Economics of energy infrastructure
+Energy policy
+Environmental policy
+Risk analysis and security of supply
+SustainabilitySome institutions of higher education (universities) recognise energy economics as a viable career opportunity, offering this as a curriculum. The University of Cambridge, Massachusetts Institute of Technology and the  Vrije Universiteit Amsterdam are the top three research universities, and Resources for the Future the top research institute. There are numerous other research departments, companies and professionals offering energy economics studies and consultations.

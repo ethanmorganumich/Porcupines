@@ -1,0 +1,8 @@
+Radio modulation modes~
+||||||
+Phase modulation
+||||||
+Phase modulation (PM) is a modulation pattern for conditioning communication signals for transmission. It encodes a message signal as variations in the instantaneous phase of a carrier wave. Phase modulation is one of the two principal forms of angle modulation, together with frequency modulation.
+In phase modulation, the instantaneous amplitude of the baseband signal modifies the phase of the carrier signal keeping its amplitude and frequency constant. The phase of a carrier signal is modulated to follow the changing signal level (amplitude) of the message signal. The peak amplitude and the frequency of the carrier signal are maintained constant, but as the amplitude of the message signal changes, the phase of the carrier changes correspondingly.
+Phase modulation is widely used for transmitting radio waves and is an integral part of many digital transmission coding schemes that underlie a wide range of technologies like Wi-Fi, GSM and satellite television. It is also used for signal and waveform generation in digital synthesizers, such as the Yamaha DX7, to implement FM synthesis. A related type of sound synthesis called phase distortion is used in the Casio CZ synthesizers.
+

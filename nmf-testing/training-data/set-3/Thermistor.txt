@@ -1,0 +1,7 @@
+Heating, ventilation, and air conditioning~Resistive components~Sensors~Thermometers~
+||||||
+Thermistor
+||||||
+A thermistor is a type of resistor whose resistance is strongly dependent on temperature, more so than in standard resistors. The word thermistor is a portmanteau of thermal and resistor.
+Thermistors are divided based on their conduction model. Negative Temperature Coefficient (NTC) thermistors have less resistance at higher temperatures, while Positive Temperature Coefficient (PTC) thermistors have more resistance at higher temperatures. Hence, a PTC thermistor's resistance is directly proportional to temperature.
+NTC thermistor are widely used as inrush current limiters, temperature sensors, while PTC thermistors are used as self-resetting overcurrent protectors, and self-regulating heating elements. An operational temperature range of a thermistor is dependent on the probe type and is typically between −100 °C and 300 °C (−148 °F and 572 °F).

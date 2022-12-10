@@ -1,0 +1,7 @@
+Contract law~Kitchen~Product return~
+||||||
+Warranty
+||||||
+In contract law, a warranty is a promise which is not a condition of the contract or an innominate term: (1) it is a term "not going to the root of the contract", and (2) which only entitles the innocent party to damages if it is breached: i.e. the warranty is not true or the defaulting party does not perform the contract in accordance with the terms of the warranty. A warranty is not a guarantee. It is a mere promise. It may be enforced if it is breached by an award for the legal remedy of damages.
+A warranty is a term of a contract. Depending on the terms of the contract, a product warranty may cover a product such that a manufacturer provides a warranty to a consumer with which the manufacturer has no direct contractual relationship.
+A warranty may be express or implied. An express warranty is expressly stated (typically, written); whether or not a term will be implied into a contract depends on the particular contract law of the country in question.  Warranties may also state that a particular fact is true at one point in time or that the fact will continue into the future (a "continuing warranty").

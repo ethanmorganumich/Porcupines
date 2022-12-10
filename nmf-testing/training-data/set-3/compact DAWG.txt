@@ -1,0 +1,8 @@
+Finite automata~Graph data structures~String data structures~
+||||||
+Deterministic acyclic finite state automaton
+||||||
+In computer science, a deterministic acyclic finite state automaton (DAFSA),
+also called a directed acyclic word graph (DAWG; though that name also refers to a related data structure that functions as a suffix index)
+is a data structure that represents a set of strings, and allows for a query operation that tests whether a given string belongs to the set in time proportional to its length. Algorithms exist to construct and maintain such automata, while keeping them minimal.
+A DAFSA is a special case of a finite state recognizer that takes the form of a directed acyclic graph with a single source vertex (a vertex with no incoming edges), in which each edge of the graph is labeled by a letter or symbol, and in which each vertex has at most one outgoing edge for each possible letter or symbol. The strings represented by the DAFSA are formed by the symbols on paths in the graph from the source vertex to any sink vertex (a vertex with no outgoing edges). In fact, a deterministic finite state automaton is acyclic if and only if it recognizes a finite set of strings.

@@ -1,0 +1,6 @@
+Model checking~Temporal logic~Transition systems~
+||||||
+Kripke structure (model checking)
+||||||
+This article describes Kripke structures as used in model checking. For a more general description, see Kripke semantics.A Kripke structure is a variation of the transition system, originally proposed by Saul Kripke, used in model checking to represent the behavior of a system.
+It consists of a graph whose nodes represent the reachable states of the system and whose edges represent state transitions, together with a labelling function which maps each node to a set of properties that hold in the corresponding state. Temporal logics are traditionally interpreted in terms of Kripke structures.

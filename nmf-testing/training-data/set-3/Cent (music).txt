@@ -1,0 +1,6 @@
+100 (number)~Equal temperaments~Intervals (music)~Logarithmic scales of measurement~Units of measurement~
+||||||
+Cent (music)
+||||||
+The cent is a logarithmic unit of measure used for musical intervals. Twelve-tone equal temperament divides the octave into 12 semitones of 100 cents each. Typically, cents are used to express small intervals, or to compare the sizes of comparable intervals in different tuning systems, and in fact the interval of one cent is too small to be perceived between successive notes.
+Cents, as described by Alexander John Ellis, follow a tradition of measuring intervals by logarithms that began with Juan Caramuel y Lobkowitz in the 17th century. Ellis chose to base his measures on the hundredth part of a semitone, 1200√2,  at Robert Holford Macdowell Bosanquet's suggestion. He made extensive measurements of musical instruments from around the world, using cents extensively to report and compare the scales employed, and further described and employed the system in his 1875 edition of Hermann von Helmholtz's On the Sensations of Tone. It has become the standard method of representing and comparing musical pitches and intervals.

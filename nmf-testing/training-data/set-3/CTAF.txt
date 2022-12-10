@@ -1,0 +1,8 @@
+Airbands~Aviation stubs~Avionics~
+||||||
+Common traffic advisory frequency
+||||||
+Common traffic advisory frequency (CTAF) is the name given to the VHF radio frequency used for air-to-air communication at United States, Canadian and Australian non-towered airports.
+Many towered airports close their towers overnight, keeping the airport open for cargo operations and other activity. Pilots use the common frequency to coordinate their arrivals and departures safely, giving position reports and acknowledging other aircraft in the airfield traffic pattern.
+In many locations, smaller airports use pilot-controlled lighting systems when it is uneconomical or inconvenient to have automated systems or staff to turn on the taxiway and runway lights. In Canada, the lighting system is accessed through an aircraft radio control of aerodrome lighting (ARCAL) frequency, which is often shared with the CTAF.
+Two common CTAF allocations are UNICOM and MULTICOM. UNICOM is a licensed non-government base station that provides air-to-ground and ground-to-air communication, and may also serve as a CTAF when in operation. MULTICOM is a frequency allocation without a physical base station that is reserved as a CTAF for airports without other facilities.

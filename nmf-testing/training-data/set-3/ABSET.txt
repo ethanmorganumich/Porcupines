@@ -1,0 +1,5 @@
+Declarative programming languages~Programming language topic stubs~
+||||||
+ABSET
+||||||
+ABSET was an early declarative programming language from the University of Aberdeen.

@@ -1,0 +1,9 @@
+Articulations (music)~Italian words and phrases~String performance techniques~
+||||||
+Pizzicato
+||||||
+Pizzicato (, Italian: [pittsiˈkaːto]; translated as "pinched", and sometimes roughly as "plucked") is a playing technique that involves plucking the strings of a string instrument. The exact technique varies somewhat depending on the type of instrument :
+
+On bowed string instruments it is a method of playing by plucking the strings with the fingers, rather than using the bow. This produces a very different sound from bowing, short and percussive rather than sustained.
+On keyboard string instruments, such as the piano, pizzicato may be employed (although rarely seen in traditional repertoire, this technique has been normalized in contemporary music, with ample examples by George Crumb, Toru Takemitsu, Helmut Lachenmann, and others) as one of the variety of techniques involving direct manipulation of the strings known collectively as "string piano".
+On the guitar, it is a muted form of plucking, which bears an audible resemblance to pizzicato on a bowed string instrument with its relatively shorter sustain. It is also known (especially in non-classical guitar) as palm muting.When a string is struck or plucked, as with pizzicato, sound waves are generated that do not belong to a harmonic series as when a string is bowed.  This complex timbre is called inharmonicity.  The inharmonicity of a string depends on its physical characteristics, such as tension, composition, diameter and length.  The inharmonicity disappears when strings are bowed because the bow's stick-slip action is periodic, so it drives all of the resonances of the string at exactly harmonic ratios, even if it has to drive them slightly off their natural frequency.

@@ -1,0 +1,7 @@
+Cinematic techniques~
+||||||
+Day for night
+||||||
+Day for night is a set of cinematic techniques used to simulate a night scene while filming in daylight. It is often employed when it is too difficult or expensive to actually shoot during nighttime. Because both film stocks and digital image sensors lack the sensitivity of the human eye in low light conditions, night scenes recorded in natural light, with or without moonlight, may be underexposed to the point where little or nothing is visible. This problem can be avoided by using daylight to substitute for darkness. When shooting day for night, the scene is typically underexposed in-camera or darkened during post-production, with a blue tint added. Additional effects are often used to heighten the impression of night.
+As film stocks and video cameras have improved in light sensitivity, shooting day for night has become less common in recent years.
+

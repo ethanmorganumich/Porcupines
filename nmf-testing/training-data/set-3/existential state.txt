@@ -1,0 +1,5 @@
+Models of computation~
+||||||
+Alternating Turing machine
+||||||
+In computational complexity theory, an alternating Turing machine (ATM) is a non-deterministic Turing machine (NTM) with a rule for accepting computations that generalizes the rules used in the definition of the complexity classes NP and co-NP.  The concept of an ATM was set forth by Chandra and Stockmeyer and independently by Kozen in 1976, with a joint journal publication in 1981.

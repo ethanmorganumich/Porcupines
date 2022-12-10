@@ -1,0 +1,6 @@
+Financial markets~Financial metadata~
+||||||
+Corporate action
+||||||
+A corporate action is an event initiated by a public company that brings or could bring an actual change to the securities—equity or debt—issued by the company. Corporate actions are typically agreed upon by a company's board of directors and authorized by the shareholders. For some events, shareholders or bondholders are permitted to vote on the event. Examples of corporate actions include stock splits, dividends, mergers and acquisitions, rights issues, and spin-offs.Some corporate actions such as a dividend (for equity securities) or coupon payment (for debt securities) may have a direct financial impact on the shareholders or bondholders; another example is a call (early redemption) of a debt security. Other corporate actions such as stock split may have an indirect financial impact, as the increased liquidity of shares may cause the price of the stock to decrease. Some corporate actions, such as name changes or ticker symbol changes to better reflect a company's business focus, have no direct financial impact on the shareholders; securities may be listed under a different security identifier (e.g. ISIN, CUSIP, Sedol) however. For example, "Apple Computers" changed its name to Apple Inc.
+

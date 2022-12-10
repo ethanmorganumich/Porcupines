@@ -1,0 +1,9 @@
+Logic families~
+||||||
+Logic family
+||||||
+In computer engineering, a logic family is one of two related concepts:
+
+A logic family of monolithic digital integrated circuit devices is a group of electronic logic gates constructed using one of several different designs, usually with compatible logic levels and power supply characteristics within a family. Many logic families were produced as individual components, each containing one or a few related basic logical functions, which could be used as "building-blocks" to create systems  or as so-called "glue" to interconnect more complex integrated circuits.
+A logic family may also be a set of techniques used to implement logic within VLSI integrated circuits such as central processors, memories, or other complex functions. Some such logic families use static techniques to minimize design complexity. Other such logic families, such as domino logic, use clocked dynamic techniques to minimize size, power consumption and delay.Before the widespread use of integrated circuits, various solid-state and vacuum-tube logic systems were used but these were never as standardized and interoperable as the integrated-circuit devices. The most common logic family in modern semiconductor devices is metal–oxide–semiconductor (MOS) logic, due to low power consumption, small transistor sizes, and high transistor density.
+

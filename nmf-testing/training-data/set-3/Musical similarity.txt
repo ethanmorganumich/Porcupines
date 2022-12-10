@@ -1,0 +1,21 @@
+Music theory~Music theory stubs~
+||||||
+Musical similarity
+||||||
+The notion of musical similarity is particularly complex because there are numerous dimensions of similarity. If similarity takes place between different fragments from one musical piece, a musical similarity implies a repetition of the first occurring fragment. As well, eventually, the similarity does not occur by direct repetition, but by presenting in two (or more) set of relations, some common values or patterns. Objective musical similarity can be based on musical features such as:
+Pitched parameters
+
+Pitch interval similarity
+Melodic similarity
+Modulation pattern similarity
+Timbral similarityNon-pitched parameters
+
+Metrical structure similarity
+Rhythmic pattern similarity
+Section structure similaritySemiotic parameters
+
+Modality structure similarity
+Extensional similarity
+Intensional similarityNevertheless, similarity can be based also on less objective features such as musical genre, personal history, social context (e.g. music from the 1960s), and a priori knowledge.
+Similarity is relevant also in music information retrieval.
+Finally, musical similarity can be extended to the comparison between musical gestures in performance and composition.

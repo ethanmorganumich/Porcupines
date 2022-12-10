@@ -1,0 +1,5 @@
+Computational problems in graph theory~NP-complete problems~
+||||||
+Feedback vertex set
+||||||
+In the mathematical discipline of graph theory, a feedback vertex set (FVS) of a graph is a set of vertices whose removal leaves a graph without cycles ("removal" means deleting the vertex and all edges adjacent to it). Equivalently, each FVS contains at least one vertex of any cycle in the graph. The feedback vertex set number of a graph is the size of a smallest feedback vertex set. The minimum feedback vertex set problem is an NP-complete problem; it was among the first problems shown to be NP-complete. It has wide applications in operating systems, database systems, and VLSI chip design.

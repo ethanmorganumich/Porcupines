@@ -1,0 +1,6 @@
+1939 introductions~Law and economics~Pareto efficiency~Welfare economics~
+||||||
+Kaldor–Hicks efficiency
+||||||
+A Kaldor–Hicks improvement, named for Nicholas Kaldor and John Hicks, is an economic re-allocation of resources among people that captures some of the intuitive appeal of a Pareto improvement, but has less stringent criteria and is hence applicable to more circumstances. A re-allocation is a Kaldor–Hicks improvement if those that are made better off could hypothetically compensate those that are made worse off and lead to a Pareto-improving outcome. The compensation does not actually have to occur (there is no presumption in favor of status-quo) and thus, a Kaldor–Hicks improvement can in fact leave some people worse off.
+A situation is said to be Kaldor–Hicks efficient, or equivalently is said to satisfy the Kaldor–Hicks criterion, if no potential Kaldor–Hicks improvement from that situation exists. If an outcome is the highest it could possibly be, it is called a Hicks-optimal outcome. A Hicks optimal outcome is always Pareto efficient.

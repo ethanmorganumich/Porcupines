@@ -1,0 +1,7 @@
+American National Standards Institute standards~Computer standards~Ecma standards~ISO standards~Text user interface~
+||||||
+ANSI escape code
+||||||
+ANSI escape sequences are a standard for in-band signaling to control cursor location, color, font styling, and other options on video text terminals and terminal emulators. Certain sequences of bytes, most starting with an ASCII escape character and a bracket character, are embedded into text.  The terminal interprets these sequences as commands, rather than text to display verbatim.
+ANSI sequences were introduced in the 1970s to replace vendor-specific sequences and became widespread in the computer equipment market by the early 1980s. They are used in development, scientific, commercial text-based applications as well as bulletin board systems to offer standardized functionality.
+Although hardware text terminals have become increasingly rare in the 21st century, the relevance of the ANSI standard persists because a great majority of terminal emulators and command consoles interpret at least a portion of the ANSI standard.

@@ -1,0 +1,6 @@
+Antennas~Telecommunication theory~
+||||||
+Electrical length
+||||||
+In telecommunications and electrical engineering, electrical length (or phase length)
+refers to the length of an electrical conductor in terms of the phase shift introduced by transmission over that conductor at some frequency.

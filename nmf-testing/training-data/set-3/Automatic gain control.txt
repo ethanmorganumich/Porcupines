@@ -1,0 +1,5 @@
+Analog circuits~Biophysics~Communication circuits~Radar signal processing~Radio technology~
+||||||
+Automatic gain control
+||||||
+Automatic gain control (AGC) is a closed-loop feedback regulating circuit in an amplifier or chain of amplifiers, the purpose of which is to maintain a suitable signal amplitude at its output, despite variation of the signal amplitude at the input. The average or peak output signal level is used to dynamically adjust the gain of the amplifiers, enabling the circuit to work satisfactorily with a greater range of input signal levels. It is used in most radio receivers to equalize the average  volume (loudness) of different radio stations due to differences in received signal strength,   as well as variations in a single station's radio signal due to  fading.  Without AGC the sound emitted from an AM radio receiver would vary to an extreme extent from a weak to a strong signal; the AGC effectively reduces the volume if the signal is strong and raises it when it is weaker.  In a typical receiver the AGC feedback control signal is usually taken from the detector stage and applied to control the gain of the IF or RF amplifier stages.

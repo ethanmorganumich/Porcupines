@@ -1,0 +1,6 @@
+AC power~
+||||||
+Polyphase system
+||||||
+A polyphase system is a means of distributing alternating-current (AC) electrical power where the power transfer is constant during each electrical cycle. AC phase refers to the phase offset value (in degrees) between AC in multiple conducting wires; phases may also refer to the corresponding terminals and conductors, as in color codes. Polyphase systems have three or more energized electrical conductors carrying alternating currents with a defined phase between the voltage waves in each conductor; for three-phase voltage, the phase angle is 120° or 2π/3 radians (although early systems used 4 wire two-phase).  Polyphase systems are particularly useful for transmitting power to electric motors which rely on alternating current to rotate. The most common example is the three-phase power system used for industrial applications and for power transmission.  Compared to a single-phase, two-wire system, a three-phase three-wire system transmits three times as much power for the same conductor size and  voltage.    
+Systems with more than three phases are often used for rectifier and power conversion systems, and have been studied for power transmission.

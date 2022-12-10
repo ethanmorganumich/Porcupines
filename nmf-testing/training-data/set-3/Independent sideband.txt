@@ -1,0 +1,7 @@
+Radio modulation modes~
+||||||
+Independent sideband
+||||||
+Independent sideband (ISB) is an AM single sideband mode which is used with some AM radio transmissions.  Normally each sideband carries identical information, but ISB modulates two different input signals — one on the upper sideband, the other on the lower sideband.  This is used in some kinds of AM stereo (sometimes known as the Kahn system).
+ISB is a compromise between double sideband (DSB) and single sideband (SSB) — the other is vestigial sideband (VSB).  If the sidebands are out of phase with each other, then phase modulation (PM) of the carrier occurs.  AM and PM together then create quadrature amplitude modulation (QAM).  ISB may or may not have the carrier suppressed.
+Suppressed-carrier ISB was employed in point-to-point (usually overseas) radiotelephony and radioteletype by shortwave (HF). In military use, ISB usually referred to a close pair of FSK radioteletype channels which could be demodulated by a single receiver, and employed in fleet broadcast, point-to-point, and between larger vessels and shore stations on HF and UHF.

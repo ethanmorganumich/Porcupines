@@ -1,0 +1,5 @@
+Graph theory objects~Planar graphs~Trees (graph theory)~
+||||||
+Blossom tree (graph theory)
+||||||
+In the study of planar graphs, blossom trees are trees with additional directed half edges. Each blossom tree is associated with an embedding of a planar graph. Blossom trees can be used to sample random planar graphs.

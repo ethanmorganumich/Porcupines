@@ -1,0 +1,5 @@
+Sorting algorithms~
+||||||
+Adaptive sort
+||||||
+A sorting algorithm falls into the adaptive sort family if it takes advantage of existing order in its input.  It benefits from the presortedness in the input sequence – or a limited amount of disorder for various definitions of measures of disorder – and sorts faster.  Adaptive sorting is usually performed by modifying existing sorting algorithms.

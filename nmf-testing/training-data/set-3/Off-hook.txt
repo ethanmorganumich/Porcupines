@@ -1,0 +1,5 @@
+Telephony signals~
+||||||
+On- and off-hook
+||||||
+In telephony, on-hook and off-hook are two states of a communication circuit. On subscriber telephones the states are produced by placing the handset onto or off the hookswitch. Placing the circuit into the off-hook state is also called seizing the line. Off-hook originally referred to the condition that prevailed when telephones had a separate earpiece (receiver), which hung from its switchhook until the user initiated a telephone call by removing it. When off hook the weight of the receiver no longer depresses the spring-loaded switchhook, thereby connecting the instrument to the telephone line.

@@ -1,0 +1,15 @@
+Dichotomies~Logical connectives~Semantics~
+||||||
+Exclusive or
+||||||
+Exclusive or or exclusive disjunction is a logical operation that is true if and only if its arguments differ (one is true, the other is false).It is symbolized by the prefix operator J and by the infix operators XOR ( or ), EOR, EXOR, ⊻, ⩒, ⩛, ⊕, 
+  
+    
+      
+        ↮
+      
+    
+    {\displaystyle \nleftrightarrow }
+  , and ≢. The negation of XOR is the logical biconditional, which yields true if and only if the two inputs are the same.
+It gains the name "exclusive or" because the meaning of "or" is ambiguous when both operands are true; the exclusive or operator excludes that case. This is sometimes thought of as "one or the other but not both". This could be written as "A or B, but not, A and B".
+Since it is associative, it may be considered to be an n-ary operator which is true if and only if an odd number of arguments are true. That is, a XOR b XOR ... may be treated as XOR(a,b,...).

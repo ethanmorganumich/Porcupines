@@ -1,0 +1,9 @@
+Hemitonic scales~Japan music stubs~Pentatonic scales~
+||||||
+Insen scale
+||||||
+Insen (or In Sen; kanji: 陰旋; hiragana: いんせん) is a tuning scale adapted from shamisen music by Yatsuhashi Kengyō for tuning of the koto. It only differs from the hirajoshi scale by one note.
+In D mode it consists of: D-E♭-G-A-C so it has the same notes as the Phrygian chord (7sus♭9). 
+Other chords compatible with insen scale include M7♯11 when the scale is played half steps lower (for example B in sen scale for CM7♯11 chord) and Cm6 and Cm when the scale is played one full step above (for example D insen with Cm6 or Cm chord).
+In India's Carnatic music, this scale corresponds to Revati.
+Other scales related to koto instrument include the Hirajoshi, Iwato and Kumoi-choshi scales.

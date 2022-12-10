@@ -1,0 +1,10 @@
+32-bit microprocessors~68k microprocessors~Computer-related introductions in 1979~Instruction set architectures~Products and services discontinued in 1996~
+||||||
+Motorola 68000
+||||||
+The Motorola 68000 (sometimes shortened to Motorola 68k or m68k and usually pronounced "sixty-eight-thousand") is a 16/32-bit complex instruction set computer (CISC) microprocessor, introduced in 1979 by Motorola Semiconductor Products Sector.
+The design implements a 32-bit instruction set, with 32-bit registers and a 16-bit internal data bus. The address bus is 24 bits and does not use memory segmentation, which made it easier to program for. Internally, it uses a 16-bit data arithmetic logic unit (ALU) and two more 16-bit ALUs used mostly for addresses, and has a 16-bit external data bus. For this reason, Motorola termed it a 16/32-bit processor.
+As one of the first widely available processors with a 32-bit instruction set, and running at relatively high speeds for the era, the 68k was a popular design through the 1980s. It was widely used in a new generation of personal computers with graphical user interfaces, including the Macintosh 128K, Amiga, Atari ST, and X68000. The 1988 Sega Genesis/Mega Drive console is also powered by a 68000.
+The 68000 was followed by additional processors implementing full 32-bit ALUs as part of the growing Motorola 68000 series. The original 68k is generally software forward-compatible with the rest of the line despite being limited to a 16-bit wide external bus.
+
+After 43 years in production, the 68000 architecture is still in use.

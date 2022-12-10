@@ -1,0 +1,8 @@
+Photodetectors~
+||||||
+Ambient light sensor
+||||||
+An ambient light sensor is a component in smartphones, notebooks, other mobile devices, automotive displays and LCD TVs. It is a photodetector that is used to sense the amount of ambient light present, and appropriately dim the device's screen to match it. This avoids having the screen be too bright when the user's pupils are adapted for vision in a dark room, or too dim when the device is used outdoors in the daytime. Dimming the screen on a mobile device also prolongs the lifetime of the battery. 
+The standard international unit for the illuminance of ambient light is the lux. The typical performance of an ambient light sensor is from less than 50 lux in dim light to over 10,000 lux at noon.There are three common types of ambient light sensor: phototransistors, photodiodes, and  photonic integrated circuits, which integrate a photodetector and an amplifier in one device. 
+By the end of 2004, about 30% of phones sold in Europe had ambient light sensors, while in 2016, 85% had a built-in ambient light sensor.
+

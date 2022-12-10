@@ -1,0 +1,5 @@
+1932 in economics~Consumer theory~Elasticity (economics)~
+||||||
+Elasticity of substitution
+||||||
+Elasticity of substitution is the ratio of percentage change in capital-labour ratio with the percentage change in Marginal Rate of Technical Substitution.  In a competitive market, it measures the percentage change in the two inputs used in response to a percentage change in their prices. It gives a measure of the curvature of an isoquant, and thus, the substitutability between inputs (or goods), i.e. how easy it is to substitute one input (or good) for the other.

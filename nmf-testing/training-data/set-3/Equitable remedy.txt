@@ -1,0 +1,27 @@
+Equitable defenses~Equity (law)~Judicial remedies~
+||||||
+Equitable remedy
+||||||
+Equitable remedies are judicial remedies developed by courts of equity from about the time of Henry VIII to provide more flexible responses to changing social conditions than was possible in precedent-based common law.
+Equitable remedies were granted by the Court of Chancery in England, and remain available today in most common law jurisdictions. In many jurisdictions, legal and equitable remedies have been merged and a single court can issue either, or both, remedies. Despite widespread judicial merger, the distinction between equitable and legal remedies remains relevant in a number of significant instances. Notably, the United States Constitution's Seventh Amendment preserves the right to a jury trial in civil cases over $20 to cases "at common law".
+Equity is said to operate on the conscience of the defendant, so an equitable remedy is always directed at a particular person, and that person's knowledge, state of mind and motives may be relevant to whether a remedy should be granted or not.
+Equitable remedies are distinguished from "legal" remedies (which are available to a successful claimant as of right) by the discretion of the court to grant them. In common law jurisdictions, there are a variety of equitable remedies, but the principal remedies are:
+
+injunction
+specific performance
+account of profits
+rescission
+rectification
+equitable estoppel
+certain proprietary remedies, such as constructive trusts
+subrogation
+in very specific circumstances, an equitable lien.
+equitable compensation
+appointment or removal of fiduciary
+interpleader
+equitable tracing as a remedy for unjust enrichmentThe two main equitable remedies are injunctions and specific performance, and in casual legal parlance references to equitable remedies are often expressed as referring to those two remedies alone.  Injunctions may be mandatory (requiring a person to do something) or prohibitory (stopping them doing something). Specific performance requires a party to perform a contract, for example by transferring a piece of land to the claimant. The award of specific performance requires that the two following criteria must be satisfied: (i) Common law damages must be an inadequate remedy. For instance, when damages for a breach of contract found in favour of a third party are an inadequate remedy. (ii) No bars to equitable relief prevent specific performance. A bar to relief arises for example, when the court's continuous supervision of the defendant is not feasible.An account of profits is usually ordered where payment of damages would still leave the wrongdoer unjustly enriched at the expense of the wronged party. However, orders for an account are not normally available as of right, and only arise in certain circumstances.Rescission and rectification are remedies in relation to contracts (or, exceptionally, deeds) which may become available.
+Constructive trusts and tracing remedies are usually used where the claimant asserts that property has been wrongly appropriated from them, and then either (i) the property has increased in value, and thus they should have an interest in the increase in value which occurred at their expense, or (ii) the property has been transferred by the wrongdoer to an innocent third party, and the original owner should be able to claim a right to the property as against the innocent third party.
+Equitable liens normally only arise in very specific factual circumstances, such as unpaid vendor's lien.
+Equitable principles can also limit the granting of equitable remedies.  This includes "he who comes to equity must come with clean hands" (that is, the court will not assist a claimant who is himself in the wrong or acting for improper motives), laches (equitable remedies will not be granted if the claimant has delayed unduly in seeking them), "equity will not assist a volunteer" (meaning that a person cannot litigate against a settlor without providing the appropriate consideration, for example, Money) and that equitable remedies will not normally be granted where damages would be an adequate remedy.  The most important limitation relating to equitable remedies is that an equitable remedy will not lie against a bona fide purchaser for value without notice.
+Damages can also be awarded in "equity" as opposed to "at law", and in some legal systems, by historical accident, interest on damages can be awarded on a compound basis only on equitable damages, but not on damages awarded at law.  However, most jurisdictions either have ended this anachronism, or evinced an intention to do so, by modernising legislation. Two versions of the legislation are in force in Australian jurisdiction with one version placing emphasis on "commission of a wrongful act" and the other omits the reference to wrongdoing.The classification of a remedy as equitable has various consequences. For example, equitable remedies may be enforced by contempt, and equitable remedies are subject to equitable defenses.
+

@@ -1,0 +1,111 @@
+Amortized data structures~Heaps (data structures)~Wikipedia requested computing diagrams~
+||||||
+Pairing heap
+||||||
+A pairing heap is a type of heap data structure with relatively simple implementation and excellent practical amortized performance, introduced by Michael Fredman, Robert Sedgewick, Daniel Sleator, and Robert Tarjan in 1986.
+Pairing heaps are heap-ordered multiway tree structures, and can be considered simplified Fibonacci heaps. They are considered a "robust choice" for implementing such algorithms as Prim's MST algorithm, and support the following operations (assuming a min-heap):
+
+find-min: simply return the top element of the heap.
+meld: compare the two root elements, the smaller remains the root of the result, the larger element and its subtree is appended as a child of this root.
+insert: create a new heap for the inserted element and meld into the original heap.
+decrease-key (optional): remove the subtree rooted at the key to be decreased, replace the key with a smaller key, then meld the result back into the heap.
+delete-min: remove the root and do repeated melds of its subtrees until one tree remains.  Various merging strategies are employed.The analysis of pairing heaps' time complexity was initially inspired by that of splay trees.
+The amortized time per delete-min is O(log n), and the operations find-min, meld, and insert run in O(1) amortized time.When a decrease-key operation is added as well, determining the precise asymptotic running time of pairing heaps has turned out to be difficult. Initially, the time complexity of this operation was conjectured on empirical grounds to be O(1), but Fredman proved that the amortized time per decrease-key is at least 
+  
+    
+      
+        Ω
+        (
+        log
+        ⁡
+        log
+        ⁡
+        n
+        )
+      
+    
+    {\displaystyle \Omega (\log \log n)}
+   for some sequences of operations.
+Using a different amortization argument, Pettie then proved that insert, meld, and decrease-key all run in 
+  
+    
+      
+        O
+        (
+        
+          2
+          
+            2
+            
+              
+                log
+                ⁡
+                log
+                ⁡
+                n
+              
+            
+          
+        
+        )
+      
+    
+    {\displaystyle O(2^{2{\sqrt {\log \log n}}})}
+   amortized time, which is 
+  
+    
+      
+        o
+        (
+        log
+        ⁡
+        n
+        )
+      
+    
+    {\displaystyle o(\log n)}
+  .
+Elmasry later introduced elaborations of pairing heaps (lazy, consolidate) for which decrease-key runs in 
+  
+    
+      
+        O
+        (
+        log
+        ⁡
+        log
+        ⁡
+        n
+        )
+      
+    
+    {\displaystyle O(\log \log n)}
+   amortized time and other operations have optimal amortized bounds, but no tight 
+  
+    
+      
+        Θ
+        (
+        log
+        ⁡
+        log
+        ⁡
+        n
+        )
+      
+    
+    {\displaystyle \Theta (\log \log n)}
+   bound is known for the original data structure.Although the asymptotic performance of pairing heaps is worse than other priority queue algorithms such as Fibonacci heaps, which perform decrease-key in 
+  
+    
+      
+        O
+        (
+        1
+        )
+      
+    
+    {\displaystyle O(1)}
+   amortized time, the performance in practice is excellent. Jones
+and Larkin, Sen, and Tarjan
+conducted experiments on pairing heaps and other heap data structures.  They concluded that d-ary heaps such as binary heaps are faster than all other heap implementations when the decrease-key operation is not needed (and hence there is no need to externally track the location of nodes in the heap), but that when decrease-key is needed pairing heaps are often faster than d-ary heaps and almost always faster than other pointer-based heaps, including data structures like Fibonacci heaps that are theoretically more efficient. Chen et al. examined priority queues specifically for use with Dijkstra's algorithm and concluded that in normal cases using a d-ary heap without decrease-key (instead duplicating nodes on the heap and ignoring redundant instances) resulted in better performance, despite the inferior theoretical performance guarantees.

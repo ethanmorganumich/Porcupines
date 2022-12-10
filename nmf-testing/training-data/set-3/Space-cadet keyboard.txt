@@ -1,0 +1,5 @@
+Computer keyboard types~Lisp (programming language)~
+||||||
+Space-cadet keyboard
+||||||
+The space-cadet keyboard is a keyboard designed by John L. Kulp in 1978 and used on Lisp machines at Massachusetts Institute of Technology (MIT), which inspired several still-current jargon terms in the field of computer science and influenced the design of Emacs. It was inspired by the Knight keyboard, which was developed for the Knight TV system, used with MIT's Incompatible Timesharing System.

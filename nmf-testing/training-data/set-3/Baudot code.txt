@@ -1,0 +1,5 @@
+Amateur radio~Character encoding~Character sets~Telegraphy~
+||||||
+Baudot code
+||||||
+The Baudot code [boˈdo] is an early character encoding for telegraphy invented by Émile Baudot in the 1870s. It was the predecessor to the International Telegraph Alphabet No. 2 (ITA2), the most common teleprinter code in use until the advent of ASCII. Each character in the alphabet is represented by a series of five bits, sent over a communication channel such as a telegraph wire or a radio signal by asynchronous serial communication. The symbol rate measurement is known as baud, and is derived from the same name.

@@ -1,0 +1,8 @@
+Hardware (mechanical)~Wire~
+||||||
+Wire
+||||||
+A wire is a flexible strand of metal.
+Wire is commonly formed by drawing the metal through a hole in a die or draw plate. Wire gauges come in various standard sizes, as expressed in terms of a gauge number.
+Wires are used to bear mechanical loads, often in the form of wire rope. In electricity and telecommunications signals, a "wire" can refer to an electrical cable, which can contain a "solid core" of a single wire or separate strands in stranded or braided forms.
+Usually cylindrical in geometry, wire can also be made in square, hexagonal, flattened rectangular, or other cross-sections, either for decorative purposes, or for technical purposes such as high-efficiency voice coils in loudspeakers. Edge-wound coil springs, such as the Slinky toy, are made of special flattened wire.

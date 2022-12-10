@@ -1,0 +1,5 @@
+Enterprise application integration~Internet search engines~Internet terminology~
+||||||
+Search-based application
+||||||
+Search-based applications are software applications in which a search engine platform is used as the core infrastructure for information access and reporting. Search-based applications use semantic technologies to aggregate, normalize and classify unstructured, semi-structured and/or structured content across multiple repositories, and employ natural language technologies for accessing the aggregated information.

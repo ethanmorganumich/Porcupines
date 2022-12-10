@@ -1,0 +1,258 @@
+Numerical integration (quadrature)~
+||||||
+Gaussian quadrature
+||||||
+In numerical analysis, a quadrature rule is an approximation of the definite integral of a function, usually stated as a weighted sum of function values at specified points within the domain of integration. (See numerical integration for more on quadrature rules.) An n-point Gaussian quadrature rule, named after Carl Friedrich Gauss, is a quadrature rule constructed to yield an exact result for polynomials of degree 2n − 1 or less by a suitable choice of the nodes xi and weights wi for i = 1, …, n. The modern formulation using orthogonal polynomials was developed by Carl Gustav Jacobi in 1826. The most common domain of integration for such a rule is taken as [−1, 1], so the rule is stated as
+
+  
+    
+      
+        
+          ∫
+          
+            −
+            1
+          
+          
+            1
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        ≈
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          w
+          
+            i
+          
+        
+        f
+        (
+        
+          x
+          
+            i
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle \int _{-1}^{1}f(x)\,dx\approx \sum _{i=1}^{n}w_{i}f(x_{i}),}
+  which is exact for polynomials of degree 2n − 1 or less. This exact rule is known as the Gauss-Legendre quadrature rule. The quadrature rule will only be an accurate approximation to the integral above if f (x) is well-approximated by a polynomial of degree 2n − 1 or less on [−1, 1].
+The Gauss-Legendre quadrature rule is not typically used for integrable functions with endpoint singularities. Instead, if the integrand can be written as
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            (
+            
+              1
+              −
+              x
+            
+            )
+          
+          
+            α
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              x
+            
+            )
+          
+          
+            β
+          
+        
+        g
+        (
+        x
+        )
+        ,
+        
+        α
+        ,
+        β
+        >
+        −
+        1
+        ,
+      
+    
+    {\displaystyle f(x)=\left(1-x\right)^{\alpha }\left(1+x\right)^{\beta }g(x),\quad \alpha ,\beta >-1,}
+  where g(x) is well-approximated by a low-degree polynomial, then alternative nodes xi' and weights wi' will usually give more accurate quadrature rules. These are known as Gauss-Jacobi quadrature rules, i.e.,
+
+  
+    
+      
+        
+          ∫
+          
+            −
+            1
+          
+          
+            1
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        =
+        
+          ∫
+          
+            −
+            1
+          
+          
+            1
+          
+        
+        
+          
+            (
+            
+              1
+              −
+              x
+            
+            )
+          
+          
+            α
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              x
+            
+            )
+          
+          
+            β
+          
+        
+        g
+        (
+        x
+        )
+        
+        d
+        x
+        ≈
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          w
+          
+            i
+          
+          ′
+        
+        g
+        
+          (
+          
+            x
+            
+              i
+            
+            ′
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \int _{-1}^{1}f(x)\,dx=\int _{-1}^{1}\left(1-x\right)^{\alpha }\left(1+x\right)^{\beta }g(x)\,dx\approx \sum _{i=1}^{n}w_{i}'g\left(x_{i}'\right).}
+  Common weights include 
+  
+    
+      
+        
+          
+            1
+            
+              1
+              −
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\textstyle {\frac {1}{\sqrt {1-x^{2}}}}}
+   (Chebyshev–Gauss) and 
+  
+    
+      
+        
+          
+            1
+            −
+            
+              x
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {1-x^{2}}}}
+  . One may also want to integrate over semi-infinite (Gauss-Laguerre quadrature) and infinite intervals (Gauss–Hermite quadrature).
+It can be shown (see Press, et al., or Stoer and Bulirsch) that the quadrature nodes xi are the roots of a polynomial belonging to a class of orthogonal polynomials (the class orthogonal with respect to a weighted inner-product). This is a key observation for computing Gauss quadrature nodes and weights.

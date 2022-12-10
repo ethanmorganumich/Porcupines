@@ -1,0 +1,6 @@
+Free web crawlers~Internet search engines~Web crawlers~
+||||||
+Hierarchical Cluster Engine Project
+||||||
+Hierarchical Cluster Engine (HCE) is a FOSS complex solution for: construct custom network mesh or distributed network cluster structure with several relations types between nodes, formalize the data flow processing goes from upper node level central source point to down nodes and backward, formalize the management requests handling from multiple source points, support native reducing of multiple nodes results (aggregation, duplicates elimination, sorting and so on), internally support powerful full-text search engine and data storage, provide transactions-less and transactional requests processing, support flexible run-time changes of cluster infrastructure, have many languages bindings for client-side integration APIs in one product build on C++ language.
+This project became the successor of Associative Search Machine (ASM) full-text web search engine project that was developed from 2006 to 2012 by IOIX Ukraine

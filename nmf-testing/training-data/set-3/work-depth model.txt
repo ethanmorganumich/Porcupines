@@ -1,0 +1,5 @@
+Analysis of parallel algorithms~
+||||||
+Analysis of parallel algorithms
+||||||
+In computer science, the analysis of parallel algorithms is the process of finding the computational complexity of algorithms executed in parallel – the amount of time, storage, or other resources needed to execute them. In many respects, analysis of parallel algorithms is similar to the analysis of sequential algorithms, but is generally more involved because one must reason about the behavior of multiple cooperating threads of execution. One of the primary goals of parallel analysis is to understand how a parallel algorithm's use of resources (speed, space, etc.) changes as the number of processors is changed.

@@ -1,0 +1,6 @@
+German words and phrases~Medieval music stubs~Music theory stubs~Musical notation~
+||||||
+Mensurstrich
+||||||
+Mensurstrich (plural Mensurstriche) is a German term used in musical notation to denote a barline that is drawn between staves, but not across them. It is typically seen in modern editions of Medieval and Renaissance vocal polyphony, where it is intended to allow modern performers the convenience of barlines without having them interfere with the music, which was originally written without barlines. In most cases note values are allowed to cross over a Mensurstrich without requiring a tie.
+The convention of the Mensurstrich was introduced by German musicologists such as Heinrich Besseler in the 1920s and became common in editorial practice by the mid-20th century. It is frequently applied in academic editions of 15th and 16th century music such as those in the multi-volume Corpus mensurabilis musicae published by the American Institute of Musicology.A few modern composers (such as Hugo Distler, whose vocal music is reminiscent of Renaissance vocal polyphony) have made a practice of using it in their music in order to minimize the regularity of meter.

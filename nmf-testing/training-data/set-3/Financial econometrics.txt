@@ -1,0 +1,8 @@
+Econometrics~Financial data analysis~Financial economics~Mathematical finance~
+||||||
+Financial econometrics
+||||||
+Financial econometrics  is the application of statistical methods to financial market data. Financial econometrics is a branch of financial economics, in the field of economics. Areas of study include capital markets, financial institutions, corporate finance and corporate governance. Topics often revolve around asset valuation of individual stocks, bonds, derivatives, currencies and other financial instruments.
+It differs from other forms of econometrics because the emphasis is usually on analyzing the prices of financial assets traded at competitive, liquid markets.
+People working in the finance industry or researching the finance sector often use econometric techniques in a range of activities – for example, in support of portfolio management and in the valuation of securities. Financial econometrics is essential for risk management when it is important to know how often 'bad' investment outcomes are expected to occur over future days, weeks, months and years.
+

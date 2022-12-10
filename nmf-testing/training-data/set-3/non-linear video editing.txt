@@ -1,0 +1,8 @@
+Digital audio~Film and video technology~Film editing~Filmmaking~Video editing software~
+||||||
+Non-linear editing
+||||||
+Non-linear editing is a form of offline editing for audio, video, and image editing. In offline editing, the original content is not modified in the course of editing. In non-linear editing, edits are specified and modified by specialized software. A pointer-based playlist, effectively an edit decision list (EDL), for video and audio, or a directed acyclic graph for still images, is used to keep track of edits. Each time the edited audio, video, or image is rendered, played back, or accessed, it is reconstructed from the original source and the specified editing steps.  Although this process is more computationally intensive than directly modifying the original content, changing the edits themselves can be almost instantaneous, and it prevents further generation loss as the audio, video, or image is edited.
+A non-linear editing system (NLE) is a video editing (NLVE) program or application, or an audio editing (NLAE) digital audio workstation (DAW) system. These perform non-destructive editing on source material.  The name is in contrast to 20th century methods of linear video editing and film editing.
+In linear video editing, the product is assembled from beginning to end, in that order. One can replace or overwrite sections of material, but never cut something out or insert extra material. Non-linear editing removes this restriction. Conventional film editing is a destructive process because the original film must be physically cut to perform an edit.
+

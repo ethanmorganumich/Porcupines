@@ -1,0 +1,5 @@
+Programming language topic stubs~Units of information~
+||||||
+Field specification
+||||||
+A field specification or fspec defines a portion of a word in some programming language. It has the form "(L:R)" where "L" is the leftmost byte and "R" is the rightmost byte, and counting begins at zero. For example, the first three bytes of a word would have the fspec (0:2) for bytes numbered 0, 1, and 2.

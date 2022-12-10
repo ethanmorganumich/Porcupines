@@ -1,0 +1,7 @@
+Transducers~
+||||||
+Transducer
+||||||
+A transducer is a device that converts energy from one form to another. Usually a transducer converts a signal in one form of energy to a signal in another.
+Transducers are often employed at the boundaries of automation, measurement, and control systems, where electrical signals are converted to and from other physical quantities (energy, force, torque, light, motion, position, etc.). The process of converting one form of energy to another is known as transduction.
+

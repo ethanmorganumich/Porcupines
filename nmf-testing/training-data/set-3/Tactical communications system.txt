@@ -1,0 +1,5 @@
+Military communications~Telecommunications stubs~
+||||||
+Tactical communications system
+||||||
+In telecommunication, a tactical communications system is a communications system that (a) is used within, or in direct support of, tactical forces, (b) is designed to meet the requirements of changing tactical situations and varying environmental conditions, (c) provides securable communications, such as voice, data, and video, among mobile users to facilitate command and control within, and in support of, tactical forces, and (d) usually requires extremely short installation times, usually on the order of hours, in order to meet the requirements of frequent relocation.

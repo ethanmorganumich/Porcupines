@@ -1,0 +1,6 @@
+Memory~Semantics~
+||||||
+Semantic memory
+||||||
+Semantic memory refers to general world knowledge that humans have accumulated throughout their lives. This general knowledge (facts, ideas, meanings, and concepts) is intertwined in experience and dependent on culture. We can learn about new concepts by applying our knowledge learned from things in the past. Semantic memory is distinct from episodic memory, which is our memory of experiences and specific events that occur during our lives, from which we can recreate at any given point. For instance, semantic memory might contain information about what a cat is, whereas episodic memory might contain a specific memory of petting a particular cat. 
+Semantic memory and episodic memory are both types of explicit memory (or declarative memory), that is, memory of facts or events that can be consciously recalled and "declared".  The counterpart to declarative or explicit memory is nondeclarative memory or implicit memory.

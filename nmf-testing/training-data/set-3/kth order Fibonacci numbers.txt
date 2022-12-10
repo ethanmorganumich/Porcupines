@@ -1,0 +1,76 @@
+Fibonacci numbers~
+||||||
+Generalizations of Fibonacci numbers
+||||||
+In mathematics, the Fibonacci numbers form a sequence defined recursively by:
+
+  
+    
+      
+        
+          F
+          
+            n
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                
+                
+                  n
+                  =
+                  0
+                
+              
+              
+                
+                  1
+                
+                
+                  n
+                  =
+                  1
+                
+              
+              
+                
+                  
+                    F
+                    
+                      n
+                      −
+                      1
+                    
+                  
+                  +
+                  
+                    F
+                    
+                      n
+                      −
+                      2
+                    
+                  
+                
+                
+                  n
+                  >
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle F_{n}={\begin{cases}0&n=0\\1&n=1\\F_{n-1}+F_{n-2}&n>1\end{cases}}}
+  That is, after two starting values, each number is the sum of the two preceding numbers.
+The Fibonacci sequence has been studied extensively and generalized in many ways, for example, by starting with other numbers than 0 and 1, by adding more than two numbers to generate the next number, or by adding objects other than numbers.
+

@@ -1,0 +1,6 @@
+Stage lighting~Stagecraft stubs~Technology stubs~
+||||||
+Color magazine (lighting)
+||||||
+A color magazine is a fixture attached to a follow spot that places different color filters in the path of the beam. Instead of working with comparatively cumbersome gel frames, the color magazine allows the spot operator to easily slide color frames in or out of place using a series of levers.
+The term boomerang is also used to describe a color magazine.Color magazines are now becoming rarer with the widespread availability of programmable-colour LED lighting.

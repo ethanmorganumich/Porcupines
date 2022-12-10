@@ -1,0 +1,9 @@
+Equal temperaments~Microtonality~
+||||||
+19 equal temperament
+||||||
+In music, 19 Tone Equal Temperament, called 19 TET, 19 EDO ("Equal Division of the Octave"), or 19 ET, is the tempered scale derived by dividing the octave into 19 equal steps (equal frequency ratios). Each step represents a frequency ratio of 19√2, or 63.16 cents (Play ).
+
+The fact that traditional western music maps unambiguously onto this scale (unless it presupposes 12-EDO enharmonic equivalences) makes it easier to perform such music in this tuning than in many other tunings.
+19 EDO is the tuning of the syntonic temperament in which the tempered perfect fifth is equal to 694.737 cents, as shown in Figure 1 (look for the label "19 TET"). On an isomorphic keyboard, the fingering of music composed in 19 EDO is precisely the same as it is in any other syntonic tuning (such as 12 EDO), so long as the notes are "spelled properly" – that is, with no assumption that the sharp below matches the flat immediately above it (enharmonicity).
+

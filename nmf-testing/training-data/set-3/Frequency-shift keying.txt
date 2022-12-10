@@ -1,0 +1,5 @@
+Amateur radio~Caller ID~Quantized radio modulation modes~
+||||||
+Frequency-shift keying
+||||||
+Frequency-shift keying (FSK) is a frequency modulation scheme in which digital information is transmitted through discrete frequency changes of a carrier signal.  The technology is used for communication systems such as telemetry, weather balloon radiosondes, caller ID, garage door openers,  and low frequency radio transmission in the VLF and ELF bands.  The simplest FSK is binary FSK (BFSK). BFSK uses a pair of discrete frequencies to transmit binary (0s and 1s) information.  With this scheme, the 1 is called the mark frequency and the 0 is called the space frequency.

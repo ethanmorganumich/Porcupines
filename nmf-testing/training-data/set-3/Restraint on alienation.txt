@@ -1,0 +1,30 @@
+Property law~
+||||||
+Restraint on alienation
+||||||
+A restraint on alienation, in the law of real property, is a clause used in the conveyance of real property that seeks to prohibit the recipient from selling or otherwise transferring their interest in the property. Under the common law such restraints are void as against the public policy of allowing landowners to freely dispose of their property. Perhaps the ultimate restraint on alienation was the fee tail, a form of ownership which required that property be passed down in the same family from generation to generation, which has also been widely abolished.However, certain reasonable restraints will be given effect in most jurisdictions. These traditionally include:
+
+A prohibition against partition of property for a limited time.
+The right of first refusal – for example, if Joey sells property to Rachel, he may require that if Rachel later decides to sell the property, she must first give Joey the opportunity to buy it back.
+The establishment of public parks and gardens, as was the case for The Royal Parks of London in the UK. These public spaces were created under such terms by the Crown Estate; which meant that these parks were held in perpetuity for the public to use.Some specific restraints on alienation in the United States include:
+
+Disabling restraints
+To be effective the grantor must sue the grantee for enforcement.  The effectiveness of the lawsuit could prevent the transfer from being made.  In addition, if the disabling restraint is found to be unconstitutional the restraint will not be effective.
+Promissory restraints
+If the promissory note is breached by the grantee, the grantor may sue for damages. Unlike disabling restraints, the effectiveness of the lawsuit does not prevent the transfer from being made.  However, the Supreme Court says promissory restraints are not permissible.  The promissory note discourages the person getting ready to sell the property which is the same effect as the disabling restraint.
+Forfeiture restraints
+In the event of a breach the property returns to the grantor or the grantor's heirs.  The return happens automatically, hence the argument can be made that there is no state actions.  However, according to a constitutional argument the mere fact that the state recognizes the validity of an automatic transfer makes it a state action.To be effective the restraint must be reasonable and the restraint must be the same as a real covenant or equitable servitude.
+There are six factors to determine if a restraint on alienation is reasonable:
+
+Type of price (fixed or not fixed; courts prefer non-fixed)
+Purpose: Is it a legitimate purpose, or not? (courts prefer legitimate)
+Equal bargaining power of the parties
+Duration (a time limit to the restraint is preferred)
+Limit to the number of persons to which transfer is prohibited
+A restraint that increases the value of property is more reasonable.There are five basic conditions that must be met in order for there to be an effective real covenant and equitable servitude:
+
+It must be enforceable.  To be enforceable it must not be too vague, it must not violate a statute or the constitution, it must not violate public policy, and it must meet the requirements under the statute of frauds.
+It must touch and concern the land.
+It must be intended to run.
+There must be privity between the successive occupants.
+There must be notice of the existence of a real covenant/equitable servitude.

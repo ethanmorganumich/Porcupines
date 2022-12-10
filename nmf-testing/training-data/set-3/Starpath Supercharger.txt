@@ -1,0 +1,5 @@
+Atari 2600~Video game accessories~
+||||||
+Starpath Supercharger
+||||||
+The Starpath Supercharger (originally called the Arcadia Supercharger) is an expansion peripheral cartridge created by Starpath, for playing cassette-based proprietary games on the Atari 2600 video game console.The device consists of a long cartridge with a handle on the end, and an audio cassette cable. It adds 6 KB to the Atari 2600's 128 bytes of RAM (increasing it 49-fold to 6,272 bytes of RAM), allowing for the creation of specially compatible games which are larger and have higher resolution graphics than normal cartridges. A cable coming out of the side of the cartridge plugs into the earphone jack of any standard cassette player, for loading all Supercharger games from standard audio cassettes.

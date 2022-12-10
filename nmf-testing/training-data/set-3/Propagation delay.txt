@@ -1,0 +1,5 @@
+Digital circuits~Digital electronics~Electronics concepts~Timing in electronic circuits~
+||||||
+Signal propagation delay
+||||||
+Propagation delay is the time duration taken for a signal to reach its destination. It can relate to networking, electronics or physics. Hold time is the minimum interval required for the logic level to remain on the input after triggering edge of the clock pulse.

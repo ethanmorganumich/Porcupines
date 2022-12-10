@@ -1,0 +1,6 @@
+32-bit microprocessors~68k microprocessors~Superscalar microprocessors~
+||||||
+Motorola 68060
+||||||
+The Motorola 68060 ("sixty-eight-oh-sixty") is a 32-bit microprocessor from Motorola released in 1994. It is the successor to the Motorola 68040 and is the highest performing member of the 68000 series. Two derivatives were produced, the 68LC060 and the 68EC060.
+

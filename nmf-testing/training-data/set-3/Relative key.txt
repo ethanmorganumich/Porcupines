@@ -1,0 +1,11 @@
+Chromaticism~Musical keys~
+||||||
+Relative key
+||||||
+In music, relative keys are the major and minor scales that have the same key signatures (enharmonically equivalent), meaning that they share all the same notes but are arranged in a different order of whole steps and half steps. A pair of major and minor scales sharing the same key signature are said to be in a relative relationship. The relative minor of a particular major key, or the relative major of a minor key, is the key which has the same key signature but a different tonic. (This is as opposed to parallel minor or major, which shares the same tonic.)
+For example, F major and D minor both have one flat in their key signature at B♭; therefore, D minor is the relative minor of F major, and conversely F major is the relative major of D minor. The tonic of the relative minor is the sixth scale degree of the major scale, while the tonic of the relative major is the third degree of the minor scale. The minor key starts three semitones below its relative major; for example, A minor is three semitones below its relative, C major.
+
+The relative relationship may be visualized through the circle of fifths.
+
+Relative keys are a type of closely related keys, the keys between which most modulations occur, because they differ by no more than one accidental. Relative keys are the most closely related, as they share exactly the same notes.
+The major key and the minor key also share the same set of chords. In every major key, the triad built on the first degree (note) of the scale is major, the second and third are minor, the fourth and fifth are major, the sixth minor and the seventh is diminished. In the relative minor, the same triads pertain. Because of this, it can occasionally be difficult to determine whether a particular piece of music is in a major key or its relative minor.

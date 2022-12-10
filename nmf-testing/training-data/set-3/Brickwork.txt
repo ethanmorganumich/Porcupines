@@ -1,0 +1,16 @@
+Bricks~Building engineering~Construction~
+||||||
+Brickwork
+||||||
+Brickwork is masonry produced by a bricklayer, using bricks and mortar. Typically, rows of bricks called courses are laid on top of one another to build up a structure such as a brick wall.
+Bricks may be differentiated from blocks by size. For example, in the UK a brick is defined as a unit having dimensions less than 337.5 mm × 225 mm × 112.5 mm (13.3 in × 8.9 in × 4.4 in) and a block is defined as a unit having one or more dimensions greater than the largest possible brick.Brick is a popular medium for constructing buildings, and examples of brickwork are found through history as far back as the Bronze Age. The fired-brick faces of the ziggurat of ancient Dur-Kurigalzu in Iraq date from around 1400 BC, and the brick buildings of ancient Mohenjo-daro in Pakistan were built around 2600 BC. Much older examples of brickwork made with dried (but not fired) bricks may be found in such ancient locations as Jericho in Palestine, Çatal Höyük in Anatolia, and Mehrgarh in Pakistan. These structures have survived from the Stone Age to the present day.
+
+Brick dimensions are expressed in construction or technical documents in two ways as co-ordinating dimensions and working dimensions.
+
+Coordination dimensions are the actual physical dimensions of the brick with the mortar required on one header face, one stretcher face and one bed.
+Working dimensions is the size of a manufactured brick. It is also called the nominal size of a brick.Brick size may be slightly different due to shrinkage or distortion due to firing, etc.
+An example of a co-ordinating metric commonly used for bricks in the UK is as follows:
+Bricks of dimensions 215 mm × 102.5 mm × 65 mm;
+Mortar beds (horizontal) and perpends (vertical) of a uniform 10 mm.In this case the co-ordinating metric works because the length of a single brick (215 mm) is equal to the total of the width of a brick (102.5 mm) plus a perpend (10 mm) plus the width of a second brick (102.5 mm).
+There are many other brick sizes worldwide, and many of them use this same co-ordinating principle.
+

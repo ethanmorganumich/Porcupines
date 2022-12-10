@@ -1,0 +1,6 @@
+Internet search engines~Search engine website stubs~
+||||||
+MozDex
+||||||
+mozDex was a project to build an Internet-scale search engine with free and open source software (FOSS) technologies like Nutch. Since its search algorithms and code were open, it was hoped that no search results could be manipulated by either mozDex as a company or anyone else. As such, instead of having to trust mozDex to be fair, it puts the trust on the community of users through the same "peer review" process that is believed to enhance security of free software like Linux.
+mozDex aimed to make it easy and encourage building upon this open search technology to extend it with various additional potentially useful search related features. Some of the latest features added or announced by mozDex included social bookmarking via free skimpy service, "did you mean<nowiki>" spell checking, anti-spam technology and instant crawl.As an open search engine, mozDex relied heavily on community feedback and actively solicited user opinions as well as encouraged discussions about various aspects of mozDex's growth.In 2006, mozDex aimed to add around 15 million pages a day in order to reach the goal of more than 4 billion pages indexed at the end of 2006.

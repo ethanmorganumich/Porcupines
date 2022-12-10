@@ -1,0 +1,9 @@
+Noise (electronics)~
+||||||
+Channel noise level
+||||||
+In telecommunications, the term channel noise level has the following meanings:
+
+The ratio of the noise in the communication channel at any point in a transmission system to an arbitrary level chosen as a reference.
+The noise power spectral density in the frequency range of interest.
+The average noise power in the frequency range of interest.

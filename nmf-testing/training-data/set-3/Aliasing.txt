@@ -1,0 +1,7 @@
+Digital signal processing~Signal processing~
+||||||
+Aliasing
+||||||
+In signal processing and related disciplines, aliasing is an effect that causes different signals to become indistinguishable (or aliases of one another) when sampled. It also often refers to the distortion or artifact that results when a signal reconstructed from samples is different from the original continuous signal.
+Aliasing can occur in signals sampled in time, for instance digital audio, or the stroboscopic effect, and is referred to as temporal aliasing.  It can also occur in spatially sampled signals (e.g. moiré patterns in digital images); this type of aliasing is called spatial aliasing.
+Aliasing is generally avoided by applying low-pass filters or anti-aliasing filters (AAF) to the input signal before sampling and when converting a signal from a higher to a lower sampling rate. Suitable reconstruction filtering should then be used when restoring the sampled signal to the continuous domain or converting a signal from a lower to a higher sampling rate. For spatial anti-aliasing, the types of anti-aliasing include fast approximate anti-aliasing (FXAA), multisample anti-aliasing, and supersampling.

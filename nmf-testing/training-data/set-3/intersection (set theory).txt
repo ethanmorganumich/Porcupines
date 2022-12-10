@@ -1,0 +1,67 @@
+Basic concepts in set theory~Intersection~Operations on sets~
+||||||
+Intersection (set theory)
+||||||
+In set theory, the intersection of two sets 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+        ,
+      
+    
+    {\displaystyle B,}
+   denoted by 
+  
+    
+      
+        A
+        ∩
+        B
+        ,
+      
+    
+    {\displaystyle A\cap B,}
+   is the set containing all elements of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   that also belong to 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   or equivalently, all elements of 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   that also belong to 
+  
+    
+      
+        A
+        .
+      
+    
+    {\displaystyle A.}
+  
+

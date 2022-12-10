@@ -1,0 +1,8 @@
+Music stubs~Note values~
+||||||
+Thirty-second note
+||||||
+In music,  a thirty-second note (American) or demisemiquaver (British) is a note played for 1⁄32 of the duration of a whole note (or semibreve). It lasts half as long as a sixteenth note (or semiquaver) and twice as long as a sixty-fourth (or hemidemisemiquaver).
+Thirty-second notes are notated with an oval, filled-in note head and a straight note stem with three flags or beams. A single thirty-second note is always stemmed with flags, while two or more are usually beamed in groups.
+As with all notes with stems, thirty-second notes are drawn with stems to the right of the notehead, extending up, when they are below the middle line of the musical staff. When they are on or above the middle line, they are drawn with stems on the left of the note head, extending down. Flags are always on the right side of the stem, and curve to the right. On stems extending up, the flags start at the top and curve down; for downward extending stems, the flags start at the bottom of the stem and curve up. When multiple thirty-second notes or eighth notes (or sixteenths, etc.) are next to each other, the flags may be connected with a beam. Similar rules apply to smaller divisions such as sixty-fourth notes.
+A related symbol is the thirty-second rest or demisemiquaver rest (shown to the right), which denotes a silence for the same duration as a thirty-second note.

@@ -1,0 +1,17 @@
+Chords~Diatonic functions~Riemannian theory~
+||||||
+Parallel and counter parallel
+||||||
+Parallel and counter parallel chords are terms derived from the German (Parallelklang, Gegenparallelklang) to denote what is more often called in English the "relative", and possibly the "counter relative" chords. In Hugo Riemann's theory, and in German theory more generally, these chords share the function of the chord to which they link: subdominant parallel, dominant parallel, and tonic parallel. Riemann defines the relation in terms of the movement of one single note:
+
+The substitution of the major sixth for the perfect fifth above in the major triad and below in the minor triad results in the parallel of a given triad. In C major thence arises an apparent A minor triad (Tp, the parallel triad of the tonic, or tonic parallel), D minor triad (Sp), and E minor triad (Dp).
+For example, the major tonic  and tonic parallel  and minor tonic  and tonic parallel .
+
+Dp stands for Dominant-parallel. The word "parallel" in German has the meaning of "relative" in English. G major and E minor are called parallel keys. The G major chord and the E minor chord in the key of C major are called parallel chords in the Riemann system.
+
+The tonic, subdominant, and dominant chords, in root position, each followed by its parallel. The parallel is formed by raising the fifth a whole tone.
+
+The minor tonic, subdominant, dominant, and their parallels, created by lowering the fifth (German)/root (US) a whole tone.The parallel chord (but not the counter parallel chord) of a major chord will always be the minor chord whose root is a minor third down from the major chord's root, inversely the parallel chord of a minor chord will be the major chord whose root is a minor third up from the root of the minor chord. Thus, in a major key, where the dominant is a major chord, the dominant parallel will be the minor chord a minor third below the dominant. In a minor key, where the dominant may be a minor chord, the dominant parallel will be the major chord a minor third above the (minor) dominant.
+
+Dr. Riemann...sets himself to demonstrate that every chord within the key-system has, and must have, either a Tonic, Dominant or Subdominant function or significance. For example, the secondary triad on the sixth degree [submediant] of the scale of C major, a-c-e, or rather c-e-a, is a Tonic 'parallel,' and has a Tonic significance, because the chord represents the C major 'klang,' into which the foreign note a is introduced. This, as we have seen, is the explanation which Helmholtz has given of this minor chord."
+The name "parallel chord" comes from the German musical theory, where "Paralleltonart" means not "parallel key" but "relative key", and "parallel key" is "Varianttonart".

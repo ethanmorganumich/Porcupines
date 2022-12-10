@@ -1,0 +1,9 @@
+Data transmission~Telecommunications stubs~Teletraffic~
+||||||
+Narrative traffic
+||||||
+Narrative traffic is data communications consisting of plain or encrypted messages written in a natural language and transmitted in accordance with standard formats and procedures.  
+Examples of narrative traffic include:
+
+Messages that are placed on paper tape and transmitted via a teletypewriter (TTY), and on reception, are converted back to a printed page on another teletypewriter or teleprinter
+Messages printed on a sheet of paper, transmitted via optical character recognition (OCR) equipment, and on reception, converted back to a printed page on a printer.

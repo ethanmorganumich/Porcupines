@@ -1,0 +1,5 @@
+Airship configurations~Airships~Industrial gases~
+||||||
+Blimp
+||||||
+A blimp, or non-rigid airship, is an airship (dirigible) without an internal structural framework or a keel. Unlike semi-rigid and rigid airships (e.g. Zeppelins), blimps rely on the pressure of the lifting gas (usually helium, rather than hydrogen) inside the envelope and the strength of the envelope itself to maintain their shape.

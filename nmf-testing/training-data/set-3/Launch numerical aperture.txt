@@ -1,0 +1,7 @@
+Fiber optics~Telecommunications stubs~
+||||||
+Launch numerical aperture
+||||||
+In telecommunications, launch numerical aperture (LNA) is the numerical aperture of an optical system used to couple (launch) power into an optical fiber.  
+LNA may differ from the stated NA of a final focusing element if, for example, that element is underfilled or the focus is other than that for which the element is specified. 
+LNA is one of the parameters that determine the initial distribution of power among the modes of an optical fiber.

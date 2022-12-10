@@ -1,0 +1,7 @@
+Digital signal processing~Filter theory~Signal processing filter~
+||||||
+Filter design
+||||||
+Filter design is the process of designing a signal processing filter that satisfies a set of requirements, some of which may be conflicting.  The purpose is to find a realization of the filter that meets each of the requirements to a sufficient degree to make it useful.
+The filter design process can be described as an optimization problem where each requirement contributes to an error function that should be minimized.  Certain parts of the design process can be automated, but normally an experienced electrical engineer is needed to get a good result.
+The design of digital filters is a deceptively complex topic. Although filters are easily understood and calculated, the practical challenges of their design and implementation are significant and are the subject of advanced research.

@@ -1,0 +1,146 @@
+Equal temperaments~Music theory stubs~Non–octave-repeating scales~
+||||||
+Delta scale
+||||||
+The δ (delta) scale is a non-octave repeating musical scale. It may be regarded as the beta scale's reciprocal, since it is "as far 'down' the (0 3 6 9) circle from α as β is 'up'". As such it would split the minor second (presumably 16:15) into eight equal parts of approximately 14 cents each Play . This would total approximately 85.7 steps per octave.
+The scale step may also precisely be derived from using 50:28 (25:14, 1003.8 cents, A♯, Play ) to approximate the interval 3:2⁄5:4, which equals 6:5 (E♭, 315.64 cents, Play ). Thus the step is approximately 13.946 cents, and there are 86.049 steps per octave.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      50
+                      
+                        log
+                        
+                          2
+                        
+                      
+                      ⁡
+                      
+                        
+                          (
+                          
+                            
+                              3
+                              2
+                            
+                          
+                          )
+                        
+                      
+                      +
+                      28
+                      
+                        log
+                        
+                          2
+                        
+                      
+                      ⁡
+                      
+                        
+                          (
+                          
+                            
+                              5
+                              4
+                            
+                          
+                          )
+                        
+                      
+                      +
+                      23
+                      
+                        log
+                        
+                          2
+                        
+                      
+                      ⁡
+                      
+                        
+                          (
+                          
+                            
+                              6
+                              5
+                            
+                          
+                          )
+                        
+                      
+                    
+                    
+                      
+                        50
+                        
+                          2
+                        
+                      
+                      +
+                      
+                        28
+                        
+                          2
+                        
+                      
+                      +
+                      
+                        23
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                =
+                0.011
+                
+                621
+                
+                2701
+              
+            
+            
+              
+                0.011
+                
+                621
+                
+                2701
+                ×
+                1200
+                =
+                13.945
+                
+                524
+                
+                1627
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\frac {50\log _{2}{\left({\frac {3}{2}}\right)}+28\log _{2}{\left({\frac {5}{4}}\right)}+23\log _{2}{\left({\frac {6}{5}}\right)}}{50^{2}+28^{2}+23^{2}}}=0.011\,621\,2701\\0.011\,621\,2701\times 1200=13.945\,524\,1627\end{aligned}}}
+  (Play )
+The Bohlen–Pierce delta scale is based on the tritave and the 7:5:3 "wide" triad (Play ) and the 9:7:5 "narrow" triad (Play ) (rather than the conventional 4:5:6 triad). Notes include:
+1:1 Play 
+25:21 Play 
+9:7 Play 
+75:49 Play 
+5:3 Play 
+9:5 Play 
+15:7 Play 
+7:3 Play 
+25:9 Play 
+3:1 Play

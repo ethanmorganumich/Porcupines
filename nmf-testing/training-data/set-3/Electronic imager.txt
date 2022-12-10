@@ -1,0 +1,6 @@
+Digital photography~Image sensors~MOSFETs~
+||||||
+Image sensor
+||||||
+An image sensor or imager is a sensor that detects and conveys information used to make an image. It does so by converting the variable attenuation of light waves (as they pass through or reflect off objects) into signals, small bursts of current that convey the information. The waves can be light or other electromagnetic radiation. Image sensors are used in electronic imaging devices of both analog and digital types, which include digital cameras, camera modules, camera phones, optical mouse devices, medical imaging equipment, night vision equipment such as thermal imaging devices, radar, sonar, and others. As technology changes, electronic and digital imaging tends to replace chemical and analog imaging.
+The two main types of electronic image sensors are the charge-coupled device (CCD) and the active-pixel sensor (CMOS sensor). Both CCD and CMOS sensors are based on metal–oxide–semiconductor (MOS) technology, with CCDs based on MOS capacitors and CMOS sensors based on MOSFET (MOS field-effect transistor) amplifiers. Analog sensors for invisible radiation tend to involve vacuum tubes of various kinds, while digital sensors include flat-panel detectors.

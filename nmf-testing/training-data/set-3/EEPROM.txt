@@ -1,0 +1,9 @@
+American inventions~Computer memory~Japanese inventions~Non-volatile memory~
+||||||
+EEPROM
+||||||
+EEPROM (also called E2PROM) stands for electrically erasable programmable read-only memory and is a type of non-volatile memory used in computers, usually integrated in microcontrollers such as smart cards and remote keyless systems, or as a separate chip device to store relatively small amounts of data by allowing individual bytes to be erased and reprogrammed.
+EEPROMs are organized as arrays of floating-gate transistors. EEPROMs can be programmed and erased in-circuit, by applying special programming signals. Originally, EEPROMs were limited to single-byte operations, which made them slower, but modern EEPROMs allow multi-byte page operations. An EEPROM has a limited life for erasing and reprogramming, now reaching a million operations in modern EEPROMs. In an EEPROM that is frequently reprogrammed, the life of the EEPROM is an important design consideration.
+Flash memory is a type of EEPROM designed for high speed and high density, at the expense of large erase blocks (typically 512 bytes or larger) and limited number of write cycles (often 10,000). There is no clear boundary dividing the two, but the term "EEPROM" is generally used to describe non-volatile memory with small erase blocks (as small as one byte) and a long lifetime (typically 1,000,000 cycles). Many past microcontrollers included both (flash memory for the firmware and a small EEPROM for parameters), though the trend with modern microcontrollers is to emulate EEPROM using flash.
+As of 2020, flash memory costs much less than byte-programmable EEPROM and is the dominant memory type wherever a system requires a significant amount of non-volatile solid-state storage. EEPROMs, however, are still used on applications that only require small amounts of storage, like in serial presence detect.
+

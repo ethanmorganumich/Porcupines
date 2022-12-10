@@ -1,0 +1,6 @@
+Memory~Memory biases~
+||||||
+Cue-dependent forgetting
+||||||
+Cue-dependent forgetting, or retrieval failure, is the failure to recall information without memory cues. The term either pertains to semantic cues, state-dependent cues or context-dependent cues.
+Upon performing a search for files in a computer, its memory is scanned for words. Relevant files containing this word or string of words are displayed. This is not how memory in the human mind works. Instead, information stored in the memory is retrieved by way of association with other memories. Some memories can not be recalled by simply thinking about them. Rather, one must think about something associated with it.For example, if someone tries and fails to recollect the memories he had about a vacation he went on, and someone mentions the fact that he hired a classic car during this vacation, this may make him remember all sorts of things from that trip, such as what he ate there, where he went and what books he read.

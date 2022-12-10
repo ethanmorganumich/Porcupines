@@ -1,0 +1,5 @@
+Ear training~Musical notation~
+||||||
+Tonic sol-fa
+||||||
+Tonic sol-fa (or tonic sol-fah) is a pedagogical technique for teaching sight-singing, invented by Sarah Ann Glover (1785–1867) of Norwich, England and popularised by John Curwen, who adapted it from a number of earlier musical systems. It uses a system of musical notation based on movable do solfège, whereby every note is given a name according to its relationship with other notes in the key: the usual staff notation is replaced with anglicized solfège syllables (e.g. do, re, mi, fa, sol, la, ti, do) or their abbreviations (d, r, m, f, s, l, t, d). "Do" is chosen to be the tonic of whatever key is being used (thus the terminology moveable Do in contrast to the fixed Do system used by John Pyke Hullah). The original solfège sequence started with "Ut", the first syllable of the hymn Ut queant laxis, which later became "Do".

@@ -1,0 +1,9 @@
+32-bit microprocessors~68k microprocessors~
+||||||
+Motorola 68030
+||||||
+The Motorola 68030 ("sixty-eight-oh-thirty") is a 32-bit microprocessor in the Motorola 68000 family. It was released in 1987. The 68030 was the successor to the Motorola 68020, and was followed by the Motorola 68040. In keeping with general Motorola naming, this CPU is often referred to as the 030 (pronounced oh-three-oh or oh-thirty).
+The 68030 is essentially a 68020 with a memory management unit (MMU) and instruction and data caches of 256 bytes each. It added a burst mode for the caches, where four longwords can be loaded into the cache in a single operation. The MMU was mostly compatible with the external 68851 that would be used with the 68020,) but being internal allowed it to access memory one cycle faster than a 68020/68851 combo. The 68030 did not include a built-in floating-point unit (FPU), and was generally used with the 68881 and the faster 68882. The addition of the FPU was a major design note of the subsequent 68040. The 68030 lacks some of the 68020's instructions, but it increases performance by ≈5% while reducing power draw by ≈25%.
+The 68030 features 273,000 transistors. A lower-cost version was also released, the Motorola 68EC030, lacking the on-chip MMU. It was commonly available in both 132-pin QFP and 128-pin PGA packages. The poorer thermal characteristics of the QFP package limited that variant to 33 MHz; the PGA 68030s included 40 MHz and 50 MHz versions. There was also a small supply of QFP packaged EC variants.
+
+The 68030 can be used with the 68020 bus, in which case its performance is similar to 68020 that it was derived from. However, the 68030 provides an additional synchronous bus interface which, if used, accelerates memory accesses up to 33% compared to an equally clocked 68020. The finer manufacturing process allowed Motorola to scale the full-version processor to 50 MHz. The EC variety topped out at 40 MHz.

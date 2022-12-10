@@ -1,0 +1,7 @@
+Air traffic control~Beacons~
+||||||
+Aerodrome beacon
+||||||
+An aerodrome beacon or rotating beacon or aeronautical beacon is a beacon installed at an airport or aerodrome to indicate its location to aircraft pilots at night.
+An aerodrome beacon is mounted on top of a towering structure, often a control tower, above other buildings of the airport. It produces flashes similar to that of a lighthouse. 
+Airport and heliport beacons are designed in such a way to make them most effective from one to ten degrees above the horizon; however, they can be seen well above and below this peak spread. The beacon may be an omnidirectional flashing xenon strobe, or it may be an aerobeacon rotating at a constant speed which produces the visual effect of flashes at regular intervals. Flashes may be of one, two, or three alternating colors (described below).

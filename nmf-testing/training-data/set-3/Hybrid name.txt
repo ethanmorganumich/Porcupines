@@ -1,0 +1,16 @@
+Botanical nomenclature~Hybrid plants~
+||||||
+Hybrid name
+||||||
+In botanical nomenclature, a hybrid may be given a hybrid name, which is a special kind of botanical name, but there is no requirement that a hybrid name should be created for plants that are believed to be of hybrid origin. The International Code of Nomenclature for algae, fungi, and plants (ICNafp) provides the following options in dealing with a hybrid:
+A hybrid may get a name; this will usually be the option of choice for naturally occurring hybrids.
+A hybrid may also be indicated by a formula listing the parents. Such a formula uses the multiplication sign "×" to link the parents.
+"It is usually preferable to place the names or epithets in a formula in alphabetical order. The direction of a cross may be indicated by including the sexual symbols (♀: female; ♂: male) in the formula, or by placing the female parent first. If a non-alphabetical sequence is used, its basis should be clearly indicated." (H.2A.1)
+Grex names can be given to orchid hybrids.A hybrid name is treated like other botanical names, for most purposes, but differs in that:
+A hybrid name does not necessarily refer to a morphologically distinctive group, but applies to all progeny of the parents, no matter how much they vary.
+E.g., Magnolia × soulangeana applies to all progeny from the cross Magnolia denudata × Magnolia liliiflora, and from the crosses of all their progeny, as well as from crosses of any of the progeny back to the parents (backcrossing). This covers quite a range in flower colour.
+Grex names (for orchids only) differ in that they do not cover crosses from plants within the grex (F2 hybrids) or back-crosses (crosses between a grex member and its parent).Hybrids can be named with ranks, like other organisms covered by the ICNafp. They are nothotaxa, from notho- (hybrid) + taxon. If the parents (or postulated parents) differ in rank, then the rank of the nothotaxon is the lowest. The names of nothospecies differ depending on whether they are derived from species within the same genus; if more than one parental genus is involved, then the nothospecies name includes a nothogenus name.
+
+Pyrus × bretschneideri is a hybrid between two species in the genus Pyrus.
+× Sorbopyrus auricularis in the nothogenus Sorbopyrus, is a hybrid between Sorbus aria and Pyrus communis.
+

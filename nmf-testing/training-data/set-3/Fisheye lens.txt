@@ -1,0 +1,10 @@
+Fisheye lenses~Photographic lenses~
+||||||
+Fisheye lens
+||||||
+A fisheye lens is an ultra wide-angle lens that produces strong visual distortion intended to create a wide panoramic or hemispherical image.: 145  Fisheye lenses achieve extremely wide angles of view, well beyond any rectilinear lens. Instead of producing images with straight lines of perspective (rectilinear images), fisheye lenses use a special mapping ("distortion"; for example: equisolid angle, see below), which gives images a characteristic convex non-rectilinear appearance.
+
+The term fisheye was coined in 1906 by American physicist and inventor Robert W. Wood based on how a fish would see an ultrawide hemispherical view from beneath the water (a phenomenon known as Snell's window).: 145  Their first practical use was in the 1920s for use in meteorology to study cloud formation giving them the name "whole-sky lenses". The angle of view of a fisheye lens is usually between 100 and 180 degrees, although lenses covering up to 280 degrees exist (see below). Their focal lengths depend on the film format they are designed for.
+Mass-produced fisheye lenses for photography first appeared in the early 1960s and are generally used for their unique, distorted appearance. For the popular 35 mm film format, typical focal lengths of fisheye lenses are 8–10 mm for circular images, and 12–18 mm for diagonal images filling the entire frame. For digital cameras using smaller imagers such as 1⁄4″ and 1⁄3″ format CCD or CMOS sensors, the focal length of "miniature" fisheye lenses can be as short as 1–2 mm.
+Fisheye lenses also have other applications, such as re-projecting images originally filmed through a fisheye lens, or created via computer-generated graphics, onto hemispherical screens. They are also used for scientific photography, such as recordings of aurora and meteors, and to study plant canopy geometry, and to calculate near-ground solar radiation. In everyday life, they are perhaps most commonly encountered as peephole door viewers to give a wide field of view.
+

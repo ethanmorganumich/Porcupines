@@ -1,0 +1,6 @@
+Game theory~General equilibrium theory~Microeconomic theories~Welfare economics~
+||||||
+General equilibrium theory
+||||||
+In economics, general equilibrium theory attempts to explain the behavior of supply, demand, and prices in a whole economy with several or many interacting markets, by seeking to prove that the interaction of demand and supply will result in an overall general equilibrium. General equilibrium theory contrasts to the theory of partial equilibrium, which analyzes a specific part of an economy while its other factors are held constant. In general equilibrium, constant influences are considered to be noneconomic, therefore, resulting beyond the natural scope of economic analysis. The noneconomic influences is possible to be non-constant when the economic variables change, and the prediction accuracy may depend on the independence of the economic factors.
+General equilibrium theory both studies economies using the model of equilibrium pricing and seeks to determine in which circumstances the assumptions of general equilibrium will hold. The theory dates to the 1870s, particularly the work of French economist Léon Walras in his pioneering 1874 work Elements of Pure Economics. The theory reached its modern form with the work of Lionel W. McKenzie (Walrasian theory), Kenneth Arrow and Gérard Debreu (Hicksian theory) in the 1950s.

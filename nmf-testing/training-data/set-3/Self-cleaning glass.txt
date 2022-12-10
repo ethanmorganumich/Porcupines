@@ -1,0 +1,10 @@
+Cleaning~Glass applications~Glass coating and surface modification~Smart materials~
+||||||
+Self-cleaning glass
+||||||
+Self-cleaning glass is a specific type of glass with a surface that keeps itself free of dirt and grime.
+The field of self-cleaning coatings on glass is divided into two categories: hydrophobic and hydrophilic. 
+These two types of coating both clean themselves through the action of water, the former by rolling droplets and the latter by sheeting water that carries away dirt. 
+Hydrophilic coatings based on titania (titanium dioxide), however, have an additional property: they can chemically break down absorbed dirt in sunlight.
+The requirements for a self-cleaning hydrophobic surface are a very high static water contact angle θ, the condition often quoted is θ>160°, and a very low roll-off angle, i.e. the minimum inclination angle necessary for a droplet to roll off the surface.
+

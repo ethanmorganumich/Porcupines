@@ -1,0 +1,5 @@
+Bibliographic databases and indexes~Internet search engines~Open access (publishing)~Scholarly search services~Web software stubs~
+||||||
+BASE (search engine)
+||||||
+BASE (Bielefeld Academic Search Engine) is a multi-disciplinary search engine to scholarly internet resources, created by Bielefeld University Library in Bielefeld, Germany. It is based on free and open-source software such as Apache Solr and VuFind. It harvests OAI metadata from institutional repositories and other academic digital libraries that implement the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH), and then normalizes and indexes the data for searching. In addition to OAI metadata, the library indexes selected web sites and local data collections, all of which can be searched via a single search interface.

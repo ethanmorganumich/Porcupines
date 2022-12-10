@@ -1,0 +1,67 @@
+Control theory~Systems theory~
+||||||
+Steady state
+||||||
+In systems theory, a system or a process is in a steady state if the variables (called state variables) which define the behavior of the system or the process are unchanging in time. In continuous time, this means that for those properties p of the system, the partial derivative with respect to time is zero and remains so:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              p
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        0
+        
+        
+          for all present and future 
+        
+        t
+        .
+      
+    
+    {\displaystyle {\frac {\partial p}{\partial t}}=0\quad {\text{for all present and future }}t.}
+  In discrete time, it means that the first difference of each property is zero and remains so:
+
+  
+    
+      
+        
+          p
+          
+            t
+          
+        
+        −
+        
+          p
+          
+            t
+            −
+            1
+          
+        
+        =
+        0
+        
+        
+          for all present and future 
+        
+        t
+        .
+      
+    
+    {\displaystyle p_{t}-p_{t-1}=0\quad {\text{for all present and future }}t.}
+  The concept of a steady state has relevance in many fields, in particular thermodynamics, economics, and engineering.  If a system is in a steady state, then the recently observed behavior of the system will continue into the future. In stochastic systems, the probabilities that various states will be repeated will remain constant. See for example Linear difference equation#Conversion to homogeneous form for the derivation of the steady state.
+In many systems, a steady state is not achieved until some time after the system is started or initiated. This initial situation is often identified as a transient state, start-up or warm-up period. For example, while the flow of fluid through a tube or electricity through a network could be in a steady state because there is a constant flow of fluid or electricity, a tank or capacitor being drained or filled with fluid is a system in transient state, because its volume of fluid changes with time.
+Often, a steady state is approached asymptotically. An unstable system is one that diverges from the steady state. See for example Linear difference equation#Stability.
+In chemistry, a steady state is a more general situation than dynamic equilibrium. While a dynamic equilibrium occurs when two or more reversible processes occur at the same rate, and such a system can be said to be in a steady state, a system that is in a steady state may not necessarily be in a state of dynamic equilibrium, because some of the processes involved are not reversible.

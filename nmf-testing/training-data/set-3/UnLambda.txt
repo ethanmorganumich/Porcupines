@@ -1,0 +1,6 @@
+Esoteric programming languages~Functional languages~
+||||||
+Unlambda
+||||||
+Unlambda is a minimal, "nearly pure" functional programming language invented by David Madore. It is based on combinatory logic, an expression system without the lambda operator or free variables. It relies mainly on two built-in functions (s and k) and an apply operator (written `, the backquote character). These alone make it Turing-complete, but there are also some input/output (I/O) functions to enable interacting with the user, some shortcut functions, and a lazy evaluation function. Variables are unsupported.
+Unlambda is free and open-source software distributed under a GNU General Public License (GPL) 2.0 or later.

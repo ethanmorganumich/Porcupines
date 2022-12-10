@@ -1,0 +1,10 @@
+Leasing~
+||||||
+Synthetic lease
+||||||
+A synthetic lease is a financing structure by which a company structures the ownership of an asset so that –
+
+for financial accounting purposes (under pre-2003 U.S. financial accounting rules), the asset is owned by a special-purpose entity and leased to the operating company under an operating lease.  The special-purpose entity is usually owned by the lessee / operating company, and is given just enough independence so that it can be taken off the operating company's balance sheet.  The asset is thus recorded as an asset on the balance sheet of the special purpose entity, not of the lessee / operating company.  Thus, depreciation of the asset need not be charged against income of the operating company.  Instead, the lease payments are recorded as an expense on the income statement.
+for tax purposes, the asset is owned by the operating company (or the special-purpose entity is consolidated with the operating company, so that the two are treated as a single entity for tax accounting purposes).  Thus, the operating company can deduct depreciation of the asset for tax purposes, generally on an accelerated depreciation schedule.Effectively, the asset is owned indirectly by the lessee / operating company, and the company leases the asset to itself.  The post-Enron rules of the Financial Accounting Standards Board, which require some measure of independence of a special purpose entity from the operating company, and genuine economic substance to the transaction in which the SPE is a party, made it difficult or impossible to structure a synthetic lease SPE, so synthetic leases have essentially passed out of existence.
+Synthetic leases are considered vulnerable in some jurisdictions to recharacterisation.
+Generally, the money to finance the asset is borrowed, and the lender takes a security interest against the asset, but has no further recourse against the borrower / operating company.

@@ -1,0 +1,5 @@
+Radio~Radio communications stubs~
+||||||
+Stressed environment
+||||||
+In radio communications, a stressed environment is an environment that is under the influence of extrinsic factors that degrade communications integrity, such as when (a) the beginning communications medium is disturbed by natural or man-made events (such as an intentional nuclear burst), (b) the received signal is degraded by natural or man-made interference (such as jamming signals or co-channel interference), (c) an interfering signal can reconfigure the network, and/or (d) an adversary threatens successful communications, in which case radio signals may be encrypted in order to deny the adversary an intelligible message, traffic flow information, network information, or automatic link establishment (ALE) control information.

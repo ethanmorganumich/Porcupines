@@ -1,0 +1,7 @@
+Chord progressions~Chords~Diatonic functions~Music theory stubs~
+||||||
+Predominant chord
+||||||
+In music theory, a predominant chord (also pre-dominant) is any chord which normally resolves to a dominant chord. Examples of predominant chords are the subdominant (IV, iv), supertonic (ii, ii°), Neapolitan sixth and German sixth. Other examples are the secondary dominant (V/V) and secondary leading tone chord. Predominant chords may lead to secondary dominants. Predominant chords both expand away from the tonic and lead to the dominant, affirming the dominant's pull to the tonic. Thus they lack the stability of the tonic and the drive towards resolution of the dominant. The predominant harmonic function is part of the fundamental harmonic progression of many classical works. The submediant (vi) may be considered a predominant chord or a tonic substitute.The dominant preparation is a chord or series of chords that precedes the dominant chord in a musical composition. Usually, the dominant preparation is derived from a circle of fifths progression. The most common dominant preparation chords are the supertonic, the subdominant, the V7/V, the Neapolitan chord (N6 or ♭II6), and the augmented sixth chords (e.g., Fr+6).
+
+In sonata form, the dominant preparation is in the development, immediately preceding the recapitulation. Ludwig van Beethoven's sonata-form works generally have extensive dominant preparation — for example, in the first movement of the Sonata Pathétique, the dominant preparation lasts for 29 measures (mm. 169–197).

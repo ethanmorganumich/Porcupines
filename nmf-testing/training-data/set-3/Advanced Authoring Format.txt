@@ -1,0 +1,5 @@
+Film and video technology~Workflow technology~
+||||||
+Advanced Authoring Format
+||||||
+The Advanced Authoring Format (AAF) is a file format for professional cross-platform data interchange, designed for the video post-production and authoring environment. It was created by the Advanced Media Workflow Association (AMWA), and is now being standardized through the Society of Motion Picture and Television Engineers (SMPTE).

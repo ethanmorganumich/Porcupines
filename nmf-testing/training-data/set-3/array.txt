@@ -1,0 +1,7 @@
+Arrays~
+||||||
+Array
+||||||
+An array is a systematic arrangement of similar objects, usually in rows and columns.
+
+Things called an array include:

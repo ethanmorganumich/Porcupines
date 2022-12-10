@@ -1,0 +1,16 @@
+Property law~
+||||||
+Tacking (law)
+||||||
+Tacking is a legal concept arising under the common law relating to competing priorities between two or more security interests arising over the same asset.  The concept is best illustrated by way of example.
+
+Bank A lends a first advance to the borrower, which is secured by a mortgage over the borrower's property.  The mortgage is expressed to secure this advance and any future advances.
+Bank B subsequently lends more money to the borrower and takes a second ranking mortgage over the same property.
+Bank A then subsequently lends a second advance to the borrower, relying on its original mortgage.Bank A will always have a first priority claim against the property for the full amount of its first advance. But it will be able to claim against the property in priority to Bank B with respect to its second advance only if it is permitted to tack the second advance to the mortgage that was taken at the time the first advance was made.  If Bank A is not permitted to tack the second advance, then Bank B's claim in respect of the sums that it lent will have priority over Bank A's claims with respect to the second advance.
+In American jurisprudence, Black's Law Dictionary defines tacking in slightly narrower terms:
+
+1. The joining of consecutive periods of possession by different persons to treat the periods as one continuous period; especially the adding of one's own period of land possession to that of a prior possessor to establish continuous Adverse possession for the statutory period.
+2. The joining of a junior lien with the first lien in order to acquire priority over an intermediate lien.
+Separately, in the definition of tabula in naufragio, Black's comments:
+
+It may be fairly said that the doctrine survives only in the unjust and much criticised English rule of tacking.

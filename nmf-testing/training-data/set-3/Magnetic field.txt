@@ -1,0 +1,31 @@
+Magnetism~Physical quantities~
+||||||
+Magnetic field
+||||||
+A magnetic field is a vector field that describes the magnetic influence on moving electric charges, electric currents,: ch1  and magnetic materials. A moving charge in a magnetic field experiences a force perpendicular to its own velocity and to the magnetic field.: ch13 : 278  A permanent magnet's magnetic field pulls on ferromagnetic materials such as iron, and attracts or repels other magnets. In addition, a magnetic field that varies with location will exert a force on a range of non-magnetic materials by affecting the motion of their outer atomic electrons. Magnetic fields surround magnetized materials, and are created by electric currents such as those used in electromagnets, and by electric fields varying in time. Since both strength and direction of a magnetic field may vary with location, it is described mathematically by a function assigning a vector to each point of space, called a vector field.
+In electromagnetics, the term "magnetic field" is used for two distinct but closely related vector fields denoted by the symbols B and H. In the International System of Units, H, magnetic field strength, is measured in the SI base units of ampere per meter (A/m).: 22  B, magnetic flux density, is measured in tesla (in SI base units: kilogram per second2 per ampere),: 21  which is equivalent to newton per meter per ampere. H and B differ in how they account for magnetization. In a vacuum, the two fields are related through the vacuum permeability, 
+  
+    
+      
+        
+          B
+        
+        
+          /
+        
+        
+          μ
+          
+            0
+          
+        
+        =
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbf {B} /\mu _{0}=\mathbf {H} }
+  ; but in a magnetized material, the terms differ by the material's magnetization at each point.
+Magnetic fields are produced by moving electric charges and the intrinsic magnetic moments of elementary particles associated with a fundamental quantum property, their spin.: ch1  Magnetic fields and electric fields are interrelated and are both components of the electromagnetic force, one of the four fundamental forces of nature.
+Magnetic fields are used throughout modern technology, particularly in electrical engineering and electromechanics. Rotating magnetic fields are used in both electric motors and generators. The interaction of magnetic fields in electric devices such as transformers is conceptualized and investigated as magnetic circuits. Magnetic forces give information about the charge carriers in a material through the Hall effect. The Earth produces its own magnetic field, which shields the Earth's ozone layer from the solar wind and is important in navigation using a compass.

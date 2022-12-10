@@ -1,0 +1,9 @@
+Fiber optics~Telecommunications stubs~
+||||||
+Launch angle
+||||||
+In fiber optic telecommunications, the launch angle has the following meanings: 
+
+The angle, with respect to the normal, at which a light ray emerges from a surface.
+The beam divergence at an emitting surface, such as that of a light-emitting diode (LED), laser, lens, prism, or optical fiber end face.
+At an end face of an optical fiber, the angle between an input ray and the fiber axis. If the end face of the fiber is perpendicular to the fiber axis, the launch angle is equal to the angle of incidence.In baseball, the "launch angle" is the angle, with respect to the ground level at home plate, at which a batted ball leaves the bat.

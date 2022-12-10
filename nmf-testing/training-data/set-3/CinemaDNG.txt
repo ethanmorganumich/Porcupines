@@ -1,0 +1,5 @@
+Graphics file formats~
+||||||
+CinemaDNG
+||||||
+CinemaDNG is the result of an Adobe-led initiative to define an industry-wide open file format for digital cinema files. CinemaDNG caters for sets of movie clips, each of which is a sequence of raw video images, accompanied by audio and metadata. CinemaDNG supports stereoscopic cameras and multiple audio channels. CinemaDNG specifies directory structures containing one or more video clips, and specifies requirements and constraints for the open format files, (DNG, TIFF, XMP, and/or MXF), within those directories, that contain the content of those clips.CinemaDNG is different from the Adobe DNG (Digital Negative) format that is primarily used as a raw image format for still cameras. However, each CinemaDNG image is encoded using that DNG image format. The image stream can then be stored in one of two formats: either as video essence using frame-based wrapping in an MXF file, or as a sequence of DNG image files in a specified file directory. Each clip uses just one of these formats, but the set of clips in a movie may use both.

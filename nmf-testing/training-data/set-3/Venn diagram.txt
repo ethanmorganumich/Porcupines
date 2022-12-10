@@ -1,0 +1,6 @@
+Diagrams~Graphical concepts in set theory~Statistical charts and diagrams~
+||||||
+Venn diagram
+||||||
+A Venn diagram is a widely used diagram style that shows the logical relation between sets, popularized by John Venn (1834–1923) in the 1880s. The diagrams are used to teach elementary set theory, and to illustrate simple set relationships in probability, logic, statistics, linguistics and computer science. A Venn diagram uses simple closed curves drawn on a plane to represent sets. Very often, these curves are circles or ellipses.
+Similar ideas had been proposed before Venn. Christian Weise in 1712 (Nucleus Logicoe Wiesianoe) and Leonhard Euler (Letters to a German Princess) in 1768, for instance, came up with similar ideas. The idea was popularised by Venn in Symbolic Logic, Chapter V "Diagrammatic Representation", 1881.

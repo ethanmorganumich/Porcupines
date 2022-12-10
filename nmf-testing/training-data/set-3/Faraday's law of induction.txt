@@ -1,0 +1,7 @@
+Electrodynamics~Maxwell's equations~Michael Faraday~
+||||||
+Faraday's law of induction
+||||||
+Faraday's law of induction (briefly, Faraday's law) is a basic law of electromagnetism predicting how a magnetic field will interact with an electric circuit to produce an electromotive force (emf)—a phenomenon known as electromagnetic induction. It is the fundamental operating principle of transformers, inductors, and many types of electrical motors, generators and solenoids.The Maxwell–Faraday equation (listed as one of Maxwell's equations) describes the fact that a spatially varying (and also possibly time-varying, depending on how a magnetic field varies in time) electric field always accompanies a time-varying magnetic field, while Faraday's law states that there is emf (electromotive force, defined as electromagnetic work done on a unit charge when it has traveled one round of a conductive loop) on the conductive loop when the magnetic flux through the surface enclosed by the loop varies in time.
+Faraday's law had been discovered and one aspect of it (transformer emf) was formulated as the Maxwell–Faraday equation later. The equation of Faraday's law can be derived by the Maxwell–Faraday equation (describing transformer emf) and the Lorentz force (describing motional emf). The integral form of the Maxwell–Faraday equation describes only the transformer emf, while the equation of Faraday's law describes both the transformer emf and the motional emf.
+

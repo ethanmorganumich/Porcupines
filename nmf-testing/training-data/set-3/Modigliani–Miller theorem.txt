@@ -1,0 +1,8 @@
+Capital (economics)~Economics theorems~Financial economics~
+||||||
+Modigliani–Miller theorem
+||||||
+The Modigliani–Miller theorem (of Franco Modigliani, Merton Miller) is an influential element of economic theory; it forms the basis for modern thinking on capital structure. The basic theorem states that in the absence of taxes, bankruptcy costs, agency costs, and asymmetric information, and in an efficient market, the enterprise value of a firm is unaffected by how that firm is financed. This is not to be confused with the value of the equity of the firm. Since the value of the firm depends neither on its dividend policy nor its decision to raise capital by issuing shares or selling debt, the Modigliani–Miller theorem is often called the capital structure irrelevance principle.
+The key Modigliani–Miller theorem was developed in a world without taxes. However, if we move to a world where there are taxes, when the interest on debt is tax-deductible, and ignoring other frictions, the value of the company increases in proportion to the amount of debt used. The additional value equals the total discounted value of future taxes saved by issuing debt instead of equity.
+Modigliani was awarded the 1985 Nobel Prize in Economics for this and other contributions.
+Miller was a professor at the University of Chicago when he was awarded the 1990 Nobel Prize in Economics, along with Harry Markowitz and William F. Sharpe, for their "work in the theory of financial economics", with Miller specifically cited for "fundamental contributions to the theory of corporate finance".

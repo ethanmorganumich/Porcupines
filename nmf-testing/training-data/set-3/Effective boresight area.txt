@@ -1,0 +1,6 @@
+Antennas~
+||||||
+Aperture (antenna)
+||||||
+In electromagnetics and antenna theory, the aperture of an antenna is defined as "A surface, near or on an antenna, on which it is convenient to make
+assumptions regarding the field values for the purpose of computing fields at external points. The aperture is often taken as that portion of a plane surface near the antenna, perpendicular to the direction of maximum radiation, through which the major part of the radiation passes."

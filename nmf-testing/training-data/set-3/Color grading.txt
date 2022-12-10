@@ -1,0 +1,7 @@
+Color~Film and video technology~Filmmaking occupations~
+||||||
+Color grading
+||||||
+Color grading is a post-production process common to filmmaking and video editing of improving the appearance of an image for presentation in different environments on different devices. Various attributes of an image such as contrast, color, saturation, detail, black level, and white point may be enhanced whether for motion pictures, videos, or still images. Color grading and color correction are often used synonymously as terms for this process and can include the generation of artistic color effects through creative blending and compositing of different images.  Color grading is generally now performed in a digital process either in a controlled environment such as a color suite, or in any location where a computer can be used in dim lighting.
+The earlier photochemical film process, referred to as color timing, was performed at a film lab during printing by varying the intensity and color of light used to expose the rephotographed image. Since, with this process alone, the user was unable to immediately view the outcome of their changes, the use of a Hazeltine color analyzer was common for viewing these modifications in real time.
+

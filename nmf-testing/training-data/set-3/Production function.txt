@@ -1,0 +1,7 @@
+Production economics~
+||||||
+Production function
+||||||
+In economics, a production function gives the technological relation between quantities of physical inputs and quantities of output of goods.  The production function is one of the key concepts of mainstream neoclassical theories, used to define marginal product and to distinguish allocative efficiency, a key focus of economics. One important purpose of the production function is to address allocative efficiency in the use of factor inputs in production and the resulting distribution of income to those factors, while abstracting away from the technological problems of achieving technical efficiency, as an engineer or professional manager might understand it.
+For modelling the case of many outputs and many inputs, researchers often use the so-called Shephard's distance functions or, alternatively, directional distance functions, which are generalizations of the simple production function in economics.In macroeconomics, aggregate production functions are estimated to create a framework in which to distinguish how much of economic growth to attribute to changes in factor allocation (e.g. the accumulation of physical capital) and how much to attribute to advancing technology.  Some non-mainstream economists, however, reject the very concept of an aggregate production function.
+

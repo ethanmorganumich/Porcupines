@@ -1,0 +1,9 @@
+Amateur radio~Encodings~Morse code~Operating signals~Telecommunications-related introductions in 1909~
+||||||
+Q code
+||||||
+The Q-code is a standardised collection of three-letter codes that each start with the letter "Q". It is an operating signal initially developed for commercial radiotelegraph communication and later adopted by other radio services, especially amateur radio. To distinguish the use of a Q-code transmitted as a question from the same Q-code transmitted as a statement, operators either prefixed it with the military network question marker "INT" (dit dit dah dit dah) or suffixed it with the standard Morse question mark UD (dit dit dah dah dit dit).
+Although Q-codes were created when radio used Morse code exclusively, they continued to be employed after the introduction of voice transmissions. To avoid confusion, transmitter call signs are restricted; no country is ever issued an ITU prefix starting with "Q".
+Codes in the range QAA–QNZ are reserved for aeronautical use; QOA–QQZ for maritime use and QRA–QUZ for all services.
+"Q" has no official meaning, but it is sometimes assigned a word with mnemonic value, such as "Queen" for example in QFE: Queen's field elevation, or "Query", "Question", "reQuest".
+

@@ -1,0 +1,5 @@
+Architectural element stubs~Architectural elements~Building~
+||||||
+Camber beam
+||||||
+In building, a camber beam is a piece of timber cut archwise, and steel bent or rolled, with an obtuse angle in the middle, commonly used in platforms as church leads, and other occasions where long and strong beams are required.  The camber curve is ideally a parabola, but practically a circle segment as even with modern materials and calculations, cambers are imprecise.A camber beam is much stronger than another of the same size, since being laid with the hollow side downwards, as they usually are, they form a kind of supporting arch.

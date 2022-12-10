@@ -1,0 +1,6 @@
+Machine learning algorithms~
+||||||
+State–action–reward–state–action
+||||||
+State–action–reward–state–action (SARSA) is an algorithm for learning a Markov decision process policy, used in the reinforcement learning area of machine learning. It was proposed by Rummery and Niranjan in a technical note with the name "Modified Connectionist Q-Learning" (MCQ-L). The alternative name SARSA, proposed by Rich Sutton, was only mentioned as a footnote.
+This name reflects the fact that the main function for updating the Q-value depends on the current state of the agent "S1", the action the agent chooses "A1", the reward "R" the agent gets for choosing this action, the state "S2" that the agent enters after taking that action, and finally the next action "A2" the agent chooses in its new state. The acronym for the quintuple (st, at, rt, st+1, at+1) is SARSA. Some authors use a slightly different convention and write the quintuple (st, at, rt+1, st+1, at+1), depending on which time step the reward is formally assigned. The rest of the article uses the former convention.

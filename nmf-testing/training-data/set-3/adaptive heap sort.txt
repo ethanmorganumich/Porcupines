@@ -1,0 +1,6 @@
+Comparison sorts~Heaps (data structures)~Sorting algorithms~
+||||||
+Adaptive heap sort
+||||||
+In computer science, adaptive heap sort is a comparison-based sorting algorithm of the adaptive sort family. It is a variant of heap sort that performs better when the data contains existing order. Published by Christos Levcopoulos and Ola Petersson in 1992, the algorithm utilizes a new measure of presortedness, Osc,  as the number of oscillations. Instead of putting all the data into the heap as the traditional heap sort did, adaptive heap sort only take part of the data into the heap so that the run time will reduce significantly when the presortedness of the data is high.
+

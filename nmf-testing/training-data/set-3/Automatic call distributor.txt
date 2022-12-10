@@ -1,0 +1,5 @@
+Computer telephony integration~Telephone exchanges~Telephony equipment~
+||||||
+Automatic call distributor
+||||||
+An automated call distribution system, commonly known as automatic call distributor (ACD), is a telephony device that answers and distributes incoming calls to a specific group of terminals or agents within an organization. ACDs direct calls based on parameters that may include the caller's telephone number, the number they dialed, the time of day or a response to an automated voice prompt. Advanced ACD systems may use digital technologies such as Computer telephony integration (CTI), computer-supported telecommunications applications (CSTA) or IVR as input to determine the route to a person or voice announcement that will serve the caller. Experts claim that "the invention of ACD technology made the concept of a call centre possible."

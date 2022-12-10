@@ -1,0 +1,6 @@
+Radio spectrum~Wireless~
+||||||
+High frequency
+||||||
+High frequency (HF) is the ITU designation for the range of radio frequency electromagnetic waves (radio waves) between 3 and 30 megahertz (MHz). It is also known as the decameter band or decameter wave as its wavelengths range from one to ten decameters (ten to one hundred meters). Frequencies immediately below HF are denoted medium frequency (MF), while the next band of higher frequencies is known as the very high frequency (VHF) band. The HF band is a major part of the shortwave band of frequencies, so communication at these frequencies is often called shortwave radio.  Because radio waves in this band can be reflected back to Earth by the ionosphere layer in the atmosphere – a method known as "skip" or "skywave" propagation – these frequencies are suitable for long-distance communication across intercontinental distances and for mountainous terrains which prevent line-of-sight communications. The band is used by international shortwave broadcasting stations (3.95–25.82 MHz), aviation communication, government time stations, weather stations, amateur radio and citizens band services, among other uses.
+

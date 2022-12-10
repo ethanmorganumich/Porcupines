@@ -1,0 +1,8 @@
+Accounting in the United States~Accounting terminology~Tax terms~
+||||||
+Adjusted basis
+||||||
+In tax accounting, adjusted basis is the net cost of an asset after adjusting for various tax-related items.
+Adjusted Basis or Adjusted Tax Basis refers to the original cost or other basis of property, reduced by depreciation deductions and increased by capital expenditures. 
+Example: Brad buys a lot for $100,000. He then erects a retail facility for $600,000, then depreciates the improvements for tax purposes at the rate of $15,000 per year. After three years his adjusted tax basis is $655,000 [$100,000 + $600,000 - (3 x $15,000)].
+Adjusted basis is one of two variables in the formula used to compute gains and losses when determining gross income for tax purposes.  The Amount Realized –  Adjusted Basis tells the amount of Realized Gain (if positive) or Realized Loss (if negative).

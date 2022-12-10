@@ -1,0 +1,8 @@
+Music theory~Musical notation~Time signatures~
+||||||
+Time signature
+||||||
+The time signature (also known as meter signature, metre signature,  or measure signature) is a notational convention used in Western musical notation to specify how many beats (pulses) are contained in each measure (bar), and which note value is equivalent to a beat.
+In a music score, the time signature appears at the beginning as a time symbol or stacked numerals, such as  or 44 (read common time or four-four time, respectively), immediately following the key signature (or immediately following the clef symbol if the key signature is empty). A mid-score time signature, usually immediately following a barline, indicates a change of meter.
+There are various types of time signatures, depending on whether the music follows regular (or symmetrical) beat patterns, including simple (e.g., 34 and 44), and compound (e.g., 98 and 128); or involves shifting beat patterns, including complex (e.g., 54 or 78), mixed (e.g., 58 & 38 or 68 & 34), additive (e.g., 3+2+38), fractional (e.g., 2+1⁄24), and irrational meters (e.g., 310 or 524).
+

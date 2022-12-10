@@ -1,0 +1,6 @@
+Horticulture~Meteorological indices~Plant physiology~
+||||||
+Chilling requirement
+||||||
+The chilling requirement of a fruit is the minimum period of cold weather after which a fruit-bearing tree will blossom.  It is often expressed in chill hours, which can be calculated in different ways, all of which essentially involve adding up the total amount of time in a winter spent at certain temperatures.Some bulbs have chilling requirements to bloom, and some seeds have chilling requirements to sprout.
+Biologically, the chilling requirement is a way of ensuring that vernalization occurs.

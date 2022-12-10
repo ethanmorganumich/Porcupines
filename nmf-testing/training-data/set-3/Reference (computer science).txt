@@ -1,0 +1,7 @@
+Data types~Primitive types~Programming language concepts~
+||||||
+Reference (computer science)
+||||||
+In computer programming, a reference is a value that enables a program to indirectly access a particular data, such as a variable's value or a record, in the computer's memory or in some other storage device.  The reference is said to refer to the datum, and accessing the datum is called dereferencing the reference. A reference is distinct from the datum itself.
+A reference is an abstract data type and may be implemented in many ways. Typically, a reference refers to data stored in memory on a given system, and its internal value is the memory address of the data, i.e. a reference is implemented as a pointer. For this reason a reference is often said to "point to" the data. Other implementations include an offset (difference) between the datum's address and some fixed "base" address, an index, unique key, or identifier used in a lookup operation into an array or table, an operating system handle, a physical address on a storage device, or a network address such as a URL.
+

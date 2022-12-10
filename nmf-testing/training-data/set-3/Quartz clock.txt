@@ -1,0 +1,6 @@
+Electronic oscillators~Movement (clockwork)~
+||||||
+Quartz clock
+||||||
+Quartz clocks and quartz watches are timepieces that use an electronic oscillator regulated by a quartz crystal to keep time. This crystal oscillator creates a signal with very precise frequency, so that quartz clocks and watches are at least an order of magnitude more accurate than mechanical clocks. Generally, some form of digital logic counts the cycles of this signal and provides a numerical time display, usually in units of hours, minutes, and seconds.
+Since the 1980s, when the advent of solid-state digital electronics allowed them to be made compact and inexpensive, quartz timekeepers have become the world's most widely used timekeeping technology, used in most clocks and watches as well as computers and other appliances that keep time.

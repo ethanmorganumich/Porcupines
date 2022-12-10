@@ -1,0 +1,6 @@
+Radio communications stubs~Radio technology~
+||||||
+Spurious emission
+||||||
+In radio communication, a spurious emission is any component of a radiated radio frequency signal the complete suppression of which would not impair the integrity of the modulation type or the information being transmitted. A radiated signal outside of a transmitter's assigned channel is an example of a spurious emission. Spurious emissions can include harmonic emissions, intermodulation products and frequency conversion products.
+

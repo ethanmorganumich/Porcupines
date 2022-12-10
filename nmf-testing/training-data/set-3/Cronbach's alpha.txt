@@ -1,0 +1,34 @@
+Comparison of assessments~Psychometrics~Statistical reliability~
+||||||
+Cronbach's alpha
+||||||
+Cronbach's alpha (Cronbach's 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  ), also known as tau-equivalent reliability (
+  
+    
+      
+        
+          ρ
+          
+            T
+          
+        
+      
+    
+    {\displaystyle \rho _{T}}
+  ) or coefficient alpha (coefficient 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  ), is a reliability coefficient that provides a method of measuring internal consistency of tests and measures. Numerous studies warn against using it unconditionally, and note that reliability coefficients based on structural equation modeling (SEM) are in many cases a suitable alternative.

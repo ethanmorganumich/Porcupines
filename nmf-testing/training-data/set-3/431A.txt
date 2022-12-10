@@ -1,0 +1,5 @@
+BT Group~Telecommunications equipment~Telephone connectors~
+||||||
+British telephone socket
+||||||
+British telephone sockets were introduced in their current plug and socket form on 19 November 1981 by British Telecom to allow subscribers to connect their own telephones. The connectors are specified in British Standard BS 6312. Electrical characteristics of the telephone interface are specified by individual network operators, e.g. in British Telecom's SIN 351. Electrical characteristics required of British telephones used to be specified in BS 6305.They are similar to modular connectors (as used in RJ11), but have a side-mounted hook, rather than a bottom-mounted one, and are physically incompatible.

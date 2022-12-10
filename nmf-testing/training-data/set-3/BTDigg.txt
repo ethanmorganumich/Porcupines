@@ -1,0 +1,6 @@
+BitTorrent websites~Internet properties established in 2011~Internet search engines~Tor onion services~
+||||||
+BTDigg
+||||||
+BTDigg is the first Mainline DHT search engine. It participated in the BitTorrent DHT network, supporting the network and making correspondence between magnet links and a few torrent attributes (name, size, list of files) which are indexed and inserted into a database. For end users, BTDigg provides a full-text database search via a Web interface. The web part of its search system retrieved proper information by a user's text query. The Web search supported queries in European and Asian languages. The project name was an acronym of BitTorrent Digger (in this context, digger means a treasure-hunter). It went offline in June 2016, reportedly due to index spam. The site returned later in 2016 at a dot-com domain, went offline again, and is now online. The btdig.com site has its torrent crawler's source code listed on GitHub, dhtcrawler2.
+

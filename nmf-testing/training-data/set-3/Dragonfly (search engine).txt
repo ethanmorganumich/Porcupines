@@ -1,0 +1,6 @@
+2018 controversies~Cancelled projects~Censorship in China~Criticism of Google~Google Search~Internet censorship in China~Internet search engines~Projects disestablished in 2019~Projects established in 2018~Prototypes~
+||||||
+Dragonfly (search engine)
+||||||
+The Dragonfly project was an Internet search engine prototype created by Google that was designed to be compatible with China's state censorship provisions. The public learned of Dragonfly's existence in August 2018, when The Intercept leaked an internal memo written by a Google employee about the project. In December 2018, Dragonfly was reported to have "effectively been shut down" after a clash with members of the privacy team within Google. However, according to employees, work on Dragonfly was still continuing as of March 2019, with some 100 people still allocated to it.In July 2019, Google announced that work on Dragonfly had been terminated.
+

@@ -1,0 +1,11 @@
+Scale degrees~
+||||||
+Degree (music)
+||||||
+In music theory, the scale degree is the position of a particular note on a scale relative to the tonic, the first and main note of the scale from which each octave is assumed to begin. Degrees are useful for indicating the size of intervals and chords and whether an interval is major or minor.
+In the most general sense, the scale degree is the number given to each step of the scale, usually starting with 1 for tonic. Defining it like this implies that a tonic is specified. For instance, the 7-tone diatonic scale may become the major scale once the proper degree has been chosen as tonic (e.g. the C-major scale C–D–E–F–G–A–B, in which C is the tonic). If the scale has no tonic, the starting degree must be chosen arbitrarily. In set theory, for instance, the 12 degrees of the chromatic scale usually are numbered starting from C=0, the twelve pitch classes being numbered from 0 to 11.
+In a more specific sense, scale degrees are given names that indicate their particular function within the scale (see table below). This implies a functional scale, as is the case in tonal music.
+This example gives the names of the functions of the scale degrees in the seven note diatonic scale. The names are the same for the major and minor scales, only the seventh degree changes name when flattened:
+
+The term scale step is sometimes used synonymously with scale degree, but it may alternatively refer to the distance between two successive and adjacent scale degrees (see steps and skips). The terms "whole step" and "half step" are commonly used as interval names (though "whole scale step" or "half scale step" are not used). The number of scale degrees and the distance between them together define the scale they are in.
+In Schenkerian analysis, "scale degree" (or "scale step") translates Schenker's German Stufe, denoting "a chord having gained structural significance" (see Schenkerian analysis#Harmony).

@@ -1,0 +1,95 @@
+Monetary policy~
+||||||
+Money multiplier
+||||||
+In monetary economics, a money multiplier is one of various closely related ratios of commercial bank money to central bank money (also called the monetary base) under a fractional-reserve banking system. It relates to the maximum amount of commercial bank money that can be created, given a certain amount of central bank money.  In a fractional-reserve banking system that has legal reserve requirements, the total amount of loans that commercial banks are allowed to extend (the commercial bank money that they can legally create) is equal to a multiple of the amount of reserves. This multiple is the reciprocal of the reserve ratio minus one, and it is an economic multiplier. The actual ratio of money to central bank money, also called the money multiplier, is lower because some funds are held by the non-bank public as currency. Also, banks may hold excess reserves, being reserves above the reserve requirement set by the central bank.Although the money multiplier concept is a traditional portrayal of fractional-reserve banking, it has been criticized as being  misleading. The Federal ReserveBank of England, Deutsche Bundesbank, and the Standard & Poor's rating agency have issued criticisms of the concept's use. Several countries (such as Canada, the UK, Australia and Sweden) set no legal reserve requirements. Even in those countries that do, the reserve requirement is as a ratio to deposits held, not a ratio to loans that can be extended. Basel III does stipulate a liquidity requirement to cover 30 days net cash outflow expected under a modeled stressed scenario (note this is not a ratio to loans that can be extended); however, liquidity coverage does not need to be held as reserves but rather as any high-quality liquid assets.In equations, writing M for commercial bank money (loans), R for reserves (central bank money), and RR for the reserve ratio, the reserve ratio requirement is that 
+  
+    
+      
+        R
+        
+          /
+        
+        (
+        R
+        +
+        M
+        )
+        ≥
+        R
+        R
+        ;
+      
+    
+    {\displaystyle R/(R+M)\geq RR;}
+   the fraction of reserves must be at least the reserve ratio. Taking the reciprocal, 
+  
+    
+      
+        (
+        R
+        +
+        M
+        )
+        
+          /
+        
+        R
+        ≤
+        1
+        
+          /
+        
+        R
+        R
+        ,
+      
+    
+    {\displaystyle (R+M)/R\leq 1/RR,}
+   which yields 
+  
+    
+      
+        M
+        ≤
+        R
+        ×
+        (
+        (
+        1
+        
+          /
+        
+        R
+        R
+        )
+        −
+        1
+        )
+        ,
+      
+    
+    {\displaystyle M\leq R\times ((1/RR)-1),}
+   meaning that commercial bank money is at most reserves times 
+  
+    
+      
+        (
+        (
+        1
+        
+          /
+        
+        R
+        R
+        )
+        −
+        1
+        )
+        ,
+      
+    
+    {\displaystyle ((1/RR)-1),}
+   the latter being the multiplier. (In March 2020, the minimum reserve requirement for all deposit institutions in the United States was abolished, setting RR=0. In practice, however, banks continue to be limited by their capital requirement.)
+If banks lend out close to the maximum allowed by their reserves, then the inequality becomes an approximate equality, and commercial bank money is central bank money times the multiplier. If banks instead lend less than the maximum, accumulating excess reserves, then commercial bank money will be less than central bank money times the theoretical multiplier.
+In the United States since 1959, banks lent out close to the maximum allowed for the 49-year period from 1959 until August 2008, maintaining a low level of excess reserves, then accumulated significant excess reserves over the period September 2008 through the present (November 2009). Thus, in the first period, commercial bank money was almost exactly central bank money times the multiplier, but this relationship ceased in September 2008.

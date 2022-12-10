@@ -1,0 +1,10 @@
+Musical techniques~
+||||||
+Inganno
+||||||
+"Inganno" (Italian: deception) is an Italian term for one of the two musical devices: an interrupted cadence, or a type of transposition used in 16th- and early 17th-century Italian music. This article will concentrate on the latter meaning.
+The earliest explanation of the term is given by Giovanni Artusi in his Seconda parte dell'Artusi (1603). An inganno occurs when one voice states a theme, and then the other picks it up without using the same intervals, but retaining the names of the hexachord syllables. Artusi provides the following example:
+
+Here the original theme is in the natural hexachord. The first note is then transposed to the hard hexachord (G sol into D sol), the second is retained, the third and the fourth are transposed to the soft hexachord F fa into B fa, C ut into F ut), and so on.
+Only one piece is known to explicitly refer to inganni in the title: Giovanni Maria Trabaci's Recercare con tre fughe et inganni from 1603. But numerous other pieces from the era make use of the technique. Examples include numerous works by Girolamo Frescobaldi (for instance, Fantasia seconda of 1608) and ricercares attributed to Jacques Brunel (the first recorded systematic use of inganno); it has been suggested by scholar Roland Jackson that the technique played an important part in the development of the late Italian madrigal, including the famous works of Carlo Gesualdo.
+

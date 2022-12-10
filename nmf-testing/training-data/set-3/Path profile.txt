@@ -1,0 +1,6 @@
+Radio frequency propagation~
+||||||
+Path profile
+||||||
+In telecommunication, a path profile is a graphic representation of the physical features of a propagation path in the vertical plane containing both endpoints of the path, showing the surface of the Earth and including trees, buildings, and other features that may obstruct the radio signal.  
+Profiles are drawn either with an effective Earth radius simulated by a parabolic arc--in which case the ray paths are drawn as straight lines--or with a "flat Earth"-- in which case the ray paths are drawn as parabolic arcs.

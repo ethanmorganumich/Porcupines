@@ -1,0 +1,9 @@
+Abuse of the legal system~Legal costs~Legal ethics~Legal terminology~Tort law~
+||||||
+Champerty and maintenance
+||||||
+Champerty and maintenance are doctrines in common law jurisdictions that aim to preclude frivolous litigation: 
+
+Maintenance is the intermeddling of a disinterested party to encourage a lawsuit.: 260  It is: "A taking in hand, a bearing up or upholding of quarrels or sides, to the disturbance of the common right."
+Champerty (from Old French champart)  is the financial support, by a party not naturally concerned in the suit, of a plaintiff that allows them to prosecute a lawsuit on condition that, if it be brought to a successful issue, the plaintiff will repay them with a share of the proceed from the suit.In Giles v Thompson Lord Justice Steyn declared: "In modern idiom maintenance is the support of litigation by a stranger without just cause. Champerty is an aggravated form of maintenance. The distinguishing feature of champerty is the support of litigation by a stranger in return for a share of the proceeds."
+At common law, maintenance and champerty were both crimes and torts, as was barratry (the bringing of vexatious litigation). This is generally no longer so as, during the nineteenth century, the development of legal ethics tended to obviate the risks to the public, particularly after the scandal of the Swynfen will case (1856–1864). However, the principles are relevant to modern contingent fee agreements between a lawyer and a client and to the assignment by a plaintiff of his rights in a lawsuit to someone with no connection to the case. Champertous contracts can still, depending on jurisdiction, be void for public policy or attract liability for costs.

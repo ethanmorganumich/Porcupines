@@ -1,0 +1,7 @@
+Cables~Fiber optics~Plumbing~
+||||||
+Bend radius
+||||||
+Bend radius, which is measured to the inside curvature, is the minimum radius one can bend a pipe, tube, sheet, cable or hose without kinking it, damaging it, or shortening its life. The smaller the bend radius, the greater is the material flexibility (as the radius of curvature decreases, the curvature increases). The diagram to the right illustrates a cable with a seven-centimeter bend radius.
+
+The minimum bend radius is the radius below which an object such as a  cable should not be bent.

@@ -1,0 +1,18 @@
+Electrical meters~Electrical resistance and conductance~Electrical safety~Electronic test equipment~Impedance measurements~Safety engineering~
+||||||
+Ohmmeter
+||||||
+An ohmmeter is an electrical instrument that measures electrical resistance (the opposition offered by a circuit or component to the flow of electric current). Multimeters also function as ohmmeters when in resistance-measuring mode.  An ohmmeter applies current to the circuit or component whose resistance is to be measured. It then measures the resulting voltage and calculates the resistance using Ohm’s law 
+  
+    
+      
+        V
+        =
+        I
+        R
+      
+    
+    {\displaystyle V=IR}
+  .
+An ohmmeter should not be connected to a circuit or component that is carrying a current or is connected to a power source. Power should be disconnected before connecting the ohmmeter.  Ohmmeters can be either connected in series or parallel based on requirements (whether resistance being measured is part of circuit or is a shunt resistance.)
+Micro-ohmmeters (microhmmeter or micro ohmmeter) make measurements of low resistance. Megohmmeters (also a trademarked device Megger) measure large values of resistance. The unit of measurement for resistance is the ohm (Ω).

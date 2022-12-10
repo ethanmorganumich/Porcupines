@@ -1,0 +1,7 @@
+Internet search engines~Online services comparisons~Software comparisons~
+||||||
+Comparison of web search engines
+||||||
+Web search engines are listed in tables below for comparison purposes.  The first table lists the company behind the engine, volume and ad support and identifies the nature of the software being used as free software or proprietary software. The second and third table lists internet privacy aspects along with other technical parameters, such as whether the engine provides personalization (alternatively viewed as a filter bubble).
+Defunct or acquired search engines are not listed here.
+

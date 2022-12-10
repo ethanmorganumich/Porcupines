@@ -1,0 +1,55 @@
+Circuit complexity~Computational complexity theory~
+||||||
+Circuit complexity
+||||||
+In theoretical computer science, circuit complexity is a branch of computational complexity theory in which Boolean functions are classified according to the size or depth of the Boolean circuits that compute them. A related notion is the circuit complexity of a recursive language that is decided by a uniform family of circuits 
+  
+    
+      
+        
+          C
+          
+            1
+          
+        
+        ,
+        
+          C
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle C_{1},C_{2},\ldots }
+   (see below).
+Proving lower bounds on size of Boolean circuits computing explicit Boolean functions is a popular approach to separating complexity classes. For example, a prominent circuit class P/poly consists of Boolean functions computable by circuits of polynomial size. Proving that 
+  
+    
+      
+        
+          
+            N
+            P
+          
+        
+        ⊈
+        
+          
+            P
+            
+              /
+            
+            p
+            o
+            l
+            y
+          
+        
+      
+    
+    {\displaystyle {\mathsf {NP}}\not \subseteq {\mathsf {P/poly}}}
+   would separate P and NP (see below).
+Complexity classes defined in terms of Boolean circuits include AC0, AC, TC0, NC1, NC, and P/poly.

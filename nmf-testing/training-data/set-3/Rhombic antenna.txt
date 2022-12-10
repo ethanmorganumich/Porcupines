@@ -1,0 +1,6 @@
+Antennas (radio)~Radio frequency antenna types~
+||||||
+Rhombic antenna
+||||||
+A rhombic antenna is made of four sections of wire suspended parallel to the ground in a  diamond or "rhombus" shape. Each of the four sides is the same length – about a quarter-wavelength to one wavelength per section – converging but not touching at an angle of about 42° at the fed end and at the far end. The length is not critical, typically from one to two wavelengths (λ), but there is an optimum angle for any given length and frequency. A horizontal rhombic antenna radiates horizontally polarized radio waves at a low elevation angle off the pointy ends of the antenna.
+If the sections are joined by a resistor at either of the acute (pointy) ends, then the antenna will receive from and transmit to only the direction the end with the resistor points at. Its principal advantages over other types of antenna are its simplicity, high forward gain, wide bandwidth, and the ability to operate over a wide range of frequencies.

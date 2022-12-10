@@ -1,0 +1,7 @@
+Minor intervals~Sevenths (music)~
+||||||
+Minor seventh
+||||||
+In music theory, a minor seventh is one of two musical intervals that span seven staff positions. It is minor because it is the smaller of the two sevenths, spanning ten semitones. The major seventh spans eleven. For example, the interval from A to G is a minor seventh, as the note G lies ten semitones above A, and there are seven staff positions from A to G. Diminished and augmented sevenths span the same number of staff positions, but consist of a different number of semitones (nine and twelve, respectively).
+Minor seventh intervals rarely feature in melodies (and especially in their openings) but occur more often than major sevenths.  The best-known example, in part due to its frequent use in theory classes, is found between the first two words of the phrase "There's a place for us" in the song "Somewhere" in West Side Story.  Another well-known example occurs between the first two notes of the introduction to the main theme music from Star Trek: The Original Series theme.The most common occurrence of the minor seventh is built on the root of the prevailing key's dominant triad, producing the all-important dominant seventh chord.
+Consonance and dissonance are relative, depending on context, the minor seventh being defined as a dissonance requiring resolution to a consonance.

@@ -1,0 +1,10 @@
+Communication circuits~Electronic engineering~Telecommunications stubs~
+||||||
+Communications-electronics
+||||||
+In telecommunication, communications-electronics (C-E) is the specialized field concerned with the use of electronic devices and systems for the acquisition or acceptance, processing, storage, display, analysis, protection, disposition, and transfer of information.  
+C-E includes the wide range of responsibilities and actions relating to:
+
+Electronic devices and systems used in the transfer of ideas and perceptions;
+Electronic sensors and sensory systems used in the acquisition of information devoid of semantic influence;
+Electronic devices and systems intended to allow friendly forces to operate in hostile environments and to deny to hostile forces the effective use of electromagnetic resources.

@@ -1,0 +1,10 @@
+Music theory stubs~Schenkerian analysis~
+||||||
+Primary tone
+||||||
+In Schenkerian analysis, the primary tone or head tone (German: Kopfton) is the starting tone of the fundamental line. The fundamental line itself originates as an arpeggiation of the tonic chord, filled by passing tones:
+
+In accordance with the arpeggiation from which it stems, the fundamental line exhibits the space of a third, fifth, or octave. These spaces are filled by passing tones.The primary tone therefore necessarily is one of the higher tones of the tonic chord, ,  or .
+The fundamental line descends from its primary tone to the tonic, :
+
+To man is given the experience of ending, the cessation of all tensions and efforts. In this sense, we feel by nature that the fundamental line must lead downward until it reaches , and the bass must fall back to the fundamental.

@@ -1,0 +1,16 @@
+Compiling tools~Cross-platform software~GNU Project software~Parser generators~Parsing~
+||||||
+GNU Bison
+||||||
+GNU Bison, commonly known as Bison, is a parser generator that is part of the GNU Project. Bison reads a specification in the BNF notation (a context-free language), warns about any parsing ambiguities, and generates a parser that reads sequences of tokens and decides whether the sequence conforms to the syntax specified by the grammar.
+The generated parsers are portable: they do not require any specific compilers.  Bison by default generates LALR(1) parsers but it can also generate canonical LR, IELR(1) and GLR parsers.In POSIX mode, Bison is compatible with Yacc, but also has several extensions over this earlier program, including
+
+Generation of counterexamples for conflicts
+Location tracking (e.g., file, line, column)
+Rich and internationalizable syntax error messages in the generated parsers
+Customizable syntax error generation,
+Reentrant parsers
+Push parsers, with autocompletion
+Support for named references
+Several types of reports (graphical, XML) on the generated parser
+Support for several programming languages (C, C++, D, or Java)Flex, an automatic lexical analyser, is often used with Bison, to tokenise input data and provide Bison with tokens.Bison was originally written by Robert Corbett in 1985. Later, in 1989, Robert Corbett released another parser generator named Berkeley Yacc. Bison was made Yacc-compatible by Richard Stallman.Bison is free software and is available under the GNU General Public License, with an exception (discussed below) allowing its generated code to be used without triggering the copyleft requirements of the licence.

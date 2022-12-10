@@ -1,0 +1,5 @@
+Models of computation~Turing machine~
+||||||
+Post–Turing machine
+||||||
+A Post–Turing machine is a "program formulation" of a type of Turing machine, comprising a variant of Emil Post's Turing-equivalent model of computation. Post's model and Turing's model, though very similar to one another, were developed independently. Turing's paper was received for publication in May 1936, followed by Post's in October.  A Post–Turing machine uses a binary alphabet, an infinite sequence of binary storage locations, and a primitive programming language with instructions for bi-directional movement among the storage locations and alteration of their contents one at a time.  The names "Post–Turing program" and "Post–Turing machine" were used by Martin Davis in 1973–1974 (Davis 1973, p. 69ff). Later in 1980, Davis used the name "Turing–Post program" (Davis, in Steen p. 241).

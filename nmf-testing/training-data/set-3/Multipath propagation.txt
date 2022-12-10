@@ -1,0 +1,7 @@
+Broadcast engineering~Radio frequency propagation~
+||||||
+Multipath propagation
+||||||
+In radio communication, multipath is the propagation phenomenon that results in radio signals reaching the receiving antenna by two or more paths. Causes of multipath include atmospheric ducting, ionospheric reflection and refraction, and reflection from water bodies and terrestrial objects such as mountains and buildings. When the same signal is received over more than one path, it can create interference and phase shifting of the signal. Destructive interference causes fading; this may cause a radio signal to become too weak in certain areas to be received adequately. For this reason, this effect is also known as multipath interference or multipath distortion.
+Where the magnitudes of the signals arriving by the various paths have a distribution known as the Rayleigh distribution, this is known as Rayleigh fading. Where one component (often, but not necessarily, a line of sight component) dominates, a Rician distribution provides a more accurate model, and this is known as Rician fading. Where two components dominate, the behavior is best modeled with the two-wave with diffuse power (TWDP) distribution. All of these descriptions are commonly used and accepted and lead to results. However, they are generic and abstract/hide/approximate the underlying physics. 
+

@@ -1,0 +1,6 @@
+Amateur radio~
+||||||
+QRP operation
+||||||
+In amateur radio, QRP operation refers to transmitting at reduced power while attempting to maximize one's effective range. QRP operation is a specialized pursuit within the hobby that was first popularized in the early 1920s. QRP operators generally limit their transmitted RF output power to 5 Watts or less regardless of mode be it CW operation or  SSB operation.Reliable two-way communication at such low power levels can be challenging due to changing radio propagation and the difficulty of receiving the relatively weak transmitted signals. QRP enthusiasts may employ optimized antenna systems, enhanced operating skills, and a variety of special modes, in order to maximize their ability to make and maintain radio contact. Since the late 1960s, commercial transceivers specially designed for QRP operation have evolved from vacuum tube to solid state technology.
+A number of organizations dedicated to QRP operation exist, and aficionados participate in various contests designed to test their skill in making long-distance contacts at low power levels.

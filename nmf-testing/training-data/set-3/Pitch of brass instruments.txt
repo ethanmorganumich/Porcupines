@@ -1,0 +1,5 @@
+Brass instruments~Pitch (music)~
+||||||
+Pitch of brass instruments
+||||||
+The pitch of a brass instrument corresponds to the lowest playable resonance frequency of the open instrument. The combined resonances resemble a harmonic series. The fundamental frequency of the harmonic series can be varied by adjusting the length of the tubing using the instrument's valve, slide, key or crook system, while the player's embouchure, lip tension and air flow serve to select a specific harmonic from the available series for playing. The fundamental is essentially missing from the resonances and is impractical to play on most brass instruments, but the overtones account for most pitches.The following table provides the pitch of the second harmonic (the lowest playable resonance on most brass instruments, an octave above the fundamental frequency) and length for some common brass instruments in descending order of pitch. This pitch is notated transpositionally as middle C for many of these brass instruments.

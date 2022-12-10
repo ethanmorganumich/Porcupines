@@ -1,0 +1,5 @@
+Architectural element stubs~Roofs~
+||||||
+Conical roof
+||||||
+A conical roof or cone roof is a  cone-shaped roof that is circular at its base and terminates in a point.

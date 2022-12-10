@@ -1,0 +1,6 @@
+Actuarial science~Exponentials~Interest~Mathematical finance~
+||||||
+Compound interest
+||||||
+Compound interest is the addition of interest to the principal sum of a loan or deposit, or in other words, interest on principal plus interest. It is the result of reinvesting interest, or adding it to the loaned capital rather than paying it out, or requiring payment from borrower, so that interest in the next period is then earned on the principal sum plus previously accumulated interest. Compound interest is standard in finance and economics.  
+Compound interest is contrasted with simple interest, where previously accumulated  interest is not added to the principal amount of the current period, so there is no compounding. The simple annual interest rate is the interest amount per period, multiplied by the number of periods per year. The simple annual interest rate is also known as the nominal interest rate (not to be confused with the interest rate not adjusted for inflation, which goes by the same name).

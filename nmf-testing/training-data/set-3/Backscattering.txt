@@ -1,0 +1,5 @@
+Scattering, absorption and radiative transfer (optics)~
+||||||
+Backscatter
+||||||
+In physics, backscatter (or backscattering) is the reflection of waves, particles, or signals back to the direction from which they came. It is usually a diffuse reflection due to scattering, as opposed to specular reflection as from a mirror, although specular backscattering can occur at normal incidence with a surface. Backscattering has important applications in astronomy, photography, and medical ultrasonography. The opposite effect is forward scatter, e.g. when a translucent material like a cloud diffuses sunlight, giving soft light.

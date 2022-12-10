@@ -1,0 +1,18 @@
+Accelerator physics~Geometrical optics~
+||||||
+Ray transfer matrix analysis
+||||||
+Ray transfer matrix analysis (also known as ABCD matrix analysis) is a mathematical form for performing ray tracing calculations in sufficiently simple problems which can be solved considering only paraxial rays.  Each optical element (surface, interface, mirror, or beam travel) is described by a 2×2 ray transfer matrix which operates on a vector describing an incoming light ray to calculate the outgoing ray. Multiplication of the successive matrices thus yields a concise ray transfer matrix describing the entire optical system. The same mathematics is also used in accelerator physics to track particles through the magnet installations of a particle accelerator, see electron optics.
+This technique, as described below, is derived using the paraxial approximation, which requires that all ray directions (directions normal to the wavefronts) are at small angles θ relative to the optical axis of the system, such that the approximation 
+  
+    
+      
+        sin
+        ⁡
+        θ
+        ≈
+        θ
+      
+    
+    {\displaystyle \sin \theta \approx \theta }
+   remains valid. A small θ further implies that the transverse extent of the ray bundles (x and y) is small compared to the length of the optical system (thus "paraxial"). Since a decent imaging system where this is not the case for all rays must still focus the paraxial rays correctly, this matrix method will properly describe the positions of focal planes and magnifications, however aberrations still need to be evaluated using full ray-tracing techniques.

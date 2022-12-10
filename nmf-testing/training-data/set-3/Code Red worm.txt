@@ -1,0 +1,5 @@
+2001 in computing~Cybercrime in India~Exploit-based worms~Hacking in the 2000s~Windows malware~
+||||||
+Code Red (computer worm)
+||||||
+Code Red was a computer worm observed on the Internet on July 15, 2001. It attacked computers running Microsoft's IIS web server. It was the first large scale, mixed threat attack to successfully target enterprise networks.The Code Red worm was first discovered and researched by eEye Digital Security employees Marc Maiffret and Ryan Permeh when it exploited a vulnerability discovered by Riley Hassell. They named it "Code Red" because Mountain Dew Code Red was what they were drinking at the time.Although the worm had been released on July 13, the largest group of infected computers was seen on July 19, 2001. On that day, the number of infected hosts reached 359,000.It spread worldwide but was particularly prevalent in North America, Europe and Asia (including China and India).

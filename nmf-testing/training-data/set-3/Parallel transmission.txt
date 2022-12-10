@@ -1,0 +1,8 @@
+Data transmission~
+||||||
+Parallel communication
+||||||
+In data transmission, parallel communication is a method of conveying multiple binary digits (bits) simultaneously using multiple conductors. This contrasts with serial communication, which conveys only a single bit at a time; this distinction is one way of characterizing a communications link.
+The basic difference between a parallel and a serial communication channel is the number of electrical conductors used at the physical layer to convey bits. Parallel communication implies more than one such conductor. For example, an 8-bit parallel channel will convey eight bits (or a byte) simultaneously, whereas a serial channel would convey those same bits sequentially, one at a time. If both channels operated at the same clock speed, the parallel channel would be eight times faster. A parallel channel may have additional conductors for other signals, such as a clock signal to pace the flow of data, a signal to control the direction of data flow, and handshaking signals.
+Parallel communication is and always has been widely used within integrated circuits, in peripheral buses, and in memory devices such as RAM. Computer system buses, on the other hand, have evolved over time: parallel communication was commonly used in earlier system buses, whereas serial communications are prevalent in modern computers.
+

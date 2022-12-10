@@ -1,0 +1,8 @@
+Design for X~Quality control~Quality management~Statistical process control~
+||||||
+Quality control
+||||||
+Quality control (QC) is a process by which entities review the quality of all factors involved in production. ISO 9000 defines quality control as "a part of quality management focused on fulfilling quality requirements".This approach places emphasis on three aspects (enshrined in standards such as ISO 9001):
+Elements such as controls, job management, defined and well managed processes, performance and integrity criteria, and identification of records
+Competence, such as knowledge, skills, experience, and qualifications
+Soft elements, such as personnel, integrity, confidence, organizational culture, motivation, team spirit, and quality relationships.Inspection is a major component of quality control, where physical product is examined visually (or the end results of a service are analyzed). Product inspectors will be provided with lists and descriptions of unacceptable product defects such as cracks or surface blemishes for example.

@@ -1,0 +1,5 @@
+Intel microcontrollers~Intel x86 microprocessors~
+||||||
+Intel 80188
+||||||
+The Intel 80188 microprocessor was a variant of the Intel 80186. The 80188 had an 8-bit external data bus instead of the 16-bit bus of the 80186; this made it less expensive to connect to peripherals. The 16-bit registers and the one megabyte address range were unchanged, however. It had a throughput of 1 million instructions per second.  Intel second sourced this microprocessor to Fujitsu Limited around 1985.  Both packages of Intel 80188 version were available in 68-pin PLCC and PGA in sampling at third quarter of 1985.

@@ -1,0 +1,30 @@
+Card game terminology~
+||||||
+Revoke
+||||||
+In trick-taking card games, a revoke (or renege,  or ) is a violation of the rules regarding the play of tricks serious enough to render the round invalid. A revoke is a violation ranked in seriousness somewhat below overt cheating, and is considered a minor offense when unintentional.
+Trick-taking games normally have several rules regarding which cards may and may not be played to a trick. For example, most games require a player to follow suit or play in the suit led, if possible. Rules of this sort are sometimes called "honor rules", because there is no way to detect a violation at the moment of its commission. However, the irregularity will normally be discovered later, and there are usually strict penalties for revokes.
+Some "honor rules" in different trick-taking games include the following:
+
+Spades, Euchre and 500 require that players play to the suit led, unless void in it.
+Hearts requires that players follow the suit led. In some variants, a player holding the Queen of Spades and void in the led suit is required to play it.
+Pinochle requires players to
+play to the led suit unless void in it, with a potentially winning (higher than the highest-so-far) card, if possible;
+if void in the led suit, trump with a potentially winning card, if one is in their hand; or
+play some remaining card.
+Bourré requires players to
+play to the led suit unless void in it, with a potentially winning (higher than the highest-so-far) card if possible;
+if void in the led suit, trump with a potentially winning card;
+play to bourré as many other players as possible.
+Forty-fives requires players to follow suit or play a trump card if possible (note that the Ace of Hearts is always a trump card and must be played on a trump if the player holds no other trumps). Some variants permit reneging with the 5 of trumps.Penalties for revokes vary:
+
+In Bridge, the penalty for a revoke is normally one or two tricks scored against the offending partnership, depending on the exact circumstances, but if the non-offending side is more seriously damaged than that (typically because the revoke made a critical entry worthless), then they are compensated accordingly.
+In Pinochle and many other bidding trick games, a revoke results in an automatic set, or failure at the bid, normally precipitating a penalty.
+In Hearts, a revoking player receives all 26 (penalty) points, and each other player receives none.
+In Bourré, a revoking player must forfeit an amount of money equal to the pot.
+In Euchre, a revoking player/team loses bid and receives a 2-point penalty, while the opponents are  awarded two points.
+In Bid Euchre (Pepper), a revoking player playing the bid loses the bid and receives a 2-point penalty. The opponents are awarded the bid. A revoking team playing against the bid forfeits the bid to the player playing the bid. They also receive a penalty in the amount of the bid being played.
+In 500, a revoking player playing the bid loses the trick on which they revoked, and the trick subsequent to that in which the revoked card was played. If the revoking player is playing the bid, the points are subtracted from the round score. If the revoking player is not playing the bid, the points are added to the round score.
+In Forty-fives, revoking is called "reneging", and the applicable rules vary; most often, a player loses all points earned in that hand.Normally, a revoke result in a penalty equal to the most severely negative outcome of the round possible. (The intention is to discourage the practice, which is likely to upset other players' strategies to a degree where the only acceptable resolution may be to declare the round void.)
+Therefore, a revoke rarely has a strategic advantage, except in kingmaker scenarios.
+When (as usual) hands are concealed, a player can revoke without  the error or cheating being caught immediately. For example, if a player does not play a spade to a trick where spades were led, other players will simply assume that player has no spades and note the fact in future play decisions. However, most trick-taking games play a hand until exhaustion, and attentive players will soon notice the violation when a spade is played to a subsequent trick.

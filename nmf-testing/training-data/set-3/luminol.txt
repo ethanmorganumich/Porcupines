@@ -1,0 +1,6 @@
+Aromatic amines~Chemical tests~Chemiluminescence~Forensic chemicals~Hydrazides~Lactams~Phthalazines~
+||||||
+Luminol
+||||||
+Luminol (C8H7N3O2) is a chemical that exhibits chemiluminescence, with a blue glow, when mixed with an appropriate oxidizing agent. Luminol is a white-to-pale-yellow crystalline solid that is soluble in most polar organic solvents, but insoluble in water.
+Forensic investigators use luminol to detect trace amounts of blood at crime scenes, as it reacts with the iron in hemoglobin. Biologists use it in cellular assays to detect copper, iron, cyanides, as well as specific proteins via western blotting.When luminol is sprayed evenly across an area, trace amounts of an activating oxidant make the luminol emit a blue glow that can be seen in a darkened room. The glow only lasts about 30 seconds, but can be documented photographically. The glow is stronger in areas receiving more spray; the intensity of the glow does not indicate the amount of blood or other activator present.

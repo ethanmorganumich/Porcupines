@@ -1,0 +1,6 @@
+Amplifiers~Frequency mixers~
+||||||
+Third-order intercept point
+||||||
+In telecommunications, a third-order intercept point (IP3 or TOI) is a specific figure of merit associated with the more general third-order intermodulation distortion (IMD3), which is a measure for weakly nonlinear systems and devices, for example receivers, linear amplifiers and mixers. It is based on the idea that the device nonlinearity can be modeled using a low-order polynomial, derived by means of Taylor series expansion. The third-order intercept point relates nonlinear products caused by the third-order nonlinear term to the linearly amplified signal, in contrast to the second-order intercept point that uses second-order terms.
+The intercept point is a purely mathematical concept and does not correspond to a practically occurring physical power level. In many cases, it lies far beyond the damage threshold of the device.

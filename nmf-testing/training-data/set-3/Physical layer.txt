@@ -1,0 +1,6 @@
+OSI model~
+||||||
+Physical layer
+||||||
+In the seven-layer OSI model of computer networking, the physical layer or layer 1 is the first and lowest layer; The layer most closely associated with the physical connection between devices. This layer may be implemented by a PHY chip.
+The physical layer provides an electrical, mechanical, and procedural interface to the transmission medium. The shapes and properties of the electrical connectors, the frequencies to broadcast on, the line code to use and similar low-level parameters, are specified by the physical layer.

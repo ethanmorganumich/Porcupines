@@ -1,0 +1,10 @@
+Waveforms~
+||||||
+Crest factor
+||||||
+Crest factor is a parameter of a waveform, such as alternating current or sound, showing the ratio of peak values to the effective value. In other words, crest factor indicates how extreme the peaks are in a waveform. Crest factor 1 indicates no peaks, such as direct current or a square wave. Higher crest factors indicate peaks, for example sound waves tend to have high crest factors.
+Crest factor is the peak amplitude of the waveform divided by the RMS value of the waveform.  
+The peak-to-average power ratio (PAPR) is the peak amplitude squared (giving the peak power) divided by the RMS value squared (giving the average power). It is the square of the crest factor.
+When expressed in decibels, crest factor and PAPR are equivalent, due to the way decibels are calculated for power ratios vs amplitude ratios.
+Crest factor and PAPR are therefore dimensionless quantities.  While the crest factor is defined as a positive real number, in commercial products it is also commonly stated as the ratio of two whole numbers, e.g., 2:1. The PAPR is most used in signal processing applications. As it is a power ratio, it is normally expressed in decibels (dB). The crest factor of the test signal is a fairly important issue in loudspeaker testing standards; in this context it is usually expressed in dB.The minimum possible crest factor is 1, 1:1 or 0 dB.
+

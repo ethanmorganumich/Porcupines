@@ -1,0 +1,26 @@
+1927 in Germany~1927 in science~Inequalities~Mathematical physics~Principles~Quantum mechanics~Scientific laws~Werner Heisenberg~
+||||||
+Uncertainty principle
+||||||
+In quantum mechanics, the uncertainty principle (also known as Heisenberg's uncertainty principle) is any of a variety of mathematical inequalities asserting a fundamental limit to the accuracy with which the values for certain pairs of physical quantities of a particle, such as position, x, and momentum, p, can be predicted from initial conditions.
+Such variable pairs are known as complementary variables or canonically conjugate variables; and, depending on interpretation, the uncertainty principle limits to what extent such conjugate properties maintain their approximate meaning, as the mathematical framework of quantum physics does not support the notion of simultaneously well-defined conjugate properties expressed by a single value. The uncertainty principle implies that it is in general not possible to predict the value of a quantity with arbitrary certainty, even if all initial conditions are specified.
+Introduced first in 1927 by the German physicist Werner Heisenberg, the uncertainty principle states that the more precisely the position of some particle is determined, the less precisely its momentum can be predicted from initial conditions, and vice versa. In the published 1927 paper, Heisenberg originally concluded that the uncertainty principle was 
+  
+    
+      
+        Δ
+      
+    
+    {\displaystyle \Delta }
+  p
+  
+    
+      
+        Δ
+      
+    
+    {\displaystyle \Delta }
+  q ~ h using the full Planck constant. The formal inequality relating the standard deviation of position σx and the standard deviation of momentum σp was derived by Earle Hesse Kennard later that year and by Hermann Weyl in 1928:
+
+where ħ is the reduced Planck constant, h/(2π).
+Historically, the uncertainty principle has been confused with a related effect in physics, called the observer effect, which notes that measurements of certain systems cannot be made without affecting the system, that is, without changing something in a system. Heisenberg utilized such an observer effect at the quantum level (see below) as a physical "explanation" of quantum uncertainty. It has since become clearer, however, that the uncertainty principle is inherent in the properties of all wave-like systems, and that it arises in quantum mechanics simply due to the matter wave nature of all quantum objects. Thus, the uncertainty principle actually states a fundamental property of quantum systems and is not a statement about the observational success of current technology. Indeed the uncertainty principle has its roots in how we apply calculus to write the basic equations of mechanics. It must be emphasized that measurement does not mean only a process in which a physicist-observer takes part, but rather any interaction between classical and quantum objects regardless of any observer.Since the uncertainty principle is such a basic result in quantum mechanics, typical experiments in quantum mechanics routinely observe aspects of it. Certain experiments, however, may deliberately test a particular form of the uncertainty principle as part of their main research program. These include, for example, tests of number–phase uncertainty relations in superconducting or quantum optics systems. Applications dependent on the uncertainty principle for their operation include extremely low-noise technology such as that required in gravitational wave interferometers.

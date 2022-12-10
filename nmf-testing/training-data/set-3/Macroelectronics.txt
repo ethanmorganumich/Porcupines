@@ -1,0 +1,5 @@
+Electronics~Electronics stubs~
+||||||
+Macroelectronics
+||||||
+Macroelectronics are flexible electronics that cover a large area. The most visible example of macroelectronics is flat-panel displays. Other emerging applications include rollable display, printable thin film solar cell and electronic skin. Flat-panel displays fabricated on glass substrates are fragile so fabricating directly on flexible substrates, such as polymers is being explored. Displays made on thin polymer substrates can be more rugged than glass. In September 2005, Philips Polymer Vision revealed the world's first prototype of a rollable electronic reader, which can unfold to a 5-inch display and roll back into a pocket-size (100×60×20 mm) device. Thin-film devices on flexible polymer substrates can lend themselves to low-cost fabrication process (i.e., roll-to-roll printing), resulting in lightweight, rugged and flexible macroelectronic products.

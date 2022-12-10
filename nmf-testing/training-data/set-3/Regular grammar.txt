@@ -1,0 +1,9 @@
+Formal languages~
+||||||
+Regular grammar
+||||||
+In theoretical computer science and formal language theory, a regular grammar is a grammar that is right-regular or left-regular.
+While their exact definition varies from textbook to textbook, they all require that
+
+all production rules have at most one non-terminal symbol;
+that symbol is either always at the end or always at the start of the rule's right-hand side.Every regular grammar describes a regular language.

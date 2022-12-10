@@ -1,0 +1,7 @@
+Theorems in computational complexity theory~
+||||||
+Cook–Levin theorem
+||||||
+In computational complexity theory, the Cook–Levin theorem, also known as Cook's theorem, states that the Boolean satisfiability problem is NP-complete.  That is, it is in NP, and any problem in NP can be reduced in polynomial time by a deterministic Turing machine to the Boolean satisfiability problem.
+The theorem is named after Stephen Cook and Leonid Levin.
+An important consequence of this theorem is that if there exists a deterministic polynomial-time algorithm for solving Boolean satisfiability, then every NP problem can be solved by a deterministic polynomial-time algorithm.  The question of whether such an algorithm for Boolean satisfiability exists is thus equivalent to the P versus NP problem, which is widely considered the most important unsolved problem in theoretical computer science.

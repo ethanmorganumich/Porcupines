@@ -1,0 +1,71 @@
+Basic concepts in set theory~Operations on sets~Subtraction~
+||||||
+Symmetric difference
+||||||
+In mathematics, the symmetric difference of two sets, also known as the disjunctive union, is the set of elements which are in either of the sets, but not in their intersection. For example, the symmetric difference of the sets 
+  
+    
+      
+        {
+        1
+        ,
+        2
+        ,
+        3
+        }
+      
+    
+    {\displaystyle \{1,2,3\}}
+   and 
+  
+    
+      
+        {
+        3
+        ,
+        4
+        }
+      
+    
+    {\displaystyle \{3,4\}}
+   is 
+  
+    
+      
+        {
+        1
+        ,
+        2
+        ,
+        4
+        }
+      
+    
+    {\displaystyle \{1,2,4\}}
+  .
+The symmetric difference of the sets A and B is commonly denoted by 
+  
+    
+      
+        A
+        ⊖
+        B
+        ,
+      
+    
+    {\displaystyle A\ominus B,}
+   or 
+  
+    
+      
+        A
+        
+          △
+        
+        ⁡
+        B
+        .
+      
+    
+    {\displaystyle A\operatorname {\triangle } B.}
+  The power set of any set becomes an abelian group under the operation of symmetric difference, with the empty set as the neutral element of the group and every element in this group being its own inverse. The power set of any set becomes a Boolean ring, with symmetric difference as the addition of the ring and intersection as the multiplication of the ring.

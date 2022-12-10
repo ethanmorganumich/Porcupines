@@ -1,0 +1,7 @@
+Deep foundations~
+||||||
+Deep foundation
+||||||
+A deep foundation is a type of foundation that transfers building loads to the earth farther down from the surface than a shallow foundation does to a subsurface layer or a range of depths. A pile or piling is a vertical structural element of a deep foundation, driven or drilled deep into the ground at the building site.
+
+There are many reasons that a geotechnical engineer would recommend a deep foundation over a shallow foundation, such as for a skyscraper. Some of the common reasons are very large design loads, a poor soil at shallow depth, or site constraints like property lines. There are different terms used to describe different types of deep foundations including the pile (which is analogous to a pole), the pier (which is analogous to a column), drilled shafts, and caissons. Piles are generally driven into the ground in situ; other deep foundations are typically put in place using excavation and drilling. The naming conventions may vary between engineering disciplines and firms. Deep foundations can be made out of timber, steel, reinforced concrete or prestressed concrete.

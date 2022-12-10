@@ -1,0 +1,7 @@
+Chemical processes~Chemical vapor deposition~Coatings~Forming processes~Glass coating and surface modification~Industrial processes~Plasma processing~Semiconductor device fabrication~Synthetic diamond~Thin film deposition~Vacuum~
+||||||
+Chemical vapor deposition
+||||||
+Chemical vapor deposition (CVD) is a vacuum deposition method used to produce high quality, and high-performance, solid materials. The process is often used in the semiconductor industry to produce thin films.In typical CVD, the wafer (substrate) is exposed to one or more volatile precursors, which react and/or decompose on the substrate surface to produce the desired deposit. Frequently, volatile by-products are also produced, which are removed by gas flow through the reaction chamber.
+Microfabrication processes widely use CVD to deposit materials in various forms, including: monocrystalline, polycrystalline, amorphous, and epitaxial. These materials include: silicon (dioxide, carbide, nitride, oxynitride), carbon (fiber, nanofibers, nanotubes, diamond and graphene), fluorocarbons, filaments, tungsten, titanium nitride and various high-κ dielectrics.
+

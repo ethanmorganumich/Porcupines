@@ -1,0 +1,7 @@
+Color space~Digital television~Film and video technology~ITU-R recommendations~
+||||||
+Rec. 601
+||||||
+ITU-R Recommendation BT.601, more commonly known by the abbreviations Rec. 601 or BT.601 (or its former name CCIR 601) is a standard originally issued in 1982 by the CCIR (an organization, which has since been renamed as the International Telecommunication Union –  Radiocommunication sector) for encoding interlaced analog video signals in digital video form. It includes methods of encoding 525-line 60 Hz and 625-line 50 Hz signals, both with an active region covering 720 luminance samples and 360 chrominance samples per line. The color encoding system is known as YCbCr 4:2:2.
+The Rec. 601 video raster format has been re-used in a number of later standards, including the ISO/IEC MPEG and ITU-T H.26x compressed formats, although compressed formats for consumer applications usually use chroma subsampling reduced from the 4:2:2 sampling specified in Rec. 601 to 4:2:0.
+The standard has been revised several times in its history. Its seventh edition, referred to as BT.601-7, was approved in March 2011 and was formally published in October 2011.

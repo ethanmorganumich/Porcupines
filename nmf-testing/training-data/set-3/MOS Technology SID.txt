@@ -1,0 +1,7 @@
+Commodore 64~Commodore 64 music~MOS Technology integrated circuits~Sound chips~Video game music file formats~Video game music technology~
+||||||
+MOS Technology 6581
+||||||
+The MOS Technology 6581/8580 SID (Sound Interface Device) is the built-in programmable sound generator chip of Commodore's CBM-II, Commodore 64, Commodore 128 and Commodore MAX Machine home computers. It was one of the first sound chips of its kind to be included in a home computer prior to the digital sound revolution.
+Together with the VIC-II graphics chip, the SID was instrumental in making the C64 the best-selling home computer in history, and is partly credited for initiating the demoscene.
+

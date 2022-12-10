@@ -1,0 +1,6 @@
+Horticulture~Organic gardening~Plant nutrition~Soil chemistry~
+||||||
+Soil pH
+||||||
+Soil pH is a measure of the acidity or basicity (alkalinity) of a  soil. Soil pH is a key characteristic that can be used to make informative analysis both qualitative and quantitatively regarding soil characteristics. pH is defined as the negative logarithm (base 10) of the activity of hydronium ions (H+ or, more precisely, H3O+aq) in a solution. In soils, it is measured in a slurry of soil mixed with water (or a salt solution, such as 0.01 M CaCl2), and normally falls between 3 and 10, with 7 being neutral. Acid soils have a pH below 7 and alkaline soils have a pH above 7. Ultra-acidic soils (pH < 3.5) and very strongly alkaline soils (pH > 9) are rare.Soil pH is considered a master variable in soils as it affects many chemical processes.  It specifically affects plant nutrient availability by controlling the chemical forms of the different nutrients and influencing the chemical reactions they undergo. The optimum pH range for most plants is between 5.5 and 7.5; however, many plants have adapted to thrive at pH values outside this range.
+

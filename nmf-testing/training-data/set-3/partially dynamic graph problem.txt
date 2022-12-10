@@ -1,0 +1,6 @@
+Conjectures~Lists of unsolved problems~Mathematics-related lists~Unsolved problems in mathematics~
+||||||
+List of unsolved problems in mathematics
+||||||
+Many mathematical problems have been stated but not yet solved. These problems come from many areas of mathematics, such as theoretical physics, computer science, algebra, analysis, combinatorics, algebraic, differential, discrete and Euclidean geometries, graph theory, group theory, model theory, number theory, set theory, Ramsey theory, dynamical systems, and partial differential equations. Some problems belong to more than one discipline and are studied using techniques from different areas. Prizes are often awarded for the solution to a long-standing problem, and some lists of unsolved problems, such as the Millennium Prize Problems, receive considerable attention.
+This list is a composite of notable unsolved problems mentioned in previously published lists, including but not limited to lists considered authoritative. Although this list may never be comprehensive, the problems listed here vary widely in both difficulty and importance.

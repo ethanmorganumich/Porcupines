@@ -1,0 +1,7 @@
+7-limit tuning and intervals~Commas (music)~Superparticular intervals~
+||||||
+Septimal kleisma
+||||||
+In music, the ratio 225/224 is called the septimal kleisma (play ). 
+It is a minute comma type  interval of approximately 7.7 cents. Factoring it into primes gives 2−5 32 52 7−1, which can be rewritten 2−1 (5/4)2 (9/7). That says that it is the amount that two major thirds of 5/4 and a septimal major third, or supermajor third, of 9/7 exceeds the octave. 
+The septimal kleisma can also be viewed as the difference between the diatonic semitone (16:15) and the septimal diatonic semitone (15:14).

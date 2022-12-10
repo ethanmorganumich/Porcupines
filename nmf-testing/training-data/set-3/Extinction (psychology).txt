@@ -1,0 +1,5 @@
+Behavioral concepts~
+||||||
+Extinction (psychology)
+||||||
+Extinction is a behavioral phenomenon observed in both operantly conditioned and classically conditioned behavior, which manifests itself by fading of non-reinforced conditioned response over time. When operant behavior that has been previously reinforced no longer produces reinforcing consequences the behavior gradually stops occurring. In classical conditioning, when a conditioned stimulus is presented alone, so that it no longer predicts the coming of the unconditioned stimulus, conditioned responding gradually stops. For example, after Pavlov's dog was conditioned to salivate at the sound of a metronome, it eventually stopped salivating to the metronome after the metronome had been sounded repeatedly but no food came. Many anxiety disorders such as post traumatic stress disorder are believed to reflect, at least in part, a failure to extinguish conditioned fear.

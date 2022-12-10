@@ -1,0 +1,5 @@
+Educational psychology~Experimental psychology~
+||||||
+Ipsative
+||||||
+In psychology, ipsative questionnaires (; from Latin: ipse, 'of the self') are those where the sum of scale scores from each respondent adds to a constant value. Sometimes called a forced-choice scale, this measure contrasts Likert-type scales in which respondents score—often from 1 to 5—how much they agree with a given statement (see also norm-referenced test).

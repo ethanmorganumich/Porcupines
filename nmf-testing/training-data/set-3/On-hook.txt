@@ -1,0 +1,5 @@
+Ironmongery~Tool stubs~Tools~
+||||||
+Hook
+||||||
+A hook is a tool consisting of a length of material, typically metal, that contains a portion that is curved or indented, such that it can be used to grab onto, connect, or otherwise attach itself onto another object. In a number of uses, one end of the hook is pointed, so that this end can pierce another material, which is then held by the curved or indented portion. Some kinds of hooks, particularly fish hooks, also have a barb, a backwards-pointed projection near the pointed end of the hook to ensure that once the hook is embedded in its target, it can not easily be removed.

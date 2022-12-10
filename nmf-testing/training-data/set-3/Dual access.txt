@@ -1,0 +1,8 @@
+Network access~Telecommunications stubs~
+||||||
+Dual access
+||||||
+In telecommunication, the term dual access has the following meanings: 
+
+The connection of a user to two switching centers by separate access lines using a single message routing indicator or telephone number.
+In satellite communications, the transmission of two carriers simultaneously through a single communication satellite repeater.Also, network hardware company D-Link has named technology which allows two simultaneous connections over one cable, for example 1) Internet and 2) provider's local FTP or game servers or IPTV data flow.

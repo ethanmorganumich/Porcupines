@@ -1,0 +1,5 @@
+American legal terminology~Civil procedure legal terminology~United States civil procedure~
+||||||
+Indispensable party
+||||||
+An indispensable party (also called a required party, necessary party, or necessary and indispensable party) is a party in a lawsuit whose participation is required for jurisdiction or the purpose of rendering a judgment. In reality, a party may be "necessary" but not indispensable.  For example, if they claim an interest in the litigation, that interest may be impeded if they are not joined. That doesn't transform them into an indispensable party unless their absence threatens some other party's interest. Often, an indispensable party is any party whose rights are directly affected by disposition of the case. Many jurisdictions have rules which provide for an indispensable party to be joined (brought into the case as a party) at the discretion of the judge; this is referred to as a nonjoinder of party. In some cases, the inability to join such a party means that the case must be dismissed.  In the United States, this is outlined in the Federal Rules of Civil Procedure, Rule 19.

@@ -1,0 +1,8 @@
+Architectural element stubs~Architectural elements~
+||||||
+Rim joist
+||||||
+In the framing of a deck or floor system, a rim joist is attached perpendicular to the joists, and provides lateral support for the ends of the joists while capping off the end of the floor or deck system. Rim joists are not to be confused with end joists, which are the first and last joists at the ends of a row of joists that make up a floor or deck frame. 
+A rim joist's relationship to the joists is similar to what the top or bottom wall plate is to the studs.  It is also confusingly called a header (header also refers to other framing components) or rim board.  Collectively, the end joists and rim joists are called band joists, especially in regard to deck construction. In dimensioned lumber construction, the rim joists are the same depth, thickness and material as the joists themselves; in engineered wood construction, the rim joists may be oriented strand board (OSB), plywood or an engineered wood material varying in thickness from 1 inch (25 mm) to as much as 1+3⁄4 inches (44 mm), though they are usually laminated veneer lumber (LVL) 1+1⁄8 inches (29 mm) or laminated strand lumber (LSL) 1+1⁄4 inches (32 mm) thick. In flooring construction, the rim joists sit on the sill plates; in deck construction, they are parallel to the support beams and sit on the beams or in some cases, cantilever away from the beams.
+A double thickness board in the position of a rim joist is called a flush beam and serves a dual purpose, providing primary support for the joist ends as well as capping the joists.
+

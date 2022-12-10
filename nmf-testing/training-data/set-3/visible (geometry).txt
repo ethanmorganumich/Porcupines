@@ -1,0 +1,5 @@
+3D rendering~
+||||||
+Potentially visible set
+||||||
+In 3D computer graphics, Potentially Visible Sets are used to accelerate the rendering of 3D environments.  They are a form of occlusion culling, whereby a candidate set of potentially visible polygons are pre-computed, then indexed at run-time in order to quickly obtain an estimate of the visible geometry.  The term PVS is sometimes used to refer to any occlusion culling algorithm (since in effect, this is what all occlusion algorithms compute), although in almost all the literature, it is used to refer specifically to occlusion culling algorithms that pre-compute visible sets and associate these sets with regions in space.  In order to make this association, the camera's view-space (the set of points from which the camera can render an image) is typically subdivided into (usually convex) regions and a PVS is computed for each region.

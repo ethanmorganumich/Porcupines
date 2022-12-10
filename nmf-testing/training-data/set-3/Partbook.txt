@@ -1,0 +1,7 @@
+Manuscript stubs~Musical notation~
+||||||
+Partbook
+||||||
+A partbook is a format for printing or copying music in which each book contains the part for a single voice or instrument, especially popular during the Renaissance and Baroque. This format contrasts with the large choirbook, which included all of the voice parts and could be shared by an entire choir. The choirbook still followed the convention to notate the parts separately, but within a double page, likewise part books were arranged that they show the one extract of the composition on the same page.
+The production of partbooks appears to have been a cost-cutting measure, as large-scale printing was much more expensive. For example, by 1529, King's College, Cambridge had replaced almost all of its choirbooks with partbooks. The reduced cost also allowed each performer to have his own copy, and partbooks were more portable than a choirbook. They were, however, flimsy, and originals do not survive in large numbers. 
+Choral scores completely replaced individual vocal parts during the 19th century.  While instruments continue to use parts for ease of page turning, these are rarely bound into "books" and are no longer so called.

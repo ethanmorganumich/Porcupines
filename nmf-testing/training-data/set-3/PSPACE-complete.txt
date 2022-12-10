@@ -1,0 +1,6 @@
+Complexity classes~
+||||||
+PSPACE-complete
+||||||
+In computational complexity theory, a decision problem is PSPACE-complete if it can be solved using an amount of memory that is polynomial in the input length (polynomial space) and if every other problem that can be solved in polynomial space can be transformed to it in polynomial time.  The problems that are PSPACE-complete can be thought of as the hardest problems in PSPACE, the class of decision problems solvable in polynomial space, because a solution to any one such problem could easily be used to solve any other problem in PSPACE.
+Problems known to be PSPACE-complete include determining properties of regular expressions and context-sensitive grammars, determining the truth of quantified Boolean formulas, step-by-step changes between solutions of combinatorial optimization problems, and many puzzles and games.

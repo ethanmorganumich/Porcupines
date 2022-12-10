@@ -1,0 +1,104 @@
+Elementary mathematics~Sequences and series~
+||||||
+Subsequence
+||||||
+In mathematics, a subsequence of a given sequence is a sequence that can be derived from the given sequence by deleting some or no elements without changing the order of the remaining elements. For example, the sequence 
+  
+    
+      
+        ⟨
+        A
+        ,
+        B
+        ,
+        D
+        ⟩
+      
+    
+    {\displaystyle \langle A,B,D\rangle }
+   is a subsequence of 
+  
+    
+      
+        ⟨
+        A
+        ,
+        B
+        ,
+        C
+        ,
+        D
+        ,
+        E
+        ,
+        F
+        ⟩
+      
+    
+    {\displaystyle \langle A,B,C,D,E,F\rangle }
+   obtained after removal of elements 
+  
+    
+      
+        C
+        ,
+      
+    
+    {\displaystyle C,}
+   
+  
+    
+      
+        E
+        ,
+      
+    
+    {\displaystyle E,}
+   and 
+  
+    
+      
+        F
+        .
+      
+    
+    {\displaystyle F.}
+   The relation of one sequence being the subsequence of another is a preorder.
+Subsequences can contain consecutive elements which were not consecutive in the original sequence. A subsequence which consists of a consecutive run of elements from the original sequence, such as 
+  
+    
+      
+        ⟨
+        B
+        ,
+        C
+        ,
+        D
+        ⟩
+        ,
+      
+    
+    {\displaystyle \langle B,C,D\rangle ,}
+   from 
+  
+    
+      
+        ⟨
+        A
+        ,
+        B
+        ,
+        C
+        ,
+        D
+        ,
+        E
+        ,
+        F
+        ⟩
+        ,
+      
+    
+    {\displaystyle \langle A,B,C,D,E,F\rangle ,}
+   is a substring. The substring is a refinement of the subsequence.
+The list of all subsequences for the word "apple" would be "a", "ap", "al", "ae", "app", "apl", "ape", "ale", "appl", "appe", "aple", "apple", "p", "pp", "pl", "pe", "ppl", "ppe", "ple", "pple", "l", "le", "e", "" (empty string).

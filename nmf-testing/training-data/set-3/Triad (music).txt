@@ -1,0 +1,13 @@
+3 (number)~Musical terminology~
+||||||
+Triad (music)
+||||||
+In music, a triad is a set of three notes (or "pitch classes") that can be stacked vertically in thirds. Triads are the most common chords in Western music.
+When stacked in thirds, notes produce triads. The triad's members, from lowest-pitched tone to highest, are called:
+the root
+Note: Inversion does not change the root. (The third or fifth can be the lowest note.)
+the third – its interval above the root being a minor third (three semitones) or a major third (four semitones)
+the fifth – its interval above the third being a minor third or a major third, hence its interval above the root being a diminished fifth (six semitones), perfect fifth (seven semitones), or augmented fifth (eight semitones). Perfect fifths are the most commonly used interval above the root in Western classical, popular and traditional music.Some 20th-century theorists, notably Howard Hanson and Carlton Gamer, expand the term to refer to any combination of three different pitches, regardless of the intervals. The word used by other theorists for this more general concept is "trichord". Others use the term to refer to combinations apparently stacked by other intervals, as in "quartal triad"; a combination stacked in thirds is then called a "tertian triad".
+The root of a triad, together with the degree of the scale to which it corresponds, primarily determine its function. Secondarily, a triad's function is determined by its quality: major, minor, diminished or augmented. Major and minor triads are the most commonly used triad qualities in Western classical, popular and traditional music. In standard tonal music, only major and minor triads can be used as a tonic in a song or some other piece of music. That is, a song or other vocal or instrumental piece can be in the key of C major or A minor, but a song or some other piece cannot be in the key of B diminished or F augmented (although songs or other pieces might include these triads within the triad progression, typically in a temporary, passing role). Three of these four kinds of triads are found in the major (or diatonic) scale. In popular music and 18th-century classical music, major and minor triads are considered consonant and stable, and diminished and augmented triads are considered dissonant and unstable.
+When we consider musical works we find that the triad is ever-present and that the interpolated dissonances have no other purpose than to effect the continuous variation of the triad.
+

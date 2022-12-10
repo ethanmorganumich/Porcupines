@@ -1,0 +1,7 @@
+Musical notation~Pitch (music)~
+||||||
+Natural (music)
+||||||
+In music theory, a natural (♮) is an accidental which cancels previous accidentals and represents the unaltered pitch of a note. A note is natural when it is neither flat (♭) nor sharp (♯) (nor double-flat  nor double-sharp ) (nor triple-flat nor triple-sharp). Natural notes are the notes A, B, C, D, E, F, and G represented by the white keys on the keyboard of a piano or organ. On a modern concert harp, the middle position of the seven pedals that alter the tuning of the strings gives the natural pitch for each string.
+The scale of C major is sometimes regarded as the central, natural or basic major scale because all of its notes are natural notes, whereas every other major scale in the circle of fifths has at least one sharp or flat in it.
+The notes F♭, C♭, E♯, B♯, and most notes inflected by double-flats and double-sharps correspond in pitch with natural notes; however, they are not regarded as natural notes but rather as enharmonic equivalents of them and are just as much chromatically inflected notes as most sharped and flatted notes that are represented by black notes on a keyboard.

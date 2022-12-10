@@ -1,0 +1,8 @@
+Communication circuits~
+||||||
+Balanced line
+||||||
+In telecommunications and professional audio, a balanced line or balanced signal pair is a circuit consisting of two conductors of the same type, both of which have equal impedances along their lengths and equal impedances to ground and to other circuits. The chief advantage of the balanced line format is good rejection of common-mode noise and interference when fed to a differential device such as a transformer or differential amplifier.As prevalent in sound recording and reproduction, balanced lines are referred to as balanced audio. 
+Common forms of balanced line are twin-lead, used for radio frequency signals and twisted pair, used for lower frequencies. They are to be contrasted to unbalanced lines, such as coaxial cable, which is designed to have its return conductor connected to ground, or circuits whose return conductor actually is ground (see earth-return telegraph). Balanced and unbalanced circuits can be interfaced using a device called a balun.
+Circuits driving balanced lines must themselves be balanced to maintain the benefits of balance. This may be achieved by transformer coupling (repeating coils) or by merely balancing the impedance in each conductor.
+Lines carrying symmetric signals (those with equal amplitudes but opposite polarities on each leg) are often incorrectly referred to as "balanced", but this is actually differential signalling. Balanced lines and differential signalling are often used together, but they are not the same thing. Differential signalling does not make a line balanced, nor does noise rejection in balanced cables require differential signalling.

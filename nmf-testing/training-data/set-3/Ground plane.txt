@@ -1,0 +1,9 @@
+Antennas~Telecommunications infrastructure~
+||||||
+Ground plane
+||||||
+In electrical engineering, a ground plane is an electrically conductive surface, usually connected to electrical ground.
+The term has two different meanings in separate areas of electrical engineering.
+
+In antenna theory, a ground plane is a conducting surface large in comparison to the wavelength, such as the Earth, which is connected to the transmitter's ground wire and serves as a reflecting surface for radio waves.
+In printed circuit boards, a ground plane is a large area of copper foil on the board which is connected to the power supply ground terminal and serves as a return path for current from different components on the board.

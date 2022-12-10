@@ -1,0 +1,5 @@
+Models of computation~Register machines~
+||||||
+Cell-probe model
+||||||
+In computer science, the cell-probe model is a model of computation similar to the random-access machine, except that all operations are free except memory access.  This model is useful for proving lower bounds of algorithms for data structure problems.

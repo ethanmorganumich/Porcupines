@@ -1,0 +1,8 @@
+Analog circuits~Electronic design~Filter theory~Image impedance filters~Linear filters~
+||||||
+Composite image filter
+||||||
+A composite image filter is an electronic filter consisting of multiple image filter sections of two or more different types.
+The image method of filter design determines the properties of filter sections by calculating the properties they have in an infinite chain of such sections.  In this, the analysis parallels transmission line theory on which it is based.  Filters designed by this method are called image parameter filters, or just image filters.  An important parameter of image filters is their image impedance, the impedance of an infinite chain of identical sections.
+The basic sections are arranged into a ladder network of several sections, the number of sections required is mostly determined by the amount of stopband rejection required.  In its simplest form, the filter can consist entirely of identical sections.  However, it is more usual to use a composite filter of two or three different types of section to improve different parameters best addressed by a particular type.  The most frequent parameters considered are stopband rejection, steepness of the filter skirt (transition band) and impedance matching to the filter terminations.
+Image filters are linear filters and are invariably also passive in implementation.

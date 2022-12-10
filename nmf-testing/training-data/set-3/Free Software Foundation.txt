@@ -1,0 +1,6 @@
+1985 establishments in Massachusetts~501(c)(3) organizations~Charities based in Massachusetts~Digital rights organizations~Educational charities based in the United States~Free Software Foundation~Free and open-source software organizations~Free software movement~Intellectual property activism~Non-profit organizations based in Boston~Non-profit technology~Organizations based in Boston~Organizations established in 1985~Science and technology think tanks~
+||||||
+Free Software Foundation
+||||||
+The Free Software Foundation (FSF) is a 501(c)(3) non-profit organization founded by Richard Stallman on October 4, 1985, to support the free software movement, with the organization's preference for software being distributed under copyleft ("share alike") terms, such as with its own GNU General Public License. The FSF was incorporated in Boston, Massachusetts, US, where it is also based.From its founding until the mid-1990s, FSF's funds were mostly used to employ software developers to write free software for the GNU Project. Since the mid-1990s, the FSF's employees and volunteers have mostly worked on legal and structural issues for the free software movement and the free software community.
+Consistent with its goals, the FSF aims to use only free software on its own computers.

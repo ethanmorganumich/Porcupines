@@ -1,0 +1,6 @@
+Physical quantities~Science of photography~
+||||||
+Film speed
+||||||
+Film speed is the measure of a photographic film's sensitivity to light, determined by sensitometry and measured on various numerical scales, the most recent being the ISO system. A closely related ISO system is used to describe the relationship between exposure and output image lightness in digital cameras.
+Relatively insensitive film, with a correspondingly lower speed index, requires more exposure to light to produce the same image density as a more sensitive film, and is thus commonly termed a slow film. Highly sensitive films are correspondingly termed fast films. In both digital and film photography, the reduction of exposure corresponding to use of higher sensitivities generally leads to reduced image quality (via coarser film grain or higher image noise of other types). In short, the higher the sensitivity, the grainier the image will be. Ultimately sensitivity is limited by the quantum efficiency of the film or sensor.

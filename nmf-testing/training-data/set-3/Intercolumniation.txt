@@ -1,0 +1,5 @@
+Architectural element stubs~Colonnades~
+||||||
+Intercolumniation
+||||||
+In architecture, intercolumniation is the proportional spacing between columns in a colonnade, often expressed as a multiple of the column diameter as measured at the bottom of the shaft.  In Classical, Renaissance, and Baroque architecture, intercolumniation was determined by a system described by the first-century BC Roman architect Vitruvius (Vitruvius, De architectura, iii.3.3-10). Vitruvius named five systems of intercolumniation (Pycnostyle, Systyle, Eustyle, Diastyle, and Araeostyle), and warned that when columns are placed three column-diameters or more apart, stone architraves break. According to Vitruvius, the Hellenistic architect Hermogenes (ca. 200 BC) formulated these proportions ("symmetriae") and perfected the Eustyle arrangement, which has an enlarged bay in the center of the façade.

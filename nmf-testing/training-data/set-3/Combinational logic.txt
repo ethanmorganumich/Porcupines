@@ -1,0 +1,7 @@
+Digital electronics~Logic in computer science~
+||||||
+Combinational logic
+||||||
+In automata theory, combinational logic (also referred to as time-independent logic  or combinatorial logic ) is a type of digital logic which is implemented by Boolean circuits, where the output is a pure function of the present input only. This is in contrast to sequential logic, in which the output depends not only on the present input but also on the history of the input. In other words, sequential logic has memory while combinational logic does not.
+Combinational logic is used in computer circuits to perform Boolean algebra on input signals and on stored data. Practical computer circuits normally contain a mixture of combinational and sequential logic. For example, the part of an arithmetic logic unit, or ALU, that does mathematical calculations is constructed using combinational logic. Other circuits used in computers, such as half adders, full adders, half subtractors, full subtractors, multiplexers, demultiplexers, encoders and decoders are also made by using combinational logic.
+Practical design of combinational logic systems may require consideration of the finite time required for practical logical elements to react to changes in their inputs. Where an output is the result of the combination of several different paths with differing numbers of switching elements, the output may momentarily change state before settling at the final state, as the changes propagate along different paths.

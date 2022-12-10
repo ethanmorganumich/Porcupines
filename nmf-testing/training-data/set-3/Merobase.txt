@@ -1,0 +1,7 @@
+Code search engines~Internet search engines~
+||||||
+Merobase
+||||||
+Merobase is a software search engine that allows developers to find, share and reuse software components from the Internet. The engine harvests software components from a large variety of sources, including Apache, SourceForge, and Java.net. It finished its beta phase and went live in March 2007.
+A unique feature of merobase compared to other code search engines is its ability to support interface-driven searches – that is, searches based on the abstract interface that a component offers rather than on the text in its source code. This allows merobase to support searches for binary components (e.g., Java bytecode, CLI assemblies) and web services, as well as source code, and significantly enhances its precision.
+Merobase Plugins are available for Mozilla Firefox and Internet Explorer, as well as for well known IDE's such as Eclipse.

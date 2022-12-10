@@ -1,0 +1,6 @@
+Ergonomics~Heuristics~Human–computer interaction~Programming principles~
+||||||
+Principle of least astonishment
+||||||
+The principle of least astonishment (POLA), aka principle of least surprise (alternatively a law or rule), applies to user interface and software design. It proposes that a component of a system should behave in a way that most users will expect it to behave. The behavior should not astonish or surprise users. The following is a formal statement of the principle: "If a necessary feature has a high astonishment factor, it may be necessary to redesign the feature."The term has been in use in relation to computer use since at least the 1970s. Although first formalized in the field of computer technology, the principle can be applied broadly in other fields. For example, in writing, a cross-reference to another part of the work or a hyperlink should be phrased in a way that accurately tells the reader what to expect. In a book about fishing for bass, "For recipes on how to cook your catch, see chapter 4" should not lead the reader to a chapter about bass fishing seasons in various locations.
+

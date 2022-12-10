@@ -1,0 +1,5 @@
+Digital rights management systems~Microsoft Windows multimedia technology~Microsoft proprietary codecs~Video codecs~
+||||||
+Windows Media Video
+||||||
+Windows Media Video (WMV) is a series of video codecs and their corresponding video coding formats developed by Microsoft. It is part of the Windows Media framework. WMV consists of three distinct codecs: The original video compression technology known as WMV, was originally designed for Internet streaming applications, as a competitor to RealVideo. The other compression technologies, WMV Screen and WMV Image, cater for specialized content. After standardization by the Society of Motion Picture and Television Engineers (SMPTE), WMV version 9 was adapted for physical-delivery formats such as HD DVD and Blu-ray Disc and became known as VC-1. Microsoft also developed a digital container format called Advanced Systems Format to store video encoded by Windows Media Video.

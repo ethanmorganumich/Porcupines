@@ -1,0 +1,7 @@
+Musical form~
+||||||
+Double-Function Form
+||||||
+Double-function form is a musical construction that allows for a collection of movements to be viewed as elements of a single larger musical form.  The most famous example of this is Franz Liszt’s Piano Sonata in B minor (1853).  The sonata is composed as a single movement with about a half an hour’s duration.  The piece introduces some themes at the very outset of the piece which are manipulated and recapitulated over twenty minutes later.  Charles Rosen believes that the work as whole fulfils his criterion for a sonata form.  Moreover, within the one long sonata form, there exists a short sonata form, followed by a slow ternary, followed by a scherzo and fugue, followed by a finale.  Thus, the single movement fulfills the standard of both a classical sonata form and a classical four movement piano sonata.
+
+There are several other composers to whom the use of double-function forms is attributed. It is largely accepted that Schubert’s Wanderer Fantasy (1822) for piano is the first widely heard piece that demonstrates this form.  Arnold Schoenberg’s first Chamber Symphony (1906) is an example of a major work that fulfills the criterion of a double-function form; this piece was modeled after Beethoven’s string quartet in C-sharp minor (#14), which consists of seven connected movements (these however do not combine to create a clear larger form, and thus the quartet is not an example of double-function form).

@@ -1,0 +1,108 @@
+Equal temperaments~Music theory stubs~Non–octave-repeating scales~Wendy Carlos~
+||||||
+Gamma scale
+||||||
+The γ (gamma) scale is a non-octave repeating musical scale invented by Wendy Carlos while preparing Beauty in the Beast (1986) though it does not appear on the album. It is derived from approximating just intervals using multiples of a single interval without, as is standard in equal temperaments, requiring an octave (2:1). It may be approximated by splitting the perfect fifth (3:2) into 20 equal parts (3:21⁄20≈35.1 cents), by splitting the neutral third into two equal parts, or ten equal parts of approximately 35.1 cents each (Play ) for 34.188 steps per octave.The scale step may also precisely be derived from using 20:11 (B↓, 1035 cents, Play ) to approximate the interval 3:2⁄5:4, which equals 6:5 (E♭, 315.64 cents, Play ). Thus the step is approximately 35.099 cents and there are 34.1895 per octave.
+  
+    
+      
+        
+          
+            
+              20
+              
+                log
+                
+                  2
+                
+              
+              ⁡
+              
+                (
+                3
+                
+                  /
+                
+                2
+                )
+              
+              +
+              11
+              
+                log
+                
+                  2
+                
+              
+              ⁡
+              
+                (
+                5
+                
+                  /
+                
+                4
+                )
+              
+              +
+              9
+              
+                log
+                
+                  2
+                
+              
+              ⁡
+              
+                (
+                6
+                
+                  /
+                
+                5
+                )
+              
+            
+            
+              
+                20
+                
+                  2
+                
+              
+              +
+              
+                11
+                
+                  2
+                
+              
+              +
+              
+                9
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        0.0292487852
+      
+    
+    {\displaystyle {\frac {20\log _{2}{(3/2)}+11\log _{2}{(5/4)}+9\log _{2}{(6/5)}}{20^{2}+11^{2}+9^{2}}}=0.0292487852}
+   and 
+  
+    
+      
+        0.0292487852
+        ×
+        1200
+        =
+        35.0985422804
+      
+    
+    {\displaystyle 0.0292487852\times 1200=35.0985422804}
+   (Play )
+"It produces nearly perfect triads." "A 'third flavor', sort of intermediate to 'alpha' and 'beta', although a melodic diatonic scale is easily available."

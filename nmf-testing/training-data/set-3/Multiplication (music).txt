@@ -1,0 +1,6 @@
+Mathematics of music~Musical techniques~
+||||||
+Multiplication (music)
+||||||
+The mathematical operations of multiplication have several applications to music. Other than its application to the frequency ratios of intervals (for example, Just intonation, and the twelfth root of two in equal temperament), it has been used in other ways for twelve-tone technique, and musical set theory. Additionally ring modulation is an electrical audio process involving multiplication that has been used for musical effect.
+A multiplicative operation is a mapping in which the argument is multiplied. Multiplication originated intuitively in interval expansion, including tone row order number rotation, for example in the music of Béla Bartók and Alban Berg. Pitch number rotation, Fünferreihe or "five-series" and Siebenerreihe or "seven-series", was first described by Ernst Krenek in Über neue Musik. Princeton-based theorists, including James K. Randall, Godfrey Winham, and Hubert S. Howe "were the first to discuss and adopt them, not only with regards  [sic] to twelve-tone series".

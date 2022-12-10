@@ -1,0 +1,6 @@
+Signal cables~Telecommunications stubs~
+||||||
+Filled cable
+||||||
+In telecommunication, a filled cable is a cable that has a non-hygroscopic material, usually a gel called icky-pick, inside the jacket or sheath. The nonhygroscopic material fills the spaces between the interior parts of the cable, preventing moisture from entering minor leaks in the sheath and migrating inside the cable. 
+A metallic cable filled with a dielectric material, such as a coaxial cable or a metal waveguide, is not considered to be a "filled cable".

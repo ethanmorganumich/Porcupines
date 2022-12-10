@@ -1,0 +1,7 @@
+Elections~Voter databases~
+||||||
+Voter database
+||||||
+A voter database is a database containing information on voters for the purpose of assisting a political party or an individual politician, in their Get out the vote (GOTV) efforts and other areas of the campaign.
+In most countries, the election agency makes the electoral roll available to all campaigns soon after the election campaign has begun. Campaigns can then merge this information with the other data they have collected on voters over the years to create their database.  Often basic information such as phone numbers and postal codes are not included on the voters list, and the campaign will have to procure this data as well.
+

@@ -1,0 +1,6 @@
+Energy storage~Power supplies~
+||||||
+Compensated pulsed alternator
+||||||
+A compensated pulsed alternator, also known by the portmanteau compulsator, is a form of power supply.
+As the name suggests, it is an alternator that is "compensated" (see below) to make it better at delivering pulses of electrical energy than a normal alternator.

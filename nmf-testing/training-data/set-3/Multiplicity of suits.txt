@@ -1,0 +1,7 @@
+Civil procedure~
+||||||
+Multiplicity of suits
+||||||
+Multiplicity of suits is a term to describe when more than one lawsuit exists regarding the same transaction or occurrence.  The law generally attempts to avoid this situation and there are several rules in place when such situations occur.  The main risk with several lawsuits over the same subject matter is that the different lawsuits may result in clearly contradictory results.
+For example, a litigant is injured when crossing a bridge in Ottawa, Ontario, joining it to Hull, Quebec due to defects in the roadway.  This could result in a lawsuit against the city of Ottawa, the city of Hull, the province of Ontario, the province of Quebec, and even the federal government of Canada.  However, court rules often require governments to be sued in their own courts.  This situation would require three different lawsuits - one in Ontario, one in Quebec, and one in the Federal Court of Canada.  As such, usually one court will accept jurisdiction over the entire matter, and any proceedings or attempt to remove it to the other court will be stayed.
+In addition, courts discourage more than one lawsuit being started between the same parties in the same dispute.  For example, in a business dispute, if new causes of action arise out of the same problem (for example, ongoing patent infringement), the court will generally require new allegations to be brought into the existing lawsuit rather than allowing a new lawsuit to be started.

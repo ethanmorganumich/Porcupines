@@ -1,0 +1,9 @@
+7-limit tuning and intervals~Commas (music)~Music theory stubs~Superparticular intervals~
+||||||
+Breedsma
+||||||
+In music, a breedsma is an interval between pitches with the ratio of 2401:2400, which is the difference between the septimal diesis (49:48, also known as Slendro diesis) and the septimal sixth-tone (50:49, also known as jubilisma). It is about 0.72 cents (Play ).
+
+2401/2400 = 128/75 / (8/7)4
+2401/2400 = (7/6)4 / 50/27It is therefore the difference between one kind of classic diminished seventh and four septimal major seconds, or four septimal minor thirds and one kind of classic major seventh.
+The equal temperaments with 27, 31, 41, 58, and 72 steps per octave all temper out the breedsma. Tempering out the breedsma divides the tempered chromatic semitone (representing 25:24) in half and therefore guarantees the presence of a neutral third which represents 60:49.

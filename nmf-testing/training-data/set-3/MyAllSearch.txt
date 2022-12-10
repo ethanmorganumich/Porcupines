@@ -1,0 +1,5 @@
+Internet search engines~Search engine website stubs~
+||||||
+MyAllSearch
+||||||
+MyAllSearch is a multi metasearch engine that provides search results from a number of different search engines.  MyAllSearch offers standard web searches, image searches, video searches, news searches and blog searches.  Results are available from major search engines, such as Google, Yahoo, Bing & DuckDuckGo.

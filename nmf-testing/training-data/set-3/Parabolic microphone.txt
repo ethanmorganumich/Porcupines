@@ -1,0 +1,5 @@
+Covert listening devices~Microphones~Surveillance~
+||||||
+Parabolic microphone
+||||||
+A parabolic microphone is a microphone that uses a parabolic reflector to collect and focus sound waves onto a transducer, in much the same way that a parabolic antenna (e.g. satellite dish) does with radio waves.  Though they lack high fidelity, parabolic microphones have great sensitivity to sounds coming from one direction, along the axis of the dish, and can pick up distant sounds.

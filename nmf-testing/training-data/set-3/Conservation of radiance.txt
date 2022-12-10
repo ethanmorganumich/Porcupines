@@ -1,0 +1,7 @@
+Physical quantities~Radiometry~
+||||||
+Radiance
+||||||
+In radiometry, radiance is the radiant flux emitted, reflected, transmitted or received by a given surface, per unit solid angle per unit projected area. Radiance is used to characterize diffuse emission and reflection of electromagnetic radiation, and to quantify emission of neutrinos and other particles. The SI unit of radiance is the watt per steradian per square metre (W·sr−1·m−2). It is a directional quantity: the radiance of a surface depends on the direction from which it is being observed.
+The related quantity spectral radiance is the radiance of a surface per unit frequency or wavelength, depending on whether the spectrum is taken as a function of frequency or of wavelength.
+Historically, radiance was called "intensity" and spectral radiance was called "specific intensity". Many fields still use this nomenclature. It is especially dominant in heat transfer, astrophysics and astronomy. "Intensity" has many other meanings in physics, with the most common being power per unit area.

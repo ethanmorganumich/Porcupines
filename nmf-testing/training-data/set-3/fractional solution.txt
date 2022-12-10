@@ -1,0 +1,44 @@
+Combinatorial optimization~Linear programming~Polyhedral combinatorics~Relaxation (approximation)~
+||||||
+Linear programming relaxation
+||||||
+In mathematics, the relaxation of a (mixed) integer linear program is the problem that arises by removing the integrality constraint of each variable.
+For example, in a 0–1 integer program, all constraints are of the form
+
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        ∈
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle x_{i}\in \{0,1\}}
+  .The relaxation of the original integer program instead uses a collection of linear constraints
+
+  
+    
+      
+        0
+        ≤
+        
+          x
+          
+            i
+          
+        
+        ≤
+        1.
+      
+    
+    {\displaystyle 0\leq x_{i}\leq 1.}
+  The resulting relaxation is a linear program, hence the name. This relaxation technique transforms an NP-hard optimization problem (integer programming) into a related problem that is solvable in polynomial time (linear programming); the solution to the relaxed linear program can be used to gain information about the solution to the original integer program.

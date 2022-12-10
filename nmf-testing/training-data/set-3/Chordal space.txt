@@ -1,0 +1,5 @@
+Harmony~Pitch space~
+||||||
+Chordal space
+||||||
+Music theorists have often used graphs, tilings, and geometrical spaces to represent the relationship between chords.  We can describe these spaces as chord spaces or chordal spaces, though the terms are relatively recent in origin.

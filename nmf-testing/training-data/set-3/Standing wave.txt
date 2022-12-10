@@ -1,0 +1,7 @@
+Wave mechanics~
+||||||
+Standing wave
+||||||
+In physics, a standing wave, also known as a stationary wave, is a wave that oscillates in time but whose peak amplitude profile does not move in space.  The peak amplitude of the wave oscillations at any point in space is constant with respect to time, and the oscillations at different points throughout the wave are in phase.   The locations at which the absolute value of the amplitude is minimum are called nodes, and the locations where the absolute value of the amplitude is maximum are called antinodes.
+Standing waves were first noticed by Michael Faraday in 1831.  Faraday observed standing waves on the surface of a liquid in a vibrating container.  Franz Melde coined the term "standing wave" (German: stehende Welle or Stehwelle) around 1860 and demonstrated the phenomenon in his classic experiment with vibrating strings.This phenomenon can occur because the medium is moving in the direction opposite to the movement of the wave, or it can arise in a stationary medium as a result of interference between two waves traveling in opposite directions. The most common cause of standing waves is the phenomenon of resonance, in which standing waves occur inside a resonator due to interference between waves reflected back and forth at the resonator's resonant frequency.
+For waves of equal amplitude traveling in opposing directions, there is on average no net propagation of energy.

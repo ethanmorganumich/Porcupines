@@ -1,0 +1,14 @@
+Set index articles~Signal processing~Telecommunications techniques~
+||||||
+Signal compression
+||||||
+Signal compression is the use of various techniques to increase the quality or quantity of signal parameters transmitted through a given telecommunications channel.
+Types of signal compression include:
+
+Bandwidth compression
+Data compression
+Dynamic range compression
+Gain compression
+Image compression
+Lossy compression
+One-way compression function

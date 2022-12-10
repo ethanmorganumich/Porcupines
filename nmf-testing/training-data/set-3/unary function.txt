@@ -1,0 +1,6 @@
+Functions and mappings~Mathematics stubs~Types of functions~Unary operations~
+||||||
+Unary function
+||||||
+A unary function is a function that takes one argument. A unary operator belongs to a subset of unary functions, in that its range coincides with its domain. In contrast, a unary function's domain may or may not coincide with its range. 
+

@@ -1,0 +1,9 @@
+Conflict of interest mitigation~Hearsay~United States law stubs~
+||||||
+Declaration against interest
+||||||
+In United States law, a declaration against interest is an exception to the rule on hearsay in which a person's statement may be used, where generally the content of the statement is so prejudicial to the person making it that they would not have made the statement unless they believed the statement was true. The Federal Rules of evidence limit the bases of prejudices to the declarant to tort and criminal liability.  Some states, such as California, extend the prejudice to "hatred, ridicule, or social disgrace in the community."
+The admissibility of evidence under the declaration against interest exception to the hearsay rule is often limited by the Confrontation Clause of the Sixth Amendment.
+A declaration against interest differs from a party admission because here the declarant does not have to be a party to the case but must have a basis for knowing that the statement is true. Furthermore, evidence of the statement will only be admissible if the declarant is unavailable to testify.
+
+For example, California's Evidence Code § 1230 defines "Declarations against interest" as: Evidence of a statement by a declarant having sufficient knowledge of the subject is not made inadmissible by the hearsay rule if the declarant is unavailable as a witness and the statement, when made, was so far contrary to the declarant's pecuniary or proprietary interest, or so far subjected him to the risk of civil or criminal liability, or so far tended to render invalid a claim by him against another, or created such a risk of making him an object of hatred, ridicule, or social disgrace in the community, that a reasonable man in his position would not have made the statement unless he believed it to be true.

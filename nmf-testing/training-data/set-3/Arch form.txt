@@ -1,0 +1,7 @@
+Music theory stubs~Musical form~Symmetry~
+||||||
+Arch form
+||||||
+In music, arch form is a  sectional structure for a piece of music based on repetition, in reverse order, of all or most musical sections such that the overall form is symmetric, most often around a central movement. The sections need not be repeated verbatim but must at least share thematic material.
+It creates interest through interplay among "memory, variation, and progression". Though the form appears to be static and to deny progress, the pairs of movements create an "undirectional process" with the center, and the form "actually engenders specific expressive possibilities that would otherwise be unavailable for the work as a whole".Béla Bartók is noted for his use of arch form, e.g., in his fourth and fifth string quartets, Concerto for Orchestra, Music for Strings, Percussion and Celesta, second piano concerto, and, to a lesser extent, in his second violin concerto. Samuel Barber's Adagio for Strings and Shostakovich's String Quartet No. 8 in C minor also use arch form.
+The most popular arch-form structure is ABCBA.

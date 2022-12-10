@@ -1,0 +1,13 @@
+Harry Partch~Musical tuning~Voice leading~
+||||||
+Tonality flux
+||||||
+Tonality flux is Harry Partch's term for the kinds of subtle harmonic changes that can occur in a microtonal context from notes moving from one chord to another by tiny increments of voice leading. For instance, within a major third G-B, there can be a minor third G to B, such that in moving from one to the other each line shifts less than a half-step. Within a just intonation scale, this could be represented (, indicates an approximate quarter-tone sharp,  an approximate quarter-tone flat) by 
+
+moving to 
+
+like so:
+
+One voice slides down from 386 cents to 347, the other slides up from 0 cents to 32, yet the harmonic shift can be dramatic. The best-known example of tonality flux, and one of the two Partch uses as illustration, is the beginning of his composition The Letter, in which the kithara alternates between two chords, one major and one minor, with the minor third of one nestled inside the major third of the other (given here in Ben Johnston's pitch notation):
+
+In this notation, which assumes G as the tonic or 1/1, a 7 lowers a pitch from a just intonation value by 35/36, or 48.77 cents; an upside-down 7 raises a pitch by the same amount. The first chord is a major triad and, relative to G, contains the notes 8/7 (231 cents above G), 10/7 (617 cents), and 12/7 (933 cents); the second chord is a minor triad comprising the pitches 7/6 (267 cents), 7/5 (583 cents), and 7/4 (969 cents). Notice that while the outer notes ascend from the first chord to the second, the middle note descends. Such subtle movements were among the attractions that Partch found in an expanded just intonation of more than 12 pitches per octave. Tonality flux is a special instance of the principle of parsimonious (most direct) voice leading.

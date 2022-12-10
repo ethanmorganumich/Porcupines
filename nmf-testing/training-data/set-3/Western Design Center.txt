@@ -1,0 +1,6 @@
+1978 establishments in Arizona~Companies based in Mesa, Arizona~Computer companies established in 1978~Electronics companies established in 1978~Electronics companies of the United States~
+||||||
+Western Design Center
+||||||
+The Western Design Center (WDC), located in Mesa, Arizona, is a company which develops intellectual property for, and licenses manufacture of, MOS Technology 65xx based microprocessors, microcontrollers (µCs), and related support devices. WDC was founded in 1978 by a former MOS Technology employee and coholder of the MOS Technology 6502 patent, Bill Mensch.
+Beyond discrete devices, WDC offers device designs in the form of semiconductor intellectual property cores (IP cores) to use inside other chips such as application-specific integrated circuit (ASICs), and provides ASIC and embedded systems consulting services revolving around their processor designs. WDC also produces C compilers, assembler/linker packages, simulators, development–evaluation printed circuit boards, and in-circuit emulators for their processors.

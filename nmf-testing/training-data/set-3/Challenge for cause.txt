@@ -1,0 +1,9 @@
+American legal terminology~Civil procedure~Criminal procedure~Juries~
+||||||
+Strike for cause
+||||||
+Strike for cause (also referred to as challenge for cause or removal for cause) is a method of eliminating potential members from a jury panel in the United States.
+During the jury selection process, after voir dire, opposing attorneys may request removal of any juror who does not appear capable of rendering a fair and impartial verdict, in either determining guilt or innocence and/or a suitable punishment. An example would be a potential juror in a murder case, where the sentencing options include the death penalty and a lesser sentence (such as life without parole), who states that they "would sentence a defendant to death if found guilty"; such a statement may indicate the person's unwillingness to fairly consider a life without parole sentence.
+Unlike a peremptory challenge (the number of which are limited by the court during voir dire, and unless a Batson challenge is raised the challenge is automatically granted) there is no limit to the number of strikes for cause that attorneys on either side of a case can be granted. However, also unlike a peremptory challenge, a strike for cause must state a specific reason (in the example above, the reason would be the juror's bias against a non-death penalty sentence) and be granted by the trial judge; often both attorneys and sometimes the judge will question the juror being challenged.
+If one attorney moves to strike a juror for cause but the judge rejects the motion, the attorney may still use a peremptory challenge (if they have any remaining) to strike the juror, and on appeal may raise a claim that the motion should have been granted but, because it was not, the attorney had to either use a peremptory challenge or seat a biased juror.
+

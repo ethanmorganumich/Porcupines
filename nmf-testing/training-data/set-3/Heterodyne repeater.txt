@@ -1,0 +1,5 @@
+Amateur radio~Radio electronics~
+||||||
+Amateur radio repeater
+||||||
+An amateur radio repeater is an electronic device that receives a weak or low-level amateur radio signal and retransmits it at a higher level or higher power, so that the signal can cover longer distances without degradation.  Many repeaters are located on hilltops or on tall buildings as the higher location increases their coverage area, sometimes referred to as the radio horizon, or "footprint". Amateur radio repeaters are similar in concept to those used by public safety entities (police, fire department, etc.), businesses, government, military, and more. Amateur radio repeaters may even use commercially packaged repeater systems that have been adjusted to operate within amateur radio frequency bands, but more often amateur repeaters are assembled from receivers, transmitters, controllers, power supplies, antennas, and other components, from various sources.

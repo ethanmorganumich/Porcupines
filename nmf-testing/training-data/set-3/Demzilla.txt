@@ -1,0 +1,6 @@
+Databases in the United States~Democratic Party (United States)~Political campaigns~United States politics stubs~Voter databases~
+||||||
+Demzilla
+||||||
+DataMart and Demzilla were databases that were rolled out by the United States Democratic Party from 2002. By 2004, Datamart contained information on 166 million registered voters, and with input from public voter information and consumer data from data mining companies a single entry might have 200 to 400 items of information. Demzilla was a smaller database used for fundraising and organization volunteers, it includes the names and information persons or groups the DNC does business with, and those who are donors to the Democratic party, it also includes volunteers, activists, local and state party leaders, and members of the press.The goal was to aggregate and analyze voter and public information data in order to target Democratic voters as part of their national GOTV effort as well as fund raising campaigns. This data was also available to Senatorial and Congressional candidates as well as other party members. 
+The Republican Party had a similar project, the Voter Vault, started in the 1990s.

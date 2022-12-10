@@ -1,0 +1,7 @@
+Classical economics~Production economics~Theory of value (economics)~
+||||||
+Cost-of-production theory of value
+||||||
+In economics, the cost-of-production theory of value is the theory that the price of an object or condition is determined by the sum of the cost of the resources that went into making it. The cost can comprise any of the factors of production (including labor, capital, or land) and taxation.
+The theory makes the most sense under assumptions of constant returns to scale and the existence of just one non-produced factor of production. With these assumptions, minimal price theorem, a dual version of the so-called non-substitution theorem by Paul Samuelson, holds.: 73, 75  Under these assumptions, the long-run price of a commodity is equal to the sum of the cost of the inputs into that commodity, including interest charges.
+

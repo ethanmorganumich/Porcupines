@@ -1,0 +1,8 @@
+Cadences~Chords~Intervals (music)~Musical techniques~
+||||||
+Picardy third
+||||||
+A Picardy third, (; French: tierce picarde) also known as a Picardy cadence, is a major chord of the tonic at the end of a musical section that is either modal or in a minor key. This is achieved by raising the third of the expected minor triad by a semitone to create a major triad, as a form of resolution.For example, instead of a cadence ending on an A minor chord containing the notes A, C, and E, a Picardy third ending would consist of an A major chord containing the notes A, C♯, and E. Note that the minor third between the A and C of the A minor chord has become a major third in the Picardy third chord.
+
+Philosopher Peter Kivy writes:Even in instrumental music, the picardy third retains its expressive quality: it is the "happy third". ... Since at least the beginning of the seventeenth century, it is no longer enough to describe it as a resolution to the more consonant triad; it is a resolution to the happier triad as well. ... The picardy third is absolute music's happy ending. Furthermore, I hypothesize that in gaining this expressive property of happiness or contentment, the picardy third augmented its power as the perfect, most stable cadential chord, being both the most emotionally consonant chord, so to speak, as well as the most musically consonant.
+According to Deryck Cooke, "Western composers, expressing the 'rightness' of happiness by means of a major third, expressed the 'wrongness' of grief by means of the minor third, and for centuries, pieces in a minor key had to have a 'happy ending' – a final major chord (the 'tierce de Picardie') or a bare fifth."As a harmonic device, the Picardy third originated in Western music in the Renaissance era.

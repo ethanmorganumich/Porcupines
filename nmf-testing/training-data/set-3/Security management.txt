@@ -1,0 +1,7 @@
+Computer security procedures~Network management~
+||||||
+Security management
+||||||
+Security management is the identification of an organization's assets (including people, buildings, machines, systems and information assets), followed by the development, documentation, and implementation of policies and procedures for protecting assets.
+An organization uses such security management procedures for information classification, threat assessment, risk assessment, and risk analysis to identify threats, categorize assets, and rate system vulnerabilities.
+

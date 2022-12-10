@@ -1,0 +1,14 @@
+Contract clauses~Contract law~French legal terminology~
+||||||
+Force majeure
+||||||
+Force majeure (lit. superior force, with the sense of overwhelming force, from French)
+is a common clause in contracts which essentially frees both parties from liability or obligation when an extraordinary event or circumstance beyond the control of the parties, such as a war, strike, riot, crime, epidemic or sudden legal changes prevents one or both parties from fulfilling their obligations under the contract. Explicitly excluded is any event described as an act of God, which covers a separate domain and legally differs, yet it is still related to contract law. In practice, most force majeure clauses do not excuse a party's non-performance entirely but only suspend it for the duration of the force majeure.Force majeure is generally intended to include occurrences beyond the reasonable control of a party, and therefore would not cover:
+
+Any result of the negligence or malfeasance of a party, which has a materially adverse effect on the ability of such party to perform its obligations.
+Any result of the usual and natural consequences of external forces.
+To illuminate this distinction, take the example of an outdoor public event abruptly called off.
+If the cause for cancellation is ordinary predictable rain, this is most probably not force majeure.
+If the cause is a flash flood that damages the venue or makes the event hazardous to attend, then this almost certainly is force majeure, other than where the venue was on a known flood plain or the area of the venue was known to be subject to torrential rain.
+Some causes might be arguable borderline cases (for instance, if unusually heavy rain occurred, rendering the event significantly more difficult, but not impossible, to safely hold or attend); these must be assessed in light of the circumstances.
+Any circumstances that are specifically contemplated (included) in the contract—for example, if the contract for the outdoor event specifically permits or requires cancellation in the event of rain.Under international law, it refers to an irresistible force or unforeseen event beyond the control of a state, making it materially impossible to fulfill an international obligation. Accordingly, it is related to the concept of a state of emergency.Force majeure in any given situation is controlled by the law governing the contract, rather than general concepts of force majeure. Contracts often specify what constitutes force majeure via a clause in the agreement. So, the liability is decided per contract and not by statute nor principles of general law. The first step to assess whether–and how–force majeure applies to any particular contract is to ascertain the law of the country (state) which governs the contract.

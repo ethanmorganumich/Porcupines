@@ -1,0 +1,5 @@
+Minor intervals~Sixths (music)~
+||||||
+Minor sixth
+||||||
+In Western classical music, a minor sixth is a musical interval encompassing six staff positions (see Interval number for more details), and is one of two commonly occurring sixths (the other one being the major sixth). It is qualified as minor because it is the smaller of the two: the minor sixth spans eight semitones, the major sixth nine. For example, the interval from A to F is a minor sixth, as the note F lies eight semitones above A, and there are six staff positions from A to F. Diminished and augmented sixths span the same number of staff positions, but consist of a different number of semitones (seven and ten respectively).

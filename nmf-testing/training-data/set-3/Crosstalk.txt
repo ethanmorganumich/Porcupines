@@ -1,0 +1,6 @@
+Audio amplifier specifications~Audio engineering~Broadcast engineering~Electrical parameters~Electrical phenomena~Electromagnetic compatibility~Sound measurements~Telecommunication theory~
+||||||
+Crosstalk
+||||||
+In electronics, crosstalk is any phenomenon by which a signal transmitted on one circuit or channel of a transmission system creates an undesired effect in another circuit or channel. Crosstalk is usually caused by undesired capacitive, inductive, or conductive coupling from one circuit or channel to another.
+Crosstalk is a significant issue in structured cabling, audio electronics, integrated circuit design, wireless communication and other communications systems.

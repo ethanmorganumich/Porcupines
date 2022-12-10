@@ -1,0 +1,23 @@
+Compositions in A major~Major scales~Musical keys~
+||||||
+A major
+||||||
+A major (or the key of A) is a major scale based on A, with the pitches A, B, C♯, D, E, F♯, and G♯. Its key signature has three sharps. Its relative minor is F-sharp minor and its parallel minor is A minor. The key of A major is the only key where the Neapolitan sixth chord on 
+  
+    
+      
+        
+          
+            
+              2
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {2}}}
+   (i.e.  the flattened supertonic) requires both a flat and a natural accidental.
+The A major scale is:
+
+In the treble, alto, and bass clefs, the G♯ in the key signature is placed higher than C♯. However, in the tenor clef, it would require a ledger line and so G♯ is placed lower than C♯.

@@ -1,0 +1,5 @@
+Musical notation~
+||||||
+Notehead
+||||||
+In music, a notehead is the part of a note, usually elliptical in shape, whose placement on the  staff indicates the  pitch, to which modifications are made that indicate  duration. Noteheads may be the same shape but colored completely black or white, indicating the note value (i.e., rhythmic duration). In a whole note, the notehead, shaped differently than shorter notes, is the only component of the note. Shorter note values attach a stem to the notehead, and possibly beams or flags. The longer double whole note can be written with vertical lines surrounding it, two attached noteheads, or a rectangular notehead. An "x" shaped notehead may be used to indicate percussion, percussive effects (ghost notes), or speaking. A square, diamond, or box shaped notehead may be used to indicate a natural or artificial harmonic. A small notehead can be used to indicate a grace note.

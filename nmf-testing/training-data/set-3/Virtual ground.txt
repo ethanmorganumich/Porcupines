@@ -1,0 +1,7 @@
+Electrical circuits~Electricity concepts~
+||||||
+Virtual ground
+||||||
+In electronics, a virtual ground  (or virtual earth) is a node of a circuit that is maintained at a steady reference potential, without being connected directly to the reference potential. In some cases the reference potential is considered to be that of the surface of the earth, and the reference node is called "ground" or "earth" as a consequence. 
+The virtual ground concept aids circuit analysis in operational amplifier and other circuits and provides useful practical circuit effects that would be difficult to achieve in other ways. 
+In circuit theory, a node may have any value of current or voltage but physical implementations of a virtual ground will have limitations of current handling ability and a non-zero impedance which may have practical side effects.

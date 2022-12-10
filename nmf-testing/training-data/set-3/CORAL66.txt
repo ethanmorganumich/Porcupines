@@ -1,0 +1,7 @@
+History of computing in the United Kingdom~Procedural programming languages~Programming languages created in 1964~
+||||||
+CORAL
+||||||
+CORAL, short for Computer On-line Real-time Applications Language is a programming language originally developed in 1964 at the Royal Radar Establishment (RRE), Malvern, Worcestershire, in the United Kingdom. The R was originally for "radar", not "real-time". It was influenced primarily by JOVIAL, and thus ALGOL, but is not a subset of either.
+The most widely-known version, CORAL 66, was subsequently developed by I. F. Currie and M. Griffiths under the auspices of the Inter-Establishment Committee for Computer Applications (IECCA). Its official definition, edited by Woodward, Wetherall, and Gorman, was first published in 1970.In 1971, CORAL was selected by the Ministry of Defence as the language for future military applications and to support this, a standardization program was introduced to ensure CORAL compilers met the specifications. This process was later adopted by the US Department of Defense while defining Ada.
+

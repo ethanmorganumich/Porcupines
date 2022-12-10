@@ -1,0 +1,6 @@
+Freescale Semiconductor microcontrollers~Motorola microcontrollers~NXP Semiconductors microcontrollers~
+||||||
+Motorola 68HC11
+||||||
+The 68HC11 (6811 or HC11 for short) is an 8-bit microcontroller (µC) family introduced by Motorola in 1984.  Now produced by NXP Semiconductors, it descended from the Motorola 6800 microprocessor by way of the 6801. The 68HC11 devices are more powerful and more expensive than the 68HC08 microcontrollers, and are used in automotive applications, barcode readers, hotel card key writers, amateur robotics, and various other embedded systems. The MC68HC11A8 was the first microcontroller to include CMOS EEPROM.
+

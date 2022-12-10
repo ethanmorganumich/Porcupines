@@ -1,0 +1,12 @@
+Internet search engines~Mass media in Bangladesh stubs~Online companies of Bangladesh~Search engine website stubs~Websites which mirror Wikipedia~
+||||||
+Pipilika
+||||||
+Pipilika (Bengali: পিপীলিকা) was a search engine operated from Sylhet, Bangladesh. The search engine is no longer operating.It is the country's first Bangla search engine developed by the Computer Science and Engineering students of Shahjalal University of Science and Technology, Sylhet, Bangladesh as a thesis project. It has ability to search both in Bengali and English language. Pipilika is the country's first and only search engine that can search both Bangla and English. But it is no longer in operation . It searches and automatically characterizes Bangla and English newspapers of the country, blog sites, Bangla Wikipedia and government websites. It prioritizes Bangla information over English. 
+It used to have five categories:
+
+All
+News
+Blog
+Bangla Wikipedia
+National E-InfokoshThe Computer Science & Engineering Department of Shahjalal University of Science and Technology, Sylhet and Grameenphone IT Limited have jointly innovated the Bangla search engine Pipilika.com.

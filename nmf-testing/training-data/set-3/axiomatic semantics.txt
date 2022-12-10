@@ -1,0 +1,6 @@
+Axiomatic semantics~Formal methods stubs~Formal specification languages~Logic in computer science~Programming language semantics~
+||||||
+Axiomatic semantics
+||||||
+Axiomatic semantics is an approach based on mathematical logic for proving the correctness of computer programs. It is closely related to Hoare logic.
+Axiomatic semantics define the meaning of a command in a program by describing its effect on assertions about the program state. The assertions are logical statements—predicates with variables, where the variables define the state of the program.

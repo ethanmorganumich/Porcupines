@@ -1,0 +1,5 @@
+Java enterprise platform~Java platform software~Java specification requests~
+||||||
+Jakarta Enterprise Beans
+||||||
+Jakarta Enterprise Beans (EJB; formerly Enterprise JavaBeans) is one of several Java APIs for modular construction of enterprise software. EJB is a server-side software component that encapsulates  business logic of an application. An EJB web container provides a runtime environment for web related software components, including computer security, Java servlet lifecycle management, transaction processing, and other web services. The EJB specification is a subset of the Java EE specification.

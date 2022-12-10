@@ -1,0 +1,6 @@
+Digital signal processing~Rates~Telecommunication theory~
+||||||
+Nyquist rate
+||||||
+In signal processing, the Nyquist rate, named after Harry Nyquist, is a value (in units of samples per second or hertz, Hz) equal to twice the highest frequency (bandwidth) of a given function or signal.  When the function is digitized at a higher sample rate (see § Critical frequency), the resulting discrete-time sequence is said to be free of the distortion known as aliasing.   Conversely, for a given sample-rate the corresponding Nyquist frequency in Hz is one-half the sample-rate.  Note that the Nyquist rate is a property of a continuous-time signal, whereas Nyquist frequency is a property of a discrete-time system. 
+The term Nyquist rate is also used in a different context with units of symbols per second, which is actually the field in which Harry Nyquist was working.  In that context it is an upper bound for the symbol rate across a bandwidth-limited baseband channel such as a telegraph line or passband channel such as a limited radio frequency band or a frequency division multiplex channel.

@@ -1,0 +1,6 @@
+Electromagnetic radiation~Physical optics~Waves~
+||||||
+Coherence length
+||||||
+In physics, coherence length is the propagation distance over which a coherent wave (e.g. an electromagnetic wave) maintains a specified degree of coherence.  Wave interference is strong when the paths taken by all of the interfering waves differ by less than the coherence length. A wave with a longer coherence length is closer to a perfect sinusoidal wave. Coherence length is important in holography and telecommunications engineering.
+This article focuses on the coherence of classical electromagnetic fields.  In quantum mechanics, there is a mathematically analogous concept of the quantum coherence length of a wave function.

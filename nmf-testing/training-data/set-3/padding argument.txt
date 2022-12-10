@@ -1,0 +1,5 @@
+Computational complexity theory~Theoretical computer science stubs~
+||||||
+Padding argument
+||||||
+In computational complexity theory, the padding argument is a tool to conditionally prove that if some complexity classes are equal, then some other bigger classes are also equal.

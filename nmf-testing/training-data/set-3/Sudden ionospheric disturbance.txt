@@ -1,0 +1,6 @@
+Ionosphere~Planetary science~Radio frequency propagation~Space science~Space weather~
+||||||
+Sudden ionospheric disturbance
+||||||
+A sudden ionospheric disturbance (SID) is any one of several ionospheric perturbations, resulting from abnormally high ionization/plasma density in the D region of the ionosphere and caused by a solar flare and/or solar particle event (SPE). The SID results in a sudden increase in radio-wave absorption that is most severe in the upper medium frequency (MF) and lower high frequency (HF) ranges, and as a result often interrupts or interferes with telecommunications systems.
+

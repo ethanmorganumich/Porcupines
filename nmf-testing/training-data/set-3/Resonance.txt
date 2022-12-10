@@ -1,0 +1,7 @@
+Antennas (radio)~Oscillation~Resonance~
+||||||
+Resonance
+||||||
+Resonance describes the phenomenon of increased amplitude that occurs when the frequency of an applied periodic  force (or a Fourier component of it) is equal or close to a natural frequency of the system on which it acts. When an oscillating force is applied at a resonant frequency of a dynamic system, the system will oscillate at a higher amplitude than when the same force is applied at other, non-resonant frequencies.Frequencies at which the response amplitude is a relative maximum are also known as resonant frequencies or resonance frequencies of the system. Small periodic forces that are near a resonant frequency of the system have the ability to produce large amplitude oscillations in the system due to the storage of vibrational energy.
+Resonance phenomena occur with all types of vibrations or waves: there is mechanical resonance, Orbital resonance, acoustic resonance, electromagnetic resonance, nuclear magnetic resonance (NMR), electron spin resonance (ESR) and resonance of quantum wave functions. Resonant systems can be used to generate vibrations of a specific frequency (e.g., musical instruments), or pick out specific frequencies from a complex vibration containing many frequencies (e.g., filters).
+The term resonance (from Latin resonantia, 'echo', from resonare, 'resound') originated from the field of acoustics, particularly the sympathetic resonance observed in musical instruments, e.g., when one string starts to vibrate and produce sound after a different one is struck.

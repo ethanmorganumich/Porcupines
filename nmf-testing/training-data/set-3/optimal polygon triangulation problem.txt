@@ -1,0 +1,50 @@
+Computational geometry~Covering problems~Polygons~
+||||||
+Art gallery problem
+||||||
+The art gallery problem or museum problem is a well-studied visibility problem in computational geometry.  It originates from the following real-world problem:
+
+In the geometric version of the problem, the layout of the art gallery is represented by a simple polygon and each guard is represented by a point in the polygon.  A set 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   of points is said to guard a polygon if, for every point 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   in the polygon, there is some 
+  
+    
+      
+        q
+        ∈
+        S
+      
+    
+    {\displaystyle q\in S}
+   such that the line segment between 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   and 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   does not leave the polygon.
+The art gallery problem can be applied in several domains such as in robotics, when artificial intelligences (AI) need to execute movements depending on their surroundings. Other domains, where this problem is applied, are in image editing, lighting problems of a stage or installation of infrastructures for the warning of natural disasters.

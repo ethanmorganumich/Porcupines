@@ -1,0 +1,12 @@
+Musical notation~
+||||||
+Musical note
+||||||
+In music, a note is the representation of a musical sound.
+Notes can represent the pitch and duration of a sound in musical notation. A note can also represent a pitch class.
+Notes are the building blocks of much written music: discretizations of musical phenomena that facilitate performance, comprehension, and analysis.The term note can be used in both generic and specific senses: one might say either "the piece 'Happy Birthday to You' begins with two notes having the same pitch", or "the piece begins with two repetitions of the same note". In the former case, one uses note to refer to a specific musical event; in the latter, one uses the term to refer to a class of events sharing the same pitch. (See also: Key signature names and translations.)
+
+Two notes with fundamental frequencies in a ratio equal to any integer power of two (e.g., half, twice, or four times) are perceived as very similar. Because of that, all notes with these kinds of relations can be grouped under the same pitch class.
+In European music theory, most countries use the solfège naming convention do–re–mi–fa–sol–la–si, including for instance Italy, Portugal, Spain, France, Romania, most Latin American countries, Greece, Albania, Bulgaria, Turkey, Russia, Arabic-speaking and Persian-speaking countries. However, in English- and Dutch-speaking regions, pitch classes are typically represented by the first seven letters of the Latin alphabet (A, B, C, D, E, F and G). Several European countries, including Germany, adopt an almost identical notation, in which H is substituted for B (see below for details). Byzantium used the names Pa–Vu–Ga–Di–Ke–Zo–Ni (Πα–Βου–Γα–Δι–Κε–Ζω–Νη).In traditional Indian music, musical notes are called svaras and commonly represented using the seven notes, Sa, Re, Ga, Ma, Pa, Dha and Ni.
+The eighth note, or octave, is given the same name as the first, but has double its frequency (first harmonic). The name octave is also used to indicate the span between a note and another with double frequency. To differentiate two notes that have the same pitch class but fall into different octaves, the system of scientific pitch notation combines a letter name with an Arabic numeral designating a specific octave. For example, the now-standard tuning pitch for most Western music, 440 Hz, is named a′ or A4.
+There are two formal systems to define each note and octave, the Helmholtz pitch notation and the scientific pitch notation.

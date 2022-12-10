@@ -1,0 +1,5 @@
+Dimensionless numbers~Fiber optics~Microscopy~Optics~
+||||||
+Numerical aperture
+||||||
+In optics, the numerical aperture (NA) of an optical system is a dimensionless number that characterizes the range of angles over which the system can accept or emit light. By incorporating index of refraction in its definition, NA has the property that it is constant for a beam as it goes from one material to another, provided there is no refractive power at the interface. The exact definition of the term varies slightly between different areas of optics. Numerical aperture is commonly used in microscopy to describe the acceptance cone of an objective (and hence its light-gathering ability and  resolution), and in fiber optics, in which it describes the range of angles within which light that is incident on the fiber will be transmitted along it.

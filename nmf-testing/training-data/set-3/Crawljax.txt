@@ -1,0 +1,7 @@
+Computer programming tool stubs~Internet search engines~
+||||||
+Crawljax
+||||||
+Crawljax is a free and open source web crawler for automatically crawling and analyzing dynamic Ajax-based Web applications. 
+One major point of difference between Crawljax and other traditional web crawlers is that Crawljax is an event-driven dynamic crawler, capable of exploring JavaScript-based DOM state changes.
+Crawljax can be used to crawl and create a static mirror of any Ajax web application.

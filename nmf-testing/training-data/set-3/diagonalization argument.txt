@@ -1,0 +1,7 @@
+Arguments~Cardinal numbers~Georg Cantor~Infinity~Mathematical proofs~Set theory~Theorems in the foundations of mathematics~
+||||||
+Cantor's diagonal argument
+||||||
+In set theory, Cantor's diagonal argument, also called the diagonalisation argument, the diagonal slash argument, the anti-diagonal argument, the diagonal method, and Cantor's diagonalization proof, was published in 1891 by Georg Cantor as a mathematical proof that there are infinite sets which cannot be put into one-to-one correspondence with the infinite set of natural numbers.: 20–  Such sets are now known as uncountable sets, and the size of infinite sets is now treated by the theory of cardinal numbers which Cantor began.
+The diagonal argument was not Cantor's first proof of the uncountability of the real numbers, which appeared in 1874.
+However, it demonstrates a general technique that has since been used in a wide range of proofs, including the first of Gödel's incompleteness theorems and Turing's answer to the Entscheidungsproblem.  Diagonalization arguments are often also the source of contradictions like Russell's paradox and Richard's paradox.: 27 

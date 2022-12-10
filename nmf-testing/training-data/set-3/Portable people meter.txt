@@ -1,0 +1,12 @@
+Audience measurement~Broadcasting~Market research~
+||||||
+Portable People Meter
+||||||
+The Portable People Meter (PPM), also known as the Nielsen Meter, was a system developed by Arbitron (now Nielsen Audio) to measure how many people are exposed or listening to individual radio stations and television stations, including cable television. The PPM is worn like a pager, and detects hidden audio tones within a station or network's audio stream, logging each time it finds such a signal. 
+There are several parts to the PPM system:
+
+An encoder that inserts the tones subliminally into a station's or broadcast network's airchain via psychoacoustic masking;
+A monitor that checks that the encoder is working properly;
+The wearable Portable People Meter carried by each panelist;
+A base station for each PPM, where each panelist in the household places it overnight to recharge the battery; and
+A portable recharger for vacations and other trips away from the home base.The original PPM concept required the base station to be connected to a telephone line to transmit panelists' listening data from the PPM to the collection point. The PPM 360, introduced in 2010, uses cellular telephone technology to accomplish this without the need for a wired telephone service. They also have a motion sensor to detect when the PPM is being worn by an active person. After a period of 30 minutes of inactivity, they go into a low-power "sleep" mode to conserve battery life.

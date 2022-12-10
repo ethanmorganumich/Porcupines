@@ -1,0 +1,8 @@
+Audiovisual introductions in 1986~Film and video technology~Film and video terminology~Television terminology~Video signal~
+||||||
+Digital video
+||||||
+Digital video is an electronic representation of moving visual images (video) in the form of encoded digital data. This is in contrast to analog video, which represents moving visual images in the form of analog signals. Digital video comprises a series of digital images displayed in rapid succession.
+Digital video is audio and video mixed together to make a production. the data gathered used to create a video, rather than a series of photos put together. Digital video have many advantages such as easy copying, multicasting, easy sharing and storage. Video recorded on tape is used on a computer on media player. Digital video is made of images displayed rapidly frequencies of 15, 24,30, and 60 frames per second.
+Digital video was first introduced commercially in 1986 with the Sony D1 format, which recorded an uncompressed standard-definition component video signal in digital form. In addition to uncompressed formats, popular compressed digital video formats today include H.264 and MPEG-4. Modern interconnect standards used for playback of digital video include HDMI, DisplayPort, Digital Visual Interface (DVI) and serial digital interface (SDI).
+Digital video can be copied and reproduced with no degradation in quality. In contrast, when analog sources are copied, they experience generation loss. Digital video can be stored on digital media such as Blu-ray Disc, on computer data storage, or streamed over the Internet to end users who watch content on a desktop computer screen or a digital smart TV. Today, digital video content such as TV shows and movies also include a digital audio soundtrack.

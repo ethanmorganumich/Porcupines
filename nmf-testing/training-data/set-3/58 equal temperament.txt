@@ -1,0 +1,7 @@
+Equal temperaments~Microtonality~
+||||||
+58 equal temperament
+||||||
+In music, 58 equal temperament (also called 58-ET or 58-EDO) divides the octave into 58 equal parts of approximately 20.69 cents each. It is notable as the simplest equal division of the octave to faithfully represent the 17-limit, and the first that distinguishes between all the elements of the 11-limit tonality diamond. The next-smallest equal temperament to do both these things is 72 equal temperament.
+Compared to 72-EDO, which is also consistent in the 17-limit, 58-EDO's approximations of most intervals are not quite as good (although still workable). One obvious exception is the perfect fifth (slightly better in 58-EDO), and another is the tridecimal minor third (11:13), which is significantly better in 58-EDO than in 72-EDO. The two systems temper out different commas; 72-EDO tempers out the comma 169:168, thus equating the 14:13 and 13:12 intervals. On the other hand, 58-EDO tempers out 144:143 instead of 169:168, so 14:13 and 13:12 are left distinct, but 13:12 and 12:11 are equated.
+58-EDO, unlike 72-EDO, is not a multiple of 12, so the only interval (up to octave equivalency) that it shares with 12-EDO is the 600-cent tritone (which functions as both 17:12 and 24:17). On the other hand, 58-EDO has fewer pitches than 72-EDO and is therefore simpler.

@@ -1,0 +1,6 @@
+Single-stage transistor amplifiers~
+||||||
+Common collector
+||||||
+In electronics, a common collector amplifier (also known as an emitter follower) is one of three basic single-stage bipolar junction transistor (BJT) amplifier topologies, typically used as a voltage buffer.
+In this circuit the base terminal of the transistor serves as the input, the emitter is the output, and the collector is common to both (for example, it may be tied to ground reference or a power supply rail), hence its name. The analogous field-effect transistor circuit is the common drain amplifier and the analogous tube circuit is the cathode follower.

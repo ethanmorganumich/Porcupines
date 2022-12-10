@@ -1,0 +1,96 @@
+Arithmetic~Computability theory~Large integers~Special functions~Theory of computation~
+||||||
+Ackermann function
+||||||
+In computability theory, the Ackermann function, named after Wilhelm Ackermann, is one of the simplest and earliest-discovered examples of a total computable function that is not primitive recursive. All primitive recursive functions are total and computable, but the Ackermann function illustrates that not all total computable functions are primitive recursive. After Ackermann's publication of his function (which had three non-negative integer arguments), many authors modified it to suit various purposes, so that today "the Ackermann function" may refer to any of numerous variants of the original function. One common version, the two-argument Ackermann–Péter function is defined as follows for nonnegative integers m and n:
+
+  
+    
+      
+        
+          
+            
+              
+                A
+                ⁡
+                (
+                0
+                ,
+                n
+                )
+              
+              
+                =
+              
+              
+                n
+                +
+                1
+              
+            
+            
+              
+                A
+                ⁡
+                (
+                m
+                +
+                1
+                ,
+                0
+                )
+              
+              
+                =
+              
+              
+                A
+                ⁡
+                (
+                m
+                ,
+                1
+                )
+              
+            
+            
+              
+                A
+                ⁡
+                (
+                m
+                +
+                1
+                ,
+                n
+                +
+                1
+                )
+              
+              
+                =
+              
+              
+                A
+                ⁡
+                (
+                m
+                ,
+                A
+                ⁡
+                (
+                m
+                +
+                1
+                ,
+                n
+                )
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{lcl}\operatorname {A} (0,n)&=&n+1\\\operatorname {A} (m+1,0)&=&\operatorname {A} (m,1)\\\operatorname {A} (m+1,n+1)&=&\operatorname {A} (m,\operatorname {A} (m+1,n))\end{array}}}
+  Its value grows rapidly, even for small inputs. For example, A(4, 2) is an integer of 19,729 decimal digits (equivalent to 265536−3, or 22222−3).

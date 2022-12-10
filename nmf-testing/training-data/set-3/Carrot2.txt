@@ -1,0 +1,5 @@
+Internet search engines~Software using the BSD license~
+||||||
+Carrot2
+||||||
+Carrot² is an open source search results clustering engine. It can automatically cluster small collections of documents, e.g. search results or document abstracts, into thematic categories. Carrot² is written in Java and distributed under the BSD license.

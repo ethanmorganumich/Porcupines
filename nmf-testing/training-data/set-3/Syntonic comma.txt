@@ -1,0 +1,6 @@
+5-limit tuning and intervals~Commas (music)~Superparticular intervals~
+||||||
+Syntonic comma
+||||||
+In music theory, the syntonic comma, also known as the chromatic diesis, the Didymean comma, the Ptolemaic comma, or the diatonic comma is a small comma type interval between two musical notes, equal to the frequency ratio 81:80 (= 1.0125) (around 21.51 cents). Two notes that differ by this interval would sound different from each other even to untrained ears, but would be close enough that they would be more likely interpreted as out-of-tune versions of the same note than as different notes. The comma is also referred to as a Didymean comma because it is the amount by which Didymus corrected the Pythagorean major third (81:64, around 407.82 cents) to a just major third (5:4, around 386.31 cents).
+The word "comma" came via Latin from Greek κόμμα, from earlier *κοπ-μα = "a thing cut off".

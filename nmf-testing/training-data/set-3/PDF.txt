@@ -1,0 +1,6 @@
+Adobe Inc.~Computer-related introductions in 1993~Digital press~Electronic documents~Graphics file formats~ISO standards~Office document file formats~Open formats~PDF software~Page description languages~Vector graphics~
+||||||
+PDF
+||||||
+Portable Document Format (PDF), standardized as ISO 32000, is a file format developed by Adobe in 1992 to present documents, including text formatting and images, in a manner independent of application software, hardware, and operating systems. Based on the PostScript language, each PDF file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, vector graphics, raster images and other information needed to display it. PDF has its roots in "The Camelot Project" initiated by  Adobe co-founder John Warnock in 1991.PDF was standardized as ISO 32000 in 2008. The last edition as ISO 32000-2:2020 was published in December 2020.
+PDF files may contain a variety of content besides flat text and graphics including logical structuring elements, interactive elements such as annotations and form-fields, layers, rich media (including video content), three-dimensional objects using U3D or PRC, and various other data formats. The PDF specification also provides for encryption and digital signatures, file attachments, and metadata to enable workflows requiring these features.

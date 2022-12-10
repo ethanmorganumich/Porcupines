@@ -1,0 +1,6 @@
+As a service~Internet search engines~Semantic Web~
+||||||
+Search as a service
+||||||
+Search as a service is a branch of software as a service (SaaS), focussed on enterprise search or site-specific web search.
+

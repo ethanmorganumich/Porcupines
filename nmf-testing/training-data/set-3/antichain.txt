@@ -1,0 +1,9 @@
+Order theory~
+||||||
+Antichain
+||||||
+In mathematics, in the area of order theory, an antichain is a subset of a partially ordered set such that any two distinct elements in the subset are incomparable.
+The size of the largest antichain in a partially ordered set is known as its width. By Dilworth's theorem, this also equals the minimum number of chains (totally ordered subsets) into which the set can be partitioned. Dually, the height of the partially ordered set (the length of its longest chain) equals by Mirsky's theorem the minimum number of antichains into which the set can be partitioned.
+The family of all antichains in a finite partially ordered set can be given join and meet operations, making them into a distributive lattice.
+For the partially ordered system of all subsets of a finite set, ordered by set inclusion, the antichains are called Sperner families
+and their lattice is a free distributive lattice, with a Dedekind number of elements. More generally, counting the number of antichains of a finite partially ordered set is #P-complete.

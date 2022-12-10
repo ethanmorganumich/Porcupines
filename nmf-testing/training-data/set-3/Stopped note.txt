@@ -1,0 +1,5 @@
+String performance techniques~
+||||||
+Stopped note
+||||||
+On string instruments, a stopped note is a note whose pitch has been altered from the pitch of the open string by the player's left hand pressing (stopping) the string against the fingerboard.

@@ -1,0 +1,9 @@
+Court orders~
+||||||
+Interim order
+||||||
+The term interim order refers to an order issued by a court during the pendency of the litigation. It is generally issued by the Court to ensure Status quo. The rationale for such orders to be issued by the Courts is best explained by the Latin legal maxim "Actus curiae neminem gravabit" which, translated to English, stands for "an act of the court shall prejudice no one". Therefore, to ensure that none of the interests of the parties to the litigation are harmed, the court may issue an interim order.
+Interim orders issued by the court may be of various kinds. The nature of the order essentially depends on the direction issued by the Court. Some examples of court orders classified as interim orders include:
+
+Restraining orders (also called Injunction), which are issued to stop either party from acting in a particular manner during the pendency of the civil action. These are essentially issued by the court to prevent situations in which either party may suffer harm because the other party did/continued an act which was the matter in issue; and
+Directive orders, which are issued to direct either party to continue to act in a particular manner until the conclusion of the trial or until further orders are issued. Directive orders may be issued if the non-continuation of the act would cause harm to the other party.In public international law, the "rough equivalent" of an interim order is a provisional measure of protection, which can be "indicated" by the International Court of Justice.

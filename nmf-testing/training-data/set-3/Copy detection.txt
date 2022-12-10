@@ -1,0 +1,5 @@
+Anti-counterfeiting~Authentication methods~Forgery~Security~
+||||||
+Copy detection pattern
+||||||
+A copy detection pattern (CDP) or graphical code is a  small random or pseudo-random digital image which is printed on documents, labels or products for counterfeit detection. Authentication  is made  by  scanning  the printed CDP using an image scanner or mobile phone camera. It is possible to store additional product-specific data into the CDP that will be decoded during the scanning process. A CDP can also be inserted into a 2D barcode to facilitate smartphone authentication and to connect with traceability data.

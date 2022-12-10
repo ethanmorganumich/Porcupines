@@ -1,0 +1,146 @@
+Equivalent units~Noise (electronics)~
+||||||
+Equivalent noise resistance
+||||||
+In telecommunication, an equivalent noise resistance is a quantitative representation in resistance units of the spectral density of a noise-voltage generator, given by
+
+  
+    
+      
+        
+          R
+          
+            n
+          
+        
+        =
+        
+          
+            
+              π
+              
+                W
+                
+                  n
+                
+              
+            
+            
+              k
+              
+                T
+                
+                  0
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle R_{n}={\frac {\pi W_{n}}{kT_{0}}}}
+  
+where 
+  
+    
+      
+        
+          W
+          
+            n
+          
+        
+      
+    
+    {\displaystyle W_{n}}
+   is the spectral density, 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   is the Boltzmann constant, 
+  
+    
+      
+        
+          T
+          
+            0
+          
+        
+      
+    
+    {\displaystyle T_{0}}
+   is the standard noise temperature (290 K), so 
+  
+    
+      
+        k
+        
+          T
+          
+            0
+          
+        
+        =
+        4.00
+        ×
+        
+          10
+          
+            −
+            21
+          
+        
+        
+        [
+        W
+        s
+        ]
+      
+    
+    {\displaystyle kT_{0}=4.00\times 10^{-21}\,[Ws]}
+  .
+Note:  The equivalent noise resistance in terms of the mean-square noise-generator voltage, e2, within a frequency increment, Δ f, is given by
+
+  
+    
+      
+        
+          R
+          
+            n
+          
+        
+        =
+        
+          
+            
+              e
+              
+                2
+              
+            
+            
+              4
+              k
+              
+                T
+                
+                  0
+                
+              
+              
+              Δ
+              f
+            
+          
+        
+        .
+      
+    
+    {\displaystyle R_{n}={\frac {e^{2}}{4kT_{0}\,\Delta f}}.}
+   This article incorporates public domain material from Federal Standard 1037C. General Services Administration. Archived from the original on 2022-01-22.

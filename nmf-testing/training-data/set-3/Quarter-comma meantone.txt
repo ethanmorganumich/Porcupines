@@ -1,0 +1,5 @@
+Musical temperaments~
+||||||
+Quarter-comma meantone
+||||||
+Quarter-comma meantone, or 1⁄4-comma meantone, was the most common meantone temperament in the sixteenth and seventeenth centuries, and was sometimes used later. In this system the perfect fifth is flattened by one quarter of a syntonic comma (81:80), with respect to its just intonation used in Pythagorean tuning (frequency ratio 3:2); the result is 3/2 × (80/81)1⁄4 = 4√5 ≈ 1.49535, or a fifth of 696.578 cents. (The 12th power of that value is 125, whereas 7 octaves is 128, and so falls 41.059 cents short.) This fifth is then iterated to generate the diatonic scale and other notes of the temperament. The purpose is to obtain justly intoned major thirds (with a frequency ratio equal to 5:4). It was described by Pietro Aron in his Toscanello de la Musica of 1523, by saying the major thirds should be tuned to be "sonorous and just, as united as possible." Later theorists Gioseffo Zarlino and Francisco de Salinas described the tuning with mathematical exactitude.

@@ -1,0 +1,18 @@
+Opera terminology~Pitch (music)~Voice registers~
+||||||
+Register (music)
+||||||
+A register is the "height" or range of a note, set of pitches or pitch classes, melody, part, instrument, or group of instruments. A higher register indicates higher pitch. 
+
+Example 1: Violins are in a higher register than cellos.In woodwind and brass instruments, the word register usually distinguishes pitch ranges produced using different normal modes of the air column, with higher registers produced by overblowing.  Often the timbres of different woodwind instrument registers tend to be markedly different.
+
+Example 2: The Western concert flute plays approximately three and a half octaves and generally has three complete registers and one partial register. The musical note C4 (corresponding to middle C on the piano) would be in that instrument's first register, whereas C5 (one octave higher) would be in its second register.However, on the clarinet the notes from (written) G4 or A4 to B♭4 sometimes are regarded as a separate "throat register", even though both they and the notes from F♯4 down are produced using the instrument's lowest normal mode; the timbre of the throat notes differs, and the throat register's fingerings also are distinctive, using special keys and not the standard tone holes used for other notes.
+The register in which an instrument plays, or in which a part is written, affects the quality of sound or timbre. Register is also used structurally in musical form, with the climax of a piece usually being in the highest register of that piece. Often, serial and other pieces will use fixed register, allowing a pitch class to be expressed through only one pitch.
+
+A "register" of the human voice is a series of tones of like quality originating through operation of the larynx.  The constituent tones result from similar patterns of vibration in the vocal folds, which can generate several different such patterns, each resulting in characteristic sounds within a particular range of pitches.  The term has wide application and can refer to any of several aspects of the human voice, including the following:
+
+A particular segment of the vocal range;
+A resonance area such as chest voice or head voice;
+A phonatory process;
+A certain vocal timbre; or
+A region of the voice set off by vocal breaks.Speech pathologists and many vocal pedagogues recognize four vocal registers: the vocal fry, modal, falsetto, and whistle.  To delineate these registers, pathologists specify vibratory pattern of the vocal folds, sequential pitches, and type of sound.

@@ -1,0 +1,7 @@
+Aircraft instruments~Display technology~Measuring instruments~Navigational equipment~
+||||||
+Flight instruments
+||||||
+Flight instruments  are the instruments in the cockpit of an aircraft that provide the pilot with data about the flight situation of that aircraft, such as altitude, airspeed, vertical speed, heading and much more other crucial information in flight. They improve safety by allowing the pilot to fly the aircraft in level flight, and make turns, without a reference outside the aircraft such as the horizon.  Visual flight rules (VFR) require an airspeed indicator, an altimeter, and a compass or other suitable magnetic direction indicator.  Instrument flight rules (IFR) additionally require a gyroscopic pitch-bank (artificial horizon), direction (directional gyro) and rate of turn indicator, plus a slip-skid indicator, adjustable altimeter, and a clock. Flight into instrument meteorological conditions (IMC) require radio navigation instruments for precise takeoffs and landings.: 3–1 The term is sometimes used loosely as a synonym for cockpit instruments as a whole, in which context it can include engine instruments, navigational and communication equipment.
+Many modern aircraft have electronic flight instrument systems.
+Most regulated aircraft have these flight instruments as dictated by the US Code of Federal Regulations, Title 14, Part 91.  They are grouped according to pitot-static system, compass systems, and gyroscopic instruments.: 3–1 

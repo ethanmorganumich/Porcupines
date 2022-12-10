@@ -1,0 +1,8 @@
+Major scales~Musical keys~
+||||||
+C-flat major
+||||||
+C-flat major (or the key of C-flat) is a major scale based on C♭, consisting of the pitches C♭, D♭, E♭, F♭, G♭, A♭, and B♭. Its key signature has seven flats.   Its relative minor is A-flat minor (or enharmonically G-sharp minor), and its parallel minor is C-flat minor, usually replaced by B minor, since C-flat minor's three double-flats make it impractical to use. The direct enharmonic equivalent of C-flat major is B major, a key signature with five sharps.
+The C-flat major scale is:
+
+C-flat major is the only major or minor key, other than theoretical keys, which has "flat" or "sharp" in its name, but whose tonic note is the enharmonic equivalent of a natural note (a white key on a keyboard instrument).

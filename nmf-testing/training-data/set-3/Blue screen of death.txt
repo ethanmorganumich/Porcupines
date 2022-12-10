@@ -1,0 +1,5 @@
+Computer errors~Screens of death~Windows administration~
+||||||
+Blue screen of death
+||||||
+The Blue Screen of Death (BSoD), officially known as a Stop error or Blue Screen error, is an error screen that the Windows operating system displays in the event of a fatal system error. It indicates a system crash, in which the operating system has reached a critical condition where it can no longer operate safely, e.g., hardware failure or an unexpected termination of a crucial process.

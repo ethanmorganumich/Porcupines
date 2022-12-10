@@ -1,0 +1,97 @@
+Bibliometrics~Statistical laws~
+||||||
+Lotka's law
+||||||
+Lotka's law, named after Alfred J. Lotka, is one of a variety of special applications of Zipf's law.  It describes the frequency of publication by authors in any given field. It states that the number of authors making  
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+    contributions in a given period is a fraction of the number making a single contribution, following the formula  
+  
+    
+      
+        1
+        
+          /
+        
+        
+          x
+          
+            a
+          
+        
+      
+    
+    {\displaystyle 1/x^{a}}
+    where 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   nearly always equals two, i.e., an approximate inverse-square law, where the number of authors publishing a certain number of articles is a fixed ratio to the number of authors publishing a single article.  As the number of articles published increases, authors producing that many publications become less frequent.  There are 1/4 as many authors publishing two articles within a specified time period as there are single-publication authors, 1/9 as many publishing three articles, 1/16 as many publishing four articles, etc.  Though the law itself covers many disciplines, the actual ratios involved (as a function of 'a') are discipline-specific.
+
+The general formula says:
+
+  
+    
+      
+        
+          X
+          
+            n
+          
+        
+        Y
+        =
+        C
+      
+    
+    {\displaystyle X^{n}Y=C}
+  or
+
+  
+    
+      
+        Y
+        =
+        C
+        
+          /
+        
+        
+          X
+          
+            n
+          
+        
+        ,
+        
+      
+    
+    {\displaystyle Y=C/X^{n},\,}
+  where X is the number of publications, Y the relative frequency of authors with X publications, and n and 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   are constants depending on the specific field (
+  
+    
+      
+        n
+        ≈
+        2
+      
+    
+    {\displaystyle n\approx 2}
+  ).

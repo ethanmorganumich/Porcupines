@@ -1,0 +1,27 @@
+String matching algorithms~
+||||||
+Two-way string-matching algorithm
+||||||
+In computer science, the two-way string-matching algorithm is an string-searching algorithm, discovered by Maxime Crochemore and Dominique Perrin in 1991.  It takes a pattern of size m, called a “needle”, preprocesses it in linear time O(m), producing information that can then be used to search for the needle in any “haystack” string, taking only linear time O(n) with n the haystack's length.
+The two-way algorithm can be viewed as a combination of the forward-going Knuth–Morris–Pratt algorithm (KMP) and the backward-running Boyer–Moore string-search algorithm (BM).
+Like those two, the 2-way algorithm preprocesses the pattern to find partially repeating periods and computes “shifts” based on them, indicating what offset to “jump” to in the haystack when a given character is encountered.
+Unlike BM and KMP, it uses only O(log m) additional space to store information about those partial repeats: the search pattern is split into two halves (its critical factorization), represented only by the position of that split. Being a number lesser than m, it can be represented in ⌈log₂ m⌉ bits. In most practical settings, this can be taken to be O(1), as the needle's size is limited by the size of addressable memory.
+The actual matching operation performs at most 2n − m comparisons.Breslauer later published two improved variants performing fewer comparisons, at the cost of storing additional data about the preprocessed needle:
+The first one performs at most n + ⌊(n − m)/2⌋ comparisons, ⌈(n − m)/2⌉ fewer than the original. It must however store ⌈log
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   m⌉ additional offsets in the needle, using O(log2 m) space.
+The second adapts it to only store a constant number of such offsets, denoted c, but must perform n + ⌊(1⁄2 + ε) * (n − m)⌋ comparisons, with ε = 1⁄2(Fc+2 − 1)−1 = O(
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  −c) going to zero exponentially quickly as c increases.The algorithm is considered fairly efficient in practice, being cache-friendly and using several operations that can be implemented in well-optimized subroutines. It is used by the C standard libraries glibc, newlib, and musl, to implement the memmem and strstr family of substring functions. As with most advanced string-search algorithms, the naïve implementation may be more efficient on small-enough instances; this is especially so if the needle isn't searched in multiple haystacks, which would amortize the preprocessing cost.

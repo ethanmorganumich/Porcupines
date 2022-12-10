@@ -1,0 +1,6 @@
+Video game design~Video game music technology~
+||||||
+Adaptive music
+||||||
+In video games, adaptive music (also called dynamic or interactive music) is background music whose volume, rhythm or tune changes in response to specific events in the game.
+

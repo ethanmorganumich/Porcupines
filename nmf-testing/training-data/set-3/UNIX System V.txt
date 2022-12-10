@@ -1,0 +1,6 @@
+1983 software~UNIX System V~Unix distributions~
+||||||
+UNIX System V
+||||||
+Unix System V (pronounced: "System Five") is one of the first commercial versions of the Unix operating system. It was originally developed by AT&T and first released in 1983. Four major versions of System V were released, numbered 1, 2, 3, and 4. System V Release 4 (SVR4) was commercially the most successful version, being the result of an effort, marketed as Unix System Unification, which solicited the collaboration of the major Unix vendors. It was the source of several common commercial Unix features. System V is sometimes abbreviated to SysV.
+As of 2021, the AT&T-derived Unix market is divided between four System V variants: IBM's AIX, Hewlett Packard Enterprise's HP-UX and Oracle's Solaris, plus the free-software illumos forked from OpenSolaris.

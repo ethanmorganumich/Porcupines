@@ -1,0 +1,6 @@
+Depositary receipts~Equity securities~
+||||||
+American depositary receipt
+||||||
+An American depositary receipt (ADR, and sometimes spelled depository) is a negotiable security that represents securities of a foreign company and allows that company's shares to trade in the U.S. financial markets.Shares of many non-U.S. companies trade on U.S. stock exchanges through ADRs, which are denominated and pay dividends in U.S. dollars, and may be traded like regular shares of stock. ADRs are also traded during U.S. trading hours, through U.S. broker-dealers. ADRs simplify investing in foreign securities because the depositary bank "manage[s] all custody, currency and local taxes issues".The first ADR was introduced by J.P. Morgan in 1927 for the British retailer Selfridges on the New York Curb Exchange, the American Stock Exchange's precursor.They are the U.S. equivalent of a global depository receipt (GDR). Securities of a foreign company that are represented by an ADR are called American depositary shares (ADSs).
+

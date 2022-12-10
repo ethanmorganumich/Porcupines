@@ -1,0 +1,6 @@
+Communication circuits~Telecommunications equipment~Telecommunications stubs~
+||||||
+Interchange circuit
+||||||
+In telecommunication, an interchange circuit is a circuit that facilitates the exchange of data and signaling information between data terminal equipment (DTE) and data circuit-terminating equipment (DCE). 
+An interchange circuit can carry many types of signals and provide many types of service features, such as control signals, timing signals, and common return functions.

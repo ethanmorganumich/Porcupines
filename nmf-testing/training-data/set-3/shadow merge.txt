@@ -1,0 +1,5 @@
+Amortized data structures~Heaps (data structures)~
+||||||
+Shadow heap
+||||||
+In computer science, a shadow heap is a mergeable heap data structure which supports efficient heap merging in the amortized sense. More specifically, shadow heaps make use of the shadow merge algorithm to achieve insertion in O(f(n)) amortized time and deletion in O((log n log log n)/f(n)) amortized time, for any choice of 1 ≤ f(n) ≤ log log n.Throughout this article, it is assumed that A and B are binary heaps with |A| ≤ |B|.

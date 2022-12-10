@@ -1,0 +1,6 @@
+Comparative statics~
+||||||
+Comparative statics
+||||||
+In economics, comparative statics is the comparison of two different economic outcomes, before and after a change in some underlying exogenous parameter.As a type of static analysis it compares two different equilibrium states, after the process of adjustment (if any).  It does not study the motion towards equilibrium, nor the process of the change itself.
+Comparative statics is commonly used to study changes in supply and demand when analyzing a single market, and to study changes in monetary or fiscal policy when analyzing the whole economy.  Comparative statics is a tool of analysis in microeconomics (including general equilibrium analysis) and macroeconomics. Comparative statics was formalized by John R. Hicks (1939) and Paul A. Samuelson (1947) (Kehoe, 1987, p. 517) but was presented graphically from at least the 1870s.For models of stable equilibrium rates of change, such as the neoclassical growth model, comparative dynamics is the counterpart of comparative statics (Eatwell, 1987).

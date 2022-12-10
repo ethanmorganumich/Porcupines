@@ -1,0 +1,5 @@
+Radio frequency antenna types~
+||||||
+Biconical antenna
+||||||
+In radio systems, a biconical antenna is a broad-bandwidth antenna made of two roughly conical conductive objects, nearly touching at their points.Biconical antennas are broadband dipole antennas, typically exhibiting a bandwidth of three octaves or more. A common subtype is the bowtie antenna, essentially a two-dimensional version of the biconial design which is often used for short-range UHF television reception. These are also sometimes referred to as butterfly antennas.

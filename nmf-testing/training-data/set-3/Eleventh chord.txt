@@ -1,0 +1,10 @@
+Chord factors~Eleventh chords~
+||||||
+Eleventh chord
+||||||
+In music theory, an eleventh chord is a chord that contains the tertian extension of the eleventh. Typically found in jazz, an eleventh chord also usually includes the seventh and ninth, and elements of the basic triad structure. Variants include the dominant eleventh (C11, C–E–G–B♭–D–F), minor eleventh (Cm11, C–E♭–G–B♭–D–F), and major eleventh chord (Cmaj11, C–E–G–B–D–F). Using an augmented eleventh produces the dominant sharp eleventh (C9♯11, C–E–G–B♭–D–F♯) and major sharp eleventh (Cmaj9♯11, C–E–G–B–D–F♯) chords.
+
+A perfect eleventh creates a highly dissonant minor ninth interval with the major third of major and dominant chords. To reduce dissonance, the third is often omitted (for instance 52 seconds into "Sun King" on The Beatles' Abbey Road in a dominant eleventh chord), turning the chord into a suspended ninth chord (e.g. C9sus4, C–G–B♭–D–F), which can be also notated as Gm7/C.Another solution to this dissonance is altering the third or eleventh factor of the chord to turn the problematic minor ninth interval within the chord into a major ninth. A dominant eleventh chord can be altered by lowering the third by a semitone for a minor eleventh chord, or by raising the eleventh by a semitone for a dominant sharp eleventh chord, implying the lydian dominant mode.
+As its upper extensions (7th, 9th, 11th) constitute a triad, a dominant eleventh chord with the third and fifth omitted can be notated as a compound chord with a bass note. So C–B♭–D–F is written as B♭/C, emphasizing the ambiguous dominant/subdominant character of this voicing.
+
+In the common practice period, the root, 7th, 9th, and 11th are the most common factors present in the V11 chord, with the 3rd and 5th typically omitted. The eleventh is usually retained as a common tone when the chord resolves to I or i.

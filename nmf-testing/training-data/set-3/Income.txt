@@ -1,0 +1,7 @@
+Income~
+||||||
+Income
+||||||
+Income is the consumption and saving opportunity gained by an entity within a specified timeframe, which is generally expressed in monetary terms. Income is difficult to define conceptually and the definition may be different across fields. For example, a person's income in an economic sense may be different from their income as defined by law.An extremely important definition of income is Haig–Simons income, which defines income as Consumption + Change in net worth and is widely used in economics.For households and individuals in the United States, income is defined by tax law as a sum that includes any wage, salary, profit, interest payment, rent, or other form of earnings received in a calendar year. Discretionary income is often  defined as gross income minus taxes and other deductions (e.g., mandatory pension contributions), and is widely used as a basis to compare the welfare of taxpayers.
+In the field of public economics, the concept may comprise the accumulation of both monetary and non-monetary consumption ability, with the former (monetary) being used as a proxy for total income.
+For a firm, gross income can be defined as sum of all revenue minus the cost of goods sold. Net income nets out expenses: net income equals revenue minus cost of goods sold, expenses, depreciation, interest, and taxes.

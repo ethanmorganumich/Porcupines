@@ -1,0 +1,6 @@
+Frequency-domain analysis~Telecommunication theory~Telecommunications stubs~
+||||||
+Phase perturbation
+||||||
+Phase perturbation is the shifting, from whatever cause, in the phase of an electronic signal. The shifting is often quite rapid, and may appear to be random or cyclic. The phase departure in phase perturbation usually is larger, but less rapid, than in phase jitter.
+Phase perturbation may be expressed in degrees, with any cyclic component expressed in hertz.

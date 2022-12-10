@@ -1,0 +1,5 @@
+Formal languages~Operators (programming)~String (computer science)~
+||||||
+Concatenation
+||||||
+In formal language theory and computer programming, string concatenation  is the operation of joining character strings end-to-end.  For example, the concatenation of "snow" and "ball" is "snowball". In certain formalisations of concatenation theory, also called string theory, string concatenation is a primitive notion.

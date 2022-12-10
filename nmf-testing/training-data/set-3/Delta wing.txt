@@ -1,0 +1,6 @@
+Aircraft wing design~Delta-wing aircraft~Wing configurations~
+||||||
+Delta wing
+||||||
+A delta wing is a wing shaped in the form of a triangle. It is named for its similarity in shape to the Greek uppercase letter delta (Δ).
+Although long studied, it did not find significant applications until the Jet Age, when it proved suitable for high-speed subsonic and supersonic flight. At the other end of the speed scale, the Rogallo flexible wing proved a practical design for the hang glider and other ultralight aircraft. The delta wing form has unique aerodynamic characteristics and structural advantages. Many design variations have evolved over the years, with and without additional stabilising surfaces.

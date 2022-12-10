@@ -1,0 +1,14 @@
+Hedonism~Pleasure~Utilitarianism~
+||||||
+Felicific calculus
+||||||
+The felicific calculus is an algorithm formulated by utilitarian philosopher Jeremy Bentham (1747–1832) for calculating the degree or amount of pleasure that a specific action is likely to induce. Bentham, an ethical hedonist, believed the moral rightness or wrongness of an action to be a function of the amount of pleasure or pain that it produced.  The felicific calculus could, in principle at least, determine the moral status of any considered act.  The algorithm is also known as the utility calculus, the hedonistic calculus and the hedonic calculus.
+To be included in this calculation are several variables (or vectors), which Bentham called "circumstances". These are:
+
+Intensity: How strong is the pleasure?
+Duration: How long will the pleasure last?
+Certainty or uncertainty: How likely or unlikely is it that the pleasure will occur?
+Propinquity or remoteness: How soon will the pleasure occur?
+Fecundity: The probability that the action will be followed by sensations of the same kind.
+Purity: The probability that it will not be followed by sensations of the opposite kind.
+Extent: How many people will be affected?

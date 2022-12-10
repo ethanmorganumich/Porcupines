@@ -1,0 +1,8 @@
+Linked lists~Memory management~Operating system stubs~
+||||||
+Free list
+||||||
+A free list (or freelist) is a data structure used in a scheme for dynamic memory allocation. It operates by connecting unallocated regions of memory together in a linked list, using the first word of each unallocated region as a pointer to the next. It is most suitable for allocating from a memory pool, where all objects have the same size.
+Free lists make the allocation and deallocation operations very simple. To free a region, one would just link it to the free list. To allocate a region, one would simply remove a single region from the end of the free list and use it. If the regions are variable-sized, one may have to search for a region of large enough size, which can be expensive.
+Free lists have the disadvantage, inherited from linked lists, of poor locality of reference and so poor data cache utilization, and they do not automatically consolidate adjacent regions to fulfill allocation requests for large regions, unlike the buddy allocation system. Nevertheless, they are still useful in a variety of simple applications where a full-blown memory allocator is unnecessary or requires too much overhead.
+The OCaml runtime uses free lists to satisfy allocation requests.

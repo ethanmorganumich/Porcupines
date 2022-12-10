@@ -1,0 +1,6 @@
+Computer-related introductions in 1986~HP microprocessors~Instruction set architectures~
+||||||
+PA-RISC
+||||||
+PA-RISC is an instruction set architecture (ISA) developed by Hewlett-Packard. As the name implies, it is a reduced instruction set computer (RISC) architecture, where the PA stands for Precision Architecture. The design is also referred to as HP/PA for Hewlett Packard Precision Architecture.
+The architecture was introduced on 26 February 1986, when the HP 3000 Series 930 and HP 9000 Model 840 computers were launched featuring the first implementation, the TS1.PA-RISC has been succeeded by the Itanium (originally IA-64) ISA, jointly developed by HP and Intel. HP stopped selling PA-RISC-based HP 9000 systems at the end of 2008 but supported servers running PA-RISC chips until 2013.

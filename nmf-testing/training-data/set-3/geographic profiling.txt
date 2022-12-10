@@ -1,0 +1,6 @@
+Crime mapping~Criminology~Forensic software~Offender profiling~
+||||||
+Geographic profiling
+||||||
+Geographic profiling is a criminal investigative methodology that analyzes the locations of a connected series of crimes to determine the most probable area of offender residence. By incorporating both qualitative and quantitative methods, it assists in understanding spatial behaviour of an offender and focusing the investigation to a smaller area of the community. Typically used in cases of serial murder or rape (but also arson, bombing, robbery, terrorism and other crimes), the technique helps police detectives prioritize information in large-scale major crime investigations that often involve hundreds or thousands of suspects and tips.
+In addition to determining the offender's most likely area of residence, an understanding of the spatial pattern of a crime series and the characteristics of the crime sites can tell investigators other useful information, such as whether the crime was opportunistic and the degree of offender familiarity with the crime location.  This is based on the connection between an offender's behavior and his or her non-criminal life.Geographic profiling is growing in popularity and, combined with offender profiling, can be a helpful tool in the investigation of serial crime.

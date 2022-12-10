@@ -1,0 +1,5 @@
+Glossaries of mathematics~Graph theory~
+||||||
+Glossary of graph theory
+||||||
+This is a glossary of graph theory. Graph theory is the study of graphs, systems of nodes or vertices connected in pairs by lines or edges.

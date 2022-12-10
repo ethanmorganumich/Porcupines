@@ -1,0 +1,6 @@
+Film and video technology~France–Soviet Union relations~Standards of France~Standards of Russia~Television in the Soviet Union~Television technology~Television terminology~Television transmission standards~Video formats~Video signal~
+||||||
+SECAM
+||||||
+SECAM, also written SÉCAM (French pronunciation: ​[sekam], Séquentiel de couleur à mémoire, French for color sequential with memory), is an analog color television system that was used in France, some parts of Europe and Africa, and Russia. It was one of three major analog color television standards, the others being PAL and NTSC. This page primarily discusses the SECAM colour encoding system. The articles on broadcast television systems and analog television further describe frame rates, image resolution, and audio modulation. SECAM video is composite video because the luminance (luma, monochrome image) and chrominance (chroma, color applied to the monochrome image) are transmitted together as one signal.
+All the countries using SECAM are currently in the process of conversion, or have already converted to Digital Video Broadcasting (DVB), the new pan-European standard for digital television. SECAM remained a major standard into the 2000s.

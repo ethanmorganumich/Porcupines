@@ -1,0 +1,6 @@
+Aircraft components~
+||||||
+Empennage
+||||||
+The empennage ( or ), also known as the tail or tail assembly, is a structure at the rear of an aircraft that provides stability during flight, in a way similar to the feathers on an arrow. The term derives from the French language verb empenner which means "to feather an arrow". Most aircraft feature an empennage incorporating vertical and horizontal stabilising surfaces which stabilise the flight dynamics of yaw and pitch, as well as housing control surfaces.
+In spite of effective control surfaces, many early aircraft that lacked a stabilising empennage were virtually unflyable. Even so-called "tailless aircraft" usually have a tail fin (usually a vertical stabiliser). Heavier-than-air aircraft without any kind of empennage (such as the Northrop B-2) are rare, and generally use specially shaped airfoils whose trailing edge provide pitch stability, and rearwards swept wings, often with dihedral to provide the necessary yaw stability. In some aircraft with swept wings, the airfoil section or angle of incidence may change radically towards the tip.

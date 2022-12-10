@@ -1,0 +1,6 @@
+Architectural elements~Building engineering~Solar architecture~Solar design~Sustainable building~Types of wall~
+||||||
+Trombe wall
+||||||
+A Trombe wall is a massive equator-facing wall that is painted a dark color in order to absorb thermal energy from incident sunlight and covered with a glass on the outside with an insulating air-gap between the wall and the glaze. A Trombe wall is a passive solar building design strategy that adopts the concept of indirect-gain, where sunlight first strikes a solar energy collection surface which covers thermal mass located between the Sun and the space. The sunlight absorbed by the mass is converted to thermal energy (heat) and then transferred into the living space.
+Trombe walls are also named mass walls, solar wall, or thermal storage wall. However, due to the extensive work of professor Félix Trombe and architect Jacques Michel in the design of passively heated and cooled solar structure, they are often called Trombe Walls.This system is similar to the air heater (as a simple glazed box on the south wall with a dark absorber, air space, and two sets of vents at top and bottom) created by professor Edward S. Morse a hundred years ago.

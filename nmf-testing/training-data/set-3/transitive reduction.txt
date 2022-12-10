@@ -1,0 +1,9 @@
+Graph algorithms~Graph theory~Set theory~
+||||||
+Transitive reduction
+||||||
+In the mathematical field of graph theory, a transitive reduction of a directed graph D is another directed graph with the same vertices and as few edges as possible, such that for all pairs of vertices v, w a (directed) path from v to w in D exists if and only if such a path exists in the reduction. Transitive reductions were introduced by Aho, Garey & Ullman (1972), who provided tight bounds on the computational complexity of constructing them.
+More technically, the reduction is a directed graph that has the same reachability relation as D. Equivalently, D and its transitive reduction should have the same transitive closure as each other, and the transitive reduction of D should have as few edges as possible among all graphs with that property. 
+The transitive reduction of a finite directed acyclic graph (a directed graph without directed cycles) is unique and is a subgraph of the given graph. However, uniqueness fails for graphs with (directed) cycles, and for infinite graphs not even existence is guaranteed. 
+The closely related concept of a minimum equivalent graph is a subgraph of D that has the same reachability relation and as few edges as possible.  The difference is that a transitive reduction does not have to be a subgraph of D.  For finite directed acyclic graphs, the minimum equivalent graph is the same as the transitive reduction.  However, for graphs that may contain cycles, minimum equivalent graphs are NP-hard to construct, while transitive reductions can be constructed in polynomial time. 
+Transitive reduction can be defined for an abstract binary relation on a set, by interpreting the pairs of the relation as arcs in a directed graph.

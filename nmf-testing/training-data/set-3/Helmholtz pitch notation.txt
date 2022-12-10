@@ -1,0 +1,5 @@
+Hermann von Helmholtz~Musical notation~Pitch (music)~
+||||||
+Helmholtz pitch notation
+||||||
+Helmholtz pitch notation is a system for naming musical notes of the Western chromatic scale. Fully described and normalized by the German scientist Hermann von Helmholtz, it uses a combination of upper and lower case letters (A to G), and the sub- and super-prime symbols ( ͵  ′   or  ⸜ ⸝) to denote each individual note of the scale. It is one of two formal systems for naming notes in a particular octave, the other being scientific pitch notation.

@@ -1,0 +1,5 @@
+Architecture stubs~Calendars~Houses~
+||||||
+Calendar house
+||||||
+A calendar house is a house that symbolically contains architectural elements in quantities that represent the respective numbers of days in a year, weeks in a year, months in a year and days in a week. For example, Avon Tyrrell House in Hampshire  was built with 365 windows, 52 rooms, 12 chimneys, 7 external doors, and 4 wings (representing the seasons). This style was developed during the Elizabethan era and was also prevalent during the Victorian period.

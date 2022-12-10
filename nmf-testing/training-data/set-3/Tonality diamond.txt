@@ -1,0 +1,17 @@
+Harry Partch~Pitch space~
+||||||
+Tonality diamond
+||||||
+In music theory and tuning, a tonality diamond is a two-dimensional diagram of ratios in which one dimension is the Otonality and one the Utonality. Thus the n-limit tonality diamond ("limit" here is in the sense of odd limit, not prime limit) is an arrangement in diamond-shape of the set of rational numbers r, 
+  
+    
+      
+        1
+        ≤
+        r
+        <
+        2
+      
+    
+    {\displaystyle 1\leq r<2}
+  , such that the odd part of both the numerator and the denominator of r, when reduced to lowest terms, is less than or equal to the fixed odd number n. Equivalently, the diamond may be considered as a set of pitch classes, where a pitch class is an equivalence class of pitches under octave equivalence. The tonality diamond is often regarded as comprising the set of consonances of the n-limit. Although originally invented by Max Friedrich Meyer, the tonality diamond is now most associated with Harry Partch ("Many theorists of just intonation consider the tonality diamond Partch's greatest contribution to microtonal theory.").

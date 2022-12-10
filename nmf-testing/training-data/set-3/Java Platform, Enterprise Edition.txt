@@ -1,0 +1,7 @@
+Computing platforms~Java enterprise platform~Java platform~Java specification requests~Web frameworks~
+||||||
+Jakarta EE
+||||||
+Jakarta EE, formerly Java Platform, Enterprise Edition (Java EE) and Java 2 Platform, Enterprise Edition (J2EE), is a set of specifications, extending Java SE with specifications for enterprise features such as distributed computing and web services. Jakarta EE applications are run on reference runtimes, that can be microservices or application servers, which handle transactions, security, scalability, concurrency and management of the components it is deploying.
+Jakarta EE is defined by its specification. The specification defines APIs (application programming interface) and their interactions. As with other Java Community Process specifications, providers must meet certain conformance requirements in order to declare their products as Jakarta EE compliant.
+Examples of contexts in which Jakarta EE referencing runtimes are used are: e-commerce, accounting, banking information systems.

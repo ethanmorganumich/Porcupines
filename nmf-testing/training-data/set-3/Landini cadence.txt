@@ -1,0 +1,7 @@
+Cadences~Medieval music theory~
+||||||
+Landini cadence
+||||||
+A Landini cadence (Landini sixth or Landini sixth cadence), or under-third cadence, is a type of cadence, a technique in music composition, named after Francesco Landini (1325–1397), a blind Florentine organist, in honor of his extensive use of the technique. The technique was used extensively in the 14th and early 15th century.
+In a typical Medieval cadence, a major sixth musical interval is expanded to an octave by having each note move outwards one step.  In Landini's version, an escape tone in the upper voice narrows the interval briefly to a perfect fifth before the octave. There could also be an inner voice; in the example the inner voice would move from F♯ to G, in the same rhythm as the lower voice.
+Landini was not the first to use the cadence (Gherardello da Firenze appears to be the first whose works have survived), and was not the last:  the cadence was still in use well into the 15th century, appearing particularly frequently in the songs of Gilles Binchois and in the music of Johannes Wreede.  However, Landini seems to have been the first to use it consistently.  The term was coined in the late 19th century by German writer A.G. Ritter (1884), in his Zur Geschichte des Orgelspiels, Leipzig.

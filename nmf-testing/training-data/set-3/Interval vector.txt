@@ -1,0 +1,5 @@
+Musical set theory~
+||||||
+Interval vector
+||||||
+In musical set theory, an interval vector is an array of natural numbers which summarize the intervals present in a set of pitch classes.  (That is, a set of pitches where octaves are disregarded.)  Other names include: ic vector (or interval-class vector), PIC vector (or pitch-class interval vector) and APIC vector (or absolute pitch-class interval vector, which Michiel Schuijer states is more proper.): 48 While primarily an analytic tool, interval vectors can also be useful for composers, as they quickly show the sound qualities that are created by different collections of pitch class. That is, sets with high concentrations of conventionally dissonant intervals (i.e., seconds and sevenths) sound more dissonant, while sets with higher numbers of conventionally consonant intervals (i.e., thirds and sixths) sound more consonant. While the actual perception of consonance and dissonance involves many contextual factors, such as register, an interval vector can nevertheless be a helpful tool.

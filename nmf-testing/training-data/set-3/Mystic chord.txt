@@ -1,0 +1,9 @@
+Chords~Hemitonic scales~Hexachords~Post-tonal music theory~
+||||||
+Mystic chord
+||||||
+In music, the mystic chord or Prometheus chord is a six-note synthetic chord and its associated scale, or pitch collection; which loosely serves as the harmonic and melodic basis for some of the later pieces by Russian composer Alexander Scriabin. Scriabin, however, did not use the chord directly but rather derived material from its transpositions.
+When rooted in C, the mystic chord consists of the pitch classes: C, F♯, B♭, E, A, D.
+
+This is often interpreted as a quartal hexachord consisting of an augmented fourth, diminished fourth, augmented fourth, and two perfect fourths. However, the chord may be spelled in a variety of ways, and it is related to other pitch collections, such as being a hexatonic subset of the overtone scale, lacking the perfect fifth.
+

@@ -1,0 +1,5 @@
+Auditory illusions~
+||||||
+Octave illusion
+||||||
+The octave illusion is an auditory illusion discovered by Diana Deutsch in 1973. It is produced when two tones that are an octave apart are repeatedly played in alternation ("high-low-high-low") through stereo headphones. The same sequence is played to both ears simultaneously; however when the right ear receives the high tone, the left ear receives the low tone, and conversely.  Instead of hearing two alternating pitches, most subjects instead hear a single tone that alternates between ears while at the same time its pitch alternates between high and low.

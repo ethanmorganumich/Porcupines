@@ -1,0 +1,7 @@
+Contract law~United States contract case law~
+||||||
+Third-party beneficiary
+||||||
+A third-party beneficiary, in the law of contracts, is a person who may have the right to sue on a contract, despite not having originally been an active party to the contract. This right, known as a ius quaesitum tertio, arises when the third party (tertius or alteri) is the intended beneficiary of the contract, as opposed to a mere incidental beneficiary (penitus extraneus). It vests when the third party relies on or assents to the relationship, and gives the third party the right to sue either the promisor (promittens, or performing party) or the promisee (stipulans, or anchor party) of the contract, depending on the circumstances under which the relationship was created.
+A contract made in favor of a third party is known as a "third-party beneficiary contract."
+Under traditional common law, the ius quaesitum tertio principle was not recognized, instead relying on the doctrine of privity of contract, which restricts rights, obligations, and liabilities arising from a contract to the contracting parties (said to be privy to the contract). However, the Contracts (Rights of Third Parties) Act 1999 introduced a number of allowances and exceptions for ius quaesitum tertio in English law. Other common-law countries are also making reforms in this area, though the United States is unique in abandoning privity early in the mid-19th century.

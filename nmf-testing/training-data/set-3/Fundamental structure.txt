@@ -1,0 +1,8 @@
+Post-tonal music theory~Schenkerian analysis~
+||||||
+Fundamental structure
+||||||
+In Schenkerian analysis, the fundamental structure (German: Ursatz) describes the structure of a tonal work as it occurs at the most remote (or "background") level and in the most abstract form. A basic elaboration of the tonic triad, it consists of the fundamental line accompanied by the bass arpeggiation. Hence the fundamental structure, like the fundamental line itself, takes one of three forms, according to which tonic triad pitch is the primary tone. The example hereby shows a fundamental structure in C major, with the fundamental line descending from scale degree :
+
+The Urlinie offers the unfurling (Auswicklung) of a basic triad, it presents tonality on horizontal paths. The tonal system, too, flows into these as well, a system intended to bring purposeful order into the world of chords through its selection of the harmonic degrees. The mediator between the horizontal formulation of tonality presented by the Urlinie and the vertical formulation presented by the harmonic degrees is voice leading.
+The upper voice of a fundamental structure, which is the fundamental line, utilizes the descending direction; the lower voice, which is the bass arpeggiation through the fifth, takes the ascending direction (fig. 1). [...] The combination of fundamental line and bass arpeggiation constitutes a unity. [...] Neither the fundamental line nor the bass arpeggiation can stand alone. Only when acting together, when unified in a contrapuntal structure, do they produce art.

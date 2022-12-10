@@ -1,0 +1,6 @@
+Electric current~SI base quantities~
+||||||
+Electric current
+||||||
+An electric current is a stream of charged particles, such as electrons or ions, moving through an electrical conductor or space. It is measured as the net rate of flow of electric charge through a surface or into a control volume.: 2 : 622  The moving particles are called charge carriers, which may be one of several types of particles, depending on the conductor.  In electric circuits the charge carriers are often electrons moving through a wire. In semiconductors they can be electrons or holes. In an electrolyte the charge carriers are ions, while in plasma, an ionized gas, they are ions and electrons.The SI unit of electric current is the ampere, or amp, which is the flow of electric charge across a surface at the rate of one coulomb per second. The ampere (symbol: A) is an SI base unit.: 15  Electric current is measured using a device called an ammeter.: 788 Electric currents create magnetic fields, which are used in motors, generators, inductors, and transformers. In ordinary conductors, they cause Joule heating, which creates light in incandescent light bulbs. Time-varying currents emit electromagnetic waves, which are used in telecommunications to broadcast information.
+

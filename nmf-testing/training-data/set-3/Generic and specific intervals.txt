@@ -1,0 +1,14 @@
+Diatonic set theory~Intervals (music)~
+||||||
+Generic and specific intervals
+||||||
+In diatonic set theory a generic interval is the number of scale steps between notes of a collection or scale. The largest generic interval is one less than the number of scale members. (Johnson 2003, p. 26)
+A specific interval is the clockwise distance between pitch classes on the chromatic circle (interval class), in other words the number of half steps between notes. The largest specific interval is one less than the number of "chromatic" pitches. In twelve tone equal temperament the largest specific interval is 11. (Johnson 2003, p. 26)
+In the diatonic collection the generic interval is one less than the corresponding diatonic interval:
+
+Adjacent intervals, seconds, are 1
+Thirds = 2
+Fourths = 3
+Fifths = 4
+Sixths = 5
+Sevenths = 6The largest generic interval in the diatonic scale being 7 − 1 = 6.

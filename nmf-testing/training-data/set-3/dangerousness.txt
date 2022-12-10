@@ -1,0 +1,5 @@
+Actuarial science~Environmental social science concepts~Risk~
+||||||
+Risk
+||||||
+In simple terms, risk is the possibility of something bad happening. Risk involves uncertainty About The effects/implications of a activity with respect to something that humans value (such as health, well-being, wealth, property or the environment), often focus on negative, undesirable consequences. Many different definitions have been proposed. The international standard definition of risk for common understanding in different applications is “effect of uncertainty on objectives”.The understanding of risk, the methods of assessment and management, the descriptions of risk and even the definitions of risk differ in different practices areas (business, economics, environment, finance, information technology, health, insurance, safety, security etc). This article provides links to more detailed articles on these areas. The international standard for risk management, ISO 31000, provides principles and generic guidelines on managing risks faced by organizations.

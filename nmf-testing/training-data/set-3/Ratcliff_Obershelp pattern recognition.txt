@@ -1,0 +1,5 @@
+Information theory~Quantitative linguistics~Recursion~Search algorithms~String metrics~
+||||||
+Gestalt pattern matching
+||||||
+Gestalt pattern matching, also Ratcliff/Obershelp pattern recognition, is a string-matching algorithm for determining the similarity of two strings. It was developed in 1983 by John W. Ratcliff and John A. Obershelp and published in the Dr. Dobb's Journal in July 1988.

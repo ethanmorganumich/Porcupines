@@ -1,0 +1,6 @@
+Combinatorial optimization~Computational problems in graph theory~Matching (graph theory)~Polynomial-time problems~
+||||||
+Matching (graph theory)
+||||||
+In the mathematical discipline of graph theory, a matching or independent edge set in an undirected graph is a set of edges without common vertices. Finding a matching in a bipartite graph can be treated as a network flow problem.
+

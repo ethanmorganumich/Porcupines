@@ -1,0 +1,6 @@
+Cryptography~Hexachords~Music theory stubs~Musical set theory~
+||||||
+Sacher hexachord
+||||||
+The Sacher hexachord (6-Z11, musical cryptogram on the name of Swiss conductor Paul Sacher) is a hexachord notable for its use in a set of twelve compositions (12 Hommages à Paul Sacher) created at the invitation of Mstislav Rostropovich for Sacher's seventieth birthday in 1976.
+The twelve compositions include Pierre Boulez's Messagesquisse, Hans Werner Henze's Capriccio, Witold Lutosławski's Sacher Variation, and Henri Dutilleux's Trois strophes sur le nom de Sacher. Messagesquisse is dedicated to Sacher, but Boulez's Répons, Dérive 1, Incises, and Sur Incises all use rows with the same pitches.The hexachord's complement is its Z-relation, 6-Z40.

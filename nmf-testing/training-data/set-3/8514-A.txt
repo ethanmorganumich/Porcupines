@@ -1,0 +1,7 @@
+Computer display standards~Graphics cards~IBM PS/2~IBM video hardware~Products introduced in 1987~
+||||||
+IBM 8514
+||||||
+IBM 8514 is a graphics card manufactured by IBM and introduced with the IBM PS/2 line of personal computers in 1987. It supports a display resolution of 1024 × 768 pixels with 256 colors at 43.5 Hz (interlaced), or 640 × 480 at 60 Hz (non-interlaced).  8514 usually refers to the display controller hardware (such as the 8514/A display adapter).  However, IBM sold the companion CRT monitor (for use with the 8514/A) which carries the same designation, 8514.
+The 8514 uses a standardised programming interface called the "Adapter Interface" or AI. This interface is also used by XGA, IBM Image Adapter/A, and clones of the 8514/A and XGA such as the ATI Technologies Mach 32 and IIT AGX. The interface allows computer software to offload common 2D-drawing operations (line-draw, color-fill, and block copies via a blitter) onto the 8514 hardware. This frees the host CPU for other tasks, and greatly improves the speed of redrawing a graphics visual (such as a pie-chart or CAD-illustration).
+The 8514 initially sold for US$1,290 for the adapter and US$270 for the 512KB memory expansion. The 8514/A required a Micro Channel architecture bus at a time when ISA systems were standard.

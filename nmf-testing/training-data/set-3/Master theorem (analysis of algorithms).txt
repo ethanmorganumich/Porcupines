@@ -1,0 +1,6 @@
+Analysis of algorithms~Asymptotic analysis~Recurrence relations~Theorems in computational complexity theory~
+||||||
+Master theorem (analysis of algorithms)
+||||||
+In the analysis of algorithms, the master theorem for divide-and-conquer recurrences provides an asymptotic analysis (using Big O notation) for recurrence relations of types that occur in the analysis of many divide and conquer algorithms. The approach was first presented by Jon Bentley, Dorothea Blostein (née Haken), and James B. Saxe in 1980, where it was described as a "unifying method" for solving such recurrences. The name "master theorem" was popularized by the widely used algorithms textbook Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein. 
+Not all recurrence relations can be solved with the use of this theorem; its generalizations include the Akra–Bazzi method.

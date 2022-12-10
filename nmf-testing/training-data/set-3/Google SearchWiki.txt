@@ -1,0 +1,5 @@
+Discontinued Google services~Internet search engines~Search engine website stubs~
+||||||
+Google SearchWiki
+||||||
+SearchWiki was a Google Search feature which allowed logged-in users to annotate and re-order search results. The annotations and modified order only applied to the user's searches, but it was possible to view other users' annotations for a given search query. SearchWiki was released on November 20, 2008 and discontinued on March 3, 2010. All previously created SearchWiki edits are preserved on the logged in user's SearchWiki notes page.Google Stars replaced SearchWiki. Users no longer have the option to annotate or re-order search results. Instead, a user clicks on a "star marker" which makes the entry appear in a starred results list at the top of a new search.

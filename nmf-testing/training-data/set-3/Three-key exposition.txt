@@ -1,0 +1,6 @@
+Formal sections in music analysis~
+||||||
+Three-key exposition
+||||||
+In music, the three-key exposition is a particular kind of exposition used in sonata form.
+Normally, a sonata form exposition has two main key areas.  The first asserts the primary key of the piece, that is, the tonic.  The second section moves to a different key, establishes that key firmly, arriving ultimately at a cadence in that key.  For the second key, composers normally chose the dominant for major-key sonatas, and the relative major (or less commonly, the minor-mode dominant) for minor-key sonatas.  The three-key exposition moves not directly to the dominant or relative major, but indirectly via a third key; hence the name.

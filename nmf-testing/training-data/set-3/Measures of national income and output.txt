@@ -1,0 +1,5 @@
+Gross domestic product~National accounts~
+||||||
+Measures of national income and output
+||||||
+A variety of measures of national income and output are used in economics to estimate total economic activity in a country or region, including gross domestic product (GDP), gross national product (GNP), net national income (NNI), and adjusted national income (NNI adjusted for natural resource depletion – also called as NNI at factor cost). All are specially concerned with counting the total amount of goods and services produced within the economy and by various sectors. The boundary is usually defined by geography or citizenship, and it is also defined as the total income of the nation and also restrict the goods and services that are counted. For instance, some measures count only goods & services that are exchanged for money, excluding bartered goods, while other measures may attempt to include bartered goods by imputing monetary values to them.

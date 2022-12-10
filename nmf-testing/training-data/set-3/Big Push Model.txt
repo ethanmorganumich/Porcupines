@@ -1,0 +1,7 @@
+Economics models~
+||||||
+Big push model
+||||||
+The Big Push Model is a concept in development economics or welfare economics that emphasizes the fact that a firm's decision whether to industrialize or not depends on the expectation of what other firms will do. It assumes economies of scale and oligopolistic market structure. It also explain when the industrialization would happen.
+The major contribution the concept of the Big Push were made by Paul Rosenstein-Rodan in 1943 and later on by Murphy, Shleifer and Vishny in 1989. Also some contribution of Matsuyama (1992), Krugman (1991) and Romer (1986) proved to be seminal for later literature on the Big Push.
+Analysis of this economic model usually involves using game theory.

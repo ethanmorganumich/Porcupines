@@ -1,0 +1,68 @@
+2 (number)~Types of functions~
+||||||
+Binary function
+||||||
+In mathematics, a binary function (also called bivariate function, or function of two variables) is a function that takes two inputs.
+Precisely stated, a function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is binary if there exists sets 
+  
+    
+      
+        X
+        ,
+        Y
+        ,
+        Z
+      
+    
+    {\displaystyle X,Y,Z}
+   such that
+
+  
+    
+      
+        
+        f
+        :
+        X
+        ×
+        Y
+        →
+        Z
+      
+    
+    {\displaystyle \,f\colon X\times Y\rightarrow Z}
+  where 
+  
+    
+      
+        X
+        ×
+        Y
+      
+    
+    {\displaystyle X\times Y}
+   is the Cartesian product of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   and 
+  
+    
+      
+        Y
+        .
+      
+    
+    {\displaystyle Y.}

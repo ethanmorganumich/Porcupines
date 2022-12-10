@@ -1,0 +1,7 @@
+Computer storage tape media~History of computing~Telegraphy~
+||||||
+Punched tape
+||||||
+Punched tape or perforated paper tape is a form of data storage that consists of a long strip of paper in which holes are punched. It developed from and was subsequently used alongside punched cards, differing in that the tape is continuous.
+Punched cards, and chains of punched cards, were used for control of looms in the 18th century. Use for telegraphy systems started in 1842. Punched tape was used throughout the 19th and for much of the 20th centuries for programmable looms, teleprinter communication, for input to computers of the 1950s and 1960s, and later as a storage medium for minicomputers and CNC machine tools. During the Second World War, high-speed punched tape systems using optical readout methods were used in code breaking systems. Punched tape was used to transmit data for manufacture of read-only memory chips.
+

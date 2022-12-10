@@ -1,0 +1,35 @@
+Demand~Elasticity (economics)~
+||||||
+Cross elasticity of demand
+||||||
+In economics, the cross elasticity of demand or cross-price elasticity of demand measures the percentage change of the quantity demanded for a good to the percentage change in the price of another good, ceteris paribus. In real life, the quantity demanded of good  is dependent on not only its own price (Price elasticity of demand) but also the price of other "related" products. 
+The concept is used to identify the relationship between two goods, they can be:
+
+Complements
+Substitutes
+UnrelatedA negative cross elasticity denotes two products that are complements, while a positive cross elasticity denotes two products are substitutes.
+If products A and B are complements, an increase in the price of B leads to a decrease in the quantity demanded for A, as A is used in conjunction with B. Equivalently, if the price of product B decreases, the demand curve for product A shifts to the right reflecting an increase in A's demand, resulting in a negative value for the cross elasticity of demand. If A and B are substitutes, an inclination in the price of B will increase the market demand for A, as customers would easily replace B with A, like McDonald's and Domino's Pizza.
+For example, in response to a 10% increase in the price of printer's ink, the demand for printers would decrease by 20%, so the cross elasticity of demand would be: 
+  
+    
+      
+        
+          
+            
+              −
+              20
+              %
+            
+            
+              10
+              %
+            
+          
+        
+        =
+        −
+        2
+      
+    
+    {\displaystyle {\frac {-20\%}{10\%}}=-2}
+  , which means an increase in the price of ink will decrease the demand for printers, so printers and ink are complements.

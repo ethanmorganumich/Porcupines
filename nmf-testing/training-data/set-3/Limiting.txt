@@ -1,0 +1,7 @@
+Dynamics processing~Electronic circuits~
+||||||
+Limiter
+||||||
+In electronics, a limiter is a circuit that allows signals below a specified input power or level to pass unaffected while attenuating (lowering) the peaks of stronger signals that exceed this threshold. Limiting is a type of dynamic range compression. Clipping is an extreme version of limiting.
+Limiting is any process by which the amplitude of a signal is prevented from exceeding a predetermined value.
+Limiters are common as a safety device in live sound and broadcast applications to prevent sudden volume peaks from occurring. Limiters are also used as protective features in some components of sound reinforcement systems (e.g., powered mixing boards and power amplifiers) and in some bass amplifiers, to prevent unwanted distortion or loudspeaker damage.

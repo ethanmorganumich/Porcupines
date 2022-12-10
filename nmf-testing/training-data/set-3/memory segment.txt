@@ -1,0 +1,7 @@
+Memory management~
+||||||
+Memory segmentation
+||||||
+Memory segmentation is an operating system memory management technique of division of a computer's primary memory into segments or sections. In a computer system using segmentation, a reference to a memory location includes a value that identifies a segment and an offset (memory location) within that segment. Segments or sections are also used in object files of compiled programs when they are linked together into a program image and when the image is loaded into memory.
+Segments usually correspond to natural divisions of a program such as individual routines or data tables so segmentation is generally more visible to the programmer than paging alone.
+Segments may be created for program modules, or for classes of memory usage such as code and data segments. Certain segments may be shared between programs.Segmentation was originally invented as a method by which system software could isolate software processes (tasks) and data they are using. It was intended to increase reliability of the systems running multiple processes simultaneously. In a x86-64 architecture it is considered legacy and most x86-64-based modern system software don't use memory segmentation. Instead they handle programs and their data by utilizing memory-paging which also serves as a way of memory protection. However most x86-64 implementations still support it for backward compatibility reasons.

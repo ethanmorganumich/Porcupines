@@ -1,0 +1,6 @@
+Geophysics~Geophysics stubs~Space plasmas~Space science~
+||||||
+Ring current
+||||||
+A ring current is an electric current carried by charged particles trapped in a planet's magnetosphere. It is caused by the longitudinal drift of energetic (10–200 keV) particles.
+

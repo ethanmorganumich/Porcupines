@@ -1,0 +1,8 @@
+Optical communications~Optics~Telecommunication theory~Telecommunications stubs~
+||||||
+Spectral width
+||||||
+In telecommunications, spectral width is the wavelength interval over which the magnitude of all spectral components is equal to or greater than a specified fraction of the magnitude of the component having the maximum value.
+In optical communications applications, the usual method of specifying spectral width is the full width at half maximum. This is the same convention used in bandwidth, defined as the frequency range where power drops by less than half (at most −3 dB).
+The FWHM method may be difficult to apply when the spectrum has a complex shape. Another method of specifying spectral width is a special case of root-mean-square deviation where the independent variable is wavelength, λ, and f (λ) is a suitable radiometric quantity.
+The relative spectral width, Δλ/λ, is frequently used where Δλ is obtained according to note 1, and λ is the center wavelength.

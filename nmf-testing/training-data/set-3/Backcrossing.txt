@@ -1,0 +1,6 @@
+Breeding~Genetics~Horticulture~Plant reproduction~
+||||||
+Backcrossing
+||||||
+Backcrossing is a crossing of a hybrid with one of its parents or an individual genetically similar to its parent, to achieve offspring with a genetic identity closer to that of the parent. It is used in horticulture, animal breeding, and  production of gene knockout organisms.
+Backcrossed hybrids are sometimes described with acronym "BC"; for example, an F1 hybrid crossed with one of its parents (or a genetically similar individual) can be termed a BC1 hybrid, and a further cross of the BC1 hybrid to the same parent (or a genetically similar individual) produces a BC2 hybrid.

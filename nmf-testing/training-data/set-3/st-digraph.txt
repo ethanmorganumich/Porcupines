@@ -1,0 +1,7 @@
+Latin-script digraphs~
+||||||
+List of Latin-script digraphs
+||||||
+This is a list of digraphs used in various Latin alphabets. Capitalisation involves only the first letter (ch becomes Ch) unless otherwise stated (ij becomes IJ).
+
+Letters with diacritics are arranged in alphabetic order according to their base: ⟨å⟩ is alphabetised with ⟨a⟩, not at the end of the alphabet, as it would be in Danish, Norwegian and Swedish. Substantially-modified letters, such as ⟨ſ ⟩ (a variant of ⟨s⟩) and ⟨ɔ⟩ (based on ⟨o⟩), are placed at the end.

@@ -1,0 +1,9 @@
+Altered chords~Jazz terminology~Musical terminology~
+||||||
+Altered chord
+||||||
+An altered chord is a chord that replaces one or more notes from the diatonic scale with a neighboring pitch from the chromatic scale. By the broadest definition, any chord with a non-diatonic chord tone is an altered chord. The simplest example of altered chords is the use of borrowed chords, chords borrowed from the parallel key, and the most common is the use of secondary dominants. As Alfred Blatter explains, "An altered chord occurs when one of the standard, functional chords is given another quality by the modification of one or more components of the chord."For example, altered notes may be used as leading tones to emphasize their diatonic neighbors. Contrast this with chord extensions:
+
+Whereas chord extension generally involves adding notes that are logically implied, chord alteration involves changing some of the typical notes. This is usually done on dominant chords, and the four alterations that are commonly used are the ♭5, ♯5, ♭9 and ♯9. Using one (or more) of these notes in a resolving dominant chord greatly increases the bite in the chord and therefore the power of the resolution.
+In jazz harmony, chromatic alteration is either the addition of notes not in the scale or expansion of a [chord] progression by adding extra non-diatonic chords. For example, "A C major scale with an added D♯ note, for instance, is a chromatically altered scale" while, "one bar of Cmaj7 moving to Fmaj7 in the next bar can be chromatically altered by adding the ii and V of Fmaj7 on the second two beats of bar" one. Techniques include the ii–V–I turnaround, as well as movement by half-step or minor third.
+The five most common types of altered dominants are: V+, V7♯5 (both with raised fifths), V♭5, V7♭5 (both with lowered fifths), and Vø7 (with lowered fifth and third, the latter enharmonic to a raised ninth).

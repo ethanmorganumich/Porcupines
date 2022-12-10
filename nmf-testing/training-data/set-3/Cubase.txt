@@ -1,0 +1,6 @@
+Atari ST software~Digital audio workstation software~Electronic music software~MacOS audio editors~Music production software~Music software~
+||||||
+Steinberg Cubase
+||||||
+Cubase is a digital audio workstation (DAW) developed by Steinberg for music and MIDI recording, arranging and editing. The first version, which was originally only a MIDI sequencer and ran on the Atari ST computer, was released in 1989. Cut-down versions of Cubase are included with almost all Yamaha audio and MIDI hardware, as well as hardware from other manufacturers. These versions can be upgraded to a more advanced version at a discount.
+

@@ -1,0 +1,7 @@
+Crime statistics~Surveys (human research)~United States Census Bureau~United States Department of Justice~
+||||||
+National Crime Victimization Survey
+||||||
+The National Crime Victimization Survey (NCVS), administered by the US Census Bureau under the Department of Commerce, is a national survey of approximately 49,000 to 150,000 households - with approximately 240,000 persons aged 12 or older - twice a year in the United States, on the frequency of crime victimization, as well as characteristics and consequences of victimization.  The survey focuses on gathering information on the following crimes: assault, burglary, larceny, motor vehicle theft, rape, and robbery.  The survey results are used for the purposes of building a crime index. It has been used in comparison with the Uniform Crime Reports and the National Incident-Based Reporting System to assess the dark figure of crime. The NCVS survey is comparable to the British Crime Survey conducted in the United Kingdom.
+The NCVS began in 1972 and was developed from work done by the National Opinion Research Center and the 
+President's Commission on Law Enforcement and Administration of Justice.  A key finding of the survey was the realization that many crimes were not reported to the police.

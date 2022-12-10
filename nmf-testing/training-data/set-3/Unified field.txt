@@ -1,0 +1,7 @@
+Particle physics~Theories of gravity~Unsolved problems in physics~
+||||||
+Unified field theory
+||||||
+In physics, a unified field theory (UFT) is a type of field theory that allows all that is usually thought of as fundamental forces and elementary particles to be written in terms of a pair of physical and virtual fields. According to the modern discoveries in physics, forces are not transmitted directly between interacting objects but instead are described and interrupted by intermediary entities called fields.
+Classically, however, a duality of the fields is combined into a single physical field. For over a century, unified field theory has remained an open line of research and the term was coined by Albert Einstein, who attempted to unify his general theory of relativity with electromagnetism. The "Theory of Everything"  and Grand Unified Theory are closely related to unified field theory, but differ by not requiring the basis of nature to be fields, and often by attempting to explain physical constants of nature. Earlier attempts based on classical physics are described in the article on classical unified field theories.
+The goal of a unified field theory has led to a great deal of progress for future theoretical physics, and progress continues.

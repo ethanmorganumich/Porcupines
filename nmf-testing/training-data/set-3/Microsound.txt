@@ -1,0 +1,11 @@
+Sound synthesis types~
+||||||
+Granular synthesis
+||||||
+Granular synthesis is a sound synthesis method that operates on the microsound time scale.
+
+It is based on the same principle as sampling. However, the samples are split into small pieces of around 1 to 100 ms in duration. These small pieces are called grains. Multiple grains may be layered on top of each other, and may play at different speeds, phases, volume, and frequency, among other parameters.
+At low speeds of playback, the result is a kind of soundscape, often described as a cloud, that is manipulatable in a manner unlike that for natural sound sampling or other synthesis techniques. At high speeds, the result is heard as a note or notes of a novel timbre. By varying the waveform, envelope, duration, spatial position, and density of the grains, many different sounds can be produced.
+
+Both have been used for musical purposes: as sound effects, raw material for further processing by other synthesis or digital signal processing effects, or as complete musical works in their own right. Conventional effects that can be achieved include amplitude modulation and time stretching. More experimentally, stereo or multichannel scattering, random reordering, disintegration and morphing are possible.
+

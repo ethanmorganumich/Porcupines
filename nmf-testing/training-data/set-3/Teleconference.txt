@@ -1,0 +1,6 @@
+Telecommunications~Telecommunications stubs~Teleconferencing~
+||||||
+Teleconference
+||||||
+A teleconference is the live exchange of information among several people remote from one another but linked by a telecommunications system. Terms such as audio conferencing, telephone conferencing and phone conferencing are also sometimes used to refer to teleconferencing.
+The telecommunications system may support the teleconference by providing one or more of the following: audio, video, and/or data services by one or more means, such as telephone, computer, telegraph, teletypewriter, radio, and television.Telcon is used as an abbreviation for both "telephone conference" and "telephone conversation".

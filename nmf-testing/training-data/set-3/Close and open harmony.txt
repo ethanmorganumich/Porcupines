@@ -1,0 +1,7 @@
+Barbershop music~Harmony~Musical terminology~Voicing (music)~
+||||||
+Close and open harmony
+||||||
+A chord is in close harmony (also called close position or close structure) if its notes are arranged within a narrow range, usually with no more than an octave between the top and bottom notes. In contrast, a chord is in open harmony (also called open position or open structure) if there is more than an octave between the top and bottom notes. The more general term spacing describes how far apart the notes in a chord are voiced. A triad in close harmony has compact spacing, while one in open harmony has wider spacing.
+Close harmony or voicing can refer to both instrumental and vocal arrangements. It can follow the standard voice-leading rules of classical harmony, as in string quartets or Bach chorales, or proceed in parallel motion with the melody in thirds or sixths.
+

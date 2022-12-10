@@ -1,0 +1,5 @@
+French inventions~Lenses~Lighthouse fixtures~Solar thermal energy~
+||||||
+Fresnel lens
+||||||
+A Fresnel lens ( FRAY-nel, -⁠nəl;  FREN-el, -⁠əl; or  fray-NEL) is a type of composite compact lens developed by the French physicist Augustin-Jean Fresnel (1788–1827) for use in lighthouses. It has been called "the invention that saved a million ships."The design allows the construction of lenses of large aperture and short focal length without the mass and volume of material that would be required by a lens of conventional design. A Fresnel lens can be made much thinner than a comparable conventional lens, in some cases taking the form of a flat sheet. The simpler dioptric (purely refractive) form of the lens was first proposed by Count Buffon and independently reinvented by Fresnel. The catadioptric form of the lens, entirely invented by Fresnel, has outer elements that use total internal reflection as well as refraction; it can capture more oblique light from a light source and add it to the beam of a lighthouse, making the light visible from greater distances.

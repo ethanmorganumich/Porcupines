@@ -1,0 +1,104 @@
+Electric and magnetic fields in matter~Physical quantities~
+||||||
+Permittivity
+||||||
+In electromagnetism, the absolute permittivity, often simply called permittivity and denoted by the Greek letter ε (epsilon), is a measure of the electric polarizability of a dielectric. A material with high permittivity polarizes more in response to an applied electric field than a material with low permittivity, thereby storing more energy in the material. In electrostatics, the permittivity plays an important role in determining the capacitance of a capacitor.
+In the simplest case, the electric displacement field D resulting from an applied electric field E is
+
+  
+    
+      
+        
+          D
+        
+        =
+        ε
+        
+          E
+        
+        .
+      
+    
+    {\displaystyle \mathbf {D} =\varepsilon \mathbf {E} .}
+  More generally, the permittivity is a thermodynamic function of state. It can depend on the frequency, magnitude, and direction of the applied field.  The SI unit for permittivity is farad per meter (F/m).
+The permittivity is often represented by the relative permittivity εr which is the ratio of the absolute permittivity ε and the vacuum permittivity ε0
+
+  
+    
+      
+        κ
+        =
+        
+          ε
+          
+            
+              r
+            
+          
+        
+        =
+        
+          
+            ε
+            
+              ε
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle \kappa =\varepsilon _{\mathrm {r} }={\frac {\varepsilon }{\varepsilon _{0}}}}
+  .This dimensionless quantity is also often and ambiguously referred to as the permittivity. Another common term encountered for both absolute and relative permittivity is the dielectric constant which has been deprecated in physics and engineering as well as in chemistry.By definition, a perfect vacuum has a relative permittivity of exactly 1 whereas at standard temperature and pressure, air has a relative permittivity of κair ≈ 1.0006.
+Relative permittivity is directly related to electric susceptibility (χ) by
+
+  
+    
+      
+        χ
+        =
+        κ
+        −
+        1
+      
+    
+    {\displaystyle \chi =\kappa -1}
+  otherwise written as
+
+  
+    
+      
+        ε
+        =
+        
+          ε
+          
+            
+              r
+            
+          
+        
+        
+          ε
+          
+            0
+          
+        
+        =
+        (
+        1
+        +
+        χ
+        )
+        
+          ε
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \varepsilon =\varepsilon _{\mathrm {r} }\varepsilon _{0}=(1+\chi )\varepsilon _{0}}
+  The term "permittivity" was introduced in the 1880s by Oliver Heaviside to complement Thomson's (1872) "permeability". Formerly written as p, the designation with ε has been in common use since the 1950s.

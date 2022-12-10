@@ -1,0 +1,6 @@
+Biological classification~Biological nomenclature~Taxonomy (biology)~
+||||||
+Taxonomy (biology)
+||||||
+In biology, taxonomy (from Ancient Greek  τάξις (taxis) 'arrangement', and  -νομία (-nomia) 'method') is the scientific study of naming, defining (circumscribing) and classifying groups of biological organisms based on shared characteristics. Organisms are grouped into taxa (singular: taxon) and these groups are given a taxonomic rank; groups of a given rank can be aggregated to form a more inclusive group of higher rank, thus creating a taxonomic hierarchy. The principal ranks in modern use are domain, kingdom, phylum (division is sometimes used in botany in place of phylum), class, order, family, genus, and species. The Swedish botanist Carl Linnaeus is regarded as the founder of the current system of taxonomy, as he developed a ranked system known as Linnaean taxonomy for categorizing organisms and binomial nomenclature for naming organisms.
+With advances in the theory, data and analytical technology of biological systematics, the Linnaean system has transformed into a system of modern biological classification intended to reflect the evolutionary relationships among organisms, both living and extinct.

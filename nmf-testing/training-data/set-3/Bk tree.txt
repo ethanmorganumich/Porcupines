@@ -1,0 +1,34 @@
+Trees (data structures)~
+||||||
+BK-tree
+||||||
+A BK-tree is a metric tree suggested by Walter Austin Burkhard and Robert M. Keller[1] specifically adapted to discrete metric spaces.
+For simplicity, consider integer discrete metric 
+  
+    
+      
+        d
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle d(x,y)}
+  . Then, BK-tree is defined in the following way. An arbitrary element a is selected as root node.  The root node may have zero or more subtrees.  The k-th subtree is recursively built of all elements b such that 
+  
+    
+      
+        d
+        (
+        a
+        ,
+        b
+        )
+        =
+        k
+      
+    
+    {\displaystyle d(a,b)=k}
+  . BK-trees can be used for approximate string matching in a dictionary.[2]

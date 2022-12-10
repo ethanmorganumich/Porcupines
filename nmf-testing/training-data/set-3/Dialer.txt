@@ -1,0 +1,9 @@
+Telephony~Types of malware~
+||||||
+Dialer
+||||||
+A dialer (American English) or dialler (British English) is an electronic device that is connected to a telephone line to monitor the dialed numbers and alter them to seamlessly provide services that otherwise require lengthy National or International access codes to be dialed. A dialer automatically inserts and modifies the numbers depending on the time of day, country or area code dialed, allowing the user to subscribe to the service providers who offer the best rates.  For example, a dialer could be programmed to use one service provider for international calls and another for cellular calls.  This process is known as prefix insertion or least cost routing.  A line powered dialer does not need any external power but instead takes the power it needs from the telephone line.
+Another type of dialer is a computer program which creates a connection to the Internet or another computer network over the analog telephone or Integrated Services Digital Network (ISDN). Many operating systems already contain such a program for connections through the Point-to-Point Protocol (PPP), such as WvDial.
+Many internet service providers offer installation CDs to simplify the process of setting up a proper Internet connection. They either create an entry in the OS's dialer or install a separate dialer (as the AOL software does).
+In recent years, the term "dialer" often refers specifically to dialers that connect without the user's full knowledge as to cost, with the creator of the dialer intending to commit fraud.
+

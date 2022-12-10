@@ -1,0 +1,6 @@
+Mathematics and art~Mathematics and culture~Mathematics of music~
+||||||
+Music and mathematics
+||||||
+Music theory analyzes the pitch, timing, and structure of music. It uses mathematics to study elements of music such as tempo, chord progression, form, and meter. The attempt to structure and communicate new ways of composing and hearing music has led to musical applications of set theory, abstract algebra and number theory.
+While music theory has no axiomatic foundation in modern mathematics, the basis of musical sound can be described mathematically (using acoustics) and exhibits "a remarkable array of number properties".

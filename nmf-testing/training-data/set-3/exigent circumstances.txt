@@ -1,0 +1,6 @@
+Legal concepts~United States Fourth Amendment case law~
+||||||
+Exigent circumstance
+||||||
+In criminal procedure law of the United States, an exigent circumstance allows law enforcement (under certain circumstances) to enter a structure without a search warrant, or if they have a "knock and announce" warrant, allows them to enter without knocking and waiting for the owner's permission to enter. It must be a situation where people are in imminent danger, evidence faces imminent destruction, or a suspect's escape is imminent. Once entry is obtained, the plain view doctrine applies, allowing the seizure of any evidence or contraband discovered in the course of actions consequent upon the exigent circumstances.
+

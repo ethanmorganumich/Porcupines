@@ -1,0 +1,9 @@
+Cinematography~Photographic techniques~
+||||||
+Deep focus
+||||||
+Deep focus is a photographic and cinematographic technique using a large depth of field. Depth of field is the front-to-back range of focus in an image, or how much of it appears sharp and clear. In deep focus, the foreground, middle ground, and background are all in focus.
+Deep focus is normally achieved by choosing a small aperture. Since the aperture of a camera determines how much light enters through the lens, achieving deep focus requires a bright scene or long exposure. A wide-angle lens also makes a larger portion of the image appear sharp.
+It is also possible to achieve the illusion of deep focus with optical tricks (split-focus diopter) or by compositing two or more images together.
+The opposite of deep focus is shallow focus, in which the plane of the image that is in focus is very shallow. For example, the foreground might be in focus while the middle-ground and background are out-of-focus. When avoiding deep focus is used specifically for aesthetic effect—especially when the subject is in sharp focus while the background is noticeably out-of-focus—the technique is known as bokeh.
+

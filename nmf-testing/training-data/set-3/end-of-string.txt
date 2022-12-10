@@ -1,0 +1,6 @@
+String data structures~
+||||||
+Null-terminated string
+||||||
+In computer programming, a null-terminated string is a character string stored as an array containing the characters and terminated with a null character (a character with a value of zero, called NUL in this article). Alternative names are C string, which refers to the C programming language and ASCIIZ (although C can use encodings other than ASCII).
+The length of a string is found by searching for the (first) NUL. This can be slow as it takes O(n) (linear time) with respect to the string length. It also means that a string cannot contain a NUL (there is a NUL in memory, but it is after the last character, not "in" the string).

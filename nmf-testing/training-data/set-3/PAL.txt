@@ -1,0 +1,9 @@
+1963 introductions~German inventions~ITU-R recommendations~Television technology~Television terminology~Television transmission standards~Video formats~
+||||||
+PAL
+||||||
+Phase Alternating Line (PAL) is a colour encoding system for analogue television. It was one of three major analogue colour television standards, the others being NTSC and SECAM.  In most countries it was broadcast at 625 lines, 50 fields (25 frames) per second, and associated with CCIR analogue broadcast television systems B, D, G, H,  I or K. The articles on analog broadcast television systems further describe frame rates, image resolution, and audio modulation.
+PAL video is composite video because luminance (luma, monochrome image) and chrominance (chroma, colour applied to the monochrome image) are transmitted together as one signal.
+A latter evolution of the standard, PALplus, added support for widescreen broadcasts with no loss of vertical resolution, while retaining compatibility with existing sets. 
+Almost all of the countries using PAL are currently in the process of conversion, or have already converted transmission standards to DVB, ISDB or DTMB.
+Due to the introduction of digital sources (ex: DVD-Video) the name "PAL" might be used to refer to digital formats, even though they use completely different colour encoding systems. For example, 576i (576 interlaced lines) digital video with colour encoded as YCbCr, intended to be backward compatible and easily displayed on legacy PAL devices, is usually mentioned as "PAL" (ex: "PAL DVD"). Likewise, gaming consoles outputting a 50 Hz signal might be labeled as "PAL", as opposed to 60 Hz "NTSC" machines. These popular designations should not be confused with the analog colour system itself.

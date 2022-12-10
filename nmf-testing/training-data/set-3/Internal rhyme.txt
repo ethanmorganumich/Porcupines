@@ -1,0 +1,7 @@
+Poetry stubs~Rhyme~
+||||||
+Internal rhyme
+||||||
+In poetry, internal rhyme, or middle rhyme, is rhyme that occurs within a single line of verse, or between internal phrases across multiple lines. By contrast, rhyme between line endings is known as end rhyme.
+Internal rhyme schemes can be denoted with spaces or commas between lines. For example, "AB,AB,AB" denotes a three-line poem with the same internal rhyme on each line, and the same end rhyme on each line (which does not rhyme with the internal rhyme).
+

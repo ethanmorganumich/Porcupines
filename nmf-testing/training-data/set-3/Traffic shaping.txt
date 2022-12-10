@@ -1,0 +1,6 @@
+Network performance~Network scheduling algorithms~Teletraffic~
+||||||
+Traffic shaping
+||||||
+Traffic shaping is a bandwidth management technique used on computer networks which delays some or all datagrams to bring them into compliance with a desired traffic profile. Traffic shaping is used to optimize or guarantee performance, improve latency, or increase usable bandwidth for some kinds of packets by delaying other kinds. It is often confused with traffic policing, the distinct but related practice of packet dropping and packet marking.The most common type of traffic shaping is application-based traffic shaping. In application-based traffic shaping, fingerprinting tools are first used to identify applications of interest, which are then subject to shaping policies. Some controversial cases of application-based traffic shaping include bandwidth throttling of peer-to-peer file sharing traffic. Many application protocols use encryption to circumvent application-based traffic shaping.
+Another type of traffic shaping is route-based traffic shaping. Route-based traffic shaping is conducted based on previous-hop or next-hop information.

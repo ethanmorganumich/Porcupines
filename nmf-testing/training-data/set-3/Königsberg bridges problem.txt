@@ -1,0 +1,10 @@
+1735 in science~Bridges~Graph theory~Königsberg~Mathematical problems~Puzzles~Topology~Unsolvable puzzles~
+||||||
+Seven Bridges of Königsberg
+||||||
+The Seven Bridges of Königsberg is a historically notable problem in mathematics. Its negative resolution by Leonhard Euler in 1736 laid the foundations of graph theory and prefigured the idea of topology.The city of Königsberg in Prussia (now Kaliningrad, Russia) was set on both sides of the Pregel River, and included two large islands—Kneiphof and Lomse—which were connected to each other, and to the two mainland portions of the city, by seven bridges. The problem was to devise a walk through the city that would cross each of those bridges once and only once.
+By way of specifying the logical task unambiguously, solutions involving either
+
+reaching an island or mainland bank other than via one of the bridges, or
+accessing any bridge without crossing to its other endare explicitly unacceptable.
+Euler proved that the problem has no solution. The difficulty he faced was the development of a suitable technique of analysis, and of subsequent tests that established this assertion with mathematical rigor.

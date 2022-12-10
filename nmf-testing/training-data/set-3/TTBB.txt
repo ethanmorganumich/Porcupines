@@ -1,0 +1,14 @@
+Acronyms~Choral music~Classical music group stubs~Men's musical groups~Music theory stubs~Voicing (music)~
+||||||
+TTBB
+||||||
+In musical choral notation, TTBB denotes a four-part men's chorus. Its configuration is Tenor 1, Tenor 2, Bass 1 (Baritone), Bass 2.
+The Tanunda Liedertafel employs this method of notation in their music.
+Typically (but not always) the 1st Tenor part is the melody, with the other parts as harmony(s). In music for barbershop quartets, which use the TTBB arrangement almost exclusively, the 2nd Tenor is almost always the melody.
+The way traditional German music notation is expressed with two staves:
+T1 - treble clef 8va - up stem,
+T2 - treble clef 8va - down stem,
+B1 - bass clef - up stem,
+B2 - bass clef - down stem.
+This is usually classed as a 'closed score'.The above may not be true for some recently written (composed) music, however writers make it is easy to see which part sings their respective pitch. For example, T1 and B1 the highest pitch on each stave. Most of the time, this occurs where T1(B1) and T2(B3) are singing at the same time (in time and in unison).
+Sometimes (rarely) the melody part (or lead) is sung as a solo, with the choir singing the harmony parts (support or backing vocals).

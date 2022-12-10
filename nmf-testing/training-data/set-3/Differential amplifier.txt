@@ -1,0 +1,97 @@
+Electronic amplifiers~
+||||||
+Differential amplifier
+||||||
+A differential amplifier is a type of electronic amplifier that amplifies the difference between two input voltages but suppresses any voltage common to the two inputs. It is an analog circuit with two inputs 
+  
+    
+      
+        
+          V
+          
+            in
+          
+          
+            −
+          
+        
+      
+    
+    {\displaystyle V_{\text{in}}^{-}}
+   and 
+  
+    
+      
+        
+          V
+          
+            in
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle V_{\text{in}}^{+}}
+   and one output 
+  
+    
+      
+        
+          V
+          
+            out
+          
+        
+      
+    
+    {\displaystyle V_{\text{out}}}
+  , in which the output is ideally proportional to the difference between the two voltages:
+
+  
+    
+      
+        
+          V
+          
+            out
+          
+        
+        =
+        A
+        (
+        
+          V
+          
+            in
+          
+          
+            +
+          
+        
+        −
+        
+          V
+          
+            in
+          
+          
+            −
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle V_{\text{out}}=A(V_{\text{in}}^{+}-V_{\text{in}}^{-}),}
+  where 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is the gain of the amplifier.
+Single amplifiers are usually implemented by either adding the appropriate feedback resistors to a standard op-amp, or with a dedicated integrated circuit containing internal feedback resistors. It is also a common sub-component of larger integrated circuits handling analog signals.

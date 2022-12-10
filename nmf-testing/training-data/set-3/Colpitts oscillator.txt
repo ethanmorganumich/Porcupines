@@ -1,0 +1,5 @@
+Chaotic maps~Electronic design~Electronic oscillators~
+||||||
+Colpitts oscillator
+||||||
+A Colpitts oscillator, invented in 1918 by American engineer Edwin H. Colpitts, is one of a number of designs for LC oscillators, electronic oscillators that use a combination of inductors (L) and capacitors (C) to produce an oscillation at a certain frequency.  The distinguishing feature of the Colpitts oscillator is that the feedback for the active device is taken from a voltage divider made of two capacitors in series across the inductor.

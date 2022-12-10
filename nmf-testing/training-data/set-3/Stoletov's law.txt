@@ -1,0 +1,5 @@
+Electrical phenomena~Electricity stubs~
+||||||
+Stoletov's law
+||||||
+Stoletov's law (or the first law of photoeffect) for photoelectric effect establishes the direct proportionality between the intensity of electromagnetic radiation acting on a metallic surface and the photocurrent induced by this radiation. The law was discovered by Aleksandr Stoletov in 1888.

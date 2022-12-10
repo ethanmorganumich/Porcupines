@@ -1,0 +1,7 @@
+Economic data~Real estate valuation~Regression models~Single-equation methods (econometrics)~Urban economics~
+||||||
+Hedonic regression
+||||||
+In economics, hedonic regression, also sometimes called hedonic demand theory, is a revealed preference method for estimating demand or value. It decomposes the item being researched into its constituent characteristics, and obtains estimates of the contributory value for each. This requires that the composite good (the item being researched and valued) can be reduced to its constituent parts and that those resulting parts are in some way valued by the market. Hedonic models are most commonly estimated using regression analysis, although some more generalized models such as sales adjustment grids are special cases which do not. 
+An attribute vector, which may be a dummy or panel variable, is assigned to each characteristic or group of characteristics. Hedonic models can accommodate non-linearity, variable interaction, and other complex valuation situations.
+Hedonic models are commonly used in real estate appraisal, real estate economics and Consumer Price Index (CPI) calculations. In CPI calculations, hedonic regression is used to control the effect of changes in product quality. Price changes that are due to substitution effects are subject to hedonic quality adjustments.

@@ -1,0 +1,11 @@
+Engines~Gas turbines~Marine propulsion~
+||||||
+Gas turbine
+||||||
+A gas turbine, also called a combustion turbine, is a type of continuous flow internal combustion engine. The main parts common to all gas turbine engines form the power-producing part (known as the gas generator or core) and are, in the direction of flow:
+
+a rotating gas compressor
+a combustor
+a compressor-driving turbine.Additional components have to be added to the gas generator to suit its application. Common to all is an air inlet but with different configurations to suit the requirements of marine use, land use or flight at speeds varying from stationary to supersonic. A propelling nozzle is added to produce thrust for flight. An extra turbine is added to drive a propeller (turboprop) or ducted fan (turbofan) to reduce fuel consumption (by increasing propulsive efficiency) at subsonic flight speeds. An extra turbine is also required to drive a helicopter rotor or land-vehicle transmission (turboshaft), marine propeller or electrical generator (power turbine). Greater thrust-to-weight ratio for flight is achieved with the addition of an afterburner.
+The basic operation of the gas turbine is a Brayton cycle with air as the working fluid: atmospheric air flows through the compressor that brings it to higher pressure; energy is then added by spraying fuel into the air and igniting it so that the combustion generates a high-temperature flow; this high-temperature pressurized gas enters a turbine, producing a shaft work output in the process, used to drive the compressor; the unused energy comes out in the exhaust gases that can be repurposed for external work, such as directly producing thrust in a turbojet engine, or rotating a second, independent turbine (known as a power turbine) that can be connected to a fan, propeller, or electrical generator. The purpose of the gas turbine determines the design so that the most desirable split of energy between the thrust and the shaft work is achieved. The fourth step of the Brayton cycle (cooling of the working fluid) is omitted, as gas turbines are open systems that do not reuse the same air.
+Gas turbines are used to power aircraft, trains, ships, electrical generators, pumps, gas compressors, and tanks.

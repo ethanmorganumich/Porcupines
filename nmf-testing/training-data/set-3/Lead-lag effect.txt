@@ -1,0 +1,5 @@
+Classical control theory~Economic theories stubs~
+||||||
+Lead–lag effect
+||||||
+A lead–lag effect, especially in economics, describes the situation where one (leading) variable is cross-correlated with the values of another (lagging) variable at later times.In nature and climate, bigger systems often display more pronounced lag effects. The Arctic Sea Ice minimum is on September 17, three months after the peak in daylight (sunshine) hours in the northern hemisphere, according to NASA.For example, economists have found that in some circumstances there is a lead-lag effect between large-capitalization and small-capitalization stock-portfolio prices.(A loosely related concept is that of lead-lag compensators in control theory, but this is not generally referred to specifically as a "lead-lag effect.")

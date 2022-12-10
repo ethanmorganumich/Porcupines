@@ -1,0 +1,10 @@
+Abstract data types~Associative arrays~Composite data types~Data types~
+||||||
+Associative array
+||||||
+In computer science, an associative array, map, symbol table, or dictionary is an abstract data type that stores a collection of (key, value) pairs, such that each possible key appears at most once in the collection. In mathematical terms an associative array is a function with finite domain. It supports 'lookup', 'remove', and 'insert' operations. 
+The dictionary problem is the classic problem of designing efficient data structures that implement associative arrays.
+The two major solutions to the dictionary problem are hash tables and search trees.
+In some cases it is also possible to solve the problem using directly addressed arrays, binary search trees, or other more specialized structures.
+Many programming languages include associative arrays as primitive data types, and they are available in software libraries for many others. Content-addressable memory is a form of direct hardware-level support for associative arrays.
+Associative arrays have many applications including such fundamental programming patterns as memoization and the decorator pattern.The name does not come from the associative property known in mathematics. Rather, it arises from the fact that values are associated with keys. It is not to be confused with associative processors.

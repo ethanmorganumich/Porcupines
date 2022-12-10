@@ -1,0 +1,7 @@
+SI base units~Units of electric current~
+||||||
+Ampere
+||||||
+The ampere (, US: ; symbol: A), often shortened to amp, is the unit of electric current in the International System of Units (SI).  One ampere is equal to 6.241509074×1018 electrons worth of charge moving past a point in a second. It is named after French mathematician and physicist André-Marie Ampère (1775–1836), considered the father of electromagnetism along with Danish physicist Hans Christian Ørsted.
+As of the 2019 redefinition of the SI base units, the ampere is defined by fixing the elementary charge e to be exactly 1.602176634×10−19 C (coulomb), which means an ampere is an electrical current equivalent to 1019 elementary charges moving every 1.602176634 seconds or 6.241509074×1018 elementary charges moving in a second. Prior to the redefinition the ampere was defined as the current that would need to be passed through 2 parallel wires 1 metre apart  to produce a magnetic force of 2×10−7 newtons per metre.
+The earlier CGS system had two definitions of current, one essentially the same as the SI's and the other using electric charge as the base unit, with the unit of charge defined by measuring the force between two charged metal plates. The ampere was then defined as one coulomb of charge per second. In SI, the unit of charge, the coulomb, is defined as the charge carried by one ampere during one second.

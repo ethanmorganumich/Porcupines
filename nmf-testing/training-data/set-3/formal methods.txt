@@ -1,0 +1,5 @@
+Formal methods~Software development philosophies~Specification languages~Theoretical computer science~
+||||||
+Formal methods
+||||||
+In computer science, formal methods are mathematically rigorous techniques for the specification, development, and verification of software and hardware systems. The use of formal methods for software and hardware design is motivated by the expectation that, as in other engineering disciplines, performing appropriate mathematical analysis can contribute to the reliability and robustness of a design.Formal methods employ a variety of theoretical computer science fundamentals, including logic calculi, formal languages, automata theory, control theory, program semantics, type systems, and type theory.

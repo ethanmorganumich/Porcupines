@@ -1,0 +1,5 @@
+Contract law~Legal terminology stubs~
+||||||
+Executory contract
+||||||
+An executory contract is a contract that has not yet been fully performed or fully executed. It is a contract in which both sides still have important performance remaining. However, an obligation to pay money, even if such obligation is material, does not usually make a contract executory. An obligation is material if a breach of contract would result from the failure to satisfy the obligation. A contract that has been fully performed by one party but not by the other party is not an executory contract.  See, generally, Countryman, Vern, "Executory Contracts in Bankruptcy: Part I" (1973). Minnesota Law Review. 2459. https://scholarship.law.umn.edu/mlr/2459 and "Executory Contracts in Bankruptcy: Part II" (1974). Minnesota Law Review. 2460.https://scholarship.law.umn.edu/mlr/2460.

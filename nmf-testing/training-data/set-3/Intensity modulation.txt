@@ -1,0 +1,7 @@
+Optical communications~Optics stubs~
+||||||
+Intensity modulation
+||||||
+In optical communications, intensity modulation (IM) is a form of modulation in which the optical power output of a source is varied in accordance with some characteristic of the modulating signal.  The envelope of the modulated optical signal is an analog of the modulating signal in the sense that the instantaneous power of the envelope is an analog of the characteristic of interest in the modulating signal. 
+Recovery of the modulating signal is usually by direct detection, not heterodyning.  However, optical heterodyne detection is possible and has been actively studied since 1979. Bell Laboratories had a working, but impractical, system in 1969. Heterodyne and homodyne systems are of interest because they are expected to produce an increase in sensitivity of up to 20 dB allowing longer hops between islands for instance.  Such systems also have the important advantage of very narrow channel spacing in optical frequency-division multiplexing (OFDM) systems.  OFDM is a step beyond wavelength-division multiplexing (WDM).  Normal WDM using direct detection does not achieve anything like the close channel spacing of radio frequency FDM.
+

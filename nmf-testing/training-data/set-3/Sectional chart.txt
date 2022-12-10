@@ -1,0 +1,11 @@
+Aeronautical charts~Air navigation~Air traffic control in the United States~Aviation in the United States~Map types~
+||||||
+Sectional chart
+||||||
+In United States aviation, a sectional chart, often called a sectional for short, is a type of aeronautical chart designed for air navigation under visual flight rules (VFR).
+In Australia, Canada and some other countries, the equivalent charts used for visual flight are called VFR Navigation Charts (VNCs).
+A sectional chart shows topographical features that are important to aviators, such as terrain elevations, ground features identifiable from altitude (rivers, dams, bridges, buildings, etc.), and ground features useful to pilots (airports, beacons, landmarks, etc.).  The chart also shows information on airspace classes, ground-based navigation aids, radio frequencies, longitude and latitude, navigation waypoints, navigation routes.
+Sectional charts are in 1:500,000 scale and are named for a city on the map.  The Federal Aviation Administration (FAA) in the United States publishes over 50 charts covering the continental United States, Alaska, and Hawaii.  Sectional charts are published by the National Aeronautical Navigation Services Group of the FAA.  A number of commercial enterprises, notably Jeppesen, produce compatible, certified sectionals.
+The sectionals are complemented by terminal area charts (TACs) at 1:250,000 scale for the areas around major U.S. airports, and World Aeronautical Charts (WACs) at a scale of 1:1,000,000 for pilots of slower aircraft and aircraft at high altitude.
+Beginning February 2021, the charts are updated on a 56-day publication cycle.
+The first sectional chart was published in 1930; in 1937 the full series of the lower 48 states was completed.  These early sectional charts were smaller (most covered two degrees of latitude and six of longitude) with the map on one side; after 1950 the legend and index to adjoining charts was on the reverse. The first of the present two-sided charts appeared in the late 1960s.

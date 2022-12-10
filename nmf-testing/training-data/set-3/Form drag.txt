@@ -1,0 +1,6 @@
+Drag (physics)~
+||||||
+Parasitic drag
+||||||
+Parasitic drag, also known as profile drag,: 254 : 256  is a type of aerodynamic drag that acts on any object when the object is moving through a fluid. Parasitic drag is a combination of form drag and skin friction drag.: 641–642 : 19  It affects all objects regardless of whether they are capable of generating lift.
+Total drag on an aircraft is made up of parasitic drag and lift-induced drag. Parasitic drag comprises all types of drag except lift-induced drag.

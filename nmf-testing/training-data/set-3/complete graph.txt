@@ -1,0 +1,5 @@
+Parametric families of graphs~Regular graphs~
+||||||
+Complete graph
+||||||
+In the mathematical field of graph theory, a complete graph is a simple undirected graph in which every pair of distinct vertices is connected by a unique edge.  A complete digraph is a directed graph in which every pair of distinct vertices is connected by a pair of unique edges (one in each direction).Graph theory itself is typically dated as beginning with Leonhard Euler's 1736 work on the Seven Bridges of Königsberg. However, drawings of complete graphs, with their vertices placed on the points of a regular polygon, appeared already in the 13th century, in the work of Ramon Llull. Such a drawing is sometimes referred to as a mystic rose.

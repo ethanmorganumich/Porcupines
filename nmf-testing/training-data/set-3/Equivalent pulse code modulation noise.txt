@@ -1,0 +1,7 @@
+Multiplexing~Noise (electronics)~Telecommunications stubs~
+||||||
+Equivalent pulse code modulation noise
+||||||
+In telecommunication, equivalent pulse code modulation (PCM) noise is the amount of noise power on a frequency-division multiplexing (FDM) or wire communication channel necessary to approximate the same judgment of speech quality created by quantization noise in a PCM channel. 
+
+Note 1:  The speech quality judgment is based on comparative tests.Note 2:  Generally, 33.5 dBrnC ±2.5 dB is considered the approximate equivalent PCM noise of a 7-bit PCM system.

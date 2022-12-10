@@ -1,0 +1,5 @@
+Civil procedure~Legal terminology stubs~Sureties~
+||||||
+Supersedeas bond
+||||||
+A supersedeas bond (often shortened to supersedeas), also known as a defendant's appeal bond, is a type of surety bond that a court requires from an appellant who wants to delay payment of a judgment until an appeal is over.This is a feature of common law, and in particular the American legal system. In most European countries an appeal leads to an automatic stay of execution, unless the judge expressly ordered immediate execution.

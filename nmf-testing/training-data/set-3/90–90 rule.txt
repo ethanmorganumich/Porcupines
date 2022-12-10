@@ -1,0 +1,9 @@
+Adages~Computer humor~Programming principles~Software project management~
+||||||
+Ninety–ninety rule
+||||||
+In computer programming and software engineering, the ninety-ninety rule is a humorous aphorism that states:
+
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+This adds up to 180%, making a wry allusion to the notoriety of software development projects significantly over-running their schedules (see software development effort estimation). The anecdote expresses both the rough allocation of time to easy and hard portions of a programming undertaking, and the cause of the lateness of many projects in their failure to anticipate their difficult, often unpredictable, complexities. In short, it often takes both more time and more coding than expected to complete a project.
+The rule is attributed to Tom Cargill of Bell Labs, and was made popular by Jon Bentley's September 1985 "Programming Pearls" column in Communications of the ACM, in which it was titled the "Rule of Credibility".In some agile software projects, this rule also surfaces when a task is portrayed as "relatively done". This indicates a common scenario where planned work is completed but cannot be signed off, pending a single final activity which may not occur for a substantial amount of time.

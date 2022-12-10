@@ -1,0 +1,7 @@
+Models of computation~Randomized algorithms~Turing machine~
+||||||
+Probabilistic Turing machine
+||||||
+In theoretical computer science, a probabilistic Turing machine is a non-deterministic Turing machine that chooses between the available transitions at each point according to some probability distribution. As a consequence, a probabilistic Turing machine can—unlike a deterministic Turing Machine—have stochastic results; that is, on a given input and instruction state machine, it may have different run times, or it may not halt at all; furthermore, it may accept an input in one execution and reject the same input in another execution.
+In the case of equal probabilities for the transitions, probabilistic Turing machines can be defined as deterministic Turing machines having an additional "write" instruction where the value of the write is uniformly distributed in the Turing Machine's alphabet (generally, an equal likelihood of writing a "1" or a "0" on to the tape). Another common reformulation is simply a deterministic Turing machine with an added tape full of random bits called the "random tape".
+A quantum computer is another model of computation that is inherently probabilistic.

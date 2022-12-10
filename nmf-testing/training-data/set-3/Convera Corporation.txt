@@ -1,0 +1,6 @@
+Contextual advertising~Intel~Internet search engines~Mobile web~Semantic Web~
+||||||
+Convera Corporation
+||||||
+Convera was formed in December 2000 by the merger of Intel's Interactive Services division and Excalibur Technologies Corporation.   Until 2007, Convera's primary focus was the enterprise search market through its flagship product, RetrievalWare, which is widely used within the secure government sector in the United States, UK, Canada and a number of other countries. Convera sold its enterprise search business to FAST Search & Transfer in August 2007 for $23 million, at which point RetrievalWare was officially retired. Microsoft Corporation continues to maintain RetrievalWare for its existing customer base.
+In February 2010, Convera Corporation merged with Firstlight ERA to become NTENT[1], bringing with it its web-scale semantic search engine.

@@ -1,0 +1,7 @@
+Air traffic control~Aircraft operations~Aviation publications~
+||||||
+NOTAM
+||||||
+A Notice to Airmen/Notice to Air Missions (NOTAM), is a notice filed with an aviation authority to alert aircraft pilots of potential hazards along a flight route or at a location that could affect the flight.  NOTAMs are unclassified notices or advisories distributed by means of telecommunication that contain information concerning the establishment, conditions or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel and systems concerned with flight operations. NOTAMs are created and transmitted by government agencies and airport operators under guidelines specified by Annex 15: Aeronautical Information Services of the Convention on International Civil Aviation (CICA). The acronym NOTAM came into common use following the ratification of the CICA, which came into effect on 4 April 1947. Notices to airmen were normally published in a regular publication by each country's air authorities (e.g., in Flight International magazine in the UK). A number of developments and amendments to the CICA have resulted in the more automated system available today.
+A NOTAM is filed with an aviation authority to alert aircraft pilots of any hazards en route or at a specific location. The authority in turn provides a means of disseminating relevant NOTAMs to pilots.
+

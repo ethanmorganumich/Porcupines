@@ -1,0 +1,8 @@
+American digital libraries~Bibliographic databases in computer science~Eprint archives~Internet search engines~Library 2.0~Online databases~Open-access archives~Pennsylvania State University~Scholarly search services~
+||||||
+CiteSeerX
+||||||
+CiteSeerX (formerly called CiteSeer) is a public search engine and digital library for scientific and academic papers, primarily in the fields of computer and information science.
+CiteSeer's goal is to improve the dissemination and access of academic and scientific literature. As a non-profit service that can be freely used by anyone, it has been considered as part of the open access movement that is attempting to change academic and scientific publishing to allow greater access to scientific literature. CiteSeer freely provided Open Archives Initiative metadata of all indexed documents and links indexed documents when possible to other sources of metadata such as DBLP and the ACM Portal. To promote open data, CiteSeerX shares its data for non-commercial purposes under a Creative Commons license.CiteSeer is considered as a predecessor of academic search tools such as Google Scholar and Microsoft Academic Search. CiteSeer-like engines and archives usually only harvest documents from publicly available websites and do not crawl publisher websites. For this reason, authors whose documents are freely available are more likely to be represented in the index.
+CiteSeer changed its name to ResearchIndex at one point and then changed it back.
+

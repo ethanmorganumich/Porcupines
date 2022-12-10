@@ -1,0 +1,266 @@
+Antennas (radio)~
+||||||
+Radiation resistance
+||||||
+Radiation resistance, 
+  
+    
+      
+         
+        
+          R
+          
+            
+              r
+              a
+              d
+            
+          
+        
+         
+      
+    
+    {\displaystyle \ R_{\mathsf {rad}}\ }
+   or 
+  
+    
+      
+         
+        
+          R
+          
+            
+              R
+            
+          
+        
+         
+      
+    
+    {\displaystyle \ R_{\mathsf {R}}\ }
+  , is proportional to the part of an antenna's feedpoint electrical resistance that is caused by power loss from the emission of radio waves from the antenna.Radiation resistance is an effective resistance, due to the power carried away from the antenna as radio waves. Unlike conventional resistance or "Ohmic resistance", radiation resistance is not due to the opposition to current (resistivity) of the imperfect conducting materials the antenna is made of. 
+The radiation resistance (
+  
+    
+      
+         
+        
+          R
+          
+            
+              r
+              a
+              d
+            
+          
+        
+         
+      
+    
+    {\displaystyle \ R_{\mathsf {rad}}\ }
+  ) is conventionally defined as the value of loss resistance that would dissipate the same amount of power as heat, as is dissipated by the radio waves emitted from the antenna, when fed at a minimum-voltage / maximum-current point ("voltage node"). From Joule's law, it is equal to the total power 
+  
+    
+      
+         
+        
+          P
+          
+            
+              r
+              a
+              d
+            
+          
+        
+         
+      
+    
+    {\displaystyle \ P_{\mathsf {rad}}\ }
+   radiated as radio waves by the antenna, divided by the square of the RMS current 
+  
+    
+      
+         
+        
+          I
+          
+            
+              R
+              M
+              S
+            
+          
+        
+         
+      
+    
+    {\displaystyle \ I_{\mathsf {RMS}}\ }
+   into the antenna terminals: 
+  
+    
+      
+         
+        
+          R
+          
+            
+              r
+              a
+              d
+            
+          
+        
+        =
+        
+          P
+          
+            
+              r
+              a
+              d
+            
+          
+        
+        
+          /
+        
+        
+          I
+          
+            
+              R
+              M
+              S
+            
+          
+          
+            2
+          
+        
+         
+        .
+      
+    
+    {\displaystyle \ R_{\mathsf {rad}}=P_{\mathsf {rad}}/I_{\mathsf {RMS}}^{2}~.}
+  The feedpoint and radiation resistances are determined by the geometry of the antenna, the operating frequency, and the antenna location (particularly with respect to the ground). The relation between the feedpoint resistance (
+  
+    
+      
+         
+        
+          R
+          
+            
+              i
+              n
+            
+          
+        
+         
+      
+    
+    {\displaystyle \ R_{\mathsf {in}}\ }
+  ) and the radiation resistance (
+  
+    
+      
+         
+        
+          R
+          
+            
+              r
+              a
+              d
+            
+          
+        
+         
+      
+    
+    {\displaystyle \ R_{\mathsf {rad}}\ }
+  ) depends on the position on the antenna at which the feedline is attached.
+The relation between feedpoint resistance and radiation resistance is particularly simple when the feedpoint is placed (as ususal) at the antenna's minimum possible voltage / maximum possible current point; in that case, the total feedpoint resistance 
+  
+    
+      
+         
+        
+          R
+          
+            
+              i
+              n
+            
+          
+        
+         
+      
+    
+    {\displaystyle \ R_{\mathsf {in}}\ }
+   at the antenna's terminals is equal to the sum of the radiation resistance plus the loss resistance 
+  
+    
+      
+         
+        
+          R
+          
+            
+              l
+              o
+              s
+              s
+            
+          
+        
+         
+      
+    
+    {\displaystyle \ R_{\mathsf {loss}}\ }
+   due to "Ohmic" losses in the antenna and the nearby soil: 
+  
+    
+      
+         
+        
+          R
+          
+            
+              i
+              n
+            
+          
+        
+        =
+        
+          R
+          
+            
+              r
+              a
+              d
+            
+          
+        
+        +
+        
+          R
+          
+            
+              l
+              o
+              s
+              s
+            
+          
+        
+         
+        .
+      
+    
+    {\displaystyle \ R_{\mathsf {in}}=R_{\mathsf {rad}}+R_{\mathsf {loss}}\ .}
+  
+When the antenna is fed at some other point, the formula requires a correction factor discussed below.
+In a receiving antenna the radiation resistance represents the source resistance of the antenna, and the portion of the received radio power consumed by the radiation resistance represents radio waves re-radiated (scattered) by the antenna.

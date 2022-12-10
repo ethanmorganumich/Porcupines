@@ -1,0 +1,7 @@
+American legal terminology~Civil procedure~Civil procedure legal terminology~
+||||||
+Remittitur
+||||||
+In United States law, remittitur (Latin: "it is sent back") is a ruling by a judge (usually upon motion to reduce or throw out a jury verdict) lowering the amount of damages granted by a jury in a civil case. The term is sometimes used where a judgment exceeds the amount demanded by the prevailing party, or for a reduction in awarded damages even when the amount awarded did not exceed the amount demanded but is otherwise considered excessive. The term originally denoted a procedural device in English common law, although it has long fallen into disuse in England and other common law jurisdictions, and it has evolved in American use to serve a different function than it originally performed in England.
+If the motion is granted, the plaintiff may either accept the reduced verdict or submit to a new trial restricted to the matter of damages.
+The term is also sometimes used in place of "remand" or a mandate—that is, moving a case from a higher court to a lower court. Under California law, the Court of Appeal issues a remittitur after an appeal is heard and decided. In contrast, the U.S. federal Courts of Appeals issue a mandate. In this sense, the term is also sometimes used in other common law jurisdictions such as Australia.

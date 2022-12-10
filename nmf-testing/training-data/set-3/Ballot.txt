@@ -1,0 +1,6 @@
+Ballots~Elections terminology~
+||||||
+Ballot
+||||||
+A ballot is a device used to cast votes in an election and may be found as a piece of paper or a small ball used in secret voting. It was originally a small ball (see blackballing) used to record decisions made by voters in Italy around the 16th century.Each voter uses one ballot, and ballots are not shared. In the simplest elections, a ballot may be a simple scrap of paper on which each voter writes in the name of a candidate, but governmental elections use pre-printed ballots to protect the secrecy of the votes. The voter casts their ballot in a box at a polling station.
+In British English, this is usually called a "ballot paper". The word ballot is used for an election process within an organization (such as a trade union "holding a ballot" of its members).

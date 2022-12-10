@@ -1,0 +1,136 @@
+Binary relations~
+||||||
+Antisymmetric relation
+||||||
+In mathematics, a binary relation 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   on a set 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   is antisymmetric if there is no pair of distinct elements of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   each of which is related by 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   to the other. More formally, 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   is antisymmetric precisely if for all 
+  
+    
+      
+        a
+        ,
+        b
+        ∈
+        X
+        ,
+      
+    
+    {\displaystyle a,b\in X,}
+  
+
+or equivalently,
+
+The definition of antisymmetry says nothing about whether 
+  
+    
+      
+        a
+        R
+        a
+      
+    
+    {\displaystyle aRa}
+   actually holds or not for any 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  . An antisymmetric relation 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   on a set 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   may be reflexive (that is, 
+  
+    
+      
+        a
+        R
+        a
+      
+    
+    {\displaystyle aRa}
+   for all 
+  
+    
+      
+        a
+        ∈
+        X
+      
+    
+    {\displaystyle a\in X}
+  ), irreflexive (that is, 
+  
+    
+      
+        a
+        R
+        a
+      
+    
+    {\displaystyle aRa}
+   for no 
+  
+    
+      
+        a
+        ∈
+        X
+      
+    
+    {\displaystyle a\in X}
+  ), or neither reflexive nor irreflexive. A relation is asymmetric if and only if it is both antisymmetric and irreflexive.

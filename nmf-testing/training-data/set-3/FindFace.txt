@@ -1,0 +1,7 @@
+Anonymity~Deep learning software applications~Facial recognition software~Image search~Internet search engines~Privacy controversies and disputes~Social network analysis software~
+||||||
+FindFace
+||||||
+FindFace is a face recognition technology developed by the Russian company NtechLab that specializes in neural network tools. The company provides a line of services for the state and various business sectors based on FindFace algorithm.
+Previously, the technology was used as a web service that helped to find people on the VK social network using their photos.
+

@@ -1,0 +1,94 @@
+Capital (economics)~Depreciation~Valuation (finance)~
+||||||
+Depreciation (economics)
+||||||
+In economics, depreciation is the gradual decrease in the economic value of the capital stock of a firm, nation or other entity, either through physical depreciation, obsolescence or changes in the demand for the services of the capital in question. If the capital stock is 
+  
+    
+      
+        
+          K
+          
+            t
+          
+        
+      
+    
+    {\displaystyle K_{t}}
+   in one period 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  , gross (total) investment spending on newly produced capital is 
+  
+    
+      
+        
+          I
+          
+            t
+          
+        
+      
+    
+    {\displaystyle I_{t}}
+   and depreciation is 
+  
+    
+      
+        
+          D
+          
+            t
+          
+        
+      
+    
+    {\displaystyle D_{t}}
+  , the capital stock in the next period, 
+  
+    
+      
+        
+          K
+          
+            t
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle K_{t+1}}
+  , is 
+  
+    
+      
+        
+          K
+          
+            t
+          
+        
+        +
+        
+          I
+          
+            t
+          
+        
+        −
+        
+          D
+          
+            t
+          
+        
+      
+    
+    {\displaystyle K_{t}+I_{t}-D_{t}}
+  . The net increment to the capital stock is the difference between gross investment and depreciation, and is called net investment.

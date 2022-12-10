@@ -1,0 +1,5 @@
+Companies based in New Mexico~Free search engine software~Internet search engines~Software using the Apache license~
+||||||
+Gigablast
+||||||
+Gigablast is an American free and open-source web search engine and directory. Founded in 2000, it is an independent engine and web crawler, developed and maintained by Matt Wells, a former Infoseek employee and New Mexico Tech graduate.The search engine source code is written in the programming languages C and C++. It was released as open-source software under the Apache License version 2, in July 2013. In 2015, Gigablast claimed to have indexed over 12 billion web pages, and received billions of queries per month.Gigablast has provided, and provides, search results to other companies, such as Ixquick, Clusty, Zuula, Snap, Blingo, and Internet Archive.

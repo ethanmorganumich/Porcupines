@@ -1,0 +1,6 @@
+Aviation risks~
+||||||
+Compressor stall
+||||||
+A compressor stall is a local disruption of the airflow in the compressor of a gas turbine or turbocharger. A stall that results in the complete disruption of the airflow through the compressor is referred to as a compressor surge. The severity of the phenomenon ranges from a momentary power drop barely registered by the engine instruments to a complete loss of compression in case of a surge, requiring adjustments in the fuel flow to recover normal operation.
+Compressor stall was a common problem on early jet engines with simple aerodynamics and manual or mechanical fuel control units, but has been virtually eliminated by better design and the use of hydromechanical and electronic control systems such as Full Authority Digital Engine Control. Modern compressors are carefully designed and controlled to avoid or limit stall within an engine's operating range.

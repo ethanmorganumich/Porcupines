@@ -1,0 +1,5 @@
+Electronic circuits~Electronic test equipment~Radio electronics~
+||||||
+RF probe
+||||||
+An RF probe is a device which allows electronic test equipment to measure radio frequency (RF) signal in an electronic circuit.

@@ -1,0 +1,6 @@
+DC power connectors~Electrical power connectors~Gender in language~
+||||||
+Coaxial power connector
+||||||
+A coaxial power connector is an electrical power connector used for attaching extra-low voltage devices such as consumer electronics to external electricity. Also known as barrel connectors, concentric barrel connectors or tip connectors, these small cylindrical connectors come in an enormous variety of sizes.
+Barrel plug connectors are commonly used to interface the secondary side of a power supply with the device. Some of these jacks contain a normally closed switch; the switch can disconnect internal batteries whenever the external power supply is connected.

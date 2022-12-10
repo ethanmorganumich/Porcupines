@@ -1,0 +1,8 @@
+Internet search engines~Metasearch engines~Search engine website stubs~Tor onion services~
+||||||
+MetaGer
+||||||
+MetaGer is a metasearch engine focused on protecting users' privacy. Based in Germany,
+and hosted as a cooperation between the German NGO 'SUMA-EV - Association for Free Access to Knowledge' and the University of Hannover,
+the system is built on 24 small-scale web crawlers under MetaGer's own control.
+In September 2013, MetaGer launched MetaGer.net, an English-language version of their search engine.

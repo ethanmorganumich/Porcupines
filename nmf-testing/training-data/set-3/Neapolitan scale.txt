@@ -1,0 +1,20 @@
+Hemitonic scales~Heptatonic scales~Musical scales~Tritonic scales~
+||||||
+Neapolitan scale
+||||||
+In music, the major Neapolitan scale and the minor Neapolitan scale are two musical scales. Both scales are minor, in that they both contain the note a minor third above the root. The major and minor Neapolitan scales are instead differentiated by the quality of their sixth.
+The sequence of scale steps for the Neapolitan minor is as follows:
+1  ♭2  ♭3 4  5  ♭6 7  8
+A  B♭  C  D  E  F  G♯ A
+[H, W, W, W, H, WH, H
+C  D♭  E♭ F  G  A♭ B  C]
+
+And for the Neapolitan major:
+1  ♭2  ♭3 4  5  6  7  8
+A  B♭  C  D  E  F♯ G♯ A
+[H, W, W, W, W, W, H
+C  D♭  E♭ F  G  A  B  C]
+
+The scales are distinguished from the harmonic and ascending melodic minor scales by the lowered supertonic or second scale degree. This could also be known as the "Phrygian harmonic minor" or "Phrygian melodic minor." The scale therefore shares with the Phrygian mode the property of having a minor second above the tonic.
+Both are accompanied well by power or minor chords.The 4th mode of the Neapolitan major, also known as the Lydian Minor scale, is an excellent choice for the 9♯11/♭13 (no 5) chord. Said mode contains all the alterations plus the ♮5. A whole tone scale is often used but that mode tends to be minus the ♮5 that the Lydian Minor contains.
+The 5th mode of the Neapolitan major is also known as the major Locrian scale.

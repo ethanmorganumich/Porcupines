@@ -1,0 +1,8 @@
+Graph connectivity~Graph families~
+||||||
+Biconnected graph
+||||||
+In graph theory, a biconnected graph is a connected and "nonseparable" graph, meaning that if any one vertex were to be removed, the graph will remain connected. Therefore a biconnected graph has no articulation vertices.
+The property of being 2-connected is equivalent to biconnectivity, except that the complete graph of two vertices is usually not regarded as 2-connected.
+This property is especially useful in maintaining a graph with a two-fold redundancy, to prevent disconnection upon the removal of a single edge (or connection).
+The use of biconnected graphs is very important in the field of networking (see Network flow), because of this property of redundancy.

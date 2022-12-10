@@ -1,0 +1,5 @@
+Radio modulation modes~
+||||||
+16VSB
+||||||
+16VSB is an abbreviation for 16-level vestigial sideband modulation, capable of transmitting four bits (24=16) at a time.

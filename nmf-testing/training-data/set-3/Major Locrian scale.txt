@@ -1,0 +1,17 @@
+Heptatonic scales~
+||||||
+Major Locrian scale
+||||||
+In music, the major Locrian scale, also called the Locrian major scale, is the scale obtained by sharpening the second and third notes of the diatonic Locrian mode. With a tonic of C, it consists of the notes C D E F G♭ A♭ B♭. It can be described as a whole tone scale extending from G♭ to E, with F introduced within the diminished third interval from E to G♭. The scale therefore shares with the Locrian mode the property of having a diminished fifth above the tonic.
+It can also be the natural minor scale or Aeolian mode with raised third and lowered fifth intervals. It may also be derived from the Phrygian Dominant scale, but this time, the second is major, while the fifth is diminished.
+In English, Arabian scale may refer to what is known as the major Locrian scale. A version of the major Locrian scale is listed as mode 3 in the French translation of Safi Al-Din's treatise Kitab Al-Adwar. This was a Pythagorean version of the scale.
+Aside from this Arabic version, interest in the major Locrian is a phenomenon of the twentieth century, but the scale is definable in any meantone system. It is notable as one of the five proper seven-note scales in equal temperament, and as strictly proper in any meantone tuning with fifths flatter than 700 cents. If we take the tonic in the scale given above to be G♭ rather than C, we obtain the leading whole-tone scale, which with a tonic on C is C–D–E–F♯–G♯–A♯–B; this can equally well be characterized as one of the five proper seven-note scales of equal temperament.
+The major Locrian scale is the 5th mode of the Neapolitan major scale, which may be used in conjunction with the Neapolitan chord, but is not limited to it. This scale is also known as melodic minor ♭2. Its modes and corresponding seventh chords are:
+
+Neapolitan major; CmM7 (add ♭9, 11, and 13) (Dorian mode with major seventh and minor second)
+leading whole-tone; D♭M7♯5 (add 9, ♯11, and ♯13) (Phrygian mode with major sixth and diminished unison) (whole-tone scale plus major seventh)
+Lydian dominant augmented; E♭7♯5 (add 9, ♯11, and 13) (Lydian mode with augmented fifth and minor seventh) (whole-tone scale plus major sixth)
+Lydian minor; F7 (add 9, ♯11, and ♭13) (Mixolydian mode with augmented fourth and minor sixth) (whole-tone scale plus natural fifth)
+major Locrian; G7♭5 (add 9, 11, and ♭13) (Aeolian mode with major third and diminished fifth) (whole-tone scale plus natural fourth)
+altered dominant major 2nd; Am7♭5 (add 9, ♭11, and ♭13) (Locrian mode with major second and diminished fourth) (whole-tone scale plus minor third)
+altered dominant diminished 3rd; B7♭5 (add ♭9, ♮9, and ♭13) (Ionian mode with minor third and augmented unison) (whole-tone scale plus ♭9)The major Locrian scale has only two perfect fifths, but it has in some sense a complete cycle of thirds if one is willing to count a diminished third as a third: four major thirds, two minor thirds and a diminished third making up two octaves. In 12-equal temperament, the diminished third is enharmonically equivalent to a major second, but in other meantone systems it is wider and more nearly like a third.

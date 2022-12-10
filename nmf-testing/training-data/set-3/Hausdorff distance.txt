@@ -1,0 +1,28 @@
+Distance~Metric geometry~
+||||||
+Hausdorff distance
+||||||
+In mathematics, the Hausdorff distance, or Hausdorff metric, also called Pompeiu–Hausdorff distance, measures how far two subsets of a metric space are from each other. It turns the set of non-empty compact subsets of a metric space into a metric space in its own right. It is named after Felix Hausdorff and Dimitrie Pompeiu.
+Informally, two sets are close in the Hausdorff distance if every point of either set is close to some point of the other set. The Hausdorff distance is the longest distance you can be forced to travel by an adversary who chooses a point in one of the two sets, from where you then must travel to the other set. In other words, it is the greatest of all the distances from a point in one set to the closest point in the other set.
+This distance was first introduced by Hausdorff in his book Grundzüge der Mengenlehre, first published in 1914, although a very close relative appeared in the doctoral thesis of Maurice Fréchet in 1906, in his study of the space of all continuous curves from 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        ]
+        →
+        
+          
+            R
+          
+          
+            3
+          
+        
+      
+    
+    {\displaystyle [0,1]\to \mathbb {R} ^{3}}
+  .

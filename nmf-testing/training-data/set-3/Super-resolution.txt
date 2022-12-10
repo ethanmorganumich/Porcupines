@@ -1,0 +1,7 @@
+Image processing~Imaging~Signal processing~
+||||||
+Super-resolution imaging
+||||||
+Super-resolution imaging (SR) is a class of techniques that enhance (increase) the resolution of an imaging system. In optical SR the diffraction limit of systems is transcended, while in geometrical SR the resolution of digital imaging sensors is enhanced.
+In some radar and sonar imaging applications (e.g. magnetic resonance imaging (MRI), high-resolution computed tomography), subspace decomposition-based methods (e.g. MUSIC) and compressed sensing-based algorithms (e.g., SAMV) are employed to achieve SR over standard periodogram algorithm.
+Super-resolution imaging techniques are used in general image processing and in super-resolution microscopy.

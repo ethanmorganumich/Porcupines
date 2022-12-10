@@ -1,0 +1,12 @@
+Computational problems in graph theory~Graph theory objects~
+||||||
+Maximal independent set
+||||||
+In graph theory, a maximal independent set (MIS) or maximal stable set is an independent set that is not a subset of any other independent set. In other words, there is no vertex outside the independent set that may join it because it is maximal with respect to the independent set property.
+For example, in the graph P3, a path with three vertices a, b, and c, and two edges ab and bc, the sets {b}  and {a, c}  are both maximally independent. The set {a}  is independent, but is not maximal independent, because it is a subset of the larger independent set {a, c}. In this same graph, the maximal cliques are the sets {a, b}  and {b, c}.
+A MIS is also a dominating set in the graph, and every dominating set that is independent must be maximal independent, so MISs are also called independent dominating sets.  
+
+A graph may have many MISs of widely varying sizes; the largest, or possibly several equally large, MISs of a graph is called a maximum independent set. The graphs in which all maximal independent sets have the same size are called well-covered graphs.
+The phrase "maximal independent set" is also used to describe maximal subsets of independent elements in mathematical structures other than graphs, and in particular in vector spaces and matroids.
+
+Two algorithmic problems are associated with MISs: finding a single MIS in a given graph and listing all MISs in a given graph.

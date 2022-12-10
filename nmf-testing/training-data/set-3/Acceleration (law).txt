@@ -1,0 +1,11 @@
+Legal terminology~Legal terminology stubs~
+||||||
+Acceleration (law)
+||||||
+Acceleration is defined in law as a shortening of the time period in which something is to take place.The concept of acceleration most often arises within the context of contract law. An acceleration clause, also known as an acceleration covenant, may be included within a contract, so as to fully mature the performance due from a party upon a breach of the contract, such as by requiring payment in full upon the contract if a borrower materially breaches a loan agreement. Acceleration clauses are most prevalent in mortgages and similar contracts to purchase real estate in installments.
+In a mortgage contract, activation of an acceleration clause may operate as a precursor to a foreclosure action through which a lender may legally compel the sale of the property that the borrower acquired by using the mortgage loan. Proceeds from any subsequent sale of the property may be taken by the lender to recover any amount that the borrower still owes under the loan.
+An acceleration clause was examined in the 1971 Rhode Island Supreme Court case of Scullian v. Petrucci, in which the clause stated:
+
+In the event Purchaser defaults on any payment or fails to comply with any condition of this contract [...] the full amount shall be immediately due and payable[...]".The court found that the language of the clause caused the statute of limitations for the debt owed under the contract be start to run on the date of default, not the date the final payment would otherwise have been due.
+For lease contracts, without the inclusion of an acceleration clause in a lease, a landlord's right to sue for damages for breach of a lease may accrue on the date the termination date of the lease. With an acceleration clause a landlord may be able to sue for damages when a breach of the lease agreement occurs.
+

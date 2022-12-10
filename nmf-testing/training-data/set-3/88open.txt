@@ -1,0 +1,5 @@
+Data General~Motorola~Standards organizations in the United States~Technology consortia~
+||||||
+88open
+||||||
+88open was an industry standards group set up by Motorola in 1988 to standardize Unix systems on their Motorola 88000 RISC CPU systems. At its peak, the spinoff 88open Consortium Ltd. had a staff of 30 people and over 50 supporters. The effort was largely a failure, at least in terms of attracting attention to the 88000 platform. The group was closed in favor of the AIM alliance, and the 88000 platform was folded into AIM's PowerPC.

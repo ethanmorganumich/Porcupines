@@ -1,0 +1,11 @@
+Chord factors~Chords~Chromaticism~
+||||||
+Sixth chord
+||||||
+The term sixth chord refers to two different kinds of chord, the first in classical music and the second in modern popular music.The original meaning of the term is a chord in first inversion, in other words with its third in the bass and its root a sixth above it. This is how the term is still used in classical music today, and in this sense it is called also a chord of the sixth. A first-inversion C major chord is shown below.
+
+ 	 
+In modern popular music, a sixth chord is any triad with an added sixth above the root as a chord factor. This was traditionally (and in classical music is still today) called an added sixth chord or triad with added sixth since Jean-Philippe Rameau (sixte ajoutée) in the 18th century. It is not common to designate chord inversions in popular music, so there is no need for a term designating the first inversion of a chord, and so the term sixth chord in popular music is a short way of saying added sixth chord. When not otherwise specified, it usually means a major triad with an added major sixth interval (a major sixth chord), such as the chord below.
+
+ 	 
+However, a minor triad is also used, together with the same interval, resulting in a minor sixth chord (also known as minor major sixth).

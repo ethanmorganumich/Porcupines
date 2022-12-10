@@ -1,0 +1,6 @@
+Music software~Scorewriters~
+||||||
+Finale (scorewriter)
+||||||
+Finale is a proprietary music notation software developed and released by MakeMusic for Microsoft Windows and macOS since 1988.
+

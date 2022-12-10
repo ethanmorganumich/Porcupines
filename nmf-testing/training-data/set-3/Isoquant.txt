@@ -1,0 +1,6 @@
+Production economics~
+||||||
+Isoquant
+||||||
+An isoquant (derived from quantity and the Greek word iso, meaning equal), in microeconomics, is a contour line drawn through the set of points at which the same quantity of output is produced while changing the quantities of two or more inputs. The x and y axis on an isoquant represent two relevant inputs, which are usually a factor of production such as labour, capital, land, or organisation. An isoquant may also be known as an “Iso-Product Curve”, or an “Equal Product Curve”.
+

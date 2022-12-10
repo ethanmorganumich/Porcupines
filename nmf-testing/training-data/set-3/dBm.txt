@@ -1,0 +1,7 @@
+Logarithmic scales of measurement~Radio frequency propagation~Units of power~
+||||||
+DBm
+||||||
+dBm or dBmW (decibel-milliwatts) is a unit of level used to indicate that a power level is expressed in decibels (dB) with reference to one milliwatt (mW). It is used in radio, microwave and fiber-optical communication networks as a convenient measure of absolute power because of its capability to express both very large and very small values in a short form. dBW is a similar unit, referenced to one watt (1000 mW).
+The decibel (dB) is a dimensionless unit, used for quantifying the ratio between two values, such as signal-to-noise ratio. The dBm is also dimensionless, but since it compares to a fixed reference value, the dBm rating is an absolute one.
+The dBm is not a part of the International System of Units (SI) and therefore is discouraged from use in documents or systems that adhere to SI units (the corresponding SI unit is the watt). However, the unit decibel (dB), without the 'm' suffix, is permitted for relative quantities, but not accepted for use directly alongside SI units. 10 dBm may be written 10 dB (1 mW) in SI.: 7.4 In audio and telephony, dBm is typically referenced relative to a 600-ohm impedance, while in radio-frequency work dBm is typically referenced relative to a 50-ohm impedance.

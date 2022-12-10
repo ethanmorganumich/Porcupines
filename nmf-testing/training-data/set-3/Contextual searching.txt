@@ -1,0 +1,5 @@
+Information retrieval techniques~Internet search engines~Internet terminology~Semantic Web~
+||||||
+Contextual searching
+||||||
+Contextual search is a form of optimizing web-based search results based on context provided by the user and the computer being used to enter the query. Contextual search services differ from current search engines based on traditional information retrieval that return lists of documents based on their relevance to the query. Rather, contextual search attempts to increase the precision of results based on how valuable they are to individual users.

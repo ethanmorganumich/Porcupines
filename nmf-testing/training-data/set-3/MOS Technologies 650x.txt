@@ -1,0 +1,8 @@
+65xx microprocessors~8-bit microprocessors~Computer-related introductions in 1975~MOS Technology microprocessors~
+||||||
+MOS Technology 6502
+||||||
+The MOS Technology 6502 (typically pronounced "sixty-five-oh-two" or "six-five-oh-two") is an 8-bit microprocessor that was designed by a small team led by Chuck Peddle for MOS Technology. The design team had formerly worked at Motorola on the Motorola 6800 project; the 6502 is essentially a simplified, less expensive and faster version of that design.
+When it was introduced in 1975, the 6502 was the least expensive microprocessor on the market by a considerable margin. It initially sold for less than one-sixth the cost of competing designs from larger companies, such as the 6800 or Intel 8080. Its introduction caused rapid decreases in pricing across the entire processor market. Along with the Zilog Z80, it sparked a series of projects that resulted in the home computer revolution of the early 1980s.
+Popular video game consoles and home computers of the 1980s and early 1990s, such as the Atari 2600, Atari 8-bit family, Apple II, Nintendo Entertainment System, Commodore 64, Atari Lynx, BBC Micro and others, use the 6502 or variations of the basic design. Soon after the 6502's introduction, MOS Technology was purchased outright by Commodore International, who continued to sell the microprocessor and licenses to other manufacturers. In the early days of the 6502, it was second-sourced by Rockwell and Synertek, and later licensed to other companies.
+In 1981, the Western Design Center started development of a CMOS version, the 65C02. This continues to be widely used in embedded systems, with estimated production volumes in the hundreds of millions.

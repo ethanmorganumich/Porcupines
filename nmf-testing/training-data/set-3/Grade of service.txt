@@ -1,0 +1,7 @@
+Telecommunications engineering~Teletraffic~
+||||||
+Grade of service
+||||||
+In telecommunication engineering, and in particular teletraffic engineering, the quality of voice service is specified by two measures: the grade of service (GoS) and the quality of service (QoS).
+Grade of service is the probability of a call in a circuit group being blocked or delayed for more than a specified interval, expressed as a vulgar fraction or decimal fraction. This is always with reference to the busy hour when the traffic intensity is the greatest. Grade of service may be viewed independently from the perspective of incoming versus outgoing calls, and is not necessarily equal in each direction or between different source-destination pairs.  "Grade of Service" sometimes means a measure of inbound call center traffic to verify adherence to conditions to measure the success of customers served.
+On the other hand, the quality of service which a single circuit is designed or conditioned to provide, e.g. voice grade or program grade is called the quality of service. Quality criteria for such circuits may include equalization for amplitude over a specified band of frequencies, or in the case of digital data transported via analogue circuits, may include equalization for phase. Criteria for mobile quality of service in cellular telephone circuits include the probability of abnormal termination of the call.

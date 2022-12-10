@@ -1,0 +1,5 @@
+Electromagnetic radiation~Wave mechanics~
+||||||
+Wave impedance
+||||||
+The wave impedance of an electromagnetic wave is the ratio of the  transverse components of the electric and magnetic fields (the transverse components being those at right angles to the direction of propagation). For a transverse-electric-magnetic (TEM) plane wave traveling through a homogeneous medium, the wave impedance is everywhere equal to the intrinsic impedance of the medium. In particular, for a plane wave travelling through empty space, the wave impedance is equal to the impedance of free space. The symbol Z  is used to represent it and it is expressed in units of ohms. The symbol η (eta) may be used instead of Z for wave impedance to avoid confusion with electrical impedance.

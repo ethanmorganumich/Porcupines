@@ -1,0 +1,6 @@
+Radio~
+||||||
+Spot beam
+||||||
+A spot beam, in telecommunications parlance, is a satellite signal that is specially concentrated in power (i.e. sent by a high-gain antenna) so that it will cover only a limited geographic area on Earth. Spot beams are used so that only Earth stations in a particular intended reception area can properly receive the satellite signal.One notable example of the use of spot beams is on direct broadcast satellite systems such as DirecTV and Dish Network that deliver local broadcast television via satellite only to viewers in the part of North America from which those terrestrial broadcast stations originate.
+Spot beams allow satellites to transmit different data signals using the same frequency. Because satellites have a limited number of frequencies to use, the ability to re-use a frequency for different geographical locations (without different data interfering with each other at the receiver) allows for more local channels to be carried, since the same frequency can be used in several regions.

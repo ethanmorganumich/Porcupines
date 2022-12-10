@@ -1,0 +1,91 @@
+Elementary mathematics~Elementary special functions~Unary operations~
+||||||
+Square root
+||||||
+In mathematics, a square root of a number x is a number y such that y2 = x; in other words, a number y whose square (the result of multiplying the number by itself, or y ⋅ y) is x. For example, 4 and −4 are square roots of 16, because 42 = (−4)2 = 16.
+Every nonnegative real number x has a unique nonnegative square root, called the principal square root, which is denoted by 
+  
+    
+      
+        
+          
+            x
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {x}},}
+   where the symbol 
+  
+    
+      
+        
+          
+            
+               
+              
+                 
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {~^{~}}}}
+   is called the radical sign or radix. For example, to express the fact that the principal square root of 9 is 3, we write 
+  
+    
+      
+        
+          
+            9
+          
+        
+        =
+        3
+      
+    
+    {\displaystyle {\sqrt {9}}=3}
+  . The term (or number) whose square root is being considered is known as the radicand. The radicand is the number or expression underneath the radical sign, in this case 9. For nonnegative x, the principal square root can also be written in exponent notation, as x1/2.
+Every positive number x has two square roots: 
+  
+    
+      
+        
+          
+            x
+          
+        
+        ,
+      
+    
+    {\displaystyle {\sqrt {x}},}
+   which is positive, and 
+  
+    
+      
+        −
+        
+          
+            x
+          
+        
+        ,
+      
+    
+    {\displaystyle -{\sqrt {x}},}
+   which is negative. The two roots can be written more concisely using the ± sign as 
+  
+    
+      
+        ±
+        
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \pm {\sqrt {x}}}
+  . Although the principal square root of a positive number is only one of its two square roots, the designation "the square root" is often used to refer to the principal square root.Square roots of negative numbers can be discussed within the framework of complex numbers. More generally, square roots can be considered in any context in which a notion of the "square" of a mathematical object is defined. These include function spaces and square matrices, among other mathematical structures.

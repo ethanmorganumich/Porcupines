@@ -1,0 +1,6 @@
+Human settlement~
+||||||
+Human settlement
+||||||
+In geography, statistics and archaeology, a settlement, locality or populated place is a community in which people live. The complexity of a settlement can range from a minuscule number of dwellings grouped together to the largest of cities with surrounding urbanized areas. Settlements may include hamlets, villages, towns and cities.  A settlement may have known historical properties such as the date or era in which it was first settled, or first settled by particular people.
+In the field of geospatial predictive modeling, settlements are "a city, town, village or other agglomeration of buildings where people live and work".A settlement conventionally includes its constructed facilities such as roads, enclosures, field systems, boundary banks and ditches, ponds, parks and woods, wind and water mills, manor houses, moats and churches.

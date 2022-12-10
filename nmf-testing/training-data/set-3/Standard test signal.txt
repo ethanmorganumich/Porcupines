@@ -1,0 +1,6 @@
+Telecommunications standards~Telecommunications stubs~
+||||||
+Standard test signal
+||||||
+In telecommunication, a standard test signal is a single-frequency signal with standardized level used for testing the peak power transmission capability and for measuring the total harmonic distortion of circuits or parts of an electric circuit.  
+Standardized test signal levels and frequencies are listed in MIL-STD-188-100 and in the Code of Federal Regulations Title 47, part 68.

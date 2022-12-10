@@ -1,0 +1,6 @@
+Ternary operations~
+||||||
+Ternary operation
+||||||
+In mathematics, a ternary operation is an n-ary operation with n = 3. A ternary operation on a set A takes any given three elements of A and combines them to form a single element of A.
+In computer science, a ternary operator is an operator that takes three arguments as input and returns one output.

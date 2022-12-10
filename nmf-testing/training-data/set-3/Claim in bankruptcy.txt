@@ -1,0 +1,13 @@
+Corporate law~United States bankruptcy law~
+||||||
+Claim in bankruptcy
+||||||
+A Proof of claim in bankruptcy, in United States bankruptcy law, is a document filed with the Court so as to register a claim against the assets of the bankruptcy estate.  The claim sets out the amount that is owed to the creditor as of the date of the bankruptcy filing and, if relevant, any priority status. Although a document called a Claim in Bankruptcy is used in proceedings in both Canada and the United States, in the United States, the document is properly termed a Proof of Claim. The form is different although they share many similar aspects.
+Upon receipt of a claim, the Trustee in bankruptcy must notify the claimant (or creditor) whether the estate will object to the claim or whether it will, as is the default case, allow the claim.  
+Some of the reasons a creditor's claim may be objected to are that:
+
+the claim is not liquidated, such as a claim for damages for pain and suffering that is not the result of a judgment debt. This assertion is not fatal as the claim may be liquidated in Bankruptcy Court;
+the claim omits appropriate set-offs to which the bankrupt entity ("the debtor") is entitled by operation of law;
+the amount of the claim is in dispute, such as a bill for defective goods, in which case the matter may be litigated in Bankruptcy Court;
+the creditor is claiming a higher priority than they are entitled to, such as an ordinary creditor claiming priority to estate assets.If a claim is objected to, the bankruptcy court may set a hearing and, if necessary, conduct a trial, in order to resolve the dispute.
+There is usually a deadline (termed the Bar Date) for filing claims to allow the trustee to determine the distribution of any funds obtained from the liquidation of the estate.  Claims are paid out first to administrative creditors, then to priority unsecured creditors according to their statutory priority, and finally to the non-priority unsecured creditors, with all claims paid pro rata with other members of the class.

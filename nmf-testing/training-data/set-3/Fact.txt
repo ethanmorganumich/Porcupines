@@ -1,0 +1,7 @@
+Concepts in epistemology~Concepts in ethics~Concepts in logic~Concepts in metaphilosophy~Concepts in metaphysics~Concepts in the philosophy of mind~Concepts in the philosophy of science~Metaphysics of mind~Metatheory~Philosophical logic~Philosophy of logic~Philosophy of science~Reality~Statements~Truth~
+||||||
+Fact
+||||||
+A fact is a datum about one or more aspects of a circumstance, which, if accepted as true and proven true, allows a logical conclusion to be reached on a true–false evaluation. Standard reference works are often used to check facts. Scientific facts are verified by repeatable careful observation or measurement by experiments or other means.
+For example, "This sentence contains words." accurately describes a linguistic fact, and "The sun is a star" accurately describes an astronomical fact. Further, "Abraham Lincoln was the 16th President of the United States" and "Abraham Lincoln was assassinated" both accurately describe historical facts. Generally speaking, facts are independent of belief and of knowledge and opinion.
+Facts are different from theories, values, and objects.

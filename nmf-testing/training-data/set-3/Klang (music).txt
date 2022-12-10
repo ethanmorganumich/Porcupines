@@ -1,0 +1,6 @@
+Chords~Harmonic series (music)~Riemannian theory~Schenkerian analysis~
+||||||
+Klang (music)
+||||||
+In music, klang (also "clang") is a term sometimes used to translate the German Klang, a highly polysemic word. Technically, the term denotes any periodic sound, especially as opposed to simple periodic sounds (sine tones). In the German lay usage, it may mean "sound" or "tone" (as synonymous to Ton), "musical tone" (as opposed to noise), "note", or "timbre"; a chord of three notes is called a Dreiklang, etc.
+Klang has been used among others by Hugo Riemann and by Heinrich Schenker. In translations of their writings, it has erroneously been rendered as "chord" and more specifically as "chord of nature". The idea of the chord of nature connects with earlier ideas that can be found especially in French music theory. Both Hugo Riemann and Heinrich Schenker implicitly or explicitly refer to the theory of the chord of nature (which they recognize as a triad, a Dreiklang), but both reject the theory as a foundation of music because it fails to explain the minor triad. The theory of the chord of nature goes back to the discovery and the description of the harmonic partials (harmonic overtones) in the 17th century.

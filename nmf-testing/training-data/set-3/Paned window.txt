@@ -1,0 +1,5 @@
+Architecture~Architecture stubs~Windows~
+||||||
+Paned window (architecture)
+||||||
+In architecture, a paned window is a window that is divided into panes of glass, usually rectangular pieces of glass that are joined to create the glazed element of the window. Window panes are often separated from other panes (or "lights") by lead strips, or glazing bars, moulded wooden strips known as muntins in the US.Paned windows originally existed because of the difficulty of making large flat sheets of glass using traditional glassblowing techniques, which typically did not produce flat sheets larger than 8 inches square. Modern glass manufacturing process such as float glass make window panes unnecessary, but paned windows are still used as an architectural feature for aesthetic reasons.

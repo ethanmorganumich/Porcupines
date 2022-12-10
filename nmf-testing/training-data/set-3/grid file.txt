@@ -1,0 +1,8 @@
+Arrays~Computer files~
+||||||
+Grid file
+||||||
+In computer science, a grid file or bucket grid is a point access method which splits a space into a non-periodic grid where one or more cells of the grid refer to a small set of points. Grid files (a symmetric data structure) provide an efficient method of storing these indexes on disk to perform complex data lookups.
+It provides a grid of n-dimensions where n represents how many keys can be used to reference a single point.
+Grid files do not contain any data themselves but instead contain references to the correct bucket.
+

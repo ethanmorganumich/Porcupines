@@ -1,0 +1,7 @@
+Error detection and correction~ISO standards~
+||||||
+Longitudinal redundancy check
+||||||
+In telecommunication, a longitudinal redundancy check (LRC), or horizontal redundancy check, is a form of redundancy check that is applied independently to each of a parallel group of bit streams.  The data must be divided into transmission blocks, to which the additional check data is added.
+The term usually applies to a single parity bit per bit stream, calculated independently of all the other bit streams (BIP-8), although it could also be used to refer to a larger Hamming code.This "extra" LRC word at the end of a block of data is very similar to checksum and cyclic redundancy check (CRC).
+

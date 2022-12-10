@@ -1,0 +1,7 @@
+Intervals (music)~Melody~
+||||||
+Steps and skips
+||||||
+In music, a step, or conjunct motion, is the difference in pitch between two consecutive notes of a musical scale. In other words, it is the interval between two consecutive scale degrees. Any larger interval is called a skip (also called a leap), or disjunct motion.In the diatonic scale, a step is either a minor second (sometimes also called half step) or a major second (sometimes also called whole step), with all intervals of a minor third or larger being skips. For example, C to D (major second) is a step, whereas C to E (major third) is a skip.
+More generally, a step is a smaller or narrower interval in a musical line, and a skip is a wider or larger interval with the categorization of intervals into steps and skips is determined by the tuning system and the pitch space used.
+Melodic motion in which the interval between any two consecutive pitches is no more than a step, or, less strictly, where skips are rare, is called stepwise or conjunct melodic motion, as opposed to skipwise or disjunct melodic motion, characterized by frequent skips.

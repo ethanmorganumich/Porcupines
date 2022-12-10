@@ -1,0 +1,7 @@
+Telecommunications engineering~Telecommunications stubs~
+||||||
+Start signal
+||||||
+In telecommunication, a start signal is a signal that prepares a device to receive data or to perform a function. 
+In asynchronous serial communication, start signals are used at the beginning of a character that prepares the receiving device for the reception of the code elements. 
+A start signal is limited to one signal element usually having the duration of a unit interval.

@@ -1,0 +1,8 @@
+Chord factors~Chords~Harmony~Voicing (music)~
+||||||
+Second inversion
+||||||
+The second inversion of a chord is the voicing of a triad, seventh chord, or ninth chord in which the fifth of the chord is the bass note. In this inversion, the bass note and the root of the chord are a fourth apart which traditionally qualifies as a dissonance. There is therefore a tendency for movement and resolution. In notation form, it is referred to with a c following the chord position (For e.g., Ic. Vc  or IVc). In figured bass, a second-inversion triad is a 64 chord (as in I64), while a second-inversion seventh chord is a 43 chord.
+
+Inversions are not restricted to the same number of tones as the original chord, nor to any fixed order of tones except with regard to the interval between the root, or its octave, and the bass note, hence, great variety results.
+Note that any voicing above the bass is allowed. A second inversion chord must have the fifth chord factor in the bass, but it may have any arrangement of the root and third above that, including doubled notes, compound intervals, and omission (G-C-E, G-C-E-G', G-E-G-C'-E', etc.)

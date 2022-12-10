@@ -1,0 +1,7 @@
+Economics curves~Income inequality metrics~Statistical charts and diagrams~Welfare economics~
+||||||
+Lorenz curve
+||||||
+In economics, the Lorenz curve is a graphical representation of the distribution of income or of wealth. It was developed by Max O. Lorenz in 1905 for representing inequality of the wealth distribution.
+The curve is a graph showing the proportion of overall income or wealth assumed by the bottom x% of the people, although this is not rigorously true for a finite population (see below). It is often used to represent income distribution, where it shows for the bottom x% of households, what percentage (y%) of the total income they have. The percentage of households is plotted on the x-axis, the percentage of income on the y-axis.  It can also be used to show distribution of assets.  In such use, many economists consider it to be a measure of social inequality.
+The concept is useful in describing inequality among the size of individuals in ecology and in studies of biodiversity, where the cumulative proportion of species is plotted against the cumulative proportion of individuals. It is also useful in business modeling: e.g., in consumer finance, to measure the actual percentage y% of delinquencies attributable to the x% of people with worst risk scores.

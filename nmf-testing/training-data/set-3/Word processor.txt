@@ -1,0 +1,7 @@
+Word processors~
+||||||
+Word processor
+||||||
+A word processor (WP) is a device or computer program that provides for input, editing, formatting, and output of text, often with some additional features.
+Early word processors were stand-alone devices dedicated to the function, but current word processors are word processor programs running on general purpose computers.
+The functions of a word processor program fall somewhere between those of a simple text editor and a fully functioned desktop publishing program. However, the distinctions between these three have changed over time and were unclear after 2010.

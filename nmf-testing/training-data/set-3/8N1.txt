@@ -1,0 +1,6 @@
+Data transmission~Serial buses~
+||||||
+8-N-1
+||||||
+8-N-1 is a common shorthand notation for a serial port parameter setting or configuration  in asynchronous mode, in which there is one start bit, eight (8) data bits, no (N) parity bit, and one (1) stop bit.  As such, 8-N-1 is the most common configuration for PC serial communications today.
+The abbreviation is usually given together with the line speed in bits per second, as in 9600–8-N-1. The speed includes bits for framing (stop bits, parity, etc.) and the effective data rate is lower than the bit transmission rate. For 8-N-1 encoding, only 80% of the bits are available for data (for every eight bits of data, ten bits are sent over the serial link — one start bit, the eight data bits, and the one stop bit).

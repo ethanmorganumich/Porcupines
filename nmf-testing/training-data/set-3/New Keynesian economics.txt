@@ -1,0 +1,8 @@
+New Keynesian economics~
+||||||
+New Keynesian economics
+||||||
+New Keynesian economics is a school of macroeconomics that strives to provide microeconomic foundations for Keynesian economics. It developed partly as a response to criticisms of Keynesian macroeconomics by adherents of new classical macroeconomics.
+Two main assumptions define the New Keynesian approach to macroeconomics. Like the New Classical approach, New Keynesian macroeconomic analysis usually assumes that households and firms have rational expectations. However, the two schools differ in that New Keynesian analysis usually assumes a variety of market failures. In particular, New Keynesians assume that there is imperfect competition in price and wage setting to help explain why prices and wages can become "sticky", which means they do not adjust instantaneously to changes in economic conditions.
+Wage and price stickiness, and the other market failures present in New Keynesian models, imply that the economy may fail to attain full employment. Therefore, New Keynesians argue that macroeconomic stabilization by the government (using fiscal policy) and the central bank (using monetary policy) can lead to a more efficient macroeconomic outcome than a laissez faire policy would.
+New Keynesianism became part of the new neoclassical synthesis – which is now usually referred to simply as New Keynesian economics – that incorporated parts of both it and new classical macroeconomics, and forms the theoretical basis of mainstream macroeconomics today.

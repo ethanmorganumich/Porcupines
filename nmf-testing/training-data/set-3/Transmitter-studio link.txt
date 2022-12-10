@@ -1,0 +1,9 @@
+Broadcast engineering~Broadcast transmitters~Television stubs~Television terminology~
+||||||
+Studio transmitter link
+||||||
+A studio transmitter link (or STL) sends a radio station's or television station's audio and video from the broadcast studio or origination facility to a radio transmitter, television transmitter or uplink facility in another location. This is accomplished through the use of terrestrial microwave links or by using fiber optic or other telecommunication connections to the transmitter site.
+This is often necessary because the best locations for an antenna are on top of a mountain, where a much shorter radio tower is required, but where locating a studio may be impractical.  Even in flat regions, the center of the station's allowed coverage area may not be near the studio location or may lie within a populated area where a transmitter would be frowned upon by the community, so the antenna must be placed at a distance from the studio.
+Depending on the locations that must be connected, a station may choose either a point to point (PTP) link on another special radio frequency, or a newer all-digital wired link via a dedicated data transmission circuit.  Radio links can also be digital, or the older analog type, or a hybrid of the two.  Even on older all-analog systems, multiple audio and data channels can be sent using subcarriers.
+Stations that employ an STL usually also have a transmitter/studio link (TSL) to return telemetry information.  Both the STL and TSL are considered broadcast auxiliary services (BAS).
+

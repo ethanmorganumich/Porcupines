@@ -1,0 +1,9 @@
+United States Fourth Amendment case law~
+||||||
+Plain view doctrine
+||||||
+In the United States, the plain view doctrine is an exception to the Fourth Amendment's warrant requirement that allows an officer to seize evidence and contraband that are found in plain view during a lawful observation. The doctrine is also regularly used by Transportation Security Administration (TSA) officers while screening persons and property at U.S. airports.For the plain view doctrine to apply for discoveries, the three-prong Horton test requires that:
+The officer is lawfully present at the place where the evidence can be plainly viewed
+The officer has a lawful right of access to the object
+The incriminating character of the object is immediately apparent
+

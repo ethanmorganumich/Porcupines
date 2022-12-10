@@ -1,0 +1,5 @@
+Electrochemical cells~Tools~
+||||||
+Electrochemical cell
+||||||
+An electrochemical cell is a device capable of either generating electrical energy from chemical reactions or using electrical energy to cause chemical reactions. The electrochemical cells which generate an electric current are called voltaic or galvanic cells and those that generate chemical reactions, via electrolysis for example, are called electrolytic cells. A common example of a galvanic cell is a standard 1.5 volt cell meant for consumer use.  A battery consists of one or more cells, connected in parallel, series or series-and-parallel pattern.

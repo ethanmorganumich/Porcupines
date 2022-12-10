@@ -1,0 +1,5 @@
+C standard library~Sorting algorithms~
+||||||
+Qsort
+||||||
+qsort is a C standard library function that implements a polymorphic sorting algorithm for arrays of arbitrary objects according to a user-provided comparison function. It is named after the "quicker sort" algorithm (a quicksort variant due to R. S. Scowen), which was originally used to implement it in the Unix C library, although the C standard does not require it to implement quicksort.Implementations of the qsort function achieve polymorphism, the ability to sort different kinds of data, by taking a function pointer to a three-way comparison function, as well as a parameter that specifies the size of its individual input objects. The C standard requires the comparison function to implement a total order on the items in the input array.

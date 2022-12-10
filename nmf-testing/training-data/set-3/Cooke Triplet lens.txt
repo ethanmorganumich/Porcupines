@@ -1,0 +1,6 @@
+Photographic lens designs~
+||||||
+Cooke triplet
+||||||
+The Cooke triplet is a photographic lens designed and patented (patent number GB 22,607) in 1893 by Dennis Taylor who was employed as chief engineer by T. Cooke & Sons of York. It was the first lens system that allowed elimination of most of the optical distortion or aberration at the outer edge of the image.The Cooke triplet is noted for being able to correct the Seidel aberrations. It is recognized as one of the most important objective designs in the field of photography.The lens designed, invented by Dennis Taylor but named for the firm he worked for, consists of three separated lens elements. It has two biconvex lenses on the outer and a biconcave lens in the middle.The design took a new approach to solving the optical design issues, and the design was presented to the Optical Society of London.
+

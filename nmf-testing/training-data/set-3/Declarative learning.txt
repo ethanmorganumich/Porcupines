@@ -1,0 +1,5 @@
+Learning methods~
+||||||
+Declarative learning
+||||||
+Declarative learning is acquiring information that one can speak about (contrast with motor learning).  The capital of a state is a declarative piece of information, while knowing how to ride a bike is not.  Episodic memory and semantic memory are a further division of declarative information.

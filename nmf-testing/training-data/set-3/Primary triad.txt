@@ -1,0 +1,24 @@
+Chords~
+||||||
+Primary triad
+||||||
+In music, a primary triad is one of the three triads, or three-note chords built from major or minor thirds, most important in tonal and diatonic music, as opposed to an auxiliary triad or secondary triad.
+Each triad found in a diatonic key corresponds to a particular diatonic function. Functional harmony tends to rely heavily on the primary triads: triads built on the tonic, subdominant, and dominant degrees. The roots of these triads begin on the first, fourth, and fifth degrees (respectively) of the diatonic scale, otherwise symbolized: I, IV, and V (again, respectively). Primary triads, "express function clearly and unambiguously." The other triads of the diatonic key include the supertonic, mediant, sub-mediant, and leading-tone, whose roots begin on the second, third, sixth, and seventh degrees (respectively) of the diatonic scale, otherwise symbolized: ii, iii, vi, and viio (again, respectively). They function as auxiliary or supportive triads to the primary triads.
+
+In C major these are:
+
+I    C
+V    G
+IV   F
+vi   Am
+iii  Em
+ii   Dm
+viio BdimIn a minor key triads i and iv are minor chords, but in chord V the leading note is generally raised to form a major chord. For example, in A minor the primary triads are Am, Dm and E. Chord v (minor) in a minor key may be considered a primary triad, but its use is rare in common practice harmony.
+
+Auxiliary chords may be considered parallel and contrast chords derived from the primary triads. For example, the supertonic, ii, is the subdominant parallel, relative of IV (in C: a d minor chord is the subdominant parallel, the subdominant is an F major chord). Being a parallel chord in a major key it is derived through raising the fifth a major second (C of F–A–C rises to D → F–A–D, an inversion of D–F–A). Alternatively, secondary triads may be considered ii, iii, and vi. In C major these are:
+ii   Dm
+iii  Em
+vi   AmIn A minor these are:
+iio  Bdim
+III  C
+VI   F

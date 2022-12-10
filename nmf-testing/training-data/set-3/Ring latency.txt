@@ -1,0 +1,5 @@
+Computer network stubs~Network protocols~
+||||||
+Ring latency
+||||||
+In a ring network, such as Token Ring, ring latency is the time required for a signal to propagate once around the ring. Ring latency may be measured in seconds or in bits at the data transmission rate. Ring latency includes signal propagation delays in the ring medium, the drop cables, and the data stations connected to the ring network.

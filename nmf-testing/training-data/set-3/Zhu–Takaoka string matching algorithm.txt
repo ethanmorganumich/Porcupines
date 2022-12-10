@@ -1,0 +1,5 @@
+String matching algorithms~
+||||||
+Zhu–Takaoka string matching algorithm
+||||||
+In computer science, the Zhu–Takaoka string matching algorithm is a variant of the Boyer–Moore string search algorithm. It uses two consecutive text characters to compute the bad character shift. It is faster when the alphabet or pattern is small, but the skip table grows quickly, slowing the pre-processing phase.

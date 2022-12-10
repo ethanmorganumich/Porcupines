@@ -1,0 +1,5 @@
+Combinatorial optimization~
+||||||
+Parametric search
+||||||
+In the design and analysis of algorithms for combinatorial optimization, parametric search is a technique invented by Nimrod Megiddo (1983) for transforming a decision algorithm (does this optimization problem have a solution with quality better than some given threshold?) into an optimization algorithm (find the best solution). It is frequently used for solving optimization problems in computational geometry.

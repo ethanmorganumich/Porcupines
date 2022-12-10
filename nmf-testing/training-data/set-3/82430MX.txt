@@ -1,0 +1,7 @@
+ARM architecture~ARMv5 microarchitectures~BlackBerry~
+||||||
+XScale
+||||||
+XScale is a microarchitecture for central processing units initially designed by Intel implementing the ARM architecture (version 5) instruction set. XScale comprises several distinct families: IXP, IXC, IOP, PXA and CE (see more below), with some later models designed as SoCs.  Intel sold the PXA family to Marvell Technology Group in June 2006. Marvell then extended the brand to include processors with other microarchitectures, like ARM's Cortex.
+The XScale architecture is based on the ARMv5TE ISA without the floating-point instructions. XScale uses a seven-stage integer and an eight-stage memory super-pipelined microarchitecture. It is the successor to the Intel StrongARM line of microprocessors and microcontrollers, which Intel acquired from DEC's Digital Semiconductor division as part of a settlement of a lawsuit between the two companies. Intel used the StrongARM to replace its ailing line of outdated RISC processors, the i860 and i960.
+All the generations of XScale are 32-bit ARMv5TE processors manufactured with a 0.18 μm or 0.13 μm (as in IXP43x parts) process and have a 32 KB data cache and a 32 KB instruction cache. First- and second-generation XScale multi-core processors also have a 2 KB mini data cache (claimed it "avoids 'thrashing' of the D-Cache for frequently changing data streams"). Products based on the third-generation XScale have up to 512 KB unified L2 cache.

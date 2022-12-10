@@ -1,0 +1,5 @@
+Internet search engines~Open content~
+||||||
+Openverse
+||||||
+Openverse is an open-source search engine for open content developed as part of the WordPress project. It searches Creative Commons licensed and public domain content from dozens of different sources. The software is licensed under the MIT License.Openverse indexes over 600 million items.

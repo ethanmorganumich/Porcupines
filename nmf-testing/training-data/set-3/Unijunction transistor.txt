@@ -1,0 +1,6 @@
+1953 in technology~General Electric inventions~Transistor types~
+||||||
+Unijunction transistor
+||||||
+A unijunction transistor (UJT) is a three-lead electronic semiconductor device with only one junction that acts exclusively as an electrically controlled switch.
+The UJT is not used as a linear amplifier. It is used in free-running oscillators, synchronized or triggered oscillators, and pulse generation circuits at low to moderate frequencies (hundreds of kilohertz). It is widely used in the triggering circuits for silicon controlled rectifiers. In the 1960s, the low cost per unit, combined with its unique characteristic, warranted its use in a wide variety of applications like oscillators, pulse generators, saw-tooth generators, triggering circuits, phase control, timing circuits, and voltage- or current-regulated supplies. The original unijunction transistor types are now considered obsolete, but a later multi-layer device, the programmable unijunction transistor, is still widely available.

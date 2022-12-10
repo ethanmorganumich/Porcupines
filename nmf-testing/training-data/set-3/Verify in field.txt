@@ -1,0 +1,5 @@
+Architecture stubs~Construction documents~
+||||||
+Verify in field
+||||||
+Verify in field is a construction document notation indicating that the dimensions on a drawing (including architectural, structural, plumbing, mechanical, and electrical plans or miscellaneous vendor shop drawings) require additional verification on the actual site or field.  This is commonly shown on drawings as "VIF".  Generally, the dimensions to be verified will be highlighted by "bubbling" around them or through some other method to indicate that verification is required.

@@ -1,0 +1,6 @@
+16-bit computers~Data unit~
+||||||
+16-bit computing
+||||||
+In computer architecture, 16-bit integers, memory addresses, or other data units are those that are  16 bits (2 octets) wide.  Also, 16-bit central processing unit (CPU) and arithmetic logic unit (ALU) architectures are those that are based on registers, address buses, or data buses of that size. 16-bit microcomputers are microcomputers that use 16-bit microprocessors.
+A 16-bit register can store 216 different values. The range of integer values that can be stored in 16 bits depends on the integer representation used. With the two most common representations, the range is 0 through 65,535 (216 − 1) for representation as an (unsigned) binary number, and −32,768 (−1 × 215) through 32,767 (215 − 1) for representation as two's complement. Since 216 is 65,536, a processor with 16-bit memory addresses can directly access 64 KB (65,536 bytes) of byte-addressable memory. If a system uses segmentation with 16-bit segment offsets, more can be accessed.

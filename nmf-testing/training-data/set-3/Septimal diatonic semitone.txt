@@ -1,0 +1,6 @@
+7-limit tuning and intervals~Music theory stubs~Seconds (music)~Superparticular intervals~
+||||||
+Septimal diatonic semitone
+||||||
+In music, a septimal diatonic semitone (or major diatonic semitone) is the interval 15:14 Play .  It is about 119.44 cents. The septimal diatonic semitone may be derived from the harmonic series as the interval between the fourteenth and fifteenth harmonics (B7b and B).
+The septimal diatonic semitone equals a just diatonic semitone Play  (16:15, or 111.73 cents) plus a septimal kleisma (the interval 225:224, or 7.71 cents).

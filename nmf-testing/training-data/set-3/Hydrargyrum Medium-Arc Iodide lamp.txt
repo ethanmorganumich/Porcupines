@@ -1,0 +1,6 @@
+Film and video technology~Gas discharge lamps~
+||||||
+Hydrargyrum medium-arc iodide lamp
+||||||
+Hydrargyrum medium-arc iodide (HMI) is the trademark name of Osram's brand of metal-halide gas discharge medium arc-length lamp, made specifically for film and entertainment applications. Hydrargyrum comes from the Greek name for the element mercury.
+An HMI lamp uses mercury vapour mixed with metal halides in a quartz-glass envelope, with two tungsten electrodes of medium arc separation.  Unlike traditional lighting units using incandescent light bulbs, HMIs need electrical ballasts, which are separated from the head via a header cable, to limit current and supply the proper voltage. The lamp operates by creating an electrical arc between two electrodes within the bulb that excites the pressurized mercury vapour and metal halides, and provides very high light output with greater efficiency than incandescent lighting units. The efficiency advantage is near fourfold, with approximately 85–108 lumens per watt of electricity. Unlike regular incandescent halogen lamps where a halide gas is used to regenerate the filament and keep the evaporated tungsten from darkening the glass, the mercury vapour and the metal halides in HMI lamps are what emit the light.  The high color rendering index (CRI) and color temperature are due to the specific lamp chemistry.

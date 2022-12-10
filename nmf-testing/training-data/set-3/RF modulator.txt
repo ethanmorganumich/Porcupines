@@ -1,0 +1,5 @@
+Audiovisual connectors~Consumer electronics~Video hardware~
+||||||
+RF modulator
+||||||
+An RF modulator (or radio frequency modulator) is an electronic device whose input is a baseband signal which is used to modulate a radio frequency source.RF modulators are used to convert signals from devices such as media players, VCRs and game consoles to a format that can be handled by a device designed to receive a modulated RF input, such as a radio or television receiver.

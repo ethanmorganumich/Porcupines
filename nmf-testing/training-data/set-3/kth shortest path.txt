@@ -1,0 +1,7 @@
+Computational problems in graph theory~Graph algorithms~Network theory~Polynomial-time problems~
+||||||
+K shortest path routing
+||||||
+The k shortest path routing problem is a generalization of the shortest path routing problem in a given network. It asks not only about a shortest path but also about next k−1 shortest paths (which may be longer than the shortest path). A variation of the problem is the loopless k shortest paths.
+Finding k shortest paths is possible by extending Dijkstra algorithm or Bellman-Ford algorithm.
+

@@ -1,0 +1,6 @@
+Planar graphs~
+||||||
+Planarization
+||||||
+In the mathematical field of graph theory, planarization is a method of extending graph drawing methods from planar graphs to graphs that are not planar, by embedding the non-planar graphs within a larger planar graph.Planarization may be performed by using any method to find a drawing (with crossings) for the given graph, and then replacing each crossing point by a new artificial vertex, causing each crossed edge to be subdivided into a path. The original graph will be represented as an immersion minor of its planarization.
+In incremental planarization, the planarization process is split into two stages. First, a large planar subgraph is found within the given graph. Then, the remaining edges that are not already part of this subgraph are added back one at a time, and routed through an embedding of the planar subgraph. When one of these edges crosses an already-embedded edge, the two edges that cross are replaced by two-edge paths, with a new artificial vertex that represents the crossing point placed at the middle of both paths. In some case a third local optimization stage is added to the planarization process, in which edges with many crossings are removed and re-added in an attempt to improve the planarization.

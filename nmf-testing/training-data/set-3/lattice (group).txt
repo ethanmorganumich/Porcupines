@@ -1,0 +1,59 @@
+Analytic geometry~Discrete groups~Lattice points~Lie groups~
+||||||
+Lattice (group)
+||||||
+In geometry and group theory, a lattice in the real coordinate space 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+   is an infinite set of points in this space with the properties that coordinate wise addition or subtraction of two points in the lattice produces another lattice point, that the lattice points are all separated by some minimum distance, and that every point in the space is within some maximum distance of a lattice point. Closure under addition and subtraction means that a lattice must be a subgroup of the additive group of the points in the space, and the requirements of minimum and maximum distance can be summarized by saying that a lattice is a Delone set. More abstractly, a lattice can be described as a free abelian group of dimension 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   which spans the vector space 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+  . For any basis of 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+  , the subgroup of all linear combinations with integer coefficients of the basis vectors forms a lattice, and every lattice can be formed from a basis in this way. A lattice may be viewed as a regular tiling of a space by a primitive cell.
+Lattices have many significant applications in pure mathematics, particularly in connection to Lie algebras, number theory and group theory. They also arise in applied mathematics in connection with coding theory, in percolation theory to study connectivity arising from small-scale interactions, cryptography because of conjectured computational hardness of several lattice problems, and are used in various ways in the physical sciences. For instance, in materials science and solid-state physics, a lattice is a synonym for the "framework of a crystalline structure, a 3-dimensional array of regularly spaced points coinciding in special cases with the atom or molecule positions in a crystal. More generally, lattice models are studied in physics, often by the techniques of computational physics.

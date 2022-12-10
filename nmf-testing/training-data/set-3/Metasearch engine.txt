@@ -1,0 +1,6 @@
+Internet search engines~Metasearch engines~
+||||||
+Metasearch engine
+||||||
+A metasearch engine (or search aggregator) is an online information retrieval tool that uses the data of a  web search engine to produce its own results. Metasearch engines take input from a user and immediately query search engines for results. Sufficient data is gathered, ranked, and presented to the users.
+Problems such as spamming reduces the accuracy and precision of results. The process of fusion aims to improve the engineering of a metasearch engine.Examples of metasearch engines include Skyscanner and Kayak.com, which aggregate search results of online travel agencies and provider websites and Searx, a free and open-source search engine which aggregates results from internet search engines.

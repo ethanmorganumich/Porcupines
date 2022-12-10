@@ -1,0 +1,8 @@
+Complexity classes~
+||||||
+♯P-complete
+||||||
+The #P-complete problems (pronounced "sharp P complete" or "number P complete") form a complexity class in computational complexity theory. The problems in this complexity class are defined by having the following two properties:
+
+The problem is in #P, the class of problems that can be defined as counting the number of accepting paths of a polynomial-time non-deterministic Turing machine.
+The problem is #P-hard, meaning that every other problem in #P has a Turing reduction or polynomial-time counting reduction to it. A counting reduction is a pair of polynomial-time transformations from inputs of the other problem to inputs of the given problem and from outputs of the given problem to outputs of the other problem, allowing the other problem to be solved using any subroutine for the given problem. A Turing reduction is an algorithm for the other problem that makes a polynomial number of calls to a subroutine for the given problem and, outside of those calls, uses polynomial time. In some cases parsimonious reductions, a more specific type of reduction that preserves the exact number of solutions, are used.#P-complete problems are at least as hard as NP-complete problems. A polynomial-time algorithm for solving a #P-complete problem, if it existed, would solve the P versus NP problem by implying that P and NP are equal. No such algorithm is known, nor is a proof known that such an algorithm does not exist.

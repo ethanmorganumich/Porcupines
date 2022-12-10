@@ -1,0 +1,6 @@
+Hierarchy~Structural complexity theory~
+||||||
+Polynomial hierarchy
+||||||
+In computational complexity theory, the polynomial hierarchy (sometimes called the polynomial-time hierarchy) is a hierarchy of complexity classes that generalize the classes NP and co-NP. Each class in the hierarchy is contained within PSPACE. The hierarchy can be defined using oracle machines or alternating Turing machines. It is a resource-bounded counterpart to the arithmetical hierarchy and analytical hierarchy from mathematical logic. The union of the classes in the hierarchy is denoted PH.
+Classes within the hierarchy have complete problems (with respect to polynomial-time reductions) which ask if quantified Boolean formulae hold, for formulae with restrictions on the quantifier order. It is known that equality between classes on the same level or consecutive levels in the hierarchy would imply a "collapse" of the hierarchy to that level.

@@ -1,0 +1,10 @@
+Chords~Harmony~Musical keys~Tonality~
+||||||
+Parallel key
+||||||
+In music theory, a major scale and a minor scale that have the same tonic note are called parallel keys and are said to be in a parallel relationship. The parallel minor or tonic minor of a particular major key is the minor key based on the same tonic; similarly the parallel major has the same tonic as the minor key. For example, G major and G minor have different modes but both have the same tonic, G; so G minor is said to be the parallel minor of G major. In contrast, a major scale and a minor scale that have the same key signature (and therefore different tonics) are called relative keys.
+
+A major scale can be transformed to its parallel minor by lowering the third, sixth, and seventh scale degrees, and a minor scale can be transformed to its parallel major by sharpening those same scale degrees.
+In the early nineteenth century, composers began to experiment with freely borrowing chords from the parallel key.
+To the Western ear, the switch from a major key to its parallel minor sounds like a fairly simplistic saddening of the mood (while the opposite sounds like a brightening). This change is quite distinct from a switch to the relative minor. Class or key have their second theme in the relative major in the exposition, but the second theme comes back in the original minor key in the recapitulation. This is unique to the form, and allows the composer to state a given theme in both major and minor modes. Later it also became common to state the second theme in the tonic major in the recapitulation, with or without a later return to the minor.
+In rock and popular music, examples of songs that emphasize parallel keys include Grass Roots' "Temptation Eyes", The Police's "Every Little Thing She Does Is Magic", Lipps Inc's "Funkytown", The Beatles' "Norwegian Wood," and Dusty Springfield's "You Don't Have To Say You Love Me".

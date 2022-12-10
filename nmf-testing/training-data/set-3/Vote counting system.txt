@@ -1,0 +1,9 @@
+Elections~Elections in the United States~Statistical methods~Vote counting~Voting~
+||||||
+Vote counting
+||||||
+Vote counting is the process of counting votes in an election. It can be done manually or by machines. In the United States, the compilation of election returns and validation of the outcome that forms the basis of the official results is called canvassing.Counts are simplest in elections where just one choice is on the ballot, and these are often counted manually. In elections where many choices are on the same ballot, counts are often done by computers to give quick results. Tallies done at distant locations must be carried or transmitted accurately to the central election office.
+Manual counts are usually accurate within one percent. Computers are at least that accurate, except when they have undiscovered bugs, broken sensors scanning the ballots, paper misfeeds, or hacks. Officials keep election computers off the internet to minimize hacking, but the manufacturers are on the internet. They and their annual updates are still subject to hacking, like any computers. Further voting machines are in public locations on election day, and often the night before, so they are vulnerable.
+Paper ballots and computer files of results are stored until they are tallied, so they need secure storage, which is hard. The election computers themselves are stored for years, and briefly tested before each election.
+Despite the challenges to the U.S. voting process integrity in recent years, including multiple claims by Republican Party members of error or voter fraud in 2020 and 2021, a robust examination of the voting process in multiple U.S. states, including Arizona (where claims were most strenuous) found no basis in truth for those claims. The absence of error and fraud is partially attributable to the inherent checks and balances in the voting process itself, which are, as with democracy, built into the system to reduce their likelihood.
+

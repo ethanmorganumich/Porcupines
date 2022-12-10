@@ -1,0 +1,7 @@
+Equal temperaments~Microtonality~
+||||||
+31 equal temperament
+||||||
+In music, 31 equal temperament, 31-ET, which can also be abbreviated 31-TET (31 tone ET) or 31-EDO (equal division of the octave), also known as tricesimoprimal, is the tempered scale derived by dividing the octave into 31 equal-sized steps (equal frequency ratios). Play  Each step represents a frequency ratio of 31√2, or 38.71 cents (Play ).
+31-ET is a very good approximation of quarter-comma meantone temperament. More generally, it is a regular diatonic tuning in which the tempered perfect fifth is equal to 696.77 cents, as shown in Figure 1. On an isomorphic keyboard, the fingering of music composed in 31-ET is precisely the same as it is in any other syntonic tuning (such as 12-ET), so long as the notes are spelled properly — that is, with no assumption of enharmonicity.
+

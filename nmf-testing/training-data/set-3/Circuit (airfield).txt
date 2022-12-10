@@ -1,0 +1,7 @@
+Air traffic control~Flight phases~
+||||||
+Airfield traffic pattern
+||||||
+An airfield traffic pattern is a standard path followed by aircraft when taking off or landing while maintaining visual contact with the airfield.
+At an airport, the pattern (or circuit) is a standard path for coordinating air traffic. It differs from "straight-in approaches" and "direct climb-outs" in that aircraft using a traffic pattern remain close to the airport. Patterns are usually employed at small general aviation (GA) airfields and military airbases. Many large controlled airports avoid the system unless there is GA activity as well as commercial flights. However, some kind of a pattern may be used at airports in some cases such as when an aircraft is required to go around, but this kind of pattern at controlled airports may be very different in form, shape, and purpose to the standard traffic pattern as used at GA airports.
+The use of a pattern at airfields is for aviation safety. By using a consistent flight pattern, pilots will know from where to expect other air traffic and be able to see and avoid it. Pilots flying under visual flight rules (VFR) may not be separated by air traffic control, so this consistent predictable pattern is a vital way to keep things orderly. At tower-controlled airports, air traffic control (ATC) may provide traffic advisories for VFR flights on a work-load permitting basis.

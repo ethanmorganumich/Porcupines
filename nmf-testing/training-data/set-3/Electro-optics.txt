@@ -1,0 +1,5 @@
+Atomic, molecular, and optical physics~Nonlinear optics~Optoelectronics~
+||||||
+Electro-optics
+||||||
+Electro–optics is a branch of electrical engineering, electronic engineering, materials science, and material physics involving components, electronic devices such as lasers, laser diodes, LEDs, waveguides, etc. which operate by the propagation and interaction of light with various tailored materials. It is closely related to the branch of optics, involving application of generation of photons, called photonics. It is not only concerned with the "electro–optic effect", since it deals with the interaction between the electromagnetic (optical) and the electrical (electronic) states of materials.

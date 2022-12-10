@@ -1,0 +1,11 @@
+International trade documents~Ship chartering~
+||||||
+Bill of lading
+||||||
+A bill of lading () (sometimes abbreviated as B/L or BOL) is a document issued by a carrier (or their agent) to acknowledge receipt of cargo for shipment. Although the term historically related only to carriage by sea, a bill of lading may today be used for any type of carriage of goods.
+Bills of lading are one of three crucial documents used in international trade to ensure that exporters receive payment and importers receive the merchandise. The other two documents are a policy of insurance and an invoice. Whereas a bill of lading is negotiable, both a policy and an invoice are assignable. In international trade outside the United States, bills of lading are distinct from waybills in that the latter are not transferable and do not confer title. Nevertheless, the UK Carriage of Goods by Sea Act 1992 grants "all rights of suit under the contract of carriage" to the lawful holder of a bill of lading, or to the consignee under a sea waybill or a ship's delivery order.
+A bill of lading must be transferable, and serves three main functions:
+
+it is a conclusive receipt, i.e. an acknowledgement that the goods have been loaded; and
+it contains, or evidences, the terms of the contract of carriage; and
+it serves as a document of title to the goods, subject to the nemo dat rule.Typical export transactions use Incoterms terms such as CIF, FOB or FAS, requiring the exporter/shipper to deliver the goods to the ship, whether onboard or alongside. Nevertheless, the loading itself will usually be done by the carrier or by a third party stevedore.

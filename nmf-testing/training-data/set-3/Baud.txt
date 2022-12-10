@@ -1,0 +1,7 @@
+Data transmission~Units of frequency~
+||||||
+Baud
+||||||
+In telecommunication and electronics, baud (; symbol: Bd) is a common unit of measurement of symbol rate, which is one of the components that determine the speed of communication over a data channel.
+It is the unit for symbol rate or modulation rate in symbols per second or pulses per second. It is the number of distinct symbol changes (signalling events) made to the transmission medium per second in a digitally modulated signal or a bd rate line code.
+Baud is related to gross bit rate, which can be expressed in bits per second. If there are precisely two symbols in the system (typically 0 and 1), then baud and bit per second (bit/s) are equivalent.

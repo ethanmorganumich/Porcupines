@@ -1,0 +1,6 @@
+Architectural element stubs~Columns and entablature~
+||||||
+Compression member
+||||||
+Compression members are structural elements that are pushed together or carry a load; more technically, they are subjected only to axial compressive forces. That is, the loads are applied on the longitudinal axis through the centroid of the member cross section, and the load over the cross-sectional area gives the stress on the compressed member.
+In buildings, posts and columns are almost always compression members, as are the top chord of trusses.

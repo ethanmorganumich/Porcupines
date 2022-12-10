@@ -1,0 +1,9 @@
+Criminal law legal terminology~Elements of crime~Guilt~
+||||||
+Accomplice
+||||||
+Under the English common law, an accomplice is a person who actively participates in the commission of a crime, even if they take no part in the actual criminal offense. For example, in a bank robbery, the person who points the gun at the teller and demands the money is guilty of armed robbery.  Anyone else directly involved in the commission of the crime, such as the lookout or the getaway car driver, is an accomplice, even if in the absence of an underlying offense keeping a lookout or driving a car would not be an offense.
+An accomplice differs from an accessory in that an accomplice is present at the actual crime, and could be prosecuted even if the main criminal (the principal) is not charged or convicted. An accessory is generally not present at the actual crime, and may be subject to lesser penalties than an accomplice or principal.
+At law, an accomplice has the same degree of guilt as the person(s) who committed the underlying crime, and is subject to the same level of prosecution for the same crime, and faces similar criminal penalties.  As such, the three accomplices to the bank robbery above can also to a degree be found guilty of armed robbery even if only one stole money.
+The fairness of the doctrine that the accomplice is still guilty has been subject to much discussion, particularly in cases of capital crimes.  Accomplices have been prosecuted for felony murder even if the actual person who committed the murder died at the crime scene or otherwise did not face capital punishment.
+In jurisdictions based on the common law, the concept of an accomplice has often been heavily modified by statute, or replaced by new concepts entirely.

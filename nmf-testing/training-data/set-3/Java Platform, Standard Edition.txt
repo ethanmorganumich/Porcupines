@@ -1,0 +1,6 @@
+Computing platforms~Java platform~Java specification requests~
+||||||
+Java Platform, Standard Edition
+||||||
+Java Platform, Standard Edition (Java SE) is a computing platform for development and deployment of portable code for desktop and server environments. Java SE was formerly known as Java 2 Platform, Standard Edition (J2SE).
+The platform uses Java programming language and is part of the Java software-platform family. Java SE defines a range of general-purpose APIs—such as Java APIs for the Java Class Library—and also includes the Java Language Specification and the Java Virtual Machine Specification. OpenJDK is the official reference implementation since version 7.

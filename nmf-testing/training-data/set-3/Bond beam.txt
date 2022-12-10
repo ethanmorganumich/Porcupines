@@ -1,0 +1,6 @@
+Architectural elements~Building engineering~
+||||||
+Bond beam
+||||||
+A bond beam is a horizontal structural element, usually found as an embedded part of a masonry wall assembly. The bond beam serves to impart horizontal strength to a wall where it may not otherwise be braced by floor or roof structure. Bond beams encase steel reinforcing in grout or concrete, binding the structure together horizontally, and often interlocking with additional vertical reinforcement. 
+A bond beam is typically found near the top of a freestanding wall. It may also be used to provide a consistent anchorage for floor or roof structure. Bond beam assemblies are most commonly used in construction using concrete masonry units, where special shapes allow the beam to blend with the wall construction, but may also be built using brick or may be formed in concrete.

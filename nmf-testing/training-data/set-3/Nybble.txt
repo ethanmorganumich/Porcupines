@@ -1,0 +1,6 @@
+Computing terminology~Data unit~Units of information~
+||||||
+Nibble
+||||||
+In computing, a nibble (occasionally nybble, nyble, or nybl to match the spelling of byte) is a four-bit aggregation, or half an octet. It is also known as half-byte or tetrade. In a networking or telecommunication context, the nibble is often called a semi-octet, quadbit, or quartet. A nibble has sixteen (24) possible values. A nibble can be represented by a single hexadecimal digit (0–F) and called a hex digit.A full byte (octet) is represented by two hexadecimal digits (00–FF); therefore, it is common to display a byte of information as two nibbles. Sometimes the set of all 256-byte values is represented as a 16×16 table, which gives easily readable hexadecimal codes for each value.
+Four-bit computer architectures use groups of four bits as their fundamental unit. Such architectures were used in early microprocessors, pocket calculators and pocket computers. They continue to be used in some microcontrollers. In this context, 4-bit groups were sometimes also called characters rather than nibbles.

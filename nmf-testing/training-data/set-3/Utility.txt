@@ -1,0 +1,5 @@
+Choice modelling~Ethical principles~Utility~
+||||||
+Utility
+||||||
+As a topic of economics, utility is used to model worth or value. Its usage has evolved significantly over time. The term was introduced initially as a measure of pleasure or happiness as part of the theory of utilitarianism by moral philosophers such as Jeremy Bentham and John Stuart Mill. The term has been adapted and reapplied within neoclassical economics, which dominates modern economic theory, as a utility function that represents a single consumer's preference ordering over a choice set but is not comparable across consumers. This concept of utility is personal and based on choice rather than on pleasure received, and so is specified more rigorously than the original concept but makes it less useful (and controversial) for ethical decisions.

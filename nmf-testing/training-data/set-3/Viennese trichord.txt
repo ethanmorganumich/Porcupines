@@ -1,0 +1,8 @@
+Chords~Musical set theory~Tritones~
+||||||
+Viennese trichord
+||||||
+In music theory, a Viennese trichord (also Viennese fourth chord and tritone-fourth chord), named for the Second Viennese School, is a pitch set with prime form (0,1,6). Its Forte number is 3-5. The sets C–D♭–G♭ and C–F♯–G are both examples of Viennese trichords, though they may be voiced in many ways.
+
+According to Henry Martin, "[c]omposers such as Webern ... are partial to 016 trichords, given their 'more dissonant' inclusion of ics 1 and 6."In jazz and popular music, the chord formed by the inversion of the set usually has a dominant function, being the third, seventh, and added fourth/eleventh of a dominant chord with elided root (and fifth, see jazz chord).  For example, the Viennese trichord of C-F#-G could be considered a D11/C:  D (elided) - F# - A (elided) - C - G. 
+

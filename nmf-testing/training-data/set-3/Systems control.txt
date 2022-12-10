@@ -1,0 +1,16 @@
+Technology systems~Telecommunications stubs~Telecommunications systems~
+||||||
+Systems control
+||||||
+Systems control, in a communications system, is the control and implementation of a set of functions that:
+
+prevent or eliminate degradation of any part of the system,
+initiate immediate response to demands that are placed on the system,
+respond to changes in the system to meet long range requirements, and
+may include various subfunctions, such as
+immediate circuit utilization actions,
+continuous control of circuit quality,
+continuous control of equipment performance,
+development of procedures for immediate repair, restoration, or replacement of facilities and equipment,
+continuous liaison with system users and with representatives of other systems, and
+the provision of advice and assistance in system use.

@@ -1,0 +1,12 @@
+Telecommunication theory~
+||||||
+Critical frequency
+||||||
+In telecommunication, the term critical frequency has the following meanings:
+In radio propagation by way of the ionosphere, the limiting frequency at or below which a wave component is reflected by, and above which it penetrates through, an ionospheric layer.
+At near vertical incidence, the limiting frequency at or below which incidence, the wave component is reflected by, and above which it penetrates through, an ionospheric layer.Critical Frequency changes with time of day, atmospheric conditions and angle of fire of the radio waves by antenna.
+The existence of the critical frequency is the result of electron limitation, i.e., the inadequacy of the existing number of free electrons to support reflection at higher frequencies.
+In signal processing the critical frequency it is also another name for the Nyquist frequency.
+Critical frequency is the highest magnitude of frequency above which the waves penetrate the ionosphere and below which the waves are reflected back from the ionosphere.
+It is denoted by "fc".
+Its value is not fixed and it depends upon the electron density of the ionosphere.

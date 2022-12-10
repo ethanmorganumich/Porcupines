@@ -1,0 +1,16 @@
+Aerodynamics~Aircraft wing design~Kites~
+||||||
+Angle of attack
+||||||
+In fluid dynamics, angle of attack (AOA, α, or 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  ) is the angle between a reference line on a body (often the chord line of an airfoil) and the vector representing the relative motion between the body and the fluid through which it is moving. Angle of attack is the angle between the body's reference line and the oncoming flow. This article focuses on the most common application, the angle of attack of a wing or airfoil moving through air.
+In aerodynamics, angle of attack specifies the angle between the chord line of the wing of a fixed-wing aircraft and the vector representing the relative motion between the aircraft and the atmosphere.  Since a wing can have twist, a chord line of the whole wing may not be definable, so an alternate reference line is simply defined. Often, the chord line of the root of the wing is chosen as the reference line. Another choice is to use a horizontal line on the fuselage as the reference line (and also as the longitudinal axis). Some authors do not use an arbitrary chord line but use the zero lift axis where, by definition, zero angle of attack corresponds to zero coefficient of lift.
+Some British authors have used the term angle of incidence instead of angle of attack.  However, this can lead to confusion with the term riggers' angle of incidence meaning the angle between the chord of an airfoil and some fixed datum in the airplane.
+

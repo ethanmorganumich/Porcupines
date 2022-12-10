@@ -1,0 +1,70 @@
+Analytic number theory~Approximations~Asymptotic analysis~Gamma and related functions~Theorems in analysis~
+||||||
+Stirling's approximation
+||||||
+In mathematics, Stirling's approximation (or Stirling's formula) is an approximation for factorials. It is a good approximation, leading to accurate results even for small values of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  . It is named after James Stirling, though a related but less precise result was first stated by Abraham de Moivre.The version of the formula typically used in applications is
+
+(in Big Theta notation, as 
+  
+    
+      
+        n
+        →
+        ∞
+      
+    
+    {\displaystyle n\to \infty }
+  ), or, by changing the base of the logarithm (for instance in the worst-case lower bound for comparison sorting),
+ Specifying the constant in the 
+  
+    
+      
+        Θ
+        (
+        ln
+        ⁡
+        n
+        )
+      
+    
+    {\displaystyle \Theta (\ln n)}
+   error term gives 1/2ln(2πn), yielding the more precise formula
+
+where the sign ~ means that the two quantities are asymptotic, that is, that their ratio tends to 1 as 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   tends to infinity. The following version of the bound holds for all 
+  
+    
+      
+        n
+        ≥
+        1
+      
+    
+    {\displaystyle n\geq 1}
+  , rather than only asymptotically:
+
+In particular, for 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   sufficiently large, it holds that
+

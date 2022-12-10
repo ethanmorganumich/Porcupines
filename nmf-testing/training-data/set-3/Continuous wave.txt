@@ -1,0 +1,6 @@
+Amateur radio~Laser science~Radio modulation modes~Waveforms~
+||||||
+Continuous wave
+||||||
+A continuous wave or continuous waveform (CW) is an electromagnetic wave of constant amplitude and frequency, typically a sine wave, that for mathematical analysis is considered to be of infinite duration. It may refer to e.g. a laser or particle accelerator having a continuous output, as opposed to a pulsed output.
+Continuous wave is also the name given to an early method of radio transmission, in which a sinusoidal carrier wave is switched on and off. Information is carried in the varying duration of the on and off periods of the signal, for example by Morse code in early radio. In early wireless telegraphy radio transmission, CW waves were also known as "undamped waves", to distinguish this method from damped wave signals produced by earlier spark gap type transmitters.

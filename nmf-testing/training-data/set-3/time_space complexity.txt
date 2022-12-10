@@ -1,0 +1,67 @@
+Computational complexity theory~Computational resources~
+||||||
+Space complexity
+||||||
+The space complexity of an algorithm or a computer program is the amount of memory space required to solve an instance of the computational problem as a function of characteristics of the input. It is the memory required by an algorithm until it executes completely.Similar to time complexity, space complexity is often expressed asymptotically in big O notation, such as 
+  
+    
+      
+        O
+        (
+        n
+        )
+        ,
+      
+    
+    {\displaystyle O(n),}
+  
+
+  
+    
+      
+        O
+        (
+        n
+        log
+        ⁡
+        n
+        )
+        ,
+      
+    
+    {\displaystyle O(n\log n),}
+   
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            α
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle O(n^{\alpha }),}
+   
+  
+    
+      
+        O
+        (
+        
+          2
+          
+            n
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle O(2^{n}),}
+   etc., where n is a characteristic of the input influencing space complexity.

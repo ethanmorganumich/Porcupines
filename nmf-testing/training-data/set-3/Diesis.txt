@@ -1,0 +1,8 @@
+Commas (music)~
+||||||
+Diesis
+||||||
+In classical music from Western culture, a diesis ( DY-ə-siss, plural dieses ( DY-ə-seez), "difference";  Greek: δίεσις "leak" or "escape") is either an accidental (see sharp), or a very small musical interval, usually defined as the difference between an octave (in the ratio 2:1) and three justly tuned major thirds (tuned in the ratio 5:4), equal to 128:125 or about 41.06 cents. In 12-tone equal temperament (on a piano for example) three major thirds in a row equal an octave, but three justly-tuned major thirds fall quite a bit narrow of an octave, and the diesis describes the amount by which they are short.
+For instance, an octave (2:1) spans from C to C', and three justly tuned major thirds (5:4) span from C to B♯ (namely, from C, to E, to G♯, to B♯). The difference between C-C' (2:1) and C-B♯ (125:64) is the diesis (128:125). Notice that this coincides with the interval between B♯ and C', also called a diminished second.
+The diesis is a comma. The above-mentioned 128:125 comma is also known as the lesser diesis, as opposed to a wider comma (648:625) known as greater diesis. As shown in the picture, in the quarter-comma meantone tuning system (a tuning system in which, by definition, major thirds are justly tuned), the diminished second coincides with the diesis.
+

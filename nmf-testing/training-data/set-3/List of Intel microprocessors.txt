@@ -1,0 +1,5 @@
+Intel microprocessors~Lists of microprocessors~
+||||||
+List of Intel processors
+||||||
+This generational list of Intel processors attempts to present all of Intel's processors from the pioneering 4-bit 4004 (1971) to the present high-end offerings. Concise technical data is given for each product.

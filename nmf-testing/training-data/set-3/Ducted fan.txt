@@ -1,0 +1,8 @@
+Aircraft engines~Aircraft propulsion components~Ventilation fans~
+||||||
+Ducted fan
+||||||
+In aeronautics, a ducted fan is a thrust-generating mechanical fan or propeller mounted within a cylindrical duct or shroud. Other terms include ducted propeller or shrouded propeller. When used in vertical takeoff and landing
+(VTOL) applications it is also known as a shrouded rotor.Ducted fans are used for propulsion or direct lift in many types of vehicle including aeroplanes, airships, hovercraft, and powered lift VTOL aircraft. The high-bypass turbofan engines used on many modern airliners is an example of a very successful and popular use of ducted fan design.
+The duct increases thrust efficiency by up to 90% in some cases, in comparison to a similar-sized propeller in free air. Ducted fans are quieter, and offer good opportunities for thrust vectoring. The shroud offers good protection to ground personnel from accidentally contacting the spinning blades, as well as protecting the blades themselves from external debris or objects. By varying the cross-section of the duct the designer can advantageously affect the velocity and pressure of the airflow according to Bernoulli's principle. 
+Drawbacks include increased weight due to the added structure of the shroud, a need for precision in tolerances of blade-tip to shroud clearance, a need for better vibration control compared to free-air propellers, and complex duct design requirements. Lastly, when at high angles of attack, the shroud can stall and produce high drag.

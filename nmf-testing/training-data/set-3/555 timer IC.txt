@@ -1,0 +1,5 @@
+Electronic oscillators~Linear integrated circuits~
+||||||
+555 timer IC
+||||||
+The 555 timer IC is an integrated circuit (chip) used in a variety of timer, delay, pulse generation, and oscillator applications.  Derivatives provide two (556) or four (558) timing circuits in one package. The design was first marketed in 1972 by Signetics.  Since then, numerous companies have made the original bipolar timers, as well as similar low-power CMOS timers.  In 2017, it was said that over a billion 555 timers are produced annually by some estimates, and that the design was "probably the most popular integrated circuit ever made".

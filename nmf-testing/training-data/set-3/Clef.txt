@@ -1,0 +1,13 @@
+Bass (sound)~Musical notation~
+||||||
+Clef
+||||||
+A clef (from French: clef 'key') is a musical symbol used to indicate which notes are represented by the lines and spaces on a musical stave. Placing a clef on a stave assigns a particular pitch to one of the five lines, which defines the pitches on the remaining lines and spaces.
+The three clef symbols used in modern music notation are the G-clef, F-clef, and C-clef. Placing these clefs on a line fixes a reference note to that line—an F-clef fixes the F below middle C, a C-clef fixes middle C, and a G-clef fixes the G above middle C. In modern music notation, the G-clef is most frequently seen as treble clef (placing G4 on the second line of the stave), and the F-clef as bass clef (placing F3 on the fourth line). The C-clef is mostly encountered as alto clef (placing middle C on the third line) or tenor clef (middle C on the fourth line). A clef may be placed on a space instead of a line, but this is rare.
+The use of different clefs makes it possible to write music for all instruments and voices, regardless of differences in range. Using different clefs for different instruments and voices allows each part to be written comfortably on a stave with a minimum of ledger lines. To this end, the G-clef is used for high parts, the C-clef for middle parts, and the F-clef for low parts. Transposing instruments can be an exception to this—the same clef is generally used for all instruments in a family, regardless of their sounding pitch. For example, even the low saxophones read in treble clef.
+A symmetry exists surrounding middle C regarding the F-, C- and G-clefs. C-clef defines middle C whereas treble clef and bass clef define the note at the interval of a fifth above middle C and below middle C, respectively. 
+Two common mnemonics for learning the clef lines are:
+
+ Good Boys Do Fine Always (bass clef)
+ Every Good Boy Does Fine (treble clef)
+

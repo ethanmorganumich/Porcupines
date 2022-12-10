@@ -1,0 +1,16 @@
+Email worms~Malware stubs~
+||||||
+Sircam
+||||||
+Sircam is a computer worm that first propagated in 2001 by e-mail in Microsoft Windows systems. It affected computers running Windows 95, Windows 98, and Windows Me (Millennium). It began with one of the following lines of text and had an attachment consisting of the worm's executable with some file from the infected computer appended:
+
+I send you this file in order to have your advice
+I hope you like the file that I sent youI hope you can help me with this file that I send
+This is the file with the information you ask for
+Te mando este archivo para que me des tu punto de vista  (in Spanish)
+Espero te guste este archivo que te mando
+Espero me puedas ayudar con el archivo que te mando
+Este es el archivo con la informacion que me pedisteDue to an error in the worm, the message was rarely sent in any form other than "I send you this file in order to have your advice." This subsequently became an in-joke among those who were using the Internet at the time, and were spammed with e-mails containing this string sent by the worm.
+Sircam was notable during its outbreak for the way it distributed itself. Document files (usually .doc or .xls) on the infected computer were chosen at random, infected with the virus and emailed out to email addresses in the host's address book. Opening the infected file resulted in infection of the target computer. During the outbreak, many personal or private files were emailed to people who otherwise should not have received them.
+It could also spread via open shares on a network. Sircam scanned the network for computers with shared drives and copied itself to a machine with an open (non-password protected) drive or directory. A simple RPC (Remote Procedure Call) was then executed to start the process on the target machine, usually unknown to the owner of the now-compromised computer.
+Over a year after the initial 2001 outbreak, Sircam was still in the top 10 on virus charts.

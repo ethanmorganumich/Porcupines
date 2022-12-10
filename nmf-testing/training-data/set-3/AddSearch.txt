@@ -1,0 +1,5 @@
+Companies based in Helsinki~Internet search engines~Search engine software~
+||||||
+AddSearch
+||||||
+AddSearch is a Helsinki-based company providing a hosted site search service that allows its user to set up a site search engine with a search API.

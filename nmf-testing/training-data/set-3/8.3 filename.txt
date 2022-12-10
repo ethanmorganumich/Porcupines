@@ -1,0 +1,5 @@
+CP/M technology~DOS technology~Filenames~
+||||||
+8.3 filename
+||||||
+An 8.3 filename (also called a short filename or SFN) is a filename convention used by old versions of DOS and versions of Microsoft Windows prior to Windows 95 and Windows NT 3.5. It is also used in modern Microsoft operating systems as an alternate filename to the long filename for compatibility with legacy programs. The filename convention is limited by the FAT file system. Similar 8.3 file naming schemes have also existed on earlier CP/M, TRS-80, Atari, and some Data General and Digital Equipment Corporation minicomputer operating systems.

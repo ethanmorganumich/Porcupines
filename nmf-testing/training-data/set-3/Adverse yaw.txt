@@ -1,0 +1,5 @@
+Aerodynamics~Gliding technology~
+||||||
+Adverse yaw
+||||||
+Adverse yaw is the natural and undesirable tendency for an aircraft to yaw in the opposite direction of a roll. It is caused by the difference in lift and drag of each wing. The effect can be greatly minimized with ailerons deliberately designed to create drag when deflected upward and/or mechanisms which automatically apply some amount of coordinated rudder.  As the major causes of adverse yaw vary with lift, any fixed-ratio mechanism will fail to fully solve the problem across all flight conditions and thus any manually operated aircraft will require some amount of rudder input from the pilot in order to maintain coordinated flight.

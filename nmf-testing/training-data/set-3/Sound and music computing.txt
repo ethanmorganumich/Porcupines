@@ -1,0 +1,5 @@
+Information science~Music technology~
+||||||
+Sound and music computing
+||||||
+Sound and music computing (SMC) is a research field that studies the whole sound and music communication chain from a multidisciplinary point of view. By combining scientific, technological and artistic methodologies it aims at understanding, modeling and generating sound and music through computational approaches.

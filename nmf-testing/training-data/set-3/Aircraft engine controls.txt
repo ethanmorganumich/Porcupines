@@ -1,0 +1,5 @@
+Aircraft controls~
+||||||
+Aircraft engine controls
+||||||
+Aircraft engine controls provide a means for the pilot to control and monitor the operation of the aircraft's powerplant.  This article describes controls used with a basic internal-combustion engine driving a propeller.  Some optional or more advanced configurations are described at the end of the article.  Jet turbine engines use different operating principles and have their own sets of controls and sensors.

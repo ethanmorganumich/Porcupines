@@ -1,0 +1,5 @@
+Diminished intervals~Music theory stubs~Octaves~
+||||||
+Diminished octave
+||||||
+In music from Western culture, a diminished octave (Play ) is an interval produced by narrowing a perfect octave by a chromatic semitone. As such, the two notes are denoted by the same letter but have different accidentals. For instance, the interval from C4 to C5 is a perfect octave, twelve semitones wide, and both the intervals from C♯4 to C5 and from C4 to C♭5 are diminished octaves, spanning eleven semitones. Being diminished, it is considered a dissonant interval.The diminished octave is enharmonically equivalent to the major seventh.

@@ -1,0 +1,7 @@
+Approximation algorithms~Reduction (complexity)~Theoretical computer science stubs~
+||||||
+L-reduction
+||||||
+In computer science, particularly the study of approximation algorithms, an 
+L-reduction ("linear reduction") is a transformation of optimization problems which linearly preserves approximability features; it is one type of approximation-preserving reduction. L-reductions in studies of approximability of optimization problems play a similar role to that of polynomial reductions in the studies of computational complexity of decision problems.
+The term L reduction is sometimes used to refer to log-space reductions, by analogy with the complexity class L, but this is a different concept.

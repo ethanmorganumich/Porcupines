@@ -1,0 +1,9 @@
+Diatonic functions~Scale degrees~
+||||||
+Submediant
+||||||
+In music, the submediant is the sixth degree () of a diatonic scale. The submediant ("lower mediant") is named thus because it is halfway between tonic and subdominant ("lower dominant") or because its position below the tonic is symmetrical to that of the mediant above. (See the figure in the  Degree (music) article.) 
+In the movable do solfège system, the submediant is sung as la in a major mode and fa in a minor mode. It is occasionally called superdominant, as the degree above the dominant. This is its normal name (sus-dominante) in French.
+In Roman numeral analysis, the triad formed on the submediant is typically symbolized by "VI" if it is a major triad (the default in a minor mode) and by "vi" if it is a minor triad (the default in a major mode).
+The term submediant may also refer to a relationship of musical keys. For example, relative to the key of C major, the key of A minor is the submediant. In a major key, the submediant key is the relative minor. Modulation (change of key) to the submediant is relatively rare, compared with modulation to the dominant in a major key or modulation to the mediant in a minor key.
+

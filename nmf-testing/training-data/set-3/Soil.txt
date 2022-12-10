@@ -1,0 +1,12 @@
+Granularity of materials~Horticulture~Land management~Natural materials~Natural resources~Soil~
+||||||
+Soil
+||||||
+Soil, also commonly referred to as earth or dirt, is a mixture of organic matter, minerals, gases, liquids, and organisms that together support life. Some scientific definitions distinguish dirt from soil by restricting the former term specifically to displaced soil.
+Soil consists of a solid phase of minerals and organic matter (the soil matrix), as well as a porous phase that holds gases (the soil atmosphere) and water (the soil solution). Accordingly, soil is a three-state system of solids, liquids, and gases. Soil is a product of several factors: the influence of climate, relief (elevation, orientation, and slope of terrain), organisms, and the soil's parent materials (original minerals) interacting over time. It continually undergoes development by way of numerous physical, chemical and biological processes, which include weathering with associated erosion. Given its complexity and strong internal connectedness, soil ecologists regard soil as an ecosystem.Most soils have a dry bulk density (density of soil taking into account voids when dry) between 1.1 and 1.6 g/cm3, though the soil particle density is much higher, in the range of 2.6 to 2.7 g/cm3. Little of the soil of planet Earth is older than the Pleistocene and none is older than the Cenozoic, although fossilized soils are preserved from as far back as the Archean.The pedosphere interfaces with the lithosphere, the hydrosphere, the atmosphere, and the biosphere. Collectively, Earth's body of soil, called the pedosphere, has four important functions:
+
+as a medium for plant growth
+as a means of water storage, supply and purification
+as a modifier of Earth's atmosphere
+as a habitat for organismsAll of these functions, in their turn, modify the soil and its properties.
+Soil science has two basic branches of study: edaphology and pedology. Edaphology studies the influence of soils on living things. Pedology focuses on the formation, description (morphology), and classification of soils in their natural environment. In engineering terms, soil is included in the broader concept of regolith, which also includes other loose material that lies above the bedrock, as can be found on the Moon and other celestial objects.

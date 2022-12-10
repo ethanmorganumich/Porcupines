@@ -1,0 +1,7 @@
+Memory management~Virtual memory~
+||||||
+Memory paging
+||||||
+In computer operating systems, memory paging is a memory management scheme by which a computer stores and retrieves data from secondary storage for use in main memory. In this scheme, the operating system retrieves data from secondary storage in same-size blocks called pages. Paging is an important part of virtual memory implementations in modern operating systems, using secondary storage to let programs exceed the size of available physical memory.
+For simplicity, main memory is called "RAM" (an acronym of random-access memory) and secondary storage is called "disk" (a shorthand for hard disk drive, drum memory or solid-state drive, etc.), but as with many aspects of computing, the concepts are independent of the technology used.
+Depending on the memory model, paged memory functionality is usually hardwired into a CPU/MCU by using a Memory Management Unit (MMU) or Memory Protection Unit (MPU) and separately enabled by privileged system code in the operating system's kernel. In CPUs implementing the x86 instruction set architecture (ISA) for instance, the memory paging is enabled via the CR0 control register.

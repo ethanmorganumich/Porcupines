@@ -1,0 +1,7 @@
+Communication stubs~Radio modulation modes~
+||||||
+32VSB
+||||||
+32VSB is an acronym for 32-level vestigial sideband modulation, capable of transmitting five bits (25=32) at a time.
+32VSB is rarely used, because receivers have more trouble distinguishing between so many fine levels of modulation.  It can, however, be useful in situations such as short last mile coaxial cable runs, which bring fiber to the curb systems into the home as regular cable TV, cable modem, and cable telephone services.
+Other slower but more rugged forms include 2VSB, 4VSB, 8VSB, and 16VSB.

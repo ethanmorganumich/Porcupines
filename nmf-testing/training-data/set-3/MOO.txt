@@ -1,0 +1,8 @@
+Educational MUDs~MU* servers~MUD servers~Multiplayer online games~Online chat~
+||||||
+MOO
+||||||
+A MOO ("MUD, object-oriented") is a text-based online virtual reality system to which multiple users (players) are connected at the same time.
+The term MOO is used in two distinct, but related, senses. One is to refer to those programs descended from the original MOO server, and the other is to refer to any MUD that uses object-oriented techniques to organize its database of objects, particularly if it does so in a similar fashion to the original MOO or its derivatives.  Most of this article refers to the original MOO and its direct descendants, but see Non-Descendant MOOs for a list of MOO-like systems.
+The original MOO server was authored by Stephen White, based on his experience from creating the programmable TinyMUCK system.  There was additional later development and maintenance from LambdaMOO founder, and former Xerox PARC employee, Pavel Curtis.
+One of the most distinguishing features of a MOO is that its users can perform object-oriented programming within the server, ultimately expanding and changing how the server behaves to everyone.  Examples of such changes include authoring new rooms and objects, creating new generic objects for others to use, and changing the way the MOO interface operates. The programming language used for extension is the MOO programming language, and many MOOs feature convenient libraries of verbs that can be used by programmers in their coding known as Utilities. The MOO programming language is a domain-specific language.

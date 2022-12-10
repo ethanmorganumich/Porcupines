@@ -1,0 +1,6 @@
+Ethernet~IEEE 802~
+||||||
+100BaseVG
+||||||
+100BaseVG is a 100 Mbit/s Ethernet standard specified to run over four pairs of category 3 cable (cable also known as voice grade, hence the "VG"). It is also called 100VG-AnyLAN because it was defined to carry both Ethernet and Token Ring frame types.
+100BaseVG was originally proposed by Hewlett-Packard, ratified by the IEEE in 1995 and was practically extinct by 1998.  In 2001 IEEE recorded the status of its 100BaseVG standard as being a "Withdrawn Standard" (defined as "A standard which is no longer maintained and which may contain significant obsolete or erroneous information.")

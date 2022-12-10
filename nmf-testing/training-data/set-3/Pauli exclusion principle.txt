@@ -1,0 +1,10 @@
+Chemical bonding~Concepts in physics~Lorentz Medal winners~Pauli exclusion principle~Spintronics~
+||||||
+Pauli exclusion principle
+||||||
+In quantum mechanics, the Pauli exclusion principle states that two or more identical particles with half-integer spins (i.e. fermions) cannot occupy the same quantum state within a quantum system simultaneously. This principle was formulated by Austrian physicist Wolfgang Pauli in 1925 for electrons, and later extended to all fermions with his spin–statistics theorem of 1940.
+In the case of electrons in atoms, it can be stated as follows: it is impossible for two electrons of a poly-electron atom to have the same values of the four quantum numbers: n, the principal quantum number; ℓ, the azimuthal quantum number; mℓ, the magnetic quantum number; and ms, the spin quantum number. For example, if two electrons reside in the same orbital, then their n, ℓ, and mℓ values are the same; therefore their ms must be different, and thus the electrons must have opposite half-integer spin projections of 1/2 and −1/2.
+Particles with an integer spin, or bosons, are not subject to the Pauli exclusion principle: any number of identical bosons can occupy the same quantum state, as with, for instance, photons produced by a laser or atoms in a Bose–Einstein condensate.
+A more rigorous statement is that, concerning the exchange of two identical particles, the total (many-particle) wave function is antisymmetric for fermions, and symmetric for bosons. This means that if the space and spin coordinates of two identical particles are interchanged, then the total wave function changes its sign for fermions and does not change for bosons.
+If two fermions were in the same state (for example the same orbital with the same spin in the same atom), interchanging them would change nothing and the total wave function would be unchanged. The only way the total wave function can both change sign as required for fermions and also remain unchanged is that this function must be zero everywhere, which means that the state cannot exist. This reasoning does not apply to bosons because the sign does not change.
+

@@ -1,0 +1,8 @@
+Basic concepts in set theory~Functions and mappings~
+||||||
+Range of a function
+||||||
+In mathematics, the range of a function may refer to either of two closely related concepts:
+
+The codomain of the function
+The image of the functionGiven two sets X and Y, a binary relation f between X and Y is a (total) function (from X to Y) if for every x in X there is exactly one y in Y such that f relates x to y. The sets X and Y are called  domain and codomain of f, respectively. The image of f is then the subset of Y consisting of only those elements y of Y such that there is at least one x in X with f(x) = y.

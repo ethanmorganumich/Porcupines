@@ -1,0 +1,6 @@
+Computational problems in graph theory~Graph algorithms~NP-complete problems~
+||||||
+Subgraph isomorphism problem
+||||||
+In theoretical computer science, the subgraph isomorphism problem is a computational task in which two graphs G and H are given as input, and one must determine whether G contains a subgraph that is isomorphic to H.
+Subgraph isomorphism is a generalization of both the maximum clique problem and the problem of testing whether a graph contains a Hamiltonian cycle, and is therefore NP-complete. However certain other cases of subgraph isomorphism may be solved in polynomial time.Sometimes the name subgraph matching is also used for the same problem. This name puts emphasis on finding such a subgraph as opposed to the bare decision problem.

@@ -1,0 +1,38 @@
+Convex geometry~Convex hulls~Functional analysis~Mathematical analysis~
+||||||
+Extreme point
+||||||
+In mathematics, an extreme point of a convex set 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   in a real or complex vector space is a point in 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   which does not lie in any open line segment joining two points of 
+  
+    
+      
+        S
+        .
+      
+    
+    {\displaystyle S.}
+   In linear programming problems, an extreme point is also called vertex or corner point of 
+  
+    
+      
+        S
+        .
+      
+    
+    {\displaystyle S.}

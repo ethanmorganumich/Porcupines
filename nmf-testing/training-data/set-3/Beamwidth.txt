@@ -1,0 +1,7 @@
+Antennas (radio)~Optics~
+||||||
+Beam diameter
+||||||
+The beam diameter or beam width of an electromagnetic beam is the diameter along any specified line that is perpendicular to the beam axis and intersects it. Since beams typically do not have sharp edges, the diameter can be defined in many different ways. Five definitions of the beam width are in common use: D4σ, 10/90 or 20/80 knife-edge, 1/e2, FWHM, and D86.  The beam width can be measured in units of length at a particular plane perpendicular to the beam axis, but it can also refer to the angular width, which is the angle subtended by the beam at the source. The angular width is also called the beam divergence.
+Beam diameter is usually used to characterize electromagnetic beams in the optical regime, and occasionally in the microwave regime, that is, cases in which the aperture from which the beam emerges is very large with respect to the wavelength.
+Beam diameter usually refers to a beam of circular cross section, but not necessarily so. A beam may, for example, have an elliptical cross section, in which case the orientation of the beam diameter must be specified, for example with respect to the major or minor axis of the elliptical cross section. The term "beam width" may be preferred in applications where the beam does not have circular symmetry.

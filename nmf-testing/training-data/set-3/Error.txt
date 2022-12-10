@@ -1,0 +1,6 @@
+Error~Human communication~Measurement~
+||||||
+Error
+||||||
+An error (from the Latin error, meaning "wandering") is an action which is inaccurate or incorrect. In some usages, an error is synonymous with a mistake. The etymology derives from the Latin term 'errare', meaning 'to stray'.
+In statistics, "error" refers to the difference between the value which has been computed and the correct value. An error could result in failure or in a deviation from the intended performance or behavior.

@@ -1,0 +1,8 @@
+Legal terminology stubs~Wills and trusts~
+||||||
+Residuary estate
+||||||
+A residuary estate, in the law of wills, is any portion of the testator's estate that is not specifically devised to someone in the will, or any property that is part of such a specific devise that fails. It is also known as a residual estate or simply residue.
+The will may identify the taker of the residuary estate through a residuary clause or residuary bequest. The person identified in such a clause is called the residuary taker, residuary beneficiary, or residuary legatee.  Such a clause may state that, in the event all other heirs predecease the testator, the estate would pass to a charity (that would, presumably, have remained in existence).
+If no such clause is present, however, the residuary estate will pass to the testator's heirs by intestacy. 
+At common law, if the residuary estate was divided between two or more beneficiaries, and one of those beneficiaries was unable to take, the share that would have gone to that beneficiary would instead pass by intestacy, under the doctrine that there was no residuary of a residuary. The modern rule, however, is that the failure of a residuary gift to one beneficiary causes that beneficiary's share to be divided among the remaining residuary takers.

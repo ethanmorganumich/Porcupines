@@ -1,0 +1,6 @@
+Heuristics~
+||||||
+Take-the-best heuristic
+||||||
+In psychology, the take-the-best heuristic is a heuristic (a simple strategy for decision-making) which decides between two alternatives by choosing based on the first cue that discriminates them, where cues are ordered by cue validity (highest to lowest). In the original formulation, the cues were assumed to have binary values (yes or no) or have an unknown value. The logic of the heuristic is that it bases its choice on the best cue (reason) only and ignores the rest.
+Psychologists Gerd Gigerenzer and Daniel Goldstein discovered that the heuristic did surprisingly well at making accurate inferences in real-world environments, such as inferring which of two cities is larger. The heuristic has since been modified and applied to domains from medicine, artificial intelligence, and political forecasting.  It has also been shown that the heuristic can accurately model how experts, such as airport customs officers  and professional burglars, make decisions. The heuristic can also predict details of the cognitive process, such as number of cues used and response times, often better than complex models that integrate all available cues; as such, it is an example of the less-is-more effect.

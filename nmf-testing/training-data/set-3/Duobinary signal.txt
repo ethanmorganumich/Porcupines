@@ -1,0 +1,7 @@
+Encodings~Line codes~
+||||||
+Bipolar encoding
+||||||
+In telecommunication, bipolar encoding is a type of return-to-zero (RZ) line code, where two nonzero values are used, so that the three values are +, −, and zero. Such a signal is called a duobinary signal. Standard bipolar encodings are designed to be DC-balanced, spending equal amounts of time in the + and − states.  
+The reason why bipolar encoding is classified as a return to zero (RZ) is that when a bipolar encoded channel is idle the line is held at a constant "zero" level, and when it is transmitting bits the line is either in a +V or -V state corresponding to the binary bit being transmitted.  Thus, the line always returns to the "zero" level to denote optionally a separation of bits or to denote idleness of the line.
+

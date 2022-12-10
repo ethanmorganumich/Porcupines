@@ -1,0 +1,11 @@
+Chord progressions~Harmony~
+||||||
+Irregular resolution
+||||||
+In music, an irregular resolution is resolution by a dominant seventh chord or diminished seventh chord to a chord other than the tonic. Regarding the dominant seventh, there are many irregular resolutions including to a chord with which it has tones in common or if the parts move only a whole or half step. Consecutive fifths and octaves, augmented intervals, and false relations should still be avoided. Voice leading may cause the seventh to ascend, to be prolonged into the next chord, or to be unresolved.The following resolutions to a chord with tones in common have been identified:
+
+Type I, in which the root motion descends by minor third. C, E, G, B♭ would resolve to C♯, E, G, A; two tones are common, two voices move by half-step in contrary motion.
+Type II, in which the root motion rises by minor third. C, E, G, B♭ would resolve to D♭, E♭, G, B♭; again, two tones are common, two voices move by half-step in contrary motion.
+Type III, in which the root moves a tritone (two minor thirds) away.  C, E, G, B♭ would resolve to C♯, E, F♯, B♭ = A♯; again, two tones are common (with enharmonic change), two voices move by half-step in contrary motion.
+Type I is common from the 18th century; Type II may be found from the second quarter of the 19th century; Type III may be found from the mid-19th century.  The composer Richard Edward Wilson is responsible for the categorization.
+The most important irregular resolution is the deceptive cadence, most commonly V7–vi in major or V7–VI in minor. Irregular resolutions also include V7 becoming an augmented sixth [specifically a German sixth] through enharmonic equivalence or in other words (and the adjacent image) resolving to the I chord in the key the augmented sixth chord (FACD♯) would be in (A) rather than the key the dominant seventh (FACE♭) would be in (B♭).

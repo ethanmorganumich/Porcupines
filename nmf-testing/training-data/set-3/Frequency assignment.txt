@@ -1,0 +1,6 @@
+International Telecommunication Union~
+||||||
+Frequency assignment
+||||||
+Frequency assignment is the authorization of use of a particular radio frequency.
+In Article 1.18 of the International Telecommunication Union's (ITU) Radio Regulations (RR), the process is defined as "Authorization given by a frequency administration for a radio station to use a radio frequency or radio frequency channel under specified conditions".

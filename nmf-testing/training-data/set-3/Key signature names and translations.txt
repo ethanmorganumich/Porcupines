@@ -1,0 +1,31 @@
+Musical keys~
+||||||
+Key signature names and translations
+||||||
+When a musical key or key signature is referred to in a language other than English, that language may use the usual notation used in English (namely the letters A to G, along with translations of the words sharp, flat, major and minor in that language): languages which use the English system include Irish, Welsh, Hindi, Japanese (based on katakana in iroha order), Korean (based on hangul in ganada order), Chinese, Thai, Indonesian, Filipino, Swahili, Esperanto.
+Or it may use some different notation. Two notation systems are most commonly found beside the English system, the Fixed Do key notation and the German key notation
+
+Fixed Do key notation – used (among others) in Italian, French, Dutch (in the Dutch-speaking part of Belgium), Spanish, Portuguese, Catalan, Occitan, Breton, Basque, Russian (along with the German system), Ukrainian, Belarusian, Bulgarian, Latvian, Lithuanian (along with the German and English system), Romanian, Greek, Hebrew, Arabic, Persian, Turkish (along with the English system) and Vietnamese. Most countries (though not all, e.g. Serbia) where Fixed Do solmization is used also use the Fixed Do key notation. Instead of the letters C, D, E, F, G, A, B, seven syllables (derived from solfege) are used to refer to the seven diatonic tones of C major: Do (in French Do or Ut), Re, Mi, Fa, Sol (never So), La, Si (never Ti), with some variations and adaptations according to country, language and alphabet, followed by the accidental (natural is clearly most often omitted) and then the major/minor qualifier as needed.
+German key notation – used (among others) in German, Dutch (in the Netherlands, where it is used along with the English system), Danish, Swedish, Norwegian, Icelandic, Finnish, Estonian, Serbian (along with the English system), Croatian, Bosnian, Slovene, Hungarian, Polish, Czech and Slovak. The German key notation differs from the English system in two respects, namely that B♮ is referred to by the letter H and B♭ by the letter B by itself, and that sharp and flat designations do not use words but suffix is for sharps and suffix es (reduced to s if the tone letter is a vowel) for flats, except that (as already mentioned) in the German system the letter B by itself already means B flat. However, in some places where the German system is in use one may encounter the use of B for B♮ and Bes for B♭. This is especially common in the Netherlands.There has been a tendency in some countries that historically used the Fixed Do key notation or the German key notation to switch to the English system, especially among musicians working in popular music genres or jazz. The only case where this can lead to some confusion is when the letter B is used because it would not be clear whether the intention was for it to be understood as B♮ (English system) or B♭ (German system). Another tendency has been to use the English system in writing but to read it out according to either the Fixed Do or the German system if those are the systems used locally. For example, recent French scores or books may use the English system (this is especially common for chord symbols), but French users would read out that notation according to the Fixed Do system. Similarly, a Dutch musician may refer to a written F♯ orally as Fis. This article is concerned with written usage.
+To form a key designation, locate the note name in the pitch translation table and add the major/minor qualifier from the lower table as needed.
+
+Note that the 'major' alteration is usually superfluous, as a key description missing an alteration is invariably assumed to be major.
+In the German notation scheme, a hyphen is added between the pitch and the alteration (D-Dur).
+In German, Dutch, and Lithuanian, the minor key signatures are written with a lower case letter (d-Moll, d klein, d kleine terts).
+For example, to describe a song composed in a key of E-flat minor, one could say:
+
+E-flat minor (English)
+مي-بيمول الصغير (mi-bemol alsagheer) (Arabic)
+es-Moll (German)
+es klein (Dutch)
+変ホ短調 (hen-ho tanchō) (Japanese)
+내림 마 단조 (naerim ma danjo) (Korean)
+Mi bemolle minore (Italian)
+Mi bémol mineur (French)
+Mi bemol menor (Spanish)
+Mi bemol menor (Portuguese)
+Ми-бемоль минор (Russian)
+Mi bemol minor (Romanian)
+Μι ύφεση ελάσσονα (Greek)
+Mi bemol minoras/es-moll (Lithuanian)
+

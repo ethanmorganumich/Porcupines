@@ -1,0 +1,11 @@
+Bass (sound)~Chord factors~Music theory stubs~
+||||||
+Bass note
+||||||
+In music theory, the bass note of a chord or sonority is the lowest note played or notated. If there are multiple voices it is the note played or notated in the lowest voice (the note furthest in the bass.)
+Three situations are possible:
+
+The bass note is the root or fundamental of the chord. The chord is in root position.
+One of the other pitches of the chord is in the bass. This makes it an inverted chord
+The bass note is not one of the notes in the chord. Such a bass note is an additional note, coloring the chord above it. The name of such a chord is also notated as a slash chord.
+In pre-tonal theory (Early music), root notes were not considered and thus the bass was the most defining note of a sonority. See: thoroughbass. In pandiatonic chords the bass often does not determine the chord, as is always the case with a nonharmonic bass.

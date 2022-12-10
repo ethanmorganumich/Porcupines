@@ -1,0 +1,6 @@
+Computer buses~
+||||||
+Backplane
+||||||
+A backplane (or "backplane system") is a group of electrical connectors in parallel with each other, so that each pin of each connector is linked to the same relative pin of all the other connectors, forming a computer bus. It is used as a backbone to connect several printed circuit boards together to make up a complete computer system. Backplanes commonly use a printed circuit board, but wire-wrapped backplanes have also been used in minicomputers and high-reliability applications.
+A backplane is generally differentiated from a motherboard by the lack of on-board processing and storage elements. A backplane uses plug-in cards for storage and processing.

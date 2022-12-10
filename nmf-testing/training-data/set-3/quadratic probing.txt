@@ -1,0 +1,63 @@
+Hashing~Search algorithms~
+||||||
+Quadratic probing
+||||||
+Quadratic probing is an open addressing scheme in computer programming for resolving hash collisions in hash tables. Quadratic probing operates by taking the original hash index and adding successive values of an arbitrary quadratic polynomial until an open slot is found.
+An example sequence using quadratic probing is:
+
+  
+    
+      
+        H
+        +
+        
+          1
+          
+            2
+          
+        
+        ,
+        H
+        +
+        
+          2
+          
+            2
+          
+        
+        ,
+        H
+        +
+        
+          3
+          
+            2
+          
+        
+        ,
+        H
+        +
+        
+          4
+          
+            2
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        H
+        +
+        
+          k
+          
+            2
+          
+        
+      
+    
+    {\displaystyle H+1^{2},H+2^{2},H+3^{2},H+4^{2},...,H+k^{2}}
+  
+Quadratic probing can be a more efficient algorithm in an open addressing table, since it better avoids the clustering problem that can occur with linear probing, although it is not immune. It also provides good memory caching because it preserves some locality of reference; however, linear probing has greater locality and, thus, better cache performance.

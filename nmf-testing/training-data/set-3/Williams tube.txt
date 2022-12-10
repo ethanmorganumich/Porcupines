@@ -1,0 +1,7 @@
+Cathode ray tube~Computer memory~Department of Computer Science, University of Manchester~History of computing hardware~History of computing in the United Kingdom~Types of RAM~Vacuum tubes~
+||||||
+Williams tube
+||||||
+The Williams tube, or the Williams–Kilburn tube named after inventors Freddie Williams and Tom Kilburn, is an early form of computer memory. It was the first random-access digital storage device, and was used successfully in several early computers.The Williams tube works by displaying a grid of dots on a cathode-ray tube (CRT). Due to the way CRTs work, this creates a small charge of static electricity over each dot. The charge at the location of each of the dots is read by a thin metal sheet just in front of the display. Since the display faded over time, it was periodically refreshed. It operates faster than earlier acoustic delay-line memory, at the speed of the electrons inside the vacuum tube, rather than at the speed of sound. The system was adversely affected by nearby electrical fields, and required frequent adjustment to remain operational. Williams–Kilburn tubes were used primarily on high-speed computer designs.
+Williams and Kilburn applied for British patents on 11 December 1946, and 2 October 1947, followed by United  States patent applications on 10 December 1947, and 16 May 1949.
+

@@ -1,0 +1,5 @@
+Graphics software stubs~Photo software~Presentation software~
+||||||
+Photo slideshow software
+||||||
+Photo slideshow software is computer software used to display a range of digital photos, images and video clips in a predefined order. In most cases the output file is a standard video file or an executable file which contains all the sound and images for display.

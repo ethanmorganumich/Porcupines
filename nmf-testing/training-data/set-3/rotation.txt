@@ -1,0 +1,6 @@
+Classical mechanics~Euclidean geometry~Kinematics~Orientation (geometry)~Rotation~
+||||||
+Rotation
+||||||
+Rotation, or spin, is the circular movement of an object around a central axis. A two-dimensional rotating object has only one possible central axis and can rotate in either a clockwise or counterclockwise direction. A three-dimensional object has an infinite number of possible central axes and rotational directions.
+If the rotation axis passes internally through the body's own center of mass, then the body is said to be autorotating or spinning, and the surface intersection of the axis can be called a pole. A rotation around a completely external axis, e.g. the planet Earth around the Sun, is called revolving or orbiting, typically when it is produced by gravity, and the ends of the rotation axis can be called the orbital poles.

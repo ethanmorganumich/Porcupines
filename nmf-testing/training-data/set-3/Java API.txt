@@ -1,0 +1,8 @@
+Java APIs~Lists of software~
+||||||
+List of Java APIs
+||||||
+There are two types of Java programming language application programming interfaces (APIs):
+
+The official core Java API, contained in the Android (Google), SE (OpenJDK and Oracle), MicroEJ. These packages (java.* packages) are the core Java language packages, meaning that programmers using the Java language had to use them in order to make any worthwhile use of the Java language.
+Optional APIs that can be downloaded separately. The specification of these APIs are defined according to many different organizations in the world (Alljoyn, OSGi, Eclipse, JCP, E-S-R, etc.).The following is a partial list of application programming interfaces (APIs) for Java.

@@ -1,0 +1,7 @@
+Amateur radio~Radio modulation modes~Television technology~
+||||||
+Slow-scan television
+||||||
+Slow-scan television (SSTV) is a picture transmission method, used mainly by amateur radio operators, to transmit and receive static pictures via radio in monochrome or color.
+A literal term for SSTV is narrowband television. Analog broadcast television requires at least 6 MHz wide channels, because it transmits 25 or 30 picture frames per second (see ITU analog broadcast standards), but SSTV usually only takes up to a maximum of 3 kHz of bandwidth. It is a much slower method of still picture transmission, usually taking from about eight seconds to a couple of minutes, depending on the mode used, to transmit one image frame.
+Since SSTV systems operate on voice frequencies, amateurs use it on shortwave (also known as HF by amateur radio operators), VHF and UHF radio.

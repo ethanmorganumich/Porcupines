@@ -1,0 +1,14 @@
+Combinatorial algorithms~Permutations~
+||||||
+Steinhaus–Johnson–Trotter algorithm
+||||||
+The Steinhaus–Johnson–Trotter algorithm or Johnson–Trotter algorithm, also called plain changes, is an algorithm named after Hugo Steinhaus, Selmer M. Johnson and Hale F. Trotter that generates all of the permutations of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   elements. Each permutation in the sequence that it generates differs from the previous permutation by swapping two adjacent elements of the sequence. Equivalently, this algorithm finds a Hamiltonian cycle in the permutohedron.
+This method was known already to 17th-century English change ringers, and Sedgewick (1977) calls it "perhaps the most prominent permutation enumeration algorithm". A version of the algorithm can be implemented in such a way that the average time per permutation is constant. As well as being simple and computationally efficient, this algorithm has the advantage that subsequent computations on the permutations that it generates may be sped up because of the similarity between consecutive permutations that it generates.

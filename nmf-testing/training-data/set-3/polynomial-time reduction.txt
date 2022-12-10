@@ -1,0 +1,6 @@
+Reduction (complexity)~
+||||||
+Polynomial-time reduction
+||||||
+In computational complexity theory, a polynomial-time reduction is a method for solving one problem using another. One shows that if a hypothetical subroutine solving the second problem exists, then the first problem can be solved by transforming or reducing it to inputs for the second problem and calling the subroutine one or more times. If both the time required to transform the first problem to the second, and the number of times the subroutine is called is polynomial, then the first problem is polynomial-time reducible to the second.A polynomial-time reduction proves that the first problem is no more difficult than the second one, because whenever an efficient algorithm exists for the second problem, one exists for the first problem as well. By contraposition, if no efficient algorithm exists for the first problem, none exists for the second either. Polynomial-time reductions are frequently used in complexity theory for defining both complexity classes and complete problems for those classes.
+

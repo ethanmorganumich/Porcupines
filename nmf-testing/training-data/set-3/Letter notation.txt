@@ -1,0 +1,8 @@
+Musical notation~
+||||||
+Letter notation
+||||||
+In music, letter notation is a system of representing a set of pitches, for example, the notes of a scale, by letters. For the complete Western diatonic scale, for example, these would be the letters A-G, possibly with a trailing symbol to indicate a half-step raise (sharp, ♯) or a half-step lowering (flat, ♭). This is the most common way of specifying a note in speech or in written text in English or German. In Germany, Scandinavia, and parts of Central and Eastern Europe, H is used instead of B, and B is used instead of B♭. In traditional Irish music, where almost all tunes are restricted to two octaves, for notes in the lower octave to written in lower case while those in the upper octave to be written in upper case.
+If we consider the chromatic scale, new sounds are obtained by lowering or raising the 7 diatonic notes by a semitone by means of flats (♭) and sharps (♯). Use of solfege or letter names depends on language. For a more complete table and explanation, see Musical note.
+
+Western letter pitch notation has the virtue of identifying discrete pitches, but among its disadvantages are its occasional inability to represent pitches or inflections lying outside those theoretically derived, or (leaving aside chordal and tablature notations) representing the relationship between pitches—e.g., it does not indicate the difference between a whole step and a half step, knowledge of which was so critical to Medieval and Renaissance performers and theorists.

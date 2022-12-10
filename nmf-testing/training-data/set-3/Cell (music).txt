@@ -1,0 +1,8 @@
+Formal sections in music analysis~
+||||||
+Cell (music)
+||||||
+The 1957 Encyclopédie Larousse defines a cell in music as a "small rhythmic and melodic design that can be isolated, or can make up one part of a thematic context". The cell may be distinguished from the figure or motif:
+the 1958 Encyclopédie Fasquelle defines a cell as "the smallest indivisible unit", unlike the motif, which may be divisible into more than one cell. "A cell can be developed, independent of its context, as a melodic fragment, it can be used as a developmental motif. It can be the source for the whole structure of the work; in that case it is called a generative cell."
+
+A rhythmic cell is a cell without melodic connotations. It may be entirely percussive or applied to different melodic segments.

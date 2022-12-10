@@ -1,0 +1,13 @@
+Algorithms~Probabilistic arguments~
+||||||
+Randomized rounding
+||||||
+Within computer science and operations research,
+many combinatorial optimization problems are computationally intractable to solve exactly (to optimality).
+Many such problems do admit fast (polynomial time) approximation algorithms—that is, algorithms that are guaranteed to return an approximately optimal solution given any input.
+Randomized rounding
+(Raghavan & Tompson 1987)
+is a widely used approach for designing and analyzing such approximation algorithms.  
+The basic idea is to use the probabilistic method
+to convert an optimal solution of a relaxation
+of the problem into an approximately optimal solution to the original problem.

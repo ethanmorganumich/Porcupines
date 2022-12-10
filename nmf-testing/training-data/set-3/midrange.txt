@@ -1,0 +1,31 @@
+Means~Summary statistics~
+||||||
+Mid-range
+||||||
+In statistics, the mid-range or mid-extreme is a measure of central tendency of a  sample defined as the arithmetic mean of the maximum and minimum values of the data set:
+
+  
+    
+      
+        M
+        =
+        
+          
+            
+              max
+              x
+              +
+              min
+              x
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle M={\frac {\max x+\min x}{2}}.}
+  The mid-range is closely related to the range, a measure of statistical dispersion defined as the difference between maximum and minimum values.
+The two measures are complementary in sense that if one knows the mid-range and the range, one can find the sample maximum and minimum values.
+The mid-range is rarely used in practical statistical analysis, as it lacks efficiency as an estimator for most distributions of interest,  because it ignores all intermediate points, and lacks robustness, as outliers change it significantly. Indeed, for many distributions it is one of the least efficient and least robust statistics. However, it finds some use in special cases: it is the maximally efficient estimator for the center of a uniform distribution, trimmed mid-ranges address robustness, and as an L-estimator, it is simple to understand and compute.
+

@@ -1,0 +1,6 @@
+Computer memory~
+||||||
+Sequential access
+||||||
+Sequential access is a term describing a group of elements (such as data in a memory array or a disk file or on magnetic tape data storage) being accessed in a predetermined, ordered sequence. It is the opposite of random access, the ability to access an arbitrary element of a sequence as easily and efficiently as any other at any time.
+Sequential access is sometimes the only way of accessing the data, for example if it is on a tape. It may also be the access method of choice, for example if all that is wanted is to process a sequence of data elements in order.

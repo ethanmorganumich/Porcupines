@@ -1,0 +1,12 @@
+Chords~Thirds (music)~
+||||||
+Tertian
+||||||
+In music theory, tertian (Latin: tertianus, "of or concerning thirds") describes any piece, chord, counterpoint etc. constructed from the intervals of (major and minor) thirds. An interval such as that between the notes A and C encompasses 3 semitone intervals (A-B♭-B♮-C) and is termed a minor third while one such as that between C and E encompasses 4 semitones (C-D♭-D♮-E♭-E♮) and is called a major third. Tertian harmony (also called tertiary harmony) principally uses chords based on thirds; the term is typically used to contrast with quartal and quintal harmony which uses chords based on fourths or fifths.
+
+A common triad chord can be regarded as consisting of a "stack" of two consecutive thirds. This allows for four permutations, each producing a chord with distinct quality:
+
+A musical scale may also be analyzed as a succession of thirds.
+The meantone temperament, a system of tuning that emphasizes pure thirds, may be called "tertian".
+Chords built from sixths may also be referred to as tertian because sixths are equivalent to thirds when inverted, and vice versa: any sixth can be taken as the inversion of a third. For instance, the interval C-A is a major sixth that, when inverted, gives the interval A-C, which is a minor third.
+Tertian root movements have been used innovatively in chord progressions as an alternative to root motion in fifths, as for example in the "thirds cycle" used in John Coltrane's Coltrane changes, as influenced by Nicolas Slonimsky's Thesaurus of Scales and Melodic Patterns.

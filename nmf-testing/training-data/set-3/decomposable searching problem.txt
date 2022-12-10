@@ -1,0 +1,112 @@
+Geometric data structures~Trees (data structures)~
+||||||
+Range tree
+||||||
+In computer science, a range tree is an ordered tree data structure to hold a list of points. It allows all points within a given range to be reported efficiently, and is typically used in two or higher dimensions. Range trees were introduced by Jon Louis Bentley in 1979. Similar data structures were discovered independently by Lueker, Lee and Wong, and Willard.
+The range tree is an alternative to the k-d tree. Compared to k-d trees, range trees offer faster query times of (in Big O notation) 
+  
+    
+      
+        O
+        (
+        
+          log
+          
+            d
+          
+        
+        ⁡
+        n
+        +
+        k
+        )
+      
+    
+    {\displaystyle O(\log ^{d}n+k)}
+   but worse storage of 
+  
+    
+      
+        O
+        (
+        n
+        
+          log
+          
+            d
+            −
+            1
+          
+        
+        ⁡
+        n
+        )
+      
+    
+    {\displaystyle O(n\log ^{d-1}n)}
+  , where n is the number of points stored in the tree, d is the dimension of each point and k is the number of points reported by a given query.
+Bernard Chazelle improved this to query time 
+  
+    
+      
+        O
+        (
+        
+          log
+          
+            d
+            −
+            1
+          
+        
+        ⁡
+        n
+        +
+        k
+        )
+      
+    
+    {\displaystyle O(\log ^{d-1}n+k)}
+   and space complexity 
+  
+    
+      
+        O
+        
+          (
+          
+            n
+            
+              
+                (
+                
+                  
+                    
+                      log
+                      ⁡
+                      n
+                    
+                    
+                      log
+                      ⁡
+                      log
+                      ⁡
+                      n
+                    
+                  
+                
+                )
+              
+              
+                d
+                −
+                1
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle O\left(n\left({\frac {\log n}{\log \log n}}\right)^{d-1}\right)}
+  .

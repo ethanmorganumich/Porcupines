@@ -1,0 +1,6 @@
+Apple computers~Computer-related introductions in 1984~Macintosh computers~Macintosh platform~Sealed computers~Steve Jobs~
+||||||
+Mac (computer)
+||||||
+The Mac (known as Macintosh until 1999) is a family of personal computers designed and marketed by Apple Inc.. Macs are known for their ease of use and distinctive aluminium, minimalist designs. They are popular among students, creative professionals, and software engineers. The current Mac lineup includes the MacBook Air and MacBook Pro laptops, as well as the iMac, Mac mini, Mac Studio and Mac Pro desktop computers. Mac computers run the macOS operating system.
+The first Mac was released in 1984, and was advertised with the now-famous 1984 ad. Over the years, the Mac has undergone four major transitions: from Motorola 68k to PowerPC processors, from the Classic Mac OS to Mac OS X, from PowerPC to Intel, and from Intel to Apple silicon. Since 2020, Macs share the same ARM-based Apple silicon architecture as iOS devices. Critics have praised the performance and power efficiency of Macs with Apple silicon chips.

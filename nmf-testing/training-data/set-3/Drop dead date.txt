@@ -1,0 +1,8 @@
+Contract law~Legal terminology stubs~
+||||||
+Drop dead date
+||||||
+In trade and contract law, a drop dead date is a provision added to a legal or trade act, such as a contract or a court order. Such a provision sets a last-delay date (hence the name drop dead date) past which certain consequences will automatically follow, such as cancelling the contract, taking property or entering a judgment.
+In contract law, a typical drop dead date example is the contract for the baking of a birthday cake, where it is implied that a late delivery will constitute a material breach.
+In German and Swiss Law, this is called a "Fixgeschäft".
+

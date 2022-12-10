@@ -1,0 +1,6 @@
+Complexity classes~
+||||||
+Co-NP
+||||||
+In computational complexity theory, co-NP is a complexity class. A decision problem X is a member of co-NP if and only if its complement X is in the complexity class NP. The class can be defined as follows: a decision problem is in co-NP precisely if only no-instances have a polynomial-length "certificate" and there is a polynomial-time algorithm that can be used to verify any purported certificate.
+That is, co-NP is the set of decision problems where there exists a polynomial p(n) and a polynomial-time bounded Turing machine M such that for every instance x, x is a no-instance if and only if: for some possible certificate c of length bounded by p(n), the Turing machine M accepts the pair (x, c).

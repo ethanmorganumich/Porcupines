@@ -1,0 +1,5 @@
+Associative arrays~Linked lists~
+||||||
+Association list
+||||||
+In computer programming and particularly in Lisp, an association list, often referred to as an alist, is a linked list in which each list element (or node) comprises a key and a value.  The association list is said to associate the value with the key.  In order to find the value associated with a given key, a sequential search is used: each element of the list is searched in turn, starting at the head, until the key is found.  Associative lists provide a simple way of implementing an associative array, but are efficient only when the number of keys is very small.

@@ -1,0 +1,9 @@
+Formal sections in music analysis~Italian words and phrases~Musical notation~Musical terminology~
+||||||
+Tutti
+||||||
+Tutti is an Italian word literally meaning all or together and is used as a musical term, for the whole orchestra as opposed to the soloist. It is applied similarly to choral music, where the whole section or choir is called to sing. Music examination boards may instruct candidates to "play in tuttis", indicating that the candidate should play both the solo and the tutti sections.
+An orchestrator may specify that a section leader (e.g., the principal violinist) plays alone, while the rest of the section is silent for the duration of the solo passage, by writing solo in the music at the point where it begins and tutti at the point where the rest of the section should resume playing.
+
+In organ music, it indicates that the full organ should be used: all stops and all couplers. Some organ consoles offer a toe stud or piston to toggle the tutti: pressing once activates all stops (although it does not physically move the stop knobs), and pressing again reverts to the previous registration.
+

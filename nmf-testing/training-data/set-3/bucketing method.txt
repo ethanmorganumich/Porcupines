@@ -1,0 +1,5 @@
+Computer storage stubs~Computing terminology~
+||||||
+Bucket (computing)
+||||||
+In computing, the term bucket can have several meanings. It is used both as a live metaphor, and as a generally accepted technical term in some specialised areas. A bucket is most commonly a type of data buffer or a type of document in which data is divided into regions.

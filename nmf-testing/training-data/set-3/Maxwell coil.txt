@@ -1,0 +1,6 @@
+Electromagnetic coils~Magnetic devices~
+||||||
+Maxwell coil
+||||||
+A Maxwell coil is a device for producing a large volume of almost constant (or constant-gradient) magnetic field. It is named in honour of the Scottish physicist James Clerk Maxwell.
+A Maxwell coil is an improvement of a Helmholtz coil: in operation it provides an even more uniform magnetic field (than a Helmholtz coil), but at the expense of more material and complexity.

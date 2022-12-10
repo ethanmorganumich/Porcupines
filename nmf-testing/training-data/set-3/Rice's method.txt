@@ -1,0 +1,5 @@
+Complex analysis~Factorial and binomial topics~Finite differences~Integral transforms~
+||||||
+Nørlund–Rice integral
+||||||
+In mathematics, the Nørlund–Rice integral, sometimes called Rice's method, relates the nth forward difference of a function to a line integral on the complex plane. It commonly appears in the theory of finite differences and has also been applied in computer science and graph theory to estimate binary tree lengths. It is named in honour of Niels Erik Nørlund and Stephen O. Rice. Nørlund's contribution was to define the integral; Rice's contribution was to demonstrate its utility by applying saddle-point techniques to its evaluation.

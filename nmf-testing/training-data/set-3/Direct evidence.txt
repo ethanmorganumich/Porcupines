@@ -1,0 +1,5 @@
+Evidence law~Legal terminology~Legal terminology stubs~
+||||||
+Direct evidence
+||||||
+Direct evidence supports the truth of an assertion (in criminal law, an assertion of guilt or of innocence) directly, i.e., without an intervening inference. A witness relates what they directly experienced, usually by sight or hearing, but also possibly through any sense including smell, touch or pain. Circumstantial evidence, by contrast, consists of a fact or set of facts which, if proven, will support the creation of an inference that the matter asserted is true.For example, a witness who testifies that they saw the defendant shoot a victim gives direct evidence. A witness who testifies that they saw the defendant fleeing the scene of the crime, or a forensics expert who says that ballistics proves that the defendant's gun shot the bullet that killed the victim, both give circumstantial evidence from which the defendant's guilt may be inferred.

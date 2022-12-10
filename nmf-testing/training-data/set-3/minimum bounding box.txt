@@ -1,0 +1,7 @@
+Geometric algorithms~Geometry~
+||||||
+Minimum bounding box
+||||||
+In geometry, the minimum or smallest bounding or enclosing box for a point set S in N dimensions is the box with the smallest measure (area, volume, or hypervolume in higher dimensions) within which all the points lie. When other kinds of measure are used, the minimum box is usually called accordingly, e.g., "minimum-perimeter bounding box".
+The minimum bounding box of a point set is the same as the minimum bounding box of its convex hull, a fact which may be used heuristically to speed up computation.The terms "box" and "hyperrectangle" come from their usage in the Cartesian coordinate system, where they are indeed visualized as a rectangle (two-dimensional case), rectangular parallelepiped (three-dimensional case), etc.
+In the two-dimensional case it is called the minimum bounding rectangle.

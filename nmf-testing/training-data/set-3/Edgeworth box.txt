@@ -1,0 +1,10 @@
+1881 in economics~Economics models~Welfare economics~
+||||||
+Edgeworth box
+||||||
+In economics, an Edgeworth box, sometimes referred to as an Edgeworth-Bowley box, is a graphical representation of a market with just two commodities, X and Y, and two consumers. The dimensions of the box are the total quantities Ωx and Ωy of the two goods.
+Let the consumers be Octavio and Abby. The top right-hand corner of the box represents the allocation in which Octavio holds all the goods, while the bottom left corresponds to complete ownership by Abby. Points within the box represent ways of allocating the goods between the two consumers.
+Market behaviour will be determined by the consumers' indifference curves. The blue curves in the diagram represent indifference curves for Octavio, and are shown as convex from his viewpoint (i.e. seen from the bottom left). The orange curves apply to Abby, and are convex as seen from the top right. Moving up and to the right increases Octavio's allocation and puts him onto a more desirable indifference curve while placing Abby onto a less desirable one. 
+Convex indifference curves are considered to be the usual case. They correspond to diminishing returns for each good relative to the other.
+Exchange within the market starts from an initial allocation known as an endowment.
+The main use of the Edgeworth box is to introduce topics in general equilibrium theory in a form in which properties can be visualised graphically. It can also show the difficulty of moving to an efficient outcome in the presence of bilateral monopoly. In the latter case, it serves as a precursor to the bargaining problem of game theory that allows a unique numerical solution.

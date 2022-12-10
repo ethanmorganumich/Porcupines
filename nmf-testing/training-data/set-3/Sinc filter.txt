@@ -1,0 +1,225 @@
+Digital signal processing~Filter frequency response~Filter theory~Signal processing~
+||||||
+Sinc filter
+||||||
+In signal processing, a sinc filter is an idealized filter that removes all frequency components above a given cutoff frequency, without affecting lower frequencies, and has linear phase response. The filter's impulse response is a sinc function in the time domain 
+  
+    
+      
+        
+          (
+          
+            
+              
+                
+                  sin
+                  ⁡
+                  (
+                  π
+                  t
+                  )
+                
+                
+                  π
+                  t
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \left({\tfrac {\sin(\pi t)}{\pi t}}\right),}
+   and its frequency response is a rectangular function. It is an "ideal" low-pass filter in the frequency sense, perfectly passing low frequencies, perfectly cutting high frequencies; and thus may be considered to be a brick-wall filter.
+Real-time filters can only approximate this ideal, since an ideal sinc filter (a.k.a. rectangular filter) is non-causal and has an infinite delay, but it is commonly found in conceptual demonstrations or proofs, such as the sampling theorem and the Whittaker–Shannon interpolation formula.
+In mathematical terms, the desired frequency response is the rectangular function:
+
+  
+    
+      
+        H
+        (
+        f
+        )
+        =
+        rect
+        ⁡
+        
+          (
+          
+            
+              f
+              
+                2
+                B
+              
+            
+          
+          )
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  
+                    |
+                  
+                  f
+                  
+                    |
+                  
+                  >
+                  B
+                  ,
+                
+              
+              
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  
+                    |
+                  
+                  f
+                  
+                    |
+                  
+                  =
+                  B
+                  ,
+                
+              
+              
+                
+                  1
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  
+                    |
+                  
+                  f
+                  
+                    |
+                  
+                  <
+                  B
+                  ,
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle H(f)=\operatorname {rect} \left({\frac {f}{2B}}\right)={\begin{cases}0,&{\text{if }}|f|>B,\\{\frac {1}{2}},&{\text{if }}|f|=B,\\1,&{\text{if }}|f|<B,\end{cases}}}
+  where B is an arbitrary cutoff frequency (a.k.a. bandwidth). The impulse response of such a filter is given by the inverse Fourier transform of the frequency response:
+
+  
+    
+      
+        
+          
+            
+              
+                h
+                (
+                t
+                )
+                =
+                
+                  
+                    
+                      F
+                    
+                  
+                  
+                    −
+                    1
+                  
+                
+                {
+                H
+                (
+                f
+                )
+                }
+              
+              
+                
+                =
+                
+                  ∫
+                  
+                    −
+                    B
+                  
+                  
+                    B
+                  
+                
+                exp
+                ⁡
+                (
+                2
+                π
+                i
+                f
+                t
+                )
+                
+                d
+                f
+              
+            
+            
+              
+              
+                
+                =
+                2
+                B
+                sinc
+                ⁡
+                (
+                2
+                π
+                B
+                t
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}h(t)={\mathcal {F}}^{-1}\{H(f)\}&=\int _{-B}^{B}\exp(2\pi ift)\,df\\&=2B\operatorname {sinc} (2\pi Bt)\end{aligned}}}
+  where sinc is the normalized sinc function.
+As the sinc filter has infinite impulse response in both positive and negative time directions, it must be approximated for real-world (non-abstract) applications; a windowed sinc filter is often used instead. Windowing and truncating a sinc filter kernel in order to use it on any practical real world data set reduces its ideal properties.
+

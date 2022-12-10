@@ -1,0 +1,7 @@
+Programming language theory~
+||||||
+Referential transparency
+||||||
+In computer science, referential transparency and referential opacity are properties of parts of computer programs. An expression is called referentially transparent if it can be replaced with its corresponding value (and vice-versa) without changing the program's behavior. This requires that the expression be pure – its value must be the same for the same inputs and its evaluation must have no side effects. An expression that is not referentially transparent is called referentially opaque.
+In mathematics, all function applications are referentially transparent, by the definition of what constitutes a mathematical function. However, this is not always the case in programming, where the terms procedure and method are used to avoid misleading connotations. A defining characteristic of functional programming is that it only allows referentially transparent functions. Other programming languages may provide means to selectively guarantee referential transparency. Some functional programming languages enforce referential transparency for all functions.
+The importance of referential transparency is that it allows the programmer and the compiler to reason about program behavior as a rewrite system. This can help in proving correctness, simplifying an algorithm, assisting in modifying code without breaking it, or optimizing code by means of memoization, common subexpression elimination, lazy evaluation, or parallelization.

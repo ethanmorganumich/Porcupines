@@ -1,0 +1,5 @@
+Musical set theory~
+||||||
+Interval class
+||||||
+In musical set theory, an interval class (often abbreviated: ic), also known as unordered pitch-class interval, interval distance, undirected interval, or "(even completely incorrectly) as 'interval mod 6'" (Rahn 1980, 29; Whittall 2008, 273–74), is the shortest distance in pitch class space between two unordered pitch classes. For example, the interval class between pitch classes 4 and 9 is 5 because 9 − 4 = 5 is less than 4 − 9 = −5 ≡ 7 (mod 12). See modular arithmetic for more on modulo 12. The largest interval class is 6 since any greater interval n may be reduced to 12 − n.

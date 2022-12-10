@@ -1,0 +1,7 @@
+Corporate finance~Equity securities~Stock market terminology~
+||||||
+Common stock
+||||||
+Common stock is a form of corporate equity ownership, a type of security. The terms voting share and ordinary share are also used frequently outside of the United States. They are known as equity shares or ordinary shares in the UK and other Commonwealth realms.  This type of share gives the stockholder the right to share in the profits of the company, and to vote on matters of corporate policy and the composition of the members of the board of directors.
+The owners of common stock do not own any particular assets of the company, which belong to all the shareholders in common. A corporation may issue both ordinary and preference shares, in which case the preference shareholders have priority to receive dividends. In the event of liquidation, ordinary shareholders receive any remaining funds after bondholders, creditors (including employees), and preference shareholders are paid. When the liquidation happens through bankruptcy, the ordinary shareholders typically receive nothing.
+Since common stock is more exposed to the risks of the business than bonds or preferred stock, it offers a greater potential for capital appreciation. Over the long term, common stocks tend to outperform more secure investments, despite their short-term volatility.

@@ -1,0 +1,10 @@
+Animation techniques~Visual perception~
+||||||
+Persistence of vision
+||||||
+Persistence of vision traditionally refers to the optical illusion that occurs when visual perception of an object does not cease for some time after the rays of light proceeding from it have ceased to enter the eye.  
+The illusion has also been described as "retinal persistence", "persistence of impressions", simply "persistence" and other variations. A very commonly given example of the phenomenon is the apparent fiery trail of a glowing coal or burning stick while it is whirled around in the dark.Many explanations of the illusion actually seem to describe either positive afterimages or motion blur.
+"Persistence of vision" can also be understood to mean the same as "flicker fusion," the effect that vision seems to persist continuously when the light that enters the eyes is interrupted with short and regular intervals. When the frequency is too high for the visual system to discern differences between moments, light and dark impressions fuse together into a continuous impression of the scene with intermediate brightness.
+Since its introduction, the term "persistence of vision" has been believed to be the explanation for motion perception in optical toys like the phenakistiscope and the zoetrope, and later in cinema. However, this theory has been disputed even before cinematography's breakthrough in 1895. If "persistence of vision" is explained as "flicker fusion", it can be regarded as the reason why the dark intervals don't interrupt the continuous impression of a depicted scene. The illusion of motion as a result of fast intermittent presentations of sequential images is a stroboscopic effect, as detailed by inventor Simon Stampfer.Early descriptions of the illusion often attributed the effect purely to the physiology of the eye, particularly of the retina. Nerves and parts of the brain later became accepted as important factors.
+Sensory memory has been cited as a cause.
+

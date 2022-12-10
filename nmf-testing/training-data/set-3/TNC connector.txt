@@ -1,0 +1,5 @@
+RF connectors~
+||||||
+TNC connector
+||||||
+The TNC connector (acronym of "Threaded Neill–Concelman") is a threaded version of the BNC connector.

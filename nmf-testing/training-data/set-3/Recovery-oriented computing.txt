@@ -1,0 +1,6 @@
+Internet Protocol based network software~
+||||||
+Recovery-oriented computing
+||||||
+Recovery-oriented computing (sometimes abbreviated to ROC) is a method constructed at Stanford University and the University of California, Berkeley for developing reliable Internet services. Its proponents seek to recognize computer bugs as inevitable, and then reduce their harmful effects. The National Science Foundation funds the project.
+There are characteristics that set recovery oriented computing apart from all other failure handling techniques.

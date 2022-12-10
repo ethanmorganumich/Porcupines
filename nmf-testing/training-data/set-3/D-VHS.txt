@@ -1,0 +1,6 @@
+Audiovisual introductions in 1998~High-definition television~Japanese inventions~VHS~Video storage~
+||||||
+D-VHS
+||||||
+D-VHS is a digital video recording format developed by JVC, in collaboration with Hitachi, Matsushita, and Philips. The "D" in D-VHS originally stood for "Data", but JVC renamed the format as "Digital VHS". Released in 1998, it uses the same physical cassette format and recording mechanism as S-VHS, but requires higher-quality and more expensive tapes and is capable of recording and displaying both standard-definition and high-definition content. The content data format is in MPEG transport stream, the same data format used for most digital television applications.
+

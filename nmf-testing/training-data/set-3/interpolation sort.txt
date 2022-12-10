@@ -1,0 +1,6 @@
+Sorting algorithms~Stable sorts~
+||||||
+Interpolation sort
+||||||
+Interpolation sort is a kind of bucket sort. It uses an interpolation formula to assign data to the bucket. A general interpolation formula is:
+Interpolation = INT(((Array[i] - min) / (max - min)) * (ArraySize - 1))

@@ -1,0 +1,5 @@
+Economics theorems~Market (economics)~
+||||||
+Edgeworth's limit theorem
+||||||
+Edgeworth's limit theorem is an economic theorem created by Francis Ysidro Edgeworth that examines a range of possible outcomes which may result from free market exchange or barter between groups of people. It shows that while the precise location of the final settlement (the ultimate division of goods) between the parties is indeterminate, there is a range of potential outcomes which shrinks as the number of traders increases.

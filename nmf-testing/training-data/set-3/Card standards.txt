@@ -1,0 +1,10 @@
+Smart cards~
+||||||
+Card standards
+||||||
+Card standard(s) may refer to any amount of numbers of ISO standards related to smartcards.
+
+ISO/IEC 7810 Identification cards — Physical characteristics
+ISO/IEC 7812 Identification cards — Identification of issuers
+ISO/IEC 7816 Identification cards — Integrated circuit cards
+ISO/IEC 14443 Identification cards — Contactless integrated circuit cards — Proximity cards

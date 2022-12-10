@@ -1,0 +1,6 @@
+Building and structure type stubs~Structural system~Types of wall~
+||||||
+Mullion wall
+||||||
+A mullion wall is a structural system in which the load of the floor slab is taken by prefabricated panels around the perimeter. Visually, the effect is similar to the stone mullioned windows of Perpendicular Gothic or Elizabethan architecture.
+The technology was devised by George Grenfell Baines and the engineer Felix Samuely in order to cope with material shortages at the Thomas Linacre School, Wigan (1952) and refined at the Shell Offices, Stanlow (1956), the Derby Colleges of Technology and Art (1956–64). and Manchester University Humanities Building (1961–67) A similar concept to the mullion wall was adopted by Eero Saarinen at the US Embassy, London (1955–60) and by Minoru Yamasaki at the World Trade Center, New York (1966–73).

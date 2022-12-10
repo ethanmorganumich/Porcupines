@@ -1,0 +1,12 @@
+Types of polygons~
+||||||
+Rectilinear polygon
+||||||
+A rectilinear polygon is a polygon all of whose sides meet at right angles.  Thus the interior angle at each vertex is either 90° or 270°.  Rectilinear polygons are a special case of isothetic polygons.
+In many cases another definition is preferable: a rectilinear polygon is a polygon with sides parallel to the axes of Cartesian coordinates. The distinction becomes crucial when spoken about sets of polygons: the latter definition would imply that sides of all polygons in the set are aligned with the same coordinate axes. Within the framework of the second definition it is natural to speak of horizontal edges and vertical edges of a rectilinear polygon.
+Rectilinear polygons are also known as orthogonal polygons. Other terms in use are iso-oriented,  axis-aligned, and axis-oriented polygons. These adjectives are less confusing when the polygons of this type are rectangles, and the term axis-aligned rectangle is preferred, although orthogonal rectangle and rectilinear rectangle are in use as well.
+The importance of the class of rectilinear polygons comes from the following.  
+
+They are convenient for the representation of shapes in integrated circuit mask layouts due to their simplicity for design and manufacturing. Many manufactured objects result in orthogonal polygons.
+Problems in computational geometry stated in terms of polygons often allow for more efficient algorithms when restricted to orthogonal polygons. An example is provided by the art gallery theorem for orthogonal polygons, which leads to more efficient guard coverage than is possible for arbitrary polygons.
+

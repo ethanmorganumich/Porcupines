@@ -1,0 +1,7 @@
+Database normalization~
+||||||
+Fifth normal form
+||||||
+Fifth normal form (5NF), also known as projection–join normal form (PJ/NF), is a level of database normalization designed to remove redundancy in relational databases recording multi-valued facts by isolating semantically related multiple relationships. A table is said to be in the 5NF if and only if every non-trivial join dependency in that table is implied by the candidate keys. It is the final normal form as far as removing redundancy is concerned.
+A 6NF also exists, but its purpose is not to remove redundancy and it is therefore only adopted by a few data warehouses, where it can be useful to make tables irreducible.
+A join dependency *{A, B, … Z} on R is implied by the candidate key(s) of R if and only if each of A, B, …, Z is a superkey for R.The fifth normal form was first described by Ronald Fagin in his 1979 conference paper Normal forms and relational database operators.

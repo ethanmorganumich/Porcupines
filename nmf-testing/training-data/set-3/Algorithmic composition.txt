@@ -1,0 +1,7 @@
+Computer music~Markov models~Music theory~Procedural generation~
+||||||
+Algorithmic composition
+||||||
+Algorithmic composition is the technique of using algorithms to create music.
+Algorithms (or, at the very least, formal sets of rules) have been used to compose music for centuries; the procedures used to plot voice-leading in Western counterpoint, for example, can often be reduced to algorithmic determinacy. The term can be used to describe music-generating techniques that run without ongoing human intervention, for example through the introduction of chance procedures. However through live coding and other interactive interfaces, a fully human-centric approach to algorithmic composition is possible.Some algorithms or data that have no immediate musical relevance are used by composers as creative inspiration for their music. Algorithms such as fractals, L-systems, statistical models, and even arbitrary data (e.g. census figures, GIS coordinates, or magnetic field measurements) have been used as source materials.
+

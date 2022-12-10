@@ -1,0 +1,9 @@
+Common law~Contract law~Contract law stubs~Equitable defenses~
+||||||
+Impossibility
+||||||
+In contract law, impossibility is an excuse for the nonperformance of duties under a contract, based on a change in circumstances (or the discovery of preexisting circumstances), the nonoccurrence of which was an underlying assumption of the contract, that makes performance of the contract literally impossible.
+For example, if Ebenezer contracts to pay Erasmus £100 to paint his house on October 1, but the house burns to the ground before the end of September, Ebenezer is excused from his duty to pay Erasmus the £100, and Erasmus is excused from his duty to paint Ebenezer's house; however, Erasmus may still be able to sue under the theory of unjust enrichment for the value of any benefit he conferred on Ebenezer before his house burned down.
+The parties to a contract may choose to ignore impossibility by inserting a hell or high water clause, which mandates that payments continue even if completion of the contract becomes physically impossible.
+In common law, for the defense of "impossibility" to be raised performance must not merely be difficult or unexpectedly costly for one party, there must be no way for it to actually be accomplished; however, it is beginning to be recognized that "impossibility" under this doctrine can also exist when the contemplated performance can be done but only at an excessive and unreasonable cost, i.e., commercial impracticability.  On the other hand, some sources see "impossibility" and impracticability as being related but separate defenses.
+The English case that established the doctrine of impossibility at common law is Taylor v. Caldwell.

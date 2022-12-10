@@ -1,0 +1,33 @@
+Binary trees~Trees (data structures)~
+||||||
+Self-balancing binary search tree
+||||||
+In computer science, a self-balancing binary search tree (BST) is any node-based binary search tree that automatically keeps its height (maximal number of levels below the root) small in the face of arbitrary item insertions and deletions.
+These operations when designed for a self-balancing binary search tree, contain precautionary measures against boundlessly increasing tree height, so that these abstract data structures receive the attribute "self-balancing".
+For height-balanced binary trees, the height is defined to be logarithmic 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        log
+        ⁡
+        n
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(\log n)}
+   in the number 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   of items. This is the case for many binary search trees, such as AVL trees and red–black trees. Splay trees and treaps are self-balancing but not height-balanced, as their height is not guaranteed to be logarithmic in the number of items.
+Self-balancing binary search trees provide efficient implementations for mutable ordered lists, and can be used for other abstract data structures such as associative arrays, priority queues and sets.

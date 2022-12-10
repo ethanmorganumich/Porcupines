@@ -1,0 +1,5 @@
+Internet properties established in 1995~Internet search engines~Metasearch engines~
+||||||
+Dogpile
+||||||
+Dogpile is a metasearch engine for information on the World Wide Web that fetches results from Google, Yahoo!, Yandex, Bing, and other popular search engines, including those from audio and video content providers such as Yahoo!.

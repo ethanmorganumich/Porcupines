@@ -1,0 +1,7 @@
+Economics and finance stubs~Intertemporal economics~
+||||||
+Intertemporal equilibrium
+||||||
+Intertemporal equilibrium is a notion of economic equilibrium conceived over many periods of time.
+In modern economic theory, most models explicitly take into account the fact that the economy evolves over time, and that its equilibrium cannot be fruitfully analyzed from a purely static perspective. Therefore the general equilibrium of the economy is conceived as an intertemporal equilibrium, meaning that households and firms are assumed to make intertemporal decisions. That is, households are assumed to choose consumption and labor on the basis of wages, prices, utility, and wealth over their whole lifetimes, instead of considering these quantities at just one point in time. Likewise, firms are assumed to choose hiring, investment, and output on the basis of productivity and demand over the foreseeable future, instead of considering these quantities at just one point in time.
+The intertemporal general equilibrium is then analyzed as the Nash equilibrium or competitive equilibrium of the intertemporal strategies of all the households and firms (and any other economic agents under consideration, such as governments).

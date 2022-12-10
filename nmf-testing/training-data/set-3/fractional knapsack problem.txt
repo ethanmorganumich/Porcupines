@@ -1,0 +1,6 @@
+Combinatorial optimization~
+||||||
+Continuous knapsack problem
+||||||
+In theoretical computer science, the continuous knapsack problem (also known as the fractional knapsack problem) is an algorithmic problem in combinatorial optimization in which the goal is to fill a container (the "knapsack") with fractional amounts of different materials chosen to maximize the value of the selected materials. It resembles the classic knapsack problem, in which the items to be placed in the container are indivisible; however, the continuous knapsack problem may be solved in polynomial time whereas the classic knapsack problem is NP-hard.  It is a classic example of how a seemingly small change in the formulation of a problem can have a large impact on its computational complexity.
+

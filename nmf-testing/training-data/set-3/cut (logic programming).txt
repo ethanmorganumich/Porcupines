@@ -1,0 +1,6 @@
+Logic programming~
+||||||
+Cut (logic programming)
+||||||
+The cut, in Prolog, is a goal, written as !, which always succeeds, but cannot be backtracked. Cuts can be used to prevent unwanted backtracking, which could add unwanted solutions and/or space/time overhead to a query.
+The cut should be used sparingly. While cuts can be inserted into codes containing errors, if a test is unnecessary because a cut has guaranteed that it is true, it is good practice to say so in a comment at the appropriate place.Some programmers call the cut a controversial control facility  because it was added for efficiency reasons only and is not a Horn clause.

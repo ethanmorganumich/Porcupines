@@ -1,0 +1,5 @@
+Computability theory~Logic in computer science~Undecidable problems~
+||||||
+Undecidable problem
+||||||
+In computability theory and computational complexity theory, an undecidable problem is a decision problem for which it is proved to be impossible to construct an algorithm that always leads to a correct yes-or-no answer. The halting problem is an example: it can be proven that there is no algorithm that correctly determines whether arbitrary programs eventually halt when run.

@@ -1,0 +1,6 @@
+Matrix decompositions~Numerical linear algebra~Operator theory~
+||||||
+Cholesky decomposition
+||||||
+In linear algebra, the Cholesky decomposition or Cholesky factorization (pronounced  shə-LES-kee) is a decomposition of a Hermitian, positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose, which is useful for efficient numerical solutions, e.g., Monte Carlo simulations. It was discovered by André-Louis Cholesky for real matrices, and posthumously published in 1924.
+When it is applicable, the Cholesky decomposition is roughly twice as efficient as the LU decomposition for solving systems of linear equations.

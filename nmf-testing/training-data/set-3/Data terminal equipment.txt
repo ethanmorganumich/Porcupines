@@ -1,0 +1,7 @@
+Telecommunications equipment~
+||||||
+Data terminal equipment
+||||||
+Data terminal equipment (DTE) is an end instrument that converts user information into signals or reconverts received signals. These can also be called tail circuits. A DTE device communicates with the data circuit-terminating equipment (DCE). The DTE/DCE classification was introduced by IBM.
+A DTE is the functional unit of a data station that serves as a data source or a data sink and provides for the data communication control function to be performed in accordance with the link protocol.
+Usually, the DTE device is the terminal (or a computer emulating a terminal), and the DCE is a modem or another carrier-owned device. The data terminal equipment may be a single piece of equipment or an interconnected subsystem of multiple pieces of equipment that perform all the required functions necessary to permit users to communicate. A user interacts with the DTE (e.g. through a human-machine interface), or the DTE may be the user.

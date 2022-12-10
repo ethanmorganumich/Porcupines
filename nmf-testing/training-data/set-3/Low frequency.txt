@@ -1,0 +1,7 @@
+Radio spectrum~
+||||||
+Low frequency
+||||||
+Low frequency (LF) is the ITU designation for radio frequencies (RF) in the range of 30–300 kHz. Since its wavelengths range from 10–1 km, respectively, it is also known as the kilometre band or kilometre wave.
+LF radio waves exhibit low signal attenuation, making them suitable for long-distance communications. In Europe and areas of Northern Africa and Asia, part of the LF spectrum is used for AM broadcasting as the "longwave" band. In the western hemisphere, its main use is for aircraft beacon, navigation (LORAN), information, and weather systems. A number of time signal broadcasts also use this band.
+

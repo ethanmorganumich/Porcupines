@@ -1,0 +1,6 @@
+1978 software~Desktop publishing software~Digital typography~Donald Knuth~Free TeX software~Macro programming languages~Markup languages~TeX~Typesetting~Typesetting software~
+||||||
+TeX
+||||||
+TeX  (, see below), stylized within the system as TeX, is a typesetting system which was designed and written by computer scientist and Stanford University professor Donald Knuth and first released in 1978. TeX is a popular means of typesetting complex mathematical formulae; it has been noted as one of the most sophisticated digital typographical systems.TeX is widely used in academia, especially in mathematics, computer science, economics, political science, engineering, linguistics, physics, statistics, and quantitative psychology. It has long since displaced Unix troff, the previously favored formatting system, in most Unix installations. It is also used for many other typesetting tasks, especially in the form of LaTeX, ConTeXt, and other macro packages.
+TeX was designed with two main goals in mind: to allow anybody to produce high-quality books with minimal effort, and to provide a system that would give exactly the same results on all computers, at any point in time (together with the Metafont language for font description and the Computer Modern family of typefaces). TeX is free software, which made it accessible to a wide range of users.

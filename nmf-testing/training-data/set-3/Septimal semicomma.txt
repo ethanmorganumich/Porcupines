@@ -1,0 +1,75 @@
+7-limit tuning and intervals~Commas (music)~Superparticular intervals~
+||||||
+Septimal semicomma
+||||||
+In music, the septimal semicomma, a seven-limit semicomma, is the ratio 126/125 and is equal to approximately 13.79 cents (play ). It is also called the small septimal comma and the starling comma after its use in starling temperament.
+Factored into primes it is: 
+  
+    
+      
+        2
+        ∗
+        
+          3
+          
+            2
+          
+        
+        ∗
+        
+          5
+          
+            −
+            3
+          
+        
+        ∗
+        7
+      
+    
+    {\displaystyle 2*3^{2}*5^{-3}*7}
+  
+Or as simple just intervals: 
+  
+    
+      
+        (
+        6
+        
+          /
+        
+        5
+        
+          )
+          
+            3
+          
+        
+        ∗
+        (
+        7
+        
+          /
+        
+        6
+        )
+        ∗
+        (
+        2
+        
+          /
+        
+        1
+        
+          )
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle (6/5)^{3}*(7/6)*(2/1)^{-1}}
+  
+Thus it is the difference between three minor thirds of 6/5 plus a septimal minor third of 7/6 and an octave (2/1). This comma is important to certain tuning systems, such as septimal meantone temperament.
+A diminished seventh chord consisting of three minor thirds and a subminor third making up an octave is possible in such systems. This characteristic feature of these tuning systems is known as the septimal semicomma diminished seventh chord.

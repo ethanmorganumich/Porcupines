@@ -1,0 +1,5 @@
+Communication circuits~Electronic oscillators~Electronic test equipment~Radio technology~Second-harmonic generation~
+||||||
+Frequency synthesizer
+||||||
+A frequency synthesizer is an electronic circuit that generates a range of frequencies from a single reference frequency. Frequency synthesizers are used in many modern devices such as radio receivers, televisions, mobile telephones, radiotelephones, walkie-talkies, CB radios, cable television converter boxes, satellite receivers, and GPS systems. A frequency synthesizer may use the techniques of frequency multiplication, frequency division, direct digital synthesis, frequency mixing, and phase-locked loops to generate its frequencies. The stability and accuracy of the frequency synthesizer's output are related to the stability and accuracy of its reference frequency input. Consequently, synthesizers use stable and accurate reference frequencies, such as those provided by a crystal oscillator.

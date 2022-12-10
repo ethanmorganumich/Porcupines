@@ -1,0 +1,7 @@
+Philosophy of physics~Scientific method~
+||||||
+Inverse-square law
+||||||
+In science, an inverse-square law is any scientific law stating that a specified physical quantity is inversely proportional to the square of the distance from the source of that physical quantity. The fundamental cause for this can be understood as geometric dilution corresponding to point-source radiation into three-dimensional space.
+Radar energy expands during both the signal transmission and the reflected return, so the inverse square for both paths means that the radar will receive energy according to the inverse fourth power of the range.
+To prevent dilution of energy while propagating a signal, certain methods can be used such as a waveguide, which acts like a canal does for water, or how a gun barrel restricts hot gas expansion to one dimension in order to prevent loss of energy transfer to a bullet.

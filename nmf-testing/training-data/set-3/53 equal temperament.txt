@@ -1,0 +1,8 @@
+Equal temperaments~Microtonality~
+||||||
+53 equal temperament
+||||||
+In music, 53 equal temperament, called 53 TET, 53 EDO, or 53 ET, is the tempered scale derived by dividing the octave into 53 equal steps (equal frequency ratios). Play  Each step represents a frequency ratio of 21⁄53, or 22.6415 cents (Play ), an interval sometimes called the Holdrian comma.
+53-TET is a tuning of equal temperament in which the tempered perfect fifth is 701.89 cents wide, as shown in Figure 1.
+The 53-TET tuning equates to the unison, or tempers out, the intervals 32805⁄32768, known as the schisma, and 15625⁄15552, known as the kleisma. These are both 5 limit intervals, involving only the primes 2, 3 and 5 in their factorization, and the fact that 53 ET tempers out both characterizes it completely as a 5 limit temperament: it is the only regular temperament tempering out both of these intervals, or commas, a fact which seems to have first been recognized by Japanese music theorist Shohé Tanaka. Because it tempers these out, 53-TET can be used for both schismatic temperament, tempering out the schisma, and Hanson temperament (also called kleismic), tempering out the kleisma.
+The interval of 7⁄4 is 4.8 cents sharp in 53-TET, and using it for 7-limit harmony means that the septimal kleisma, the interval 225⁄224, is also tempered out.

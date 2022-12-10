@@ -1,0 +1,52 @@
+Binary trees~
+||||||
+Left-child right-sibling binary tree
+||||||
+Every multi-way or k-ary tree structure studied in computer science admits a representation as a binary tree, which goes by various names including child-sibling representation, left-child, right-sibling binary tree, doubly chained tree or filial-heir chain.In a binary tree that represents a multi-way tree T, each node corresponds to a node in T and has two pointers: one to the node's first child, and one to its next sibling in T. The children of a node thus form a singly-linked list. To find a node n's k'th child, one needs to traverse this list:
+
+procedure kth-child(n, k):
+    child ← n.child
+    while k ≠ 0 and child ≠ nil:
+        child ← child.next-sibling
+        k ← k − 1
+    return child  // may return nil
+
+The process of converting from a k-ary tree to an LC-RS binary tree is sometimes called the Knuth transform. To form a binary tree from an arbitrary k-ary tree by this method, the root of the original tree is made the root of the binary tree. Then, starting with the root, each node's leftmost child in the original tree is made its left child in the binary tree, and its nearest sibling to the right in the original tree is made its right child in the binary tree.
+Doubly chained trees were described by Edward H. Sussenguth in 1963.Processing a k-ary tree to LC-RS binary tree, every node is linked and aligned with the left child, and the next nearest is a sibling. For example, we have a ternary tree below:
+
+                  1
+                 /|\
+                / | \
+               /  |  \
+              2   3   4
+             / \      |
+            5   6     7
+                     / \
+                    8   9
+
+We can re-write it by putting the left child node to one level below its parents and by putting the sibling next to the child at the same level –  it will be linear (same line).
+
+                  1
+                 /
+                /
+               /
+              2---3---4
+             /       /
+            5---6   7
+                   /
+                  8---9
+
+We can transform this tree to a binary tree by turning each sibling 45° clockwise.
+                1
+               /
+              2
+             / \
+            5   3
+             \   \
+              6   4
+                 /
+                7
+               /
+              8
+               \
+                9

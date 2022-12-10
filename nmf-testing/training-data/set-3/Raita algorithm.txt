@@ -1,0 +1,5 @@
+String matching algorithms~
+||||||
+Raita algorithm
+||||||
+In computer science, the Raita algorithm is a string searching algorithm which improves the performance of Boyer–Moore–Horspool algorithm. This algorithm preprocesses the string being searched for the pattern, which is similar to Boyer–Moore string-search algorithm. The searching pattern of particular sub-string in a given string is different from Boyer–Moore–Horspool algorithm. This algorithm was published by Timo Raita in 1991.

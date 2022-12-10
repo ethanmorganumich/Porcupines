@@ -1,0 +1,7 @@
+Capacitors~Electromagnetic compatibility~
+||||||
+Capacitive coupling
+||||||
+Capacitive coupling is the transfer of energy within an electrical network or between distant networks by means of displacement current between circuit(s)  nodes, induced by the electric field. This coupling can have an intentional or accidental effect.
+
+In its simplest implementation, capacitive coupling is achieved by placing a capacitor between two nodes.  Where analysis of many points in a circuit is carried out, the capacitance at each point and between points can be described in a matrix form.

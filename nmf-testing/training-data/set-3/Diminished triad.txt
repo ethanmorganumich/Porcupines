@@ -1,0 +1,9 @@
+Chords~
+||||||
+Diminished triad
+||||||
+In music theory, a diminished triad (also known as the minor flatted fifth) is a triad consisting of two minor thirds above the root. It is a minor triad with a lowered (flattened) fifth.  When using chord symbols, it may be indicated by the symbols "dim", "o", "m♭5", or "MI(♭5)". However, in most popular-music chord books, the symbol "dim" and "o" represents a diminished seventh chord (a four-tone chord), which in some modern jazz books and music theory books is represented by the "dim7" or "o7" symbols. 
+For example, the diminished triad built on C, written as Co, has pitches C–E♭–G♭:
+
+The chord can be represented by the integer notation {0, 3, 6}.
+In the common practice period, the diminished triad is considered dissonant because of the diminished fifth (or tritone).

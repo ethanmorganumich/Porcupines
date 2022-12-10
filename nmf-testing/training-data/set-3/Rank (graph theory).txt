@@ -1,0 +1,7 @@
+Algebraic graph theory~Graph connectivity~Graph invariants~
+||||||
+Rank (graph theory)
+||||||
+In graph theory, a branch of mathematics, the rank of an undirected graph has two unrelated definitions.  Let n equal the number of vertices of the graph.
+
+In the matrix theory of graphs the rank r of an undirected graph is defined as the rank of its adjacency matrix.Analogously, the nullity of the graph is the nullity of its adjacency matrix, which equals n − r.In the matroid theory of graphs the rank of an undirected graph is defined as the number n − c, where c is the number of connected components of the graph. Equivalently, the rank of a graph is the rank of the oriented incidence matrix associated with the graph.Analogously, the nullity of the graph is the nullity of its oriented incidence matrix, given by the formula m − n + c, where n and c are as above and m is the number of edges in the graph. The nullity is equal to the first Betti number of the graph. The sum of the rank and the nullity is the number of edges.

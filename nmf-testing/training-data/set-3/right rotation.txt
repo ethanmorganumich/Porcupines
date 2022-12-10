@@ -1,0 +1,9 @@
+Trees (data structures)~
+||||||
+Right rotation
+||||||
+Right rotation refers to the following
+
+In an array, moving all items to the next higher location.  The last item is moved to the first location, which has been vacated.
+In a list, removing the tail and inserting it at the head.
+In machine code (and assembly language) moving all bits in a register to the right, with the rightmost (least significant bit) becoming the leftmost.

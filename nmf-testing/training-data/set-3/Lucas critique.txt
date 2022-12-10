@@ -1,0 +1,5 @@
+1976 in economics~Macroeconomic policy~New classical macroeconomics~
+||||||
+Lucas critique
+||||||
+The Lucas critique, named for American economist Robert Lucas's work on macroeconomic policymaking, argues that it is naive to try to predict the effects of a change in economic policy entirely on the basis of relationships observed in historical data, especially highly aggregated historical data. More formally, it states that the decision rules of Keynesian models—such as the consumption function—cannot be considered as structural in the sense of being invariant with respect to changes in government policy variables. The Lucas critique is significant in the history of economic thought as a representative of the paradigm shift that occurred in macroeconomic theory in the 1970s towards attempts at establishing micro-foundations.

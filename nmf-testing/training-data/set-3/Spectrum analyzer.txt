@@ -1,0 +1,7 @@
+Acoustics~Electronic test equipment~Laboratory equipment~Radio technology~Scattering~Signal processing~Spectroscopy~
+||||||
+Spectrum analyzer
+||||||
+A spectrum analyzer measures the magnitude of an input signal versus frequency within the full frequency range of the instrument. The primary use is to measure the power of the spectrum of known and unknown signals. The input signal that most common spectrum analyzers measure is electrical; however, spectral compositions of other signals, such as acoustic pressure waves and optical light waves, can be considered through the use of an appropriate transducer. Spectrum analyzers for other types of signals also exist, such as optical spectrum analyzers which use direct optical techniques such as a monochromator to make measurements.
+By analyzing the spectra of electrical signals, dominant frequency, power, distortion, harmonics, bandwidth, and other spectral components of a signal can be observed that are not easily detectable in time domain waveforms.  These parameters are useful in the characterization of electronic devices, such as wireless transmitters.
+The display of a spectrum analyzer has frequency on the horizontal axis and the amplitude displayed on the vertical axis. To the casual observer, a spectrum analyzer looks like an oscilloscope and, in fact, some lab instruments can function either as an oscilloscope or a spectrum analyzer.

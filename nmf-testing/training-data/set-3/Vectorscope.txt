@@ -1,0 +1,5 @@
+Electronic test equipment~Film and video technology~Measuring instruments~
+||||||
+Vectorscope
+||||||
+A vectorscope is a special type of oscilloscope used in both audio and video applications. Whereas an oscilloscope or waveform monitor normally displays a plot of signal vs. time, a vectorscope displays an X-Y plot of two signals, which can reveal details about the relationship between these two signals. Vectorscopes are highly similar in operation to oscilloscopes operated in X-Y mode; however those used in video applications have specialized graticules, and accept standard television or video signals as input (demodulating and demultiplexing the two components to be analyzed internally).

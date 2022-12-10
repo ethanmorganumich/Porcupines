@@ -1,0 +1,5 @@
+Architectural element stubs~Architectural elements~Building engineering~
+||||||
+Strap footing
+||||||
+A strap footing is a component of a building's foundation. It is a type of combined footing,  consisting of two or more column footings connected by a concrete beam. This type of beam is called a strap beam. It is used to help distribute the weight of either heavily or eccentrically loaded column footings to adjacent footings.A strap footing is often used in conjunction with columns that are located along a building's property or lot line. Typically, columns are centered on column footings, but in conditions where columns are located directly adjacent to the property line, the column footings may be offset so that they do not encroach onto the adjacent property.  This results in an eccentric load on a portion of the footing, causing it to tilt to one side. The strap beam restrains the tendency of the footing to overturn by connecting it to nearby footings.

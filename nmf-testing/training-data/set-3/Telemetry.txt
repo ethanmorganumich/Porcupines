@@ -1,0 +1,6 @@
+Measurement~Spaceflight technology~Telecommunications~Telemetry~
+||||||
+Telemetry
+||||||
+Telemetry is the in situ collection of measurements or other data at remote points and their automatic transmission to receiving equipment (telecommunication) for monitoring. The word is derived from the Greek roots tele, "remote", and metron, "measure". Systems that need external instructions and data to operate require the counterpart of telemetry, telecommand.Although the term commonly refers to wireless data transfer mechanisms (e.g., using radio, ultrasonic, or infrared systems), it also encompasses data transferred over other media such as a telephone or computer network, optical link or other wired communications like power line carriers. Many modern telemetry systems take advantage of the low cost and ubiquity of GSM networks by using SMS to receive and transmit telemetry data.
+A telemeter is a physical device used in telemetry. It consists of a sensor, a transmission path, and a display, recording, or control device. Electronic devices are widely used in telemetry and can be wireless or hard-wired, analog or digital. Other technologies are also possible, such as mechanical, hydraulic and optical.Telemetry may be commutated to allow the transmission of multiple data streams in a fixed frame.

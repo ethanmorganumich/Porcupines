@@ -1,0 +1,7 @@
+Fax~Telecommunications stubs~
+||||||
+Kendall effect
+||||||
+In telecommunications the Kendall effect is a spurious pattern or other distortion in a facsimile.
+It is caused by unwanted modulation products which arise from the transmission of the carrier signal, and appear in the form of a rectified baseband that interferes with the lower sideband of the carrier.  
+The Kendall effect occurs principally when the single-sideband width is greater than half of the facsimile carrier frequency.

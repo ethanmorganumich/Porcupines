@@ -1,0 +1,145 @@
+1936 in computing~Articles with example Lisp (programming language) code~Computability theory~Formal methods~Lambda calculus~Models of computation~Theoretical computer science~
+||||||
+Lambda calculus
+||||||
+Lambda calculus (also written as λ-calculus) is a formal system in mathematical logic for expressing computation based on function abstraction and application using variable binding and substitution. It is a universal model of computation that can be used to simulate any Turing machine. It was introduced by the mathematician Alonzo Church in the 1930s as part of his research into the foundations of mathematics.
+Lambda calculus consists of constructing § lambda terms and performing § reduction operations on them. In the simplest form of lambda calculus, terms are built using only the following rules:
+
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   – variable, a character or string representing a parameter or mathematical/logical value.
+
+  
+    
+      
+        (
+        λ
+        x
+        .
+        M
+        )
+      
+    
+    {\textstyle (\lambda x.M)}
+   – abstraction, function definition (
+  
+    
+      
+        M
+      
+    
+    {\textstyle M}
+   is a lambda term). The variable 
+  
+    
+      
+        x
+      
+    
+    {\textstyle x}
+   becomes bound in the expression.
+
+  
+    
+      
+        (
+        M
+         
+        N
+        )
+      
+    
+    {\displaystyle (M\ N)}
+   – application, applying a function 
+  
+    
+      
+        M
+      
+    
+    {\textstyle M}
+   to an argument 
+  
+    
+      
+        N
+      
+    
+    {\textstyle N}
+  . 
+  
+    
+      
+        M
+      
+    
+    {\textstyle M}
+   and 
+  
+    
+      
+        N
+      
+    
+    {\textstyle N}
+   are lambda terms.The reduction operations include:
+
+  
+    
+      
+        (
+        λ
+        x
+        .
+        M
+        [
+        x
+        ]
+        )
+        →
+        (
+        λ
+        y
+        .
+        M
+        [
+        y
+        ]
+        )
+      
+    
+    {\textstyle (\lambda x.M[x])\rightarrow (\lambda y.M[y])}
+   – α-conversion, renaming the bound variables in the expression. Used to avoid name collisions.
+
+  
+    
+      
+        (
+        (
+        λ
+        x
+        .
+        M
+        )
+         
+        E
+        )
+        →
+        (
+        M
+        [
+        x
+        :=
+        E
+        ]
+        )
+      
+    
+    {\textstyle ((\lambda x.M)\ E)\rightarrow (M[x:=E])}
+   – β-reduction, replacing the bound variables with the argument expression in the body of the abstraction.If De Bruijn indexing is used, then α-conversion is no longer required as there will be no name collisions. If repeated application of the reduction steps eventually terminates, then by the Church–Rosser theorem it will produce a β-normal form.
+Variable names are not needed if using a universal lambda function, such as Iota and Jot, which can create any function behavior by calling it on itself in various combinations.

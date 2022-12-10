@@ -1,0 +1,6 @@
+Synthesiser modules~
+||||||
+Envelope (music)
+||||||
+In sound and music, an envelope describes how a sound changes over time. It may relate to elements such as amplitude (volume), frequencies (with the use of filters) or pitch. For example, a piano key, when struck and held, creates a near-immediate initial sound which gradually decreases in volume to zero. 
+Envelope generators, which allow users to control the different stages of a sound, are common features of synthesizers, samplers, and other electronic musical instruments. The most common form of envelope generator is controlled with four parameters: attack, decay, sustain and release (ADSR).

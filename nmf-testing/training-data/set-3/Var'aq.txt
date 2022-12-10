@@ -1,0 +1,7 @@
+Computing-related lists~Indexes of computer topics~Science-related lists~
+||||||
+Index of computing articles
+||||||
+Originally, the word computing was synonymous with counting and calculating, and the science and technology of mathematical calculations. Today, "computing" means using computers and other computing machines. It includes their operation and usage, the electrical processes carried out within the computing hardware itself, and the theoretical concepts governing them (computer science).
+See also: List of programmers, List of computing people, List of computer scientists, List of basic computer science topics, List of terms relating to algorithms and data structures.
+Topics on computing include:

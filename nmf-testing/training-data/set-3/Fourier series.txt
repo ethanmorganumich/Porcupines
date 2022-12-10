@@ -1,0 +1,13 @@
+Fourier series~Joseph Fourier~
+||||||
+Fourier series
+||||||
+A Fourier series () is a summation of harmonically related sinusoidal functions, also known as components or harmonics.  The result of the summation is a periodic function whose functional form is determined by the choices of cycle length (or period), the number of components, and their amplitudes and phase parameters.  With appropriate choices, one cycle (or period) of the summation can be made to approximate an arbitrary function in that interval (or the entire function if it too is periodic).   The number of components is theoretically infinite, in which case the other parameters can be chosen to cause the series to converge to almost any well behaved periodic function (see Pathological and Dirichlet conditions).  The components of a particular function are determined by analysis techniques described in this article.  Sometimes the components are known first, and the unknown function is synthesized
+
+by a Fourier series.  Such is the case of a discrete-time Fourier transform.
+Convergence of Fourier series means that as more and more components from the series are summed, each successive partial Fourier series sum will better approximate the function, and will equal the function with a potentially infinite number of components. The mathematical proofs for this may be collectively referred to as the Fourier Theorem (see § Convergence).  The figures below illustrate some partial Fourier series results for the components of a square wave.
+
+		
+		
+Another analysis technique (not covered here), suitable for both periodic and non-periodic functions, is the Fourier transform, which provides a frequency-continuum of component information.  But when applied to a periodic function all components have zero amplitude, except at the harmonic frequencies.  The inverse Fourier transform is a synthesis process (like the Fourier series), which converts the component information (often known as the frequency domain representation) back into its time domain representation.
+Since Fourier's time, many different approaches to defining and understanding the concept of Fourier series have been discovered, all of which are consistent with one another, but each of which emphasizes different aspects of the topic. Some of the more powerful and elegant approaches are based on mathematical ideas and tools that were not available in Fourier's time. Fourier originally defined the Fourier series for real-valued functions of real arguments, and used the sine and cosine functions as the basis set for the decomposition. Many other Fourier-related transforms have since been defined, extending his initial idea to many applications and birthing an area of mathematics called Fourier analysis.

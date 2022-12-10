@@ -1,0 +1,7 @@
+Concepts in physics~Light~
+||||||
+Spectrum
+||||||
+A spectrum (plural spectra or spectrums) is a condition that is not limited to a specific set of values but can vary, without gaps, across a continuum. The word was first used scientifically in optics to describe the rainbow of colors in visible light after passing through a prism. As scientific understanding of light advanced, it came to apply to the entire electromagnetic spectrum. It thereby became a mapping of a range of magnitudes (wavelengths) to a range of qualities, which are the perceived "colors of the rainbow" and other properties which correspond to wavelengths that lie outside of the visible light spectrum.
+Spectrum has since been applied by analogy to topics outside optics. Thus, one might talk about the "spectrum of political opinion", or the "spectrum of activity" of a drug, or the "autism spectrum". In these uses, values within a spectrum may not be associated with precisely quantifiable numbers or definitions. Such uses imply a broad range of conditions or behaviors grouped together and studied under a single title for ease of discussion. Nonscientific uses of the term spectrum are sometimes misleading. For instance, a single left–right spectrum of political opinion does not capture the full range of people's political beliefs. Political scientists use a variety of biaxial and multiaxial systems to more accurately characterize political opinion.
+In most modern usages of spectrum there is a unifying theme between the extremes at either end. This was not always true in older usage.

@@ -1,0 +1,7 @@
+Apple Inc. acquisitions~Apple Inc. software~MacOS-only software made by Apple Inc.~Macromedia software~Technology & Engineering Emmy Awards~Video editing software~Video editing software for macOS~
+||||||
+Final Cut Pro
+||||||
+Final Cut Pro is a series of non-linear video editing software programs first developed by Macromedia Inc. and later Apple Inc. The most recent version, Final Cut Pro 10.6.4, runs on Mac computers powered by macOS Big Sur 11.5.1 or later. The software allows users to log and transfer video onto a hard drive (internal or external), where it can be edited, processed, and output to a wide variety of formats. The fully rewritten Final Cut Pro X was introduced by Apple in 2011, with the last version of the legacy Final Cut Pro being version 7.0.3.
+Since the early 2000s, Final Cut Pro has developed a large and expanding user base, mainly video hobbyists and independent filmmakers. It has also made inroads with film and television editors who have traditionally used Avid Technology's Media Composer. According to a 2007 SCRI study, Final Cut Pro made up 49% of the United States professional editing market, with Avid at 22%. A published survey in 2008 by the American Cinema Editors Guild placed their users at 21% Final Cut Pro (and growing from previous surveys of this group), while all others were on an Avid system of some kind.
+

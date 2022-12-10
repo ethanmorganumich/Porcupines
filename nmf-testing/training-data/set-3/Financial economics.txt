@@ -1,0 +1,10 @@
+Actuarial science~Financial economics~
+||||||
+Financial economics
+||||||
+Financial economics, also known as finance, is the branch of economics characterized by a "concentration on monetary activities", in which "money of one type or another is likely to appear on both sides of a trade". 
+Its concern is thus the interrelation of financial variables, such as share prices, interest rates and exchange rates, as opposed to those concerning the real economy. 
+It has two main areas of focus: asset pricing, commonly known as "Investments", and corporate finance; the first being the perspective of providers of capital, i.e. investors, and the second of users of capital.
+It thus provides the theoretical underpinning for much of finance.
+The subject is concerned with "the allocation and deployment of economic resources, both spatially and across time, in an uncertain environment". It therefore centers on decision making under uncertainty in the context of the financial markets, and the resultant economic and financial models and principles, and is concerned with deriving testable or policy implications from acceptable assumptions. It is built on the foundations of microeconomics and decision theory.
+Financial econometrics is the branch of financial economics that uses econometric techniques to parameterise these relationships.

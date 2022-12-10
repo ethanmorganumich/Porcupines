@@ -1,0 +1,9 @@
+Algorithms~British Museum~
+||||||
+British Museum algorithm
+||||||
+The British Museum algorithm is a general approach to finding a solution by checking all possibilities one by one, beginning with the smallest. The term refers to a conceptual, not a practical, technique where the number of possibilities is enormous.
+Newell, Shaw, and Simon 
+called this procedure the British Museum algorithm 
+
+"... since it seemed to them as sensible as placing monkeys in front of typewriters in order to reproduce all the books in the British Museum."

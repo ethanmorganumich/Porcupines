@@ -1,0 +1,19 @@
+Logic symbols~Mathematical notation~Mathematical symbols~
+||||||
+Up tack
+||||||
+The up tack or falsum (⊥, \bot in LaTeX, U+22A5 in Unicode) is a constant symbol used to represent:
+
+The truth value 'false', or a logical constant denoting a proposition in logic that is always false (often called "falsum" or "absurdum").
+The bottom element in wheel theory and lattice theory, which also represents absurdum when used for logical semantics
+The bottom type in type theory, which is the bottom element in the subtype relation. This may coincide with the empty type, which represents absurdum under the Curry–Howard correspondenceas well as
+
+Mixed radix decoding in the APL programming languageThe glyph of the up tack appears as an upside-down tee symbol, and as such is sometimes called eet (the word "tee" in reverse). Tee plays a complementary or dual role in many of these theories.
+The similar-looking perpendicular symbol (⟂, \perp in LaTeX, U+27C2 in Unicode) is a binary relation symbol used to represent:
+
+Perpendicularity of lines in geometry
+Orthogonality in linear algebra
+Independence of random variables in probability theory
+Coprimality in number theoryThe double tack up symbol (⫫, U+2AEB in Unicode) is a constant symbol used to represent:
+
+Conditional independence of random variables in probability theory

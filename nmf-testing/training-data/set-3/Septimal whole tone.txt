@@ -1,0 +1,7 @@
+7-limit tuning and intervals~Seconds (music)~Superparticular intervals~
+||||||
+Septimal whole tone
+||||||
+In music, the septimal whole tone, septimal major second, or supermajor second play  is the musical interval exactly or approximately equal to an 8/7 ratio of frequencies. It is about 231 cents wide in just intonation. 24 equal temperament does not match this interval particularly well, its nearest representation being at 250 cents, approximately 19 cents sharp. The septimal whole tone may be derived from the harmonic series as the interval between the seventh and eighth harmonics and the term septimal refers to the fact that it utilizes the seventh harmonic. It can also be thought of as the octave inversion of the 7/4 interval, the harmonic seventh.
+
+No close approximation to this interval exists in the standard 12 equal temperament used in most modern western music. The very simple 5 equal temperament is the smallest system to match this interval well. 26 equal temperament matches this interval almost perfectly with an error of only 0.4 cents, but at the cost of the significant flatness of its major thirds and fifths. 31 equal temperament, which has much more accurate fifths and major thirds, approximates 8/7 with a slightly higher error of 1.1 cents.

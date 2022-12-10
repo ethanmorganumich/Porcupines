@@ -1,0 +1,6 @@
+3-limit tuning and intervals~Just tuning and intervals~Major intervals~Thirds (music)~
+||||||
+Ditone
+||||||
+In music, a ditone (Latin: ditonus, from Ancient Greek: δίτονος, "of two tones") is the interval of a major third. The size of a ditone varies according to the sizes of the two tones of which it is compounded. The largest is the Pythagorean ditone, with a ratio of 81:64, also called a comma-redundant major third; the smallest is the interval with a ratio of 100:81, also called a comma-deficient major third.
+

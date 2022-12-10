@@ -1,0 +1,5 @@
+Gross domestic product~
+||||||
+Gross national income
+||||||
+The gross national income (GNI), previously known as gross national product (GNP), is the total domestic and foreign output claimed by residents of a country, consisting of gross domestic product (GDP), plus factor incomes earned by foreign residents, minus income earned in the domestic economy by nonresidents.: 44  Comparing GNI to GDP shows the degree to which a nation's GDP represents domestic or international activity.  GNI has gradually replaced GNP in international statistics. While being conceptually identical, it is calculated differently. GNI is the basis of calculation of the largest part of contributions to the budget of the European Union.  In February 2017, Ireland's GDP became so distorted from the base erosion and profit shifting ("BEPS") tax planning tools of U.S. multinationals, that the Central Bank of Ireland replaced Irish GDP with a new metric, Irish Modified GNI (or "GNI*").  In 2017, Irish GDP was 162% of Irish Modified GNI.

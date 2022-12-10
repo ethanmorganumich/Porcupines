@@ -1,0 +1,6 @@
+AmigaOS~File systems supported by the Linux kernel~Solid-state computer storage media~
+||||||
+RAM drive
+||||||
+A RAM drive (also called a RAM disk) is a block of random-access memory (primary storage or volatile memory) that a computer's software is treating as if the memory were a disk drive (secondary storage). It is sometimes referred to as a virtual RAM drive or software RAM drive to distinguish it from a hardware RAM drive that uses separate hardware containing RAM, which is a type of battery-backed solid-state drive. 
+Historically primary storage based mass storage devices were conceived to bridge the performance gap between internal memory and secondary storage devices. In the advent of solid-state devices this advantage lost most of its appeal. However, solid-state devices do suffer from wear from frequent writing.  Primary memory writes do not so or in far lesser effect. So RAM devices do offer an advantage to store frequently changing data, like temporary or cached information.

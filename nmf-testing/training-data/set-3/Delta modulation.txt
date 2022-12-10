@@ -1,0 +1,10 @@
+Data compression~Digital signal processing~
+||||||
+Delta modulation
+||||||
+A delta modulation (DM or Δ-modulation) is an analog-to-digital and digital-to-analog signal conversion technique used for transmission of voice information where quality is not of primary importance. DM is the simplest form of differential pulse-code modulation (DPCM) where the difference between successive samples is encoded into n-bit data streams. In delta modulation, the transmitted data are reduced to a 1-bit data stream. Its main features are:
+
+The analog signal is approximated with a series of segments.
+Each segment of the approximated signal is compared to the preceding bits and the successive bits are determined by this comparison.
+Only the change of information is sent, that is, only an increase or decrease of the signal amplitude from the previous sample is sent whereas a no-change condition causes the modulated signal to remain at the same 0 or 1 state of the previous sample.To achieve high signal-to-noise ratio, delta modulation must use oversampling techniques, that is, the analog signal is sampled at a rate several times higher than the Nyquist rate.
+Derived forms of delta modulation are continuously variable slope delta modulation, delta-sigma modulation, and differential modulation. Differential pulse-code modulation is the superset of DM.

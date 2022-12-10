@@ -1,0 +1,6 @@
+Single-stage transistor amplifiers~
+||||||
+Common emitter
+||||||
+In electronics, a common-emitter amplifier is one of three basic single-stage bipolar-junction-transistor (BJT) amplifier topologies, typically used as a voltage amplifier. It offers high current gain (typically 200), medium input resistance and a high output resistance. The output of a common emitter amplifier is 180 degrees out of phase to the input signal.In this circuit the base terminal of the transistor serves as the input, the collector is the output, and the emitter is common to both (for example, it may be tied to ground reference or a power supply rail), hence its name. The analogous FET circuit is the common-source amplifier, and the analogous tube circuit is the common-cathode amplifier.
+

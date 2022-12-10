@@ -1,0 +1,39 @@
+Antennas (radio)~Engineering ratios~Telecommunications engineering~
+||||||
+Gain (antenna)
+||||||
+In electromagnetics, an antenna's gain is a key performance parameter which combines the antenna's directivity and radiation efficiency.  The term power gain has been deprecated by IEEE.  In a transmitting antenna, the gain describes how well the antenna converts input power into radio waves headed in a specified direction. In a receiving antenna, the gain describes how well the antenna converts radio waves arriving from a specified direction into electrical power. When no direction is specified, gain is understood to refer to the peak value of the gain, the gain in the direction of the antenna's main lobe.  A plot of the gain as a function of direction is called the antenna pattern or radiation pattern.  It is not to be confused with directivity, which does not take an antenna's radiation efficiency into account.
+Gain or 'absolute gain' is defined as "The ratio of the radiation intensity in a given direction to the radiation intensity that would be produced if the power accepted by the antenna were isotropically radiated".  Usually this ratio is expressed in decibels with respect to an isotropic radiator (dBi).  An alternative definition compares the received power to the power received by a lossless half-wave dipole antenna, in which case the units are written as dBd.  Since a lossless dipole antenna has a gain of 2.15 dBi,  the relation between these units is 
+  
+    
+      
+        
+          G
+          a
+          i
+          n
+          (
+          d
+          B
+          d
+          )
+        
+        ≈
+        
+          G
+          a
+          i
+          n
+          (
+          d
+          B
+          i
+          )
+        
+        −
+        2.15
+      
+    
+    {\displaystyle \mathrm {Gain(dBd)} \approx \mathrm {Gain(dBi)} -2.15}
+  .  For a given frequency, the antenna's effective area is proportional to the gain.  An antenna's effective length is proportional to the square root of the antenna's gain for a particular frequency and radiation resistance. Due to reciprocity, the gain of any antenna when receiving is equal to its gain when transmitting.
+

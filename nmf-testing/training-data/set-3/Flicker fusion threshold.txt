@@ -1,0 +1,14 @@
+Vision~
+||||||
+Flicker fusion threshold
+||||||
+The flicker fusion threshold, critical flicker frequency (CFF) or flicker fusion rate, is a concept in the psychophysics of vision.  It is defined as the frequency at which an intermittent light stimulus appears to be completely steady to the average human observer. A traditional term for flicker fusion is "persistence of vision", but this has also been used to describe positive afterimages or motion blur. Although flicker can be detected for many waveforms representing time-variant fluctuations of intensity, it is conventionally, and most easily, studied in terms of sinusoidal modulation of intensity.
+There are seven parameters that determine the ability to detect the flicker:
+
+the frequency of the modulation;
+the amplitude or depth of the modulation (i.e., what is the maximum percent decrease in the illumination intensity from its peak value);
+the average (or maximum—these can be inter-converted if modulation depth is known) illumination intensity;
+the wavelength (or wavelength range) of the illumination (this parameter and the illumination intensity can be combined into a single parameter for humans or other animals for which the sensitivities of rods and cones are known as a function of wavelength using the luminous flux function);
+the position on the retina at which the stimulation occurs (due to the different distribution of photoreceptor types at different positions);
+the degree of light or dark adaptation, i.e., the duration and intensity of previous exposure to background light, which affects both the intensity sensitivity and the time resolution of vision;
+physiological factors such as age and fatigue.

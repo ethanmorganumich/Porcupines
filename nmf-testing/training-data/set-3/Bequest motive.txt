@@ -1,0 +1,10 @@
+Family economics~Inheritance~
+||||||
+Bequest motive
+||||||
+A bequest motive seeks to provide an economic justification for the phenomenon of intergenerational transfers of wealth. In other words, to explain why people leave money behind when they die.
+Which bequest motive theory most realistically represents the intentions of estate planners is unclear. Attempts to test the theories empirically are mired by poor availability of data about wealth holdings.
+
+The most common explanation for this is altruism, in which it is held that the disponer gains some form of satisfaction from knowing that his/her heirs will enjoy their inherited wealth. An example might be a parent leaving a child the family home.
+Another common explanation is accidental bequest, developed by economists Yaari (1965) and Davies (1980).  Here it is not assumed that the disponer (testator) gains any specific benefit from leaving a bequest, but rather that lifetime is uncertain, and so she/he holds precautionary savings to insure him/herself against the risk of living too long. Unspent wealth at time of death is transferred according to intestacy law.
+Finally, exchange bequest occurs where disponers engage in a sort of strategic game in which potential beneficiaries must render a (non-marketable) service in exchange for the promise of inherited wealth. The most widely read model of exchange bequest was published by Bernheim, Summers and Shleifer (1985).

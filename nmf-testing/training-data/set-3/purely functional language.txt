@@ -1,0 +1,7 @@
+Functional programming~Programming paradigms~
+||||||
+Purely functional programming
+||||||
+In computer science, purely functional programming usually designates a programming paradigm—a style of building the structure and elements of computer programs—that treats all computation as the evaluation of mathematical functions. 
+Program state and mutable objects are usually modeled with temporal logic, as explicit variables that represent the program state at each step of a program execution: a variable state is passed as an input parameter of a state-transforming function, which returns the updated state as part of its return value. This style handles state changes without losing the referential transparency of the program expressions.
+Purely functional programming consists of ensuring that functions, inside the functional paradigm, will only depend on their arguments, regardless of any global or local state. A pure functional subroutine only has visibility of changes of state represented by state variables included in its scope.

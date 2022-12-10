@@ -1,0 +1,5 @@
+American legal terminology~Evidence law~
+||||||
+Suppression of evidence
+||||||
+Suppression of evidence is a term used in the United States legal system to describe the lawful or unlawful act of preventing evidence from being shown in a trial.  This could happen for several reasons. For example, if a judge believes that the evidence in question was obtained illegally, the judge can rule that it not be shown in court.  It could also refer to a prosecutor improperly or intentionally hiding evidence that does not go with their case (their theory of what happened) and could suggest or prove to the judge or jury that the defendant is not guilty or that (s)he is legally obligated to show the defense. In the latter case, this would be a violation of the 5th amendment to the United States Constitution. Also Rule 3.8 of the ABA Model Rules of Professional Conduct requires prosecutors to "make timely disclosure to the defense of all evidence or information that tends to negate the guilt of the accused or mitigates the offense." (This is not for all states.) This can result in a mistrial in the latter case and/or the dismissal of the prosecutor.

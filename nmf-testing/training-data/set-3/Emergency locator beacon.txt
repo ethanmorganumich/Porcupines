@@ -1,0 +1,5 @@
+Aircraft emergency systems~Beacons~Emergency communication~Radio geopositioning~
+||||||
+Emergency locator beacon
+||||||
+An emergency locator beacon is a radio beacon, a portable battery powered radio transmitter, used to locate airplanes, vessels, and persons in distress and in need of immediate rescue.  Various types of emergency locator beacons are carried by aircraft, ships, vehicles, hikers and cross-country skiers.  In case of an emergency, such as the aircraft crashing, the ship sinking, or a hiker becoming lost, the transmitter is deployed and begins to transmit a continuous radio signal, which is used by search and rescue teams to quickly find the emergency and render aid.  The purpose of all emergency locator beacons is to help rescuers find survivors within the so-called "golden day", the first 24 hours following a traumatic event, during which the majority of survivors can usually be saved.

@@ -1,0 +1,6 @@
+Electrodynamics~Microwave technology~Telecommunications engineering~Wave mechanics~
+||||||
+Waveguide (radio frequency)
+||||||
+In radio-frequency engineering and communications engineering, waveguide is a hollow metal pipe used to carry radio waves. This type of waveguide is used as a transmission line mostly at microwave frequencies, for such purposes as connecting microwave transmitters and receivers to their antennas, in equipment such as microwave ovens, radar sets, satellite communications, and microwave radio links.
+The electromagnetic waves in a (metal-pipe) waveguide may be imagined as travelling down the guide in a zig-zag path, being repeatedly reflected between opposite walls of the guide. For the particular case of rectangular waveguide, it is possible to base an exact analysis on this view. Propagation in a dielectric waveguide may be viewed in the same way, with the waves confined to the dielectric by total internal reflection at its surface. Some structures, such as non-radiative dielectric waveguides and the Goubau line, use both metal walls and dielectric surfaces to confine the wave.

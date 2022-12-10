@@ -1,0 +1,6 @@
+Arches and vaults~
+||||||
+Segmental arch
+||||||
+A segmental arch is a type of arch with a circular arc of less than 180 degrees. It is sometimes also called a scheme arch.The segmental arch is one of the strongest arches because it is able to resist thrust. To prevent failure, a segmental arch must have a rise that is equal to at least one-eighth the width of the span. Segmental arches with a rise that is less than one-eighth of the span width must have a permanent support or frame beneath the arch to prevent failure.As far as is known, the ancient Romans were the first to develop the segmental arch. The closed-spandrel Pont-Saint-Martin bridge in the Aosta Valley in Italy dates to 25 BC. The first open-spandrel segmental arch bridge is the Anji Bridge over the Xiao River in Hebei Province in China, which was built in 610 AD.Segmental arches are most commonly used in the 20th century in residential construction over doorways, fireplaces, and windows.
+

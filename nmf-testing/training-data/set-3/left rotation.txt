@@ -1,0 +1,9 @@
+Trees (data structures)~
+||||||
+Left rotation
+||||||
+Left rotation refers to the following
+
+In an array, moving all items to the next lower location. The first item is moved to the last location, which is now vacant.
+In a list, removing the head and inserting it at the tail.
+In machine code (and assembly language) moving all bits in a register to the left, with the leftmost (most significant bit) becoming the rightmost.

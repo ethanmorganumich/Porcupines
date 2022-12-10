@@ -1,0 +1,8 @@
+Telegraphy~
+||||||
+Push-to-type operation
+||||||
+Push-to-type operation:  In telegraph or data transmission systems, that method of communication in which the operator at a station must keep a switch operated in order to send messages. 
+Push-to-type operation is used in radio systems where the same frequency is employed for transmission and reception.  
+Push-to-type operation is a derivative form of transmission and may be used in simplex, half-duplex, or duplex operation. Synonym press-to-type operation.
+This is similar to Push-to-talk operation for radio phone communications.

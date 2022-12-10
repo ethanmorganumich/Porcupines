@@ -1,0 +1,9 @@
+United States criminal procedure~
+||||||
+Reciprocal discovery
+||||||
+In United States criminal procedure, the Federal government and certain states have reciprocal discovery laws that compel defendants to disclose some information to prosecutors before trial.  Within the federal court system, this material is referred to as reverse Jencks Act material, after the United States Supreme Court case which established the principle, Jencks v. United States.In the United States, prosecutors are required to disclose to defendants information that is potentially exculpatory, whether or not that information is requested by the defendant. When a defendant exercises the right to request additional discovery, that is, information that the prosecutor is legally compelled to provide only upon the defendant's request, the prosecutor is allowed to request reciprocal discovery, obtaining certain information from the defendant that is comparable in nature to the information that the prosecutor must provide to the defendant. The prosecutor's right to demand discovery is not as broad as the defendant's, as it is limited by the defendant's Fifth Amendment protection against self-incrimination.Once reciprocal discovery is invoked, information that a defendant must disclose upon a prosecutor's request typically includes:
+Witness lists,
+Exhibit lists,
+Access to physical evidence in the possession of the defendant for purpose of inspection and testing, and
+Reports prepared by defense expert witnesses.The prosecution may also gain rights to notice of specific affirmative defenses, such as whether the defendant intends to raise an alibi defense or insanity defense, and have discovery rights relating to those defenses.

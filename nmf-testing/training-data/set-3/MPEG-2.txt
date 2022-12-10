@@ -1,0 +1,5 @@
+Audio codecs~ISO/IEC standards~Interactive television~MPEG-2~Open standards covered by patents~Video codecs~Video compression~Videotelephony~
+||||||
+MPEG-2
+||||||
+MPEG-2 (a.k.a. H.222/H.262 as was defined by the ITU) is a standard for "the generic coding of moving pictures and associated audio information". It describes a combination of lossy video compression and lossy audio data compression methods, which permit storage and transmission of movies using currently available storage media and transmission bandwidth. While MPEG-2 is not as efficient as newer standards such as H.264/AVC and H.265/HEVC, backwards compatibility with existing hardware and software means it is still widely used, for example in over-the-air digital television broadcasting and in the DVD-Video standard.

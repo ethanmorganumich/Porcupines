@@ -1,0 +1,6 @@
+Asset~Fundamental analysis~Valuation (finance)~
+||||||
+Book value
+||||||
+In accounting, book value  is the value of an asset according to its balance sheet account balance. For assets, the value is based on the original cost of the asset less any depreciation, amortization or impairment costs made against the asset. Traditionally, a company's book value is its total assets minus intangible assets and liabilities. However, in practice, depending on the source of the calculation, book value may variably include goodwill, intangible assets, or both. The value inherent in its workforce, part of the intellectual capital of a company, is always ignored.  When intangible assets and goodwill are explicitly excluded, the metric is often specified to be "tangible book value".
+In the United Kingdom, the term net asset value may refer to the book value of a company.

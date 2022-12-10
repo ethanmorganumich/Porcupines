@@ -1,0 +1,5 @@
+Antennas (radio)~Radio frequency antenna types~Satellite broadcasting~
+||||||
+Feed horn
+||||||
+A feed horn (or feedhorn) is a small horn antenna used to couple a waveguide to e.g. a parabolic dish antenna or offset dish antenna for reception or transmission of microwave. A typical application is the use for satellite television reception with a satellite dish. In that case the feed horn can either be a separate part used together with e.g. a "low-noise block downconverter" (LNB), or more typically today is integrated into a "low-noise block feedhorn" (LNBF).

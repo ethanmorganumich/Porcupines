@@ -1,0 +1,5 @@
+Applications of geographic information systems~Crime mapping~Crime statistics~Criminology~Human geography~Law enforcement techniques~Map types~
+||||||
+Crime mapping
+||||||
+Crime mapping is used by analysts in law enforcement agencies to map, visualize, and analyze crime incident patterns.  It is a key component of crime analysis and the CompStat policing strategy.  Mapping crime, using Geographic Information Systems (GIS), allows crime analysts to identify crime hot spots, along with other trends and patterns.

@@ -1,0 +1,6 @@
+Defunct websites~Internet properties established in 2005~Internet search engines~Search engine software~Web software stubs~
+||||||
+Myriad Search
+||||||
+Myriad Search was a metasearch engine developed by Aaron Wall which offered ad-free search results. Myriad Search allowed users to select search results from Ask Jeeves, Google, MSN, and Yahoo It was trialled ("in beta") from September 16, 2005, and in February 2006 Wall made the source code available as open source. He withdrew it altogether in 2009 because it had stopped working with Google.
+Myriad Search allowed users to select search depth and place bias on the search results from each of the major search engines. Searchers could promote engines that were providing results relevant to their query and demote or deselect engines which were providing irrelevant results. Myriad Search also made it easy for searchers to tab through the search results one engine at a time.

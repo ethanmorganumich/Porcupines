@@ -1,0 +1,27 @@
+Musical keys~
+||||||
+Closely related key
+||||||
+In music, a closely related key (or close key) is one sharing many common tones with an original key, as opposed to a distantly related key (or distant key). In music harmony, there are six of them: five share all, or all except one, pitches with a key with which it is being compared, and is adjacent to it on the circle of fifths and its relative major or minor, and one shares the same tonic.
+Such keys are the most commonly used destinations or transpositions in a modulation, because of their strong structural links with the home key. Distant keys may be reached sequentially through closely related keys by chain modulation, for example, C to G to D. For example, "One principle that every composer of Haydn's day [Classical music era] kept in mind was over-all unity of tonality. No piece dared wander too far from its tonic key, and no piece in a four-movement form dared to present a tonality not closely related to the key of the whole series." For example, the first movement of Mozart's Piano Sonata No. 7, K. 309, modulates only to closely related keys (the dominant, supertonic, and submediant).Given a major key tonic (I), the related keys are: 
+
+ii (supertonic, the relative minor of the subdominant)
+iii (mediant, the relative minor of the dominant)
+IV (subdominant): one less sharp (or one more flat) around circle of fifths
+V (dominant): one more sharp (or one fewer flat) around circle of fifths
+vi (submediant or relative minor): different tonic, same key signature
+i (parallel minor): same tonic, different key signature
+Specifically:
+
+Starting from a minor key (i), the closely related keys are the mediant or relative major (III), the subdominant (iv), the minor dominant (v), the submediant (VI), the subtonic (VII), and the parallel major (I). In the key of A minor, when we translate them to keys, we get:
+
+C major
+D minor
+E minor
+F major
+G major
+A majorAnother view of closely related keys is that there are six closely related keys, based on the tonic and the remaining triads of the diatonic scale, excluding the dissonant diminished triads. Four of the five differ by one accidental, one has the same key signature, and one uses the parallel modal form. In the key of C major, these would be: D minor, E minor, F major, G major, A minor, and C minor. Despite being three sharps or flats away from the original key in the circle of fifths, parallel keys are also considered as closely related keys as the tonal center is the same, and this makes this key have an affinity with the original key. 
+In modern music, the closeness of a relation between any two keys or sets of pitches may be determined by the number of tones they share in common, which allows one to consider modulations not occurring in standard major-minor tonality. For example, in music based on the pentatonic scale containing pitches C, D, E, G, and A, modulating a fifth higher gives the collection of pitches G, A, B, D, and E, having four of five tones in common. However, modulating up a tritone would produce F♯, G♯, A♯, C♯, D♯, which shares no common tones with the original scale. Thus the scale a fifth higher is very closely related, while the scale a tritone higher is not. Other modulations may be placed in order from closest to most distant depending upon the number of common tones.
+Another view in modern music, notably in Bartók, a common tonic produces closely related keys, the other scales being the six other modes. This usage can be found in several of the Mikrokosmos piano pieces.
+When modulation causes the new key to traverse the bottom of the circle of fifths this may give rise to a theoretical key, containing eight (or more) sharps or flats in its notated key signature; in such a case, notational conventions require recasting the new section in its enharmonically equivalent key.
+Andranik Tangian suggests 3D and 2D visualizations of key/chord proximity for both all major and all minor keys/chords by locating them along a single subdominant-dominant axis, which wraps a torus that is then unfolded.

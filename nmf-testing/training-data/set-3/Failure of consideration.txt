@@ -1,0 +1,13 @@
+Contract law~Restitution~
+||||||
+Failure of consideration
+||||||
+Failure of consideration is a technical legal term referring to situations in which one person confers a benefit upon another upon some condition or basis ("consideration") which fails to materialise or subsist. It is also referred to as "failure of basis". It is an 'unjust factor' for the purposes of the law of unjust enrichment. Where there is a "total failure of consideration" the claimant can seek restitution of the benefit by bringing an action in unjust enrichment against the defendant. Historically speaking, this was as a quasi-contractual claim known as an action for money had and received to the plaintiff's use for a consideration that wholly failed. The orthodox view is that it is necessary for any relevant contract to be ineffective, for example because it is discharged for breach, void ab initio (from the beginning) or frustrated. However, it will be available on a subsisting contract where it does not undermine the contractual allocation of risk.Failure of consideration is a highly technical area of law. Particular areas of controversy include:
+
+Whether the failure of the consideration must be 'total', and the scope and meaning of such a requirement;
+Whether 'consideration' refers not only to bargained-for counter-performance by the defendant, but also a legal or factual state of affairs;
+Whether this ground of restitution only applies to money claims or also extends to non-money benefits (e.g., chattels, services);
+Whether this ground of restitution can be relied upon by a contract-breaker;
+Whether the (now ineffective) contract has any impact upon (a) the availability of a claim; or (b) the valuation of any such claim;
+Whether a failure of consideration can also generate proprietary remedies (e.g., a resulting trust);
+Whether a claimant can elect to terminate a contract for breach and escape a 'bad bargain' by suing in unjust enrichment on the ground of total failure of consideration.

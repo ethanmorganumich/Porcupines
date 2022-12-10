@@ -1,0 +1,5 @@
+Fiber optics~
+||||||
+Cutback technique
+||||||
+In telecommunications, a cutback technique is a destructive technique for determining certain optical fiber transmission characteristics, such as attenuation and bandwidth.

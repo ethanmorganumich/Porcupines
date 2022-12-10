@@ -1,0 +1,7 @@
+Polynomial-time problems~
+||||||
+Element distinctness problem
+||||||
+In computational complexity theory, the element distinctness problem or element uniqueness problem is the problem of determining whether all the elements of a list are distinct.
+It is a well studied problem in many different models of computation. The problem may be solved by sorting the list and then checking if there are any consecutive equal elements; it may also be solved in linear expected time by a randomized algorithm that inserts each item into a hash table and compares only those elements that are placed in the same hash table cell.Several lower bounds in computational complexity are proved by reducing the element distinctness problem to the problem in question, i.e., by demonstrating that the solution of the element uniqueness problem may be quickly found after solving the problem in question.
+

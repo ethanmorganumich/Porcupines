@@ -1,0 +1,37 @@
+Digital circuits~Multiplexing~
+||||||
+Multiplexer
+||||||
+In electronics, a multiplexer (or mux; spelled sometimes as multiplexor), also known as a data selector, is a device that selects between several analog or digital input signals and forwards the selected input to a single output line. The selection is directed by a separate set of digital inputs known as select lines. A multiplexer of 
+  
+    
+      
+        
+          2
+          
+            n
+          
+        
+      
+    
+    {\displaystyle 2^{n}}
+   inputs has 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   select lines, which are used to select which input line to send to the output.A multiplexer makes it possible for several input signals to share one device or resource, for example, one analog-to-digital converter or one communications transmission medium, instead of having one device per input signal. Multiplexers can also be used to implement Boolean functions of multiple variables.
+Conversely, a demultiplexer (or demux) is a device taking a single input and selecting signals of the output of the compatible mux, which is connected to the single input, and a shared selection line. A multiplexer is often used with a complementary demultiplexer on the receiving end.An electronic multiplexer can be considered as a multiple-input, single-output switch, and a demultiplexer as a single-input, multiple-output switch. The schematic symbol for a multiplexer is an isosceles trapezoid with the longer parallel side containing the input pins and the short parallel side containing the output pin.  The schematic on the right shows a 2-to-1 multiplexer on the left and an equivalent switch on the right. The 
+  
+    
+      
+        s
+        e
+        l
+      
+    
+    {\displaystyle sel}
+   wire connects the desired input to the output.

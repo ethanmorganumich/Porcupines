@@ -1,0 +1,6 @@
+Telecommunications engineering~Telecommunications stubs~
+||||||
+Insertion gain
+||||||
+In telecommunication, insertion gain is the gain resulting from the insertion of a device in a transmission line, expressed as the ratio of the signal power delivered to that part of the line following the device to the signal power delivered to that same part before insertion.  If the resulting number is less than unity, an "insertion loss" is indicated. 
+Insertion gain is usually expressed in dB.

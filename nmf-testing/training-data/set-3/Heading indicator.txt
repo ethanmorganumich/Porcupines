@@ -1,0 +1,6 @@
+Aircraft instruments~Avionics~
+||||||
+Heading indicator
+||||||
+The heading indicator (HI), also known as a directional gyro (DG) or direction indicator (DI), is a flight instrument used in an aircraft to inform the pilot of the aircraft's heading.
+

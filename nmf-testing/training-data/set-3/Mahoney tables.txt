@@ -1,0 +1,24 @@
+Architecture stubs~Heating, ventilation, and air conditioning~Solar design~Sustainable building~
+||||||
+Mahoney tables
+||||||
+The Mahoney tables are a set of reference tables used in architecture, used as a guide to climate-appropriate design. They are named after architect Carl Mahoney, who worked on them together with John Martin Evans, and Otto Königsberger. They were first published in 1971 by the United Nations Department of Economic and Social Affairs.
+The concept developed by Mahoney (1968) in Nigeria provided the basis of the
+Mahoney Tables, later developed by Koenigsberger, Mahoney and Evans (1970),
+published by the United Nations in English, French and Spanish, with large sections
+included in the widely distributed publication by Koenigsberger et al. (1978).
+The Mahoney Tables (Evans, 1999; Evans, 2001) proposed a climate analysis sequence
+that starts with the basic and widely available monthly climatic data of temperature,
+humidity and rainfall, such as that found in HMSO (1958) and Pearce and Smith (1990),
+or data published by national meteorological services, for example SMN (1995).
+Today, the data for most major cities can be downloaded directly from the Internet
+
+(from sites such as http://www.wunderground.com/global/AG.html, 2006).
+The tables use readily available climate data and simple calculations to give design guidelines, in a manner similar to a spreadsheet, as opposed to detailed thermal analysis or simulation. There are six tables; four are used for entering climatic data, for comparison with the requirements for thermal comfort; and two for reading off appropriate design criteria. A rough outline of the table usage is:
+
+Air Temperatures. The max, min, and mean temperatures for each month are entered into this table.
+Humidity, Precipitation, and Wind. The max, min, and mean figures for each month are entered into this table, and the conditions for each month classified into a humidity group.
+Comparison of Comfort Conditions and Climate. The desired max/min temperatures are entered, and compared to the climatic values from table 1. A note is made if the conditions create heat stress or cold stress (i.e. the building will be too hot or cold).
+Indicators (of humid or arid conditions). Rules are provided for combining the stress (table 3) and humidity groups (table 2) to check a box classifying the humidity and aridity for each month. For each of six possible indicators, the number of months where that indicator was checked are added up, giving a yearly total.
+Schematic Design Recommendations. The yearly totals in table 4 correspond to rows in this table, listing schematic design recommendations, e.g. 'buildings oriented on east–west axis to reduce sun exposure', 'medium-sized openings, 20%–40% of wall area'.
+Design Development Recommendations. Again the yearly totals from table 4 are used to read off recommendations, e.g. 'roofs should be high-mass and well insulated'.

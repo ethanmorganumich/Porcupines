@@ -1,0 +1,6 @@
+8-bit microprocessors~Computer-related introductions in 1972~
+||||||
+Intel 8008
+||||||
+The Intel 8008 ("eight-thousand-eight" or "eighty-oh-eight") is an early byte-oriented microprocessor designed by Computer Terminal Corporation (CTC), implemented and manufactured by Intel, and introduced in April 1972. It is an 8-bit CPU with an external 14-bit address bus that could address 16 KB of memory. Originally known as the 1201, the chip was commissioned by Computer Terminal Corporation (CTC) to implement an instruction set of their design for their Datapoint 2200 programmable terminal. As the chip was delayed and did not meet CTC's performance goals, the 2200 ended up using CTC's own TTL-based CPU instead. An agreement permitted Intel to market the chip to other customers after Seiko expressed an interest in using it for a calculator.
+

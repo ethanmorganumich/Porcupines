@@ -1,0 +1,25 @@
+Arrangement~Chords~Musical improvisation~
+||||||
+Passing chord
+||||||
+In music, a passing chord is a chord that connects, or passes between, the notes of two diatonic chords. "Any chord that moves between one diatonic chord and another one nearby may be loosely termed a passing chord. A diatonic passing chord may be inserted into a pre-existing progression that moves by a major or minor third in order to create more movement." "'Inbetween chords' that help you get from one chord to another are called passing chords."For example, in the simple chord progression in the key of C Major, which goes from I7/iii7/ii7/V7:
+|Cmaj7     |Em7      |Dm7    |G7   |
+
+the diatonic (this means "from the scale of the tonic") passing chord (Dm7) may be inserted:
+
+|Cmaj7 Dm7 |Em7      |Dm7    |G7   |
+
+or the chromatic passing chord (Ebm7) may be inserted:
+
+|Cmaj7     |Em7 Ebm7 |Dm7    |G7   |
+
+or one or more secondary dominants may be inserted:
+
+|Cmaj7  B7 |Em7  A7 |Dm7   |G7   |    (in this example, the B7 is the secondary dominant of Em7 and the A7 is the secondary dominant of Dm7)
+
+A chromatic passing chord is, "a chord that is not in the harmonized scale" For example, one or more diminished seventh chords may be inserted:
+
+|Cmaj7  D# dim7' |Em7  C# dim7 |Dm7   |G7   |    (in this example, the D# dim7 is the viio7  of Em7 and the C# dim7 is the viio7 of Dm7)
+
+Passing chords may be consonant or dissonant and may include flat fifth substitution, scalewise substitution, dominant minor substitution, approach chords, and bass-line-directed substitution. Passing chords may be written into a lead sheet by a composer, songwriter, or arranger.
+As well, particularly in smaller ensembles, such as the organ trio or jazz quartet, the comping (chord-playing) rhythm section instrumentalists (e.g., jazz guitar, jazz piano, Hammond organ) may improvise passing chords. With large ensembles, such as a big band, the comping players may have less freedom to improvise passing chords, because the composer/arranger may have already written in passing chords into the written horn parts, which might clash with improvised passing chords played by a comping musician. The freedom of comping musicians to improvise passing chords also depends on the tempo. In a very slow ballad, if a chord-playing musician adds in an improvised diminished chord for a half a bar, this may "clash" with the melody notes or chords played by other performers. On the other hand, in an extremely up-tempo (fast) bebop tune, a comping musician could add improvised passing chords with more freedom, because each bar goes by so fast.

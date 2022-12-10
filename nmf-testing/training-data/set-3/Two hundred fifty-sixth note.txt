@@ -1,0 +1,9 @@
+Note values~
+||||||
+Two hundred fifty-sixth note
+||||||
+In music, a two hundred fifty-sixth note (or occasionally demisemihemidemisemiquaver) is a note played for 1⁄256 of the duration of a whole note. It lasts half as long as a hundred twenty-eighth note and takes up one quarter of the length of a sixty-fourth note. In musical notation it has a total of six flags or beams. Since human pitch perception begins at 20 Hz (1200/minute), then a 256th-note tremolo becomes a single pitch in perception at quarter note ≈ 18.75 bpm.
+A single 256th note is always stemmed with flags, while two or more are usually beamed in groups. Notes this short are very rare in printed music but not unknown. One reason that notes with many beams are rare is that, for instance, a thirty-second note at =50 lasts the same amount of time as a sixteenth note at =100; every note in a piece may be notated as twice as long but last the same amount of time if the tempo is also doubled. They are principally used for brief, rapid sections in slow movements. For example, they occur in some editions of the second movement (Largo) of Beethoven's Third Piano Concerto (Op. 37) (1800), to notate rapid scales. Another example is in Mozart's Variations on "Je suis Lindor" (1778), where four of them are used in the slow (molto adagio) eleventh variation. A further example occurs (Grave.Adagio non troppo) in Jan Ladislav Dussek's (1760–1812) Fifth Piano Sonata, Op. 10 No. 2. They also occur (Largo) in Vivaldi's (1678–1741) Concerto, RV 444, and in bar 15 of François Couperin's Second Prelude from L'art de toucher le clavecin (1716).
+
+		
+

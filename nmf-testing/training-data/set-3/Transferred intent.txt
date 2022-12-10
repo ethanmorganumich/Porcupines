@@ -1,0 +1,7 @@
+Criminal law~Intention~Tort law~
+||||||
+Transferred intent
+||||||
+Transferred intent (or transferred mens rea, or transferred malice, in English law) is a legal doctrine that holds that, when the intention to harm one individual inadvertently causes a second person to be hurt instead, the perpetrator is still held responsible. To be held legally responsible, a court typically must demonstrate that the perpetrator had criminal intent (mens rea), that is, that they knew or should have known that another would be harmed by their actions and wanted this harm to occur. For example, if a murderer intends to kill John, but accidentally kills George instead, the intent is transferred from John to George, and the killer is held to have had criminal intent.
+Transferred intent also applies to tort law, in which there are generally five areas where transferred intent is applicable: battery, assault, false imprisonment, trespass to land, and trespass to chattels.  Generally, any intent to cause any one of these five torts which results in the completion of any of the five tortious acts will be considered an intentional act, even if the actual target of the tort is one other than the intended target of the original tort.
+See cases of Carnes v. Thompson, 48 S.W.2d 903 (Mo. 1932) and Bunyan v. Jordan (1937), 57 C.L.R. 1, 37 S.R.N.S.W. 119 for examples.

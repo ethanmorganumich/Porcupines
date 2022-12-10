@@ -1,0 +1,7 @@
+Latin legal terminology~
+||||||
+Volens
+||||||
+In law, volens is a state of mind, referring to voluntary acceptance of a specific risk.  It is usually pleaded by way of defence, and often employs the legal Latin volenti non fit injuria.  The term volens itself is often used in contradistinction to the terms sciens (meaning mere knowledge of the risk, without any voluntary assumption of it).
+The effect of the defence varies from country to country.  In some countries it is (or can be) a total defence to show that the claimant knew and accepted the risk of the injury in undertaking their course of conduct.  In other countries it can give rise to a partial defence of contributory negligence.
+In contract law, many clauses in contracts which at first appear to be exemption clauses relating to personal injury (which are in many countries invalid by law) are in fact phrased so as to demonstrate that the person signing the contract was aware of and voluntarily accepted the risk of personal injury, which may then subsequently establish a successful volenti defence.

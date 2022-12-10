@@ -1,0 +1,5 @@
+Braille symbols~Musical notation~
+||||||
+Braille music
+||||||
+Braille music is a braille code that allows music to be notated using braille cells so music can be read by visually impaired musicians.  The system was incepted by Louis Braille.Braille music uses the same six-position braille cell as literary braille.  However braille music assigns its own meanings and has its own syntax and abbreviations. Almost anything that can be written in print music notation can be written in braille music notation.  However, the notation is an independent and well-developed system with its own conventions.The world's largest collection of the notation is at the Library of Congress in the United States.

@@ -1,0 +1,34 @@
+Geometric algorithms~Linear programming~
+||||||
+Prune and search
+||||||
+Prune and search is a method of solving optimization problems suggested by Nimrod Megiddo in 1983.The basic idea of the method is a recursive procedure in which at each step the input size is reduced ("pruned") by a constant factor 0 < p < 1. As such, it is a form of decrease and conquer algorithm, where at each step the decrease is by a constant factor. Let n be the input size, T(n) be the time complexity of the whole prune-and-search algorithm, and S(n) be the time complexity of the pruning step. Then T(n) obeys the following recurrence relation:
+
+  
+    
+      
+        T
+        (
+        n
+        )
+        =
+        S
+        (
+        n
+        )
+        +
+        T
+        (
+        n
+        (
+        1
+        −
+        p
+        )
+        )
+        .
+      
+    
+    {\displaystyle T(n)=S(n)+T(n(1-p)).}
+  This resembles the recurrence for binary search but has a larger S(n) term than the constant term of binary search. In prune and search algorithms S(n) is typically at least linear (since the whole input must be processed). With this assumption, the recurrence has the solution T(n) = O(S(n)). This can be seen either by applying the master theorem for divide-and-conquer recurrences or by observing that the times for the recursive subproblems decrease in a geometric series.
+In particular, Megiddo himself used this approach in his linear time algorithm for the linear programming problem when the dimension is fixed and for the minimal enclosing sphere problem for a set of points in space.

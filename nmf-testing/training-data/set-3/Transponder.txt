@@ -1,0 +1,5 @@
+Communication circuits~Motorsport terminology~Portmanteaus~Radar~Radio electronics~Radio-frequency identification~Wireless~
+||||||
+Transponder
+||||||
+In telecommunications, a transponder is a device that, upon receiving a signal, emits a different signal in response. The term is a blend of transmitter and responder.In air navigation or radio frequency identification, a flight transponder is an automated transceiver in an aircraft that emits a coded identifying signal in response to an interrogating received signal. In a communications satellite, a satellite transponder receives signals over a range of uplink frequencies, usually from a satellite ground station; the transponder amplifies them, and re-transmits them on a different set of downlink frequencies to receivers on Earth, often without changing the content of the received signal or signals.

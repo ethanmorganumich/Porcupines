@@ -1,0 +1,8 @@
+Poem stubs~Rhyme~
+||||||
+Perfect and imperfect rhymes
+||||||
+Perfect rhyme—also called full rhyme, exact rhyme, or true rhyme—is a form of rhyme between two words or phrases, satisfying the following conditions:
+The stressed vowel sound in both words must be identical, as well as any subsequent sounds.  For example, the words "trouble" and "bubble" (from Shakespeare's Macbeth) form a perfect rhyme.
+The onset of the stressed syllable in the words must differ.  For example, "bean" and "green" is a perfect rhyme, while "leave" and "believe" is not.Word pairs that satisfy the first condition but not the second (such as the aforementioned "leave" and "believe") are technically identities (also known as identical rhymes or identicals). Homophones, being words of different meaning but identical pronunciation, are an example of identical rhyme.
+

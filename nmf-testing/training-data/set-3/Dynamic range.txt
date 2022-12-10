@@ -1,0 +1,5 @@
+Audio amplifier specifications~Electronics concepts~Engineering ratios~Signal processing~
+||||||
+Dynamic range
+||||||
+Dynamic range (abbreviated DR, DNR, or DYR) is the ratio between the largest and smallest values that a certain quantity can assume. It is often used in the context of signals, like sound and light. It is measured either as a ratio or as a base-10 (decibel) or base-2 (doublings, bits or stops) logarithmic value of the difference between the smallest and largest signal values.Electronically reproduced audio and video is often processed to fit the original material with a wide dynamic range into a narrower recorded dynamic range that can more easily be stored and reproduced; this processing is called dynamic range compression.

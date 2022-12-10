@@ -1,0 +1,7 @@
+Automotive lamps~Gas discharge lamps~
+||||||
+High-intensity discharge lamp
+||||||
+High-intensity discharge lamps (HID  lamps) are a type of electrical gas-discharge lamp which produces light by means of an electric arc between tungsten electrodes housed inside a translucent or transparent fused quartz or fused alumina arc tube. This tube is filled with noble gas and often also contains suitable metal or metal salts. The noble gas enables the arc's initial strike. Once the arc is started, it heats and evaporates the metallic admixture. Its presence in the arc plasma greatly increases the intensity of visible light produced by the arc for a given power input, as the metals have many emission spectral lines in the visible part of the spectrum. High-intensity discharge lamps are a type of arc lamp.
+Brand new high-intensity discharge lamps make more visible light per unit of electric power consumed than fluorescent and incandescent lamps, since a greater proportion of their radiation is visible light in contrast to infrared. However, the lumen output of HID lighting can deteriorate by up to 70% over 10,000 burning hours.
+Many modern vehicles use HID bulbs for the main lighting systems, although some applications are now moving from HID bulbs to LED and laser technology.

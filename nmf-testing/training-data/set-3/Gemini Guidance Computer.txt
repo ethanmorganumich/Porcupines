@@ -1,0 +1,5 @@
+Guidance computers~IBM avionics computers~Project Gemini~Spacecraft navigation instruments~
+||||||
+Gemini Guidance Computer
+||||||
+The Gemini Guidance Computer (sometimes Gemini Spacecraft On-Board Computer (OBC)) was a digital, serial computer designed for Project Gemini, America's second human spaceflight project. The computer, which facilitated the control of mission maneuvers, was designed by the IBM Federal Systems Division.

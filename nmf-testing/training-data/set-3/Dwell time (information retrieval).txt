@@ -1,0 +1,6 @@
+Information retrieval evaluation~Internet search engines~Web software stubs~
+||||||
+Dwell time (information retrieval)
+||||||
+In information retrieval, dwell time denotes the time which a user spends viewing a document after clicking a link on a search engine results page (SERP).
+Dwell time is the duration between when a user clicks on a search engine result, and when the user returns from that result, or is otherwise seen to have left the result. It is a relevance indicator of the search result correctly satisfying the intent of the user. Short dwell times indicate the user's query intent was not satisfied by viewing the result. Long dwell times indicate the user's query intent was satisfied. Google has used dwell time in page ranking.

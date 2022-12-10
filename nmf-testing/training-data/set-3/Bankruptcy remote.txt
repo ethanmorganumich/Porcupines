@@ -1,0 +1,5 @@
+Bankruptcy~
+||||||
+Bankruptcy remote
+||||||
+A bankruptcy remote company is a company  within a corporate group whose bankruptcy has as little economic impact as possible on other entities within the group. A bankruptcy remote company is often a single-purpose entity, and frequently deployed in the context of mortgage securitizations.In practice, due to the concept of limited liability, most companies in developed legal systems will be de facto bankruptcy remote from other members of the group (except in limited circumstances where creditors are permitted to pierce the corporate veil).  However, in financial structuring, references to bankruptcy remoteness usually imply additional steps being taken to protect group members from attendant liability, such as by using an orphan structure to remove the legal ownership of the bankruptcy remote vehicle from the group, whilst retaining the economic benefits of it.  Such structures are used where the vehicle's activities may give liability to the group as a whole, for example, under certain environmental protection legislation, or in relation to tax liabilities in certain countries.

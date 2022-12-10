@@ -1,0 +1,6 @@
+Electricity~Electrodes~
+||||||
+Electrode
+||||||
+An electrode is an electrical conductor used to make contact with a nonmetallic part of a circuit (e.g. a semiconductor, an electrolyte, a vacuum or air). Electrodes are essential parts of batteries that can consist of a variety of materials depending on the type of battery.
+The electrophore, invented by Johan Wilcke, was an early version of an electrode used to study static electricity.

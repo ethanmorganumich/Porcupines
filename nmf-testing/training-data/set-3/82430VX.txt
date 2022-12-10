@@ -1,0 +1,5 @@
+Chipsets~Intel chipsets~Lists of computer hardware~
+||||||
+List of Intel chipsets
+||||||
+This article provides a list of motherboard chipsets made by Intel, divided into three main categories: those that use the PCI bus for interconnection (the 4xx series), those that connect using specialized "hub links" (the 8xx series), and those that connect using PCI Express (the 9xx series). The chipsets are listed in chronological order.

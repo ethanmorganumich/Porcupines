@@ -1,0 +1,13 @@
+Error~Radio technology~Telephony signals~
+||||||
+Falsing
+||||||
+In telecommunications, falsing is when a decoder assumes that it is detecting a valid input even though one is not present. This is also known as a false decode. This article will discuss analog circuits used before digital signal processing.
+Examples of decoder falsing include:
+
+a telephone answering machine detecting dial pulses from a rotary dial as ringing voltage, with the result that the answering machine answers in response to dialing.
+a two-way radio with an enabled CTCSS decoder turns on the receive audio for one or two syllables of a signal with a close-in-tone-frequency (but wrong) CTCSS tone. The person listening to the radio occasionally hears nonsense partial words from the receiver's speaker: "et"... "up"...
+a ringy telephone circuit with SF single-frequency signaling and poor level discipline drops calls because it sees harmonic frequencies or the distorted waveform as a valid "circuit idle" or "on-hook" SF signal.
+power line transients cause a telemetry decoder to momentarily decode the power line noise as a false "turn-on" command, causing a remote-controlled water well pump to cycle on and off needlessly.Analog tone decoders used in telephone and two-way radio systems are designed to work in a balance between expensive, complicated filtering and low cost simplicity. The engineering problem is to make the simplest circuit that will work reliably. A decoder generally tries to filter audio input to strip off every audio component except a sought-after, specific tone. In part, a decoder is a narrow bandpass filter. A signal that gets through the narrow filter is rectified into a DC voltage which is used to switch something on or off.
+Falsing sometimes occurs on a voice circuit when a human voice hits the exact pitch to which the tone decoder is tuned, a condition called talk-off.
+For the tone decoder to work reliably, the audio input level must be in the linear range of audio stages, (undistorted). A 1,500 Hz tone fed into an amplifier that distorts the tone could produce a harmonic at 3,000 Hz, falsely triggering a decoder that is tuned to 3,000 Hz.

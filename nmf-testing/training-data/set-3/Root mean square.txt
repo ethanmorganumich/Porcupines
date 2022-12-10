@@ -1,0 +1,86 @@
+Means~Statistical deviation and dispersion~
+||||||
+Root mean square
+||||||
+In mathematics and its applications, the root mean square of a set of numbers 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+   (abbreviated as RMS, RMS or rms and denoted in formulas as either 
+  
+    
+      
+        
+          x
+          
+            
+              R
+              M
+              S
+            
+          
+        
+      
+    
+    {\displaystyle x_{\mathrm {RMS} }}
+   or 
+  
+    
+      
+        
+          
+            R
+            M
+            S
+          
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \mathrm {RMS} _{x}}
+  ) is defined as the square root of the mean square (the arithmetic mean of the squares) of the set.
+The RMS is also known as the quadratic mean (denoted 
+  
+    
+      
+        
+          M
+          
+            2
+          
+        
+      
+    
+    {\displaystyle M_{2}}
+  ) and is a particular case of the generalized mean. The RMS of a continuously varying function (denoted 
+  
+    
+      
+        
+          f
+          
+            
+              R
+              M
+              S
+            
+          
+        
+      
+    
+    {\displaystyle f_{\mathrm {RMS} }}
+  ) can be defined in terms of an integral of the squares of the instantaneous values during a cycle.
+For alternating electric current, RMS is equal to the value of the constant direct current that would produce the same power dissipation in a resistive load.
+In estimation theory, the root-mean-square deviation of an estimator is a measure of the imperfection of the fit of the estimator to the data.
+

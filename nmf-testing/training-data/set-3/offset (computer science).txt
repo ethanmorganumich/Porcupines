@@ -1,0 +1,6 @@
+Computer memory~Computer science stubs~
+||||||
+Offset (computer science)
+||||||
+In computer science, an offset within an array or other data structure object is an integer indicating the distance (displacement) between the beginning of the object and a given element or point, presumably within the same object. The concept of a distance is valid only if all elements of the object are of the same size (typically given in bytes or words).
+For example, if A is an array of characters containing "abcdef", the fourth element containing the character 'd' has an offset of three from the start of A.

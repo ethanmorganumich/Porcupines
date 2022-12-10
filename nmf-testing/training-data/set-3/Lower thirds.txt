@@ -1,0 +1,6 @@
+Film and video technology~Television news~Television terminology~
+||||||
+Lower third
+||||||
+In the television industry, a lower third is a graphic overlay placed in the title-safe lower area of the screen, though not necessarily the entire lower third of it, as the name suggests.In its simplest form, a lower third can just be text overlaying the video. Frequently this text is white with a drop shadow to make the words easier to read. A lower third can also contain graphical elements such as boxes, images or shading. Some lower thirds have animated backgrounds and text.
+Lower thirds can be created using basic home-video editing software or professional-level equipment. This equipment makes use of video's alpha channel to determine what parts of the graphic or text should be transparent, allowing the video in the background to show through.

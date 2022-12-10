@@ -1,0 +1,8 @@
+Civil procedure~
+||||||
+General denial
+||||||
+In pleading, a general denial is a denial that relates to all allegations which are not otherwise pleaded to.  Many legal systems provide that in a statement of defense, any allegation made by the plaintiff which is not traversed (i.e. specifically denied or "not-admitted") is deemed to have been admitted by the defendants.  Accordingly, it became common practice to add a general denial at the end of a statement of defense to make sure that nothing was accidentally admitted in this fashion.
+In English law, the usual form of general denial was normally phrased:
+
+"Except as hereinbefore expressly admitted or not-admitted, each and every paragraph of the statement of claim is denied as if set out herein seriatim."

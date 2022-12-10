@@ -1,0 +1,8 @@
+Internet search engines~
+||||||
+Multisearch
+||||||
+Multisearch is a multitasking search engine which includes both search engine and metasearch engine characteristics with additional capability of retrieval of search result sets that were previously classified by users. It enables the user to gather results from its own search index as well as from one or more search engines, metasearch engines, databases or any such kind of information retrieval (IR) programs. 
+Multisearch is an emerging feature of automated search and information retrieval systems which combines the capabilities of computer search programs with results classification made by a human. 
+Multisearch is a way to take advantage of the power of multiple search engines with a flexibility not seen in traditional metasearch engines. To the end user, a multisearch may appear to be just a customizable search engine; however, its behind-the-scenes technology enables it to put a face to the search process and to retrieve and display also a results set which has been classified by a human during a multisearch session and automatically included in the documents index.
+There are additional features available in many search engines and metasearch engines, but the basic idea is the same: reducing the amount of time required to search for resources by improvement of the accuracy and relevance of individual searches as well as the ability to manage the results.

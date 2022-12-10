@@ -1,0 +1,6 @@
+Music theory stubs~Musical techniques~
+||||||
+Transformation (music)
+||||||
+In music, a transformation consists of any operation or process that may apply to a musical variable (usually a set or tone row in twelve tone music, or a melody or chord progression in tonal music), or rhythm in composition, performance, or analysis. Transformations include multiplication, rotation, permutation (i.e. transposition, inversion, and retrograde), prolation (augmentation, diminution) and combinations thereof.
+Transformations may also be applied to simpler or more complex variables such as interval and spectrum or timbre.

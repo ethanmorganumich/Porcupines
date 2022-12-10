@@ -1,0 +1,7 @@
+Commodities~
+||||||
+Fungibility
+||||||
+In economics, fungibility  is the property of a good or a commodity whose individual units are essentially interchangeable, and each of whose parts is indistinguishable from any other part. Fungible tokens can be exchanged or replaced; for example, a $100 note can easily be exchanged for twenty $5 bills. In contrast, non-fungible tokens cannot be exchanged in the same manner. 
+For example, gold is fungible because its value doesn’t depend on any specific form, whether of coins, ingots, or other states. However, a unique item such as a gold statue by a famous artist would not be considered fungible. In short, a thing is fungible when all equivalent amounts of that thing are interchangeable. Fungible  commodities include sweet crude oil, company shares, bonds, other precious metals, and currencies.
+Fungibility refers only to the equivalence and indistinguishability of each unit of a commodity with other units of the same commodity, and not to the exchange of one commodity for another.

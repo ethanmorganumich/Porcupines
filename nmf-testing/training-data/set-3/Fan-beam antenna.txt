@@ -1,0 +1,5 @@
+Antennas (radio)~Radar~Radio frequency antenna types~
+||||||
+Fan-beam antenna
+||||||
+A fan-beam antenna is a directional antenna producing a main beam having a narrow beamwidth in one dimension and a wider beamwidth in the other dimension. This pattern will be achieved by a truncated paraboloid reflector or a circular paraboloid reflector. Since the reflector is narrow in the vertical plane and wide in the horizontal, it produces a beam that is wide in the vertical plane and narrow in the horizontal. (The larger the antenna dimension, the narrower the beam.)

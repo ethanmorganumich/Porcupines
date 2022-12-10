@@ -1,0 +1,5 @@
+Communication circuits~Telecommunications techniques~
+||||||
+Phantom circuit
+||||||
+In telecommunication and electrical engineering, a phantom circuit is an electrical circuit derived from suitably arranged wires with one or more conductive paths being a circuit in itself and at the same time acting as one conductor of another circuit.

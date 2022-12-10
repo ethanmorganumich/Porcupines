@@ -1,0 +1,5 @@
+Programming constructs~Software documentation~String (computer science)~
+||||||
+Docblock
+||||||
+In programming, a docblock or DocBlock is a specially formatted comment specified in source code that is used to document a specific segment of code. This makes the DocBlock format independent of the target language (as long as it supports comments); however, it may also lead to multiple or inconsistent standards.

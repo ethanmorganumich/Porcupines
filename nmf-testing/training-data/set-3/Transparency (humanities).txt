@@ -1,0 +1,7 @@
+Free software~Humanities~Politics by issue~Public economics~Transparency (behavior)~
+||||||
+Transparency (behavior)
+||||||
+As an ethic that spans science, engineering, business, and the humanities, transparency is operating in such a way that it is easy for others to see what actions are performed. Transparency implies openness, communication, and accountability.
+Transparency is practiced in companies, organizations, administrations, and communities. For example, in a business relation, fees are clarified at the outset by a transparent agent, so there are no surprises later. This is opposed to keeping this information hidden which is "non-transparent". A practical example of transparency is also when a cashier makes changes after a point of sale; they offer a transaction record of the items purchased (e.g., a receipt) as well as counting out the customer's change. 
+In information security, transparency means keeping the arcane, underlying mechanisms hidden so as not to obstruct intended function—an almost opposite sense. It principally refers to security mechanisms that are intentionally undetectable or hidden from view.  Examples include hiding utilities and tools which the user does not need to know in order to do their job, like keeping the remote re-authentication operations of Challenge-Handshake Authentication Protocol hidden from the user.

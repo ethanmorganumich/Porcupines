@@ -1,0 +1,6 @@
+Sorting algorithms~
+||||||
+K-way merge algorithm
+||||||
+In computer science, k-way merge algorithms or multiway merges are a specific type of sequence merge algorithms that specialize in taking in k sorted lists and merging them into a single sorted list. These merge algorithms generally refer to merge algorithms that take in a number of sorted lists greater than two. Two-way merges are also referred to as binary merges.
+

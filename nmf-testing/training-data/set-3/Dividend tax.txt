@@ -1,0 +1,6 @@
+Dividends~Withholding taxes~
+||||||
+Dividend tax
+||||||
+A dividend tax is a tax imposed by a jurisdiction on dividends paid by a corporation  to its shareholders (stockholders). The primary tax liability is that of the shareholder, though a tax obligation may also be imposed on the corporation in the form of a withholding tax. In some cases the withholding tax may be the extent of the tax liability in relation to the dividend. A dividend tax is in addition to any tax imposed directly on the corporation on its profits. Some jurisdictions do not tax dividends.
+To avoid a dividend tax being levied, a corporation may distribute surplus funds to shareholders by way of a share buy-back. These, however, are normally treated as capital gains, but may offer tax benefits when the tax rate on capital gains is lower than the tax rate on dividends. Another potential strategy is to for a corporation not to distribute surplus funds to shareholders, who benefit from an increase in the value of their shareholding. These may also be subject to capital gain rules. Some private companies may transfer funds to controlling shareholders by way of loans, whether interest-bearing or not, instead of by way of a formal dividend, but many jurisdictions have rules that tax the practice as a dividend for tax purposes, called a “deemed dividend”.

@@ -1,0 +1,5 @@
+23-limit tuning and intervals~Equal temperaments~Music theory stubs~Non–octave-repeating scales~
+||||||
+A12 scale
+||||||
+A12 (Play ) is a non-octave-repeating scale or musical tuning featuring twelve steps to the tritave. As twelve steps to the octave is based on a triad of harmonics 4:5:6 (root, major third, perfect fifth), Play  A12 is based on a triad of harmonics 4:7:10 (root, harmonic seventh, and compound major third). Discovered by Heinz Bohlen between 1972 and 1973, it was named "A12" by Enrique Moreno. Bohlen considered this scale less logically consistent than the Bohlen–Pierce scale, which has thirteen steps in the twelfth.

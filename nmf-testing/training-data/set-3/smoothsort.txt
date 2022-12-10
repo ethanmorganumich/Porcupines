@@ -1,0 +1,5 @@
+Comparison sorts~Edsger W. Dijkstra~Heaps (data structures)~Sorting algorithms~
+||||||
+Smoothsort
+||||||
+In computer science, smoothsort is a comparison-based sorting algorithm. A variant of heapsort, it was invented and published by Edsger Dijkstra in 1981. Like heapsort, smoothsort is an in-place algorithm with an upper bound of O(n log n), but it is not a stable sort.  The advantage of smoothsort is that it comes closer to O(n) time if the input is already sorted to some degree, whereas heapsort averages O(n log n) regardless of the initial sorted state.

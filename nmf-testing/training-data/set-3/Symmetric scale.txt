@@ -1,0 +1,15 @@
+Hexatonic scales~Musical symmetry~
+||||||
+Symmetric scale
+||||||
+In music, a symmetric scale is a music scale which equally divides the octave. The concept and term appears to have been introduced by Joseph Schillinger and further developed by Nicolas Slonimsky as part of his famous Thesaurus of Scales and Melodic Patterns. In twelve-tone equal temperament, the octave can only be equally divided into two, three, four, six, or twelve parts, which consequently may be filled in by adding the same exact interval or sequence of intervals to each resulting note (called "interpolation of notes").Examples include the octatonic scale (also known as the symmetric diminished scale; its mirror image is known as the inverse symmetric diminished scale) and the two-semitone tritone scale:
+
+As explained above, both are composed of repeating sub-units within an octave. This property allows these scales to be transposed to other notes, yet retain exactly the same notes as the original scale (Translational symmetry).
+This may be seen quite readily with the whole tone scale on C:
+
+{C, D, E, F♯, G♯, A♯, C}
+Synthesized sample If transposed up a whole tone to D, contains exactly the same notes in a different permutation:
+
+{D, E, F♯, G♯, A♯, C, D}In the case of inversionally symmetrical scales, the inversion of the scale is identical. Thus the intervals between scale degrees are symmetrical if read from the "top" (end) or "bottom" (beginning) of the scale (mirror symmetry). Examples include the Ukrainian Dorian b9 scale (sixth mode of the Hungarian Major scale), the Jazz Minor b5 scale (third mode of the Hungarian Major Inverse), the Neapolitan Major scale (fourth mode of the Major Locrian scale), the Javanese slendro, the chromatic scale, whole-tone scale, Dorian scale, the Aeolian Dominant scale (fifth mode of the melodic minor), the Harmonic Minor scale, the Major Locrian Major 7th/Harmonic Major b5 scale, the Chromatic Lydian scale (fourth mode of Blues Leading-Tone scale), the Phrygian Major Lydian scale (fourth mode of Neapolitan Major b5 scale), and the double harmonic scale.
+
+Asymmetric scales are "far more common" than symmetric scales and this may be accounted for by the inability of symmetric scales to possess the property of uniqueness (containing each interval class a unique number of times) which assists with determining the location of notes in relation to the first note of the scale.

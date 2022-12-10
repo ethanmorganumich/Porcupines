@@ -1,0 +1,5 @@
+Noise (electronics)~Temperature~
+||||||
+Noise temperature (antenna)
+||||||
+In radio frequency (RF) applications such as radio, radar and telecommunications, noise temperature of an antenna is a measure of the noise power density contributed by the antenna to the overall RF receiver system.  It is defined as "The temperature of a resistor having an available thermal noise power per unit bandwidth equal to that at the antenna’s output at a specified frequency."  In other words, antenna noise temperature is a parameter that describes how much noise an antenna produces in a given environment.  This temperature is not the physical temperature of the antenna. Moreover, an antenna does not have an intrinsic "antenna temperature" associated with it; rather the temperature depends on its gain pattern, pointing direction, and the thermal environment that it is placed in.

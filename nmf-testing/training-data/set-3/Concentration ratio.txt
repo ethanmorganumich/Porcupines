@@ -1,0 +1,6 @@
+Concentration indicators~Imperfect competition~Monopoly (economics)~Ratios~
+||||||
+Concentration ratio
+||||||
+In economics, concentration ratios are used to quantify market concentration and are based on companies' market shares in a given industry. Market share can be defined as a firm's proportion of total sales in an industry, a firm's market capitalisation as a percentage of total industry market capitalisation or any other metric which conveys the size and dominance of a company relative to its competitors. A concentration ratio (CR) is the sum of the percentage market shares of (a pre-specified number of) the largest firms in an industry. An n-firm concentration ratio is a common measure of market structure and shows the combined market share of the n largest firms in the market. For example, where n = 5, CR5 defines the combined market share of the five largest firms in an industry.  
+Competition economists and competition authorities typically employ concentration ratios (CRn) and the Herfindahl-Hirschman Index (HHI) as measures of market concentration. The concentration of firms in an industry is of interest to economists, business strategists and government agencies.

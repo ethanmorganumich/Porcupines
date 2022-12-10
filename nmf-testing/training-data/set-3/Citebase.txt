@@ -1,0 +1,5 @@
+Bibliographic databases and indexes~Internet search engines~Scholarly search services~
+||||||
+Citebase
+||||||
+Citebase Search was an experimental, semi-autonomous citation index for free, online research literature created at the University of Southampton as part of the Open Citation Project. It harvested open access e-prints (most author self-archived) from OAI-PMH compliant archives, parses and links their references and indexes the metadata in a Xapian-based search engine. Citebase went live in 2005 and ceased operation in 2013.More than three-quarters of the papers indexed were author self-archived in the ArXiv archive, which includes physics, maths and computer science. Some (published) biomedical papers were indexed from BioMed Central and PubMed Central.

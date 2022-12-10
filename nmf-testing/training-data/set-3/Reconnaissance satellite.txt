@@ -1,0 +1,8 @@
+Earth observation satellites~Espionage devices~Reconnaissance satellites~Satellites by type~
+||||||
+Reconnaissance satellite
+||||||
+A reconnaissance satellite or intelligence satellite (commonly, although unofficially, referred to as a spy satellite) is an Earth observation satellite or communications satellite deployed for military or intelligence applications.
+The first generation type (i.e., Corona and Zenit) took photographs, then ejected canisters of photographic film which would descend back down into Earth's atmosphere. Corona capsules were retrieved in mid-air as they floated down on parachutes. Later, spacecraft had digital imaging systems and downloaded the images via encrypted radio links.
+In the United States, most information available about reconnaissance satellites is on programs that existed up to 1972, as this information has been declassified due to its age. Some information about programs before that time is still classified information, and a small amount of information is available on subsequent missions.
+A few up-to-date reconnaissance satellite images have been declassified on occasion, or leaked, as in the case of KH-11 photographs which were sent to Jane's Defence Weekly in 1984.

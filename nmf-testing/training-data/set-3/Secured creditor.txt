@@ -1,0 +1,7 @@
+Bankruptcy~Credit~Finance stubs~Insolvency~
+||||||
+Secured creditor
+||||||
+A secured creditor is a creditor with the benefit of a security interest over some or all of the assets of the debtor.
+In the event of the bankruptcy of the debtor, the secured creditor can enforce security against the assets of the debtor and avoid competing for a distribution on liquidation with the unsecured creditors.
+In most legal systems, secured creditors also have the option of releasing their security and proving in the liquidation, although, in practice, they would rarely do so. Any creditor with a lien on all or a portion of an asset, such as a mortgage on real estate or a bank loan, is said to be a secured creditor.

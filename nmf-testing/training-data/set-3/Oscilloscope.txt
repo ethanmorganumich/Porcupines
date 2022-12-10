@@ -1,0 +1,7 @@
+American inventions~Electronic test equipment~Electronics work tools~German inventions~Laboratory equipment~Measuring instruments~
+||||||
+Oscilloscope
+||||||
+An oscilloscope (informally a scope) is a type of electronic test instrument that graphically displays varying electrical voltages as a two-dimensional plot of one or more signals as a function of time. The main purposes are to display repetitive or single waveforms on the screen that would otherwise occur too briefly to be perceived by the human eye. The displayed waveform can then be analyzed for properties such as amplitude, frequency, rise time, time interval, distortion, and others. Originally, calculation of these values required manually measuring the waveform against the scales built into the screen of the instrument. Modern digital instruments may calculate and display these properties directly.
+
+Oscilloscopes are used in the sciences, medicine, engineering, automotive and the telecommunications industry. General-purpose instruments are used for maintenance of electronic equipment and laboratory work. Special-purpose oscilloscopes may be used to analyze an automotive ignition system or to display the waveform of the heartbeat as an electrocardiogram, for instance.

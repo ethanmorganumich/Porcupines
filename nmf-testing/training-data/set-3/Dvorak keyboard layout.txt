@@ -1,0 +1,6 @@
+Ergonomics~Keyboard layouts~Latin-script keyboard layouts~
+||||||
+Dvorak keyboard layout
+||||||
+Dvorak  (listen) is a keyboard layout for English patented in 1936 by August Dvorak and his brother-in-law, William Dealey, as a faster and more ergonomic alternative to the QWERTY layout (the de facto standard keyboard layout). Dvorak proponents claim that it requires less finger motion and as a result reduces errors, increases typing speed, reduces repetitive strain injuries, or is simply more comfortable than QWERTY.Dvorak has not replaced QWERTY as the most common keyboard layout because QWERTY was introduced 60 years earlier and because Dvorak's advantages over QWERTY were not large enough. However, most major modern operating systems (such as Windows, macOS, Linux, iOS, Android, ChromeOS, and BSD) allow a user to switch to the Dvorak layout. The layout can be chosen for use with any hardware keyboard, regardless of printed characters on the keyboard.
+Several modifications were designed by the team directed by Dvorak or by ANSI. These variations have been collectively or individually termed the Dvorak Simplified Keyboard, the American Simplified Keyboard or simply the Simplified Keyboard, but they all have come to be known commonly as the Dvorak keyboard or Dvorak layout.

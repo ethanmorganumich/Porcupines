@@ -1,0 +1,9 @@
+Automated theorem proving~Theory of cryptography~
+||||||
+Burrows–Abadi–Needham logic
+||||||
+Burrows–Abadi–Needham logic (also known as the BAN logic) is a set of rules for defining and analyzing information exchange protocols. Specifically, BAN logic helps its users determine whether exchanged information is trustworthy, secured against eavesdropping, or both. BAN logic starts with the assumption that all information exchanges happen on media vulnerable to tampering and public monitoring. This has evolved into the popular security mantra, "Don't trust the network."
+A typical BAN logic sequence includes three steps:
+Verification of message origin
+Verification of message freshness
+Verification of the origin's trustworthiness.BAN logic uses postulates and definitions – like all axiomatic systems – to analyze authentication protocols. Use of the BAN logic often accompanies a security protocol notation formulation of a protocol and is sometimes given in papers.

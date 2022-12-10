@@ -1,0 +1,6 @@
+Needlework~Textile arts~Textile arts stubs~
+||||||
+Shirring
+||||||
+In sewing, shirring is two or more rows of gathers that are used to decorate parts of garments, usually the sleeves, bodice or yoke.  The term is also sometimes used to refer to the pleats seen in stage curtains.
+In the construction of digital 3D clothing shirring can be accomplished by applying a displacement map or normal map when rendering the digital clothing models in a render engine.

@@ -1,0 +1,5 @@
+Radio spectrum~
+||||||
+Medium frequency
+||||||
+Medium frequency (MF) is the ITU designation for radio frequencies (RF) in the range of 300 kilohertz (kHz) to 3 megahertz (MHz). Part of this band is the medium wave (MW) AM broadcast band. The MF band is also known as the hectometer band as the wavelengths range from ten to one hectometer (1000 to 100 m). Frequencies immediately below MF are denoted low frequency (LF), while the first band of higher frequencies is known as high frequency (HF). MF is mostly used for AM radio broadcasting, navigational radio beacons, maritime ship-to-shore communication, and transoceanic air traffic control.

@@ -1,0 +1,6 @@
+Antennas (radio)~Radiation~Radio frequency antenna types~
+||||||
+Isotropic radiator
+||||||
+An isotropic radiator is a theoretical point source of electromagnetic or sound waves which radiates the same intensity of radiation in all directions.  It has no preferred direction of radiation.  It radiates uniformly in all directions over a sphere centred on the source.  Isotropic radiators are used as reference radiators with which other sources are compared, for example in determining the gain of antennas.   A coherent isotropic radiator of electromagnetic waves is theoretically impossible, but incoherent radiators can be built.   An isotropic sound radiator is possible because sound is a longitudinal wave.
+The unrelated term isotropic radiation refers to radiation which has the same intensity in all directions, thus an isotropic radiator does not radiate isotropic radiation.

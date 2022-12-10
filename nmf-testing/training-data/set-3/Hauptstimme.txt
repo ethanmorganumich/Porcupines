@@ -1,0 +1,6 @@
+Accompaniment~Counterpoint~German words and phrases~Melody~Musical terminology~
+||||||
+Hauptstimme
+||||||
+In music, Hauptstimme (German for primary voice) or Hauptsatz is the main voice, chief part; i.e., the contrapuntal or melodic line of primary importance, in opposition to Nebenstimme. Nebenstimme (German for secondary voice) or Seitensatz is the secondary part; i.e., a secondary contrapuntal or melodic part, always occurring simultaneously with, and subsidiary to, the Hauptstimme. The practice of marking the primary voice within the musical score/parts was invented by Arnold Schoenberg.The terms are used primarily by Arnold Schoenberg, Alban Berg, and Anton Webern, but are not uncommon in scores for string quartet. They are commonly indicated in musical scores with the marks "H" and "N". When the "primary voice" ends in one instrument/staff/part, it may be marked with a closing bracket (such as  ¬ ) at the point where it passes to another instrument/staff/part.Further contrapuntal lines or material may be considered accompaniment.Other examples of the terms' use include lead and back up vocals, melody and counter-melody.
+In a footnote to a musical score, Schoenberg wrote, "The human voice is always Hauptstimme [when present]."

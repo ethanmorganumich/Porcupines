@@ -1,0 +1,71 @@
+Belief revision~Expected utility~Game theory~Motivational theories~Optimal decisions~
+||||||
+Expected utility hypothesis
+||||||
+The expected utility hypothesis is a popular concept in economics that serves as a reference guide for decisions when the payoff is uncertain. The theory recommends which option rational individuals should choose in a complex situation, based on their risk appetite and preferences.
+The expected utility hypothesis states an agent chooses between risky prospects by comparing expected utility values (i.e. the weighted sum of adding the respective utility values of payoffs multiplied by their probabilities). The summarised formula for expected utility is  
+  
+    
+      
+        U
+        (
+        p
+        )
+        =
+        ∑
+        u
+        (
+        
+          x
+          
+            k
+          
+        
+        )
+        
+          p
+          
+            k
+          
+        
+      
+    
+    {\displaystyle U(p)=\sum u(x_{k})p_{k}}
+   where 
+  
+    
+      
+        
+          p
+          
+            k
+          
+        
+      
+    
+    {\displaystyle p_{k}}
+   is the probability that outcome indexed by 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   with payoff 
+  
+    
+      
+        
+          x
+          
+            k
+          
+        
+      
+    
+    {\displaystyle x_{k}}
+   is realized, and function u expresses the utility of each respective payoff. On a graph, the curvature of u will explain the agent's risk attitude.
+For example, if an agent derives 0 utils from 0 apples, 2 utils from one apple, and 3 utils from two apples, their expected utility for a 50–50 gamble between zero apples and two is 0.5u(0 apples) + 0.5u(2 apples) = 0.5(0 utils) + 0.5(3 utils) = 1.5 utils. Under the expected utility hypothesis, the consumer would prefer 1 apple (giving him 2 utils) to the gamble between zero and two.
+Standard utility functions represent ordinal preferences. The expected utility hypothesis imposes limitations on the utility function and makes utility cardinal (though still not comparable across individuals). In the example above, any function such that u(0) < u(1) < u(2) would represent the same preferences; we could specify u(0) = 0, u(1) = 2, and u(2) = 40, for example. Under the expected utility hypothesis, setting u(2) = 3 and assuming the agent is indifferent between one apple with certainty and a gamble with a 1/3 probability of no apple and a 2/3 probability of two apples, requires that the utility of one apple must be set to u(1) = 2. This is because it requires that (1/3)u(0) + (2/3)u(2) = u(1), and (1/3)(0) + (2/3)(3) = 2.
+Although the expected utility hypothesis is standard in economic modelling, it has been found to be violated in psychology experiments. For many years, psychologists and economic theorists have been developing new theories to explain these deficiencies. These include prospect theory, rank-dependent expected utility and cumulative prospect theory, and bounded rationality.

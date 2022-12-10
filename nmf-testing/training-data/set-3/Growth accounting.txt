@@ -1,0 +1,7 @@
+Economic growth~
+||||||
+Growth accounting
+||||||
+Growth accounting is a procedure used in economics to measure the contribution of different factors to economic growth and to indirectly compute the rate of technological progress, measured as a residual, in an economy. Growth accounting decomposes the growth rate of an economy's total output into that which is due to increases in the contributing amount of the factors used—usually the increase in the amount of capital and labor—and that which cannot be accounted for by observable changes in factor utilization. The unexplained part of growth in GDP is then taken to represent increases in productivity (getting more output with the same amounts of inputs) or a measure of broadly defined technological progress.
+The technique has been applied to virtually every economy in the world and a common finding is that observed levels of economic growth cannot be explained simply by changes in the stock of capital in the economy or population and labor force growth rates. Hence, technological progress plays a key role in the economic growth of nations, or the lack of it.
+

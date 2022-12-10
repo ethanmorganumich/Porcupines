@@ -1,0 +1,7 @@
+Fourier series~Waveforms~
+||||||
+Triangle wave
+||||||
+A triangular wave or triangle wave is a non-sinusoidal waveform named for its triangular shape.  It is a periodic, piecewise linear, continuous real function.
+Like a square wave, the triangle wave contains only odd harmonics.  However, the higher harmonics roll off much faster than in a square wave (proportional to the inverse square of the harmonic number as opposed to just the inverse).
+

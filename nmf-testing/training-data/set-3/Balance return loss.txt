@@ -1,0 +1,8 @@
+Telecommunication theory~Telecommunications stubs~
+||||||
+Balance return loss
+||||||
+In telecommunications, balance return loss is one of two things:
+
+A measure of the degree of balance between two impedances connected to two conjugate sides of a hybrid set, coil, network, or junction.
+A measure of the effectiveness with which a balancing network simulates the impedance of a two-wire circuit at a hybrid coil.

@@ -1,0 +1,11 @@
+Hemitonic scales~Heptatonic scales~Musical scales with augmented seconds~Tritonic scales~
+||||||
+Persian scale
+||||||
+The Persian scale is a musical scale occasionally found in guitar scale books, along with other scales inspired by Middle Eastern music. It is characterized by the liberal use of half steps (4), augmented seconds (2), and frequent use of chromaticism. Compare this to the one augmented second of the harmonic minor or the use of only two half-steps in all diatonic scales. This is also the Locrian mode with a major third and major seventh degree.
+In Hindustani Classical Music, this corresponds to the raga Lalit.
+The sequence of steps is as follows:
+H, WH, H, H, W, WH, H
+(W = Whole step - H = Half step)Beginning on C:
+
+C, D♭, E, F, G♭, A♭, B, C

@@ -1,0 +1,8 @@
+Computability theory~Programming idioms~Recursion~Subroutines~Theoretical computer science~
+||||||
+Recursion (computer science)
+||||||
+In computer science, recursion is a method of solving a computational problem where the solution depends on solutions to smaller instances of the same problem. Recursion solves such recursive problems by using functions that call themselves from within their own code. The approach can be applied to many types of problems, and recursion is one of the central ideas of computer science.
+The power of recursion evidently lies in the possibility of defining an infinite set of objects by a finite statement.  In the same manner, an infinite number of computations can be described by a finite recursive program, even if this program contains no explicit repetitions.
+Most computer programming languages support recursion by allowing a function to call itself from within its own code. Some functional programming languages (for instance, Clojure) do not define any looping constructs but rely solely on recursion to repeatedly call code. It is proved in computability theory that these recursive-only languages are Turing complete; this means that they are as powerful (they can be used to solve the same problems) as imperative languages based on control structures such as while and for.
+Repeatedly calling a function from within itself may cause the call stack to have a size equal to the sum of the input sizes of all involved calls. It follows that, for problems that can be solved easily by iteration, recursion is generally less efficient, and, for large problems, it is fundamental to use optimization techniques such as tail call optimization.

@@ -1,0 +1,6 @@
+Relevance fallacies~
+||||||
+Double-barreled question
+||||||
+A double-barreled question (sometimes, double-direct question) is an informal fallacy. It is committed when someone asks a question that touches upon more than one issue, yet allows only for one answer. This may result in inaccuracies in the attitudes being measured for the question, as the respondent can answer only one of the two questions, and cannot indicate which one is being answered.Many double-barreled questions can be detected by the existence of the grammatical conjunction "and" in them. This is not a foolproof test, as the word "and" can exist in properly constructed questions.
+A question asking about three items is known as "trible (triple, treble)-barreled".  In legal proceedings, a double-barreled question is called a compound question.

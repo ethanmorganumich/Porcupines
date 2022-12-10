@@ -1,0 +1,5 @@
+Free and open-source software licenses~Terms of service~
+||||||
+Free-software license
+||||||
+A free-software license is a notice that grants the recipient of a piece of software extensive rights to modify and redistribute that software.  These actions are usually prohibited by copyright law, but the rights-holder (usually the author) of a piece of software can remove these restrictions by accompanying the software with a software license which grants the recipient these rights.  Software using such a license is free software (or free and open-source software) as conferred by the copyright holder. Free-software licenses are applied to software in source code and also binary object-code form, as the copyright law recognizes both forms.

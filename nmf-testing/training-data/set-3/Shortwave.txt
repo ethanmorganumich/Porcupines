@@ -1,0 +1,9 @@
+Guglielmo Marconi~International broadcasting~Radio~Radio spectrum~Short wave radio~
+||||||
+Shortwave radio
+||||||
+Shortwave radio is radio transmission using shortwave (SW) radio frequencies. There is no official definition of the band, but the range always includes all of the high frequency band (HF), which extends from 3 to 30 MHz (100 to 10 metres); above the medium frequency band (MF), to the bottom of the VHF band.
+Radio waves in the shortwave band can be reflected or refracted from a layer of electrically charged atoms in the atmosphere called the ionosphere. Therefore, short waves directed at an angle into the sky can be reflected back to Earth at great distances, beyond the horizon. This is called skywave or "skip" propagation. Thus shortwave radio can be used for communication over very long distances, in contrast to radio waves of higher frequency, which travel in straight lines (line-of-sight propagation) and are limited by the visual horizon, about 64 km (40 miles).
+Shortwave broadcasts of radio programs played an important role in the early days of radio history. In World War II it was used as a propaganda tool for an international audience. The heyday of international shortwave broadcasting was during the Cold War between 1960 and 1980. 
+With the wide implementation of other technologies for the distribution of radio programs, such as satellite radio and cable broadcasting as well as IP-based transmissions, shortwave broadcasting lost importance. Initiatives for the digitization of broadcasting did not bear fruit either, and so as of 2022, few broadcasters continue to broadcast programs on shortwave.  
+However, shortwave remains important in war zones, such as in the Russo-Ukrainian war, and shortwave broadcasts can be transmitted over thousands of miles from a single transmitter, making it difficult for government authorities to censor them.

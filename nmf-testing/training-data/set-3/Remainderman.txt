@@ -1,0 +1,7 @@
+Inheritance~Legal terminology stubs~Real estate stubs~Real property law~
+||||||
+Remainderman
+||||||
+A remainderman is a person who inherits or is entitled to inherit property upon the termination of the estate of the former owner. Usually this occurs due to the death or termination of the former owner's life estate, but this can also occur due to a specific notation in a trust passing ownership from one person to another.
+For example, if the owner of property makes a grant of that property "to John for life, and then to Jane," Jane is entitled to a future interest, called a remainder, and is termed a remainderman. Another example is say Mary leaves her books to Mark her son, and if he doesn't want them he leaves them to his daughter Ruth, who also doesn't want them and leaves to Mary's brother Michael who is the remainderman.
+Under the required minimum distribution rules for retirement accounts, the remaindermen beneficiaries must be included in the list of beneficiaries provided to the IRA custodian or plan trustee, for purposes of the trust meeting the requirements to be considered ‘qualified’.

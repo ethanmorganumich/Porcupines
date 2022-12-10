@@ -1,0 +1,5 @@
+Internet search engines~World Wide Web stubs~
+||||||
+Podscope
+||||||
+Podscope was the first consumer search engine to create a 'spoken word index' for podcasts. Originally launched in April 2005, it creates an index against every spoken word within the audio/video content.  Users can search for a term or phrase and then go right to the portion of the podcast that contains the search term. User searches generate a list of ranked results, providing the most relevant podcasts as well as links to play or download the content. Podscope was created by TVEyes Inc.

@@ -1,0 +1,6 @@
+Anti-patterns~Computer security exploits~Concurrency (computer science)~Distributed computing problems~Logic gates~Logic in computer science~Software bugs~Timing in electronic circuits~
+||||||
+Race condition
+||||||
+A race condition or race hazard is the condition of an electronics, software, or other system where the system's substantive behavior is dependent on the sequence or timing of other uncontrollable events. It becomes a bug when one or more of the possible behaviors is undesirable.
+The term race condition was already in use by 1954, for example in David A. Huffman's doctoral thesis "The synthesis of sequential switching circuits".Race conditions can occur especially in logic circuits, multithreaded, or distributed software programs.

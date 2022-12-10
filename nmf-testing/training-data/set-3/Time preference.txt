@@ -1,0 +1,6 @@
+Interest rates~Intertemporal economics~
+||||||
+Time preference
+||||||
+In economics, time preference (or time discounting, delay discounting, temporal discounting, long-term orientation) is the current relative valuation placed on receiving a good or some cash at an earlier date compared with receiving it at a later date.Time preferences are captured mathematically in the discount function. The higher the time preference, the higher the discount placed on returns receivable or costs payable in the future.
+One of the factors that may determine an individual's time preference is how long that individual has lived. An older individual may have a lower time preference (relative to what they had earlier in life) due to a higher income and to the fact that they have had more time to acquire durable commodities (such as a college education or a house).

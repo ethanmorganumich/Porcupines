@@ -1,0 +1,5 @@
+Color codes~Electrical components~Electronic engineering~Mnemonics~Resistive components~
+||||||
+Electronic color code
+||||||
+An electronic color code or electronic colour code (see spelling differences) is used to indicate the values or ratings of electronic components, usually for resistors, but also for capacitors, inductors, diodes and others. A separate code, the 25-pair color code, is used to identify wires in some telecommunications cables. Different codes are used for wire leads on devices such as transformers or in building wiring.

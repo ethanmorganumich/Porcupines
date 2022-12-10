@@ -1,0 +1,5 @@
+Radio electronics~Telecommunications equipment~
+||||||
+Squelch
+||||||
+In telecommunications, squelch is a circuit function that acts to suppress the audio (or video) output of a receiver in the absence of a strong input signal. Essentially, squelch is a specialized type of noise gate designed to suppress weak signals. Squelch is used in two-way radios and VHF/UHF radio scanners to eliminate the sound of noise when the radio is not receiving a desired transmission.

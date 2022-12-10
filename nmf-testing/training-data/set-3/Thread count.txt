@@ -1,0 +1,10 @@
+Textiles~Units of measurement~
+||||||
+Units of textile measurement
+||||||
+Textile fibers, threads, yarns and fabrics are measured in a multiplicity of units. 
+
+A fiber, a single filament of natural material, such as cotton, linen or wool, or artificial material such as nylon, polyester, metal or mineral fiber, or man-made cellulosic fibre like viscose, Modal, Lyocell or other rayon fiber is measured in terms of linear mass density, the weight of a given length of fiber. Various units are used to refer to the measurement of a fiber, such as: the denier and tex (linear mass density of fibers), super S (fineness of wool fiber), worsted count, woolen count, linen count (wet spun) (or Number English (Ne)), cotton count (or Number English (Ne)), Number metric (Nm) and yield (the reciprocal of denier and tex).
+A yarn, a spun agglomeration of fibers used for knitting, weaving or sewing, is measured in terms of cotton count and yarn density. 
+Thread, usually consisting of multiple yarns plied together producing a long, thin strand used in sewing or weaving, is measured in the same units as yarn.
+Fabric, material typically produced by weaving, knitting or knotting textile fibers, yarns or threads, is measured in units such as the momme, thread count (a measure of the coarseness or fineness of fabric), ends per inch (e.p.i) and picks per inch (p.p.i).

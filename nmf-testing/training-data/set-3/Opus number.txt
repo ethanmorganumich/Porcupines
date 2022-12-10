@@ -1,0 +1,7 @@
+Identifiers~Music publishing~Musical terminology~
+||||||
+Opus number
+||||||
+In musicology, the opus number is the "work number" that is assigned to a musical composition, or to a set of compositions, to indicate the chronological order of the composer's production. Opus numbers are used to distinguish among compositions with similar titles; the word is abbreviated as "Op." for a single work, or "Opp." when referring to more than one work.
+To indicate the specific place of a given work within a music catalogue, the opus number is paired with a cardinal number; for example, Beethoven's Piano Sonata No. 14 in C-sharp minor (1801, nicknamed Moonlight Sonata) is "Opus 27, No. 2", whose work-number identifies it as a companion piece to "Opus 27, No. 1" (Piano Sonata No. 13 in E-flat major, 1800–01), paired in same opus number, with both being subtitled Sonata quasi una Fantasia, the only two of the kind in all of Beethoven's 32 piano sonatas. Furthermore, the Piano Sonata, Op. 27 No. 2, in C-sharp minor is also catalogued as "Sonata No. 14", because it is the fourteenth sonata composed by Ludwig van Beethoven.
+Given composers' inconsistent or inexistent assignment of opus numbers, especially during the Baroque (1600–1750) and the Classical (1750–1827) eras, musicologists have developed other catalogue-number systems; among them the Bach-Werke-Verzeichnis (BWV-number), and the Köchel-Verzeichnis (K- and KV-numbers) which enumerate the works of Johann Sebastian Bach and Wolfgang Amadeus Mozart, respectively.

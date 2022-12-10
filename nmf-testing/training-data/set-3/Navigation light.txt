@@ -1,0 +1,6 @@
+Aerospace engineering~Aircraft external lights~Nautical terminology~Signalling lights~
+||||||
+Navigation light
+||||||
+A navigation light, also known as a running or position light, is a source of illumination on a watercraft, aircraft or spacecraft, meant to give information on the craft's position, heading, or status. Some navigation lights are colour-coded red and green to aid traffic control by identifying the craft's orientation. Their placement is mandated by international conventions or civil authorities such as the International Maritime Organization (IMO).
+A common misconception is that marine or aircraft navigation lights indicate which of two approaching vessels has the "right of way" as in ground traffic; this is never true. However, the red and green colours are chosen to indicate which vessel has the duty to "give way" or "stand on" (obligation to hold course and speed). Consistent with the ground traffic convention, the rightmost of the two vehicles is usually given stand-on status and the leftmost must give way. Therefore a red light is used on the (left (port)) side to indicate "you must give way"; and a green light on the right (starboard) side indicates "I will give way; you must stand on". In case of two power-driven vessels approaching head-on, both are required to give way.

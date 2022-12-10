@@ -1,0 +1,6 @@
+Euclidean plane geometry~Mathematical concepts~Planar surfaces~
+||||||
+Plane (geometry)
+||||||
+In mathematics, a plane is a Euclidean (flat), two-dimensional surface that extends indefinitely. A plane is the two-dimensional analogue of a point (zero dimensions), a line (one dimension) and three-dimensional space. Planes can arise as subspaces of some higher-dimensional space, as with one of a room's walls, infinitely extended, or they may enjoy an independent existence in their own right, as in the setting of two-dimensional Euclidean geometry. Sometimes the word plane is used more generally to describe a two-dimensional surface, for example the hyperbolic plane and elliptic plane.
+When working exclusively in two-dimensional Euclidean space, the definite article is used, so the plane refers to the whole space. Many fundamental tasks in mathematics, geometry, trigonometry, graph theory, and graphing are performed in a two-dimensional space, often in the plane.

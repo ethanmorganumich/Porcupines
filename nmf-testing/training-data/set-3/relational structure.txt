@@ -1,0 +1,7 @@
+Mathematical logic~Mathematical structures~Model theory~Universal algebra~
+||||||
+Structure (mathematical logic)
+||||||
+In universal algebra and in model theory, a structure consists of a set along with a collection of finitary operations and relations that are defined on it.
+Universal algebra studies structures that generalize the algebraic structures such as groups, rings, fields and vector spaces. The term universal algebra is used for structures with no relation symbols.Model theory has a different scope that encompasses more arbitrary theories, including foundational structures such as models of set theory. From the model-theoretic point of view, structures are the objects used to define the semantics of first-order logic. For a given theory in model theory, a structure is called a model if it satisfies the defining axioms of that theory, although it is sometimes disambiguated as a semantic model when one discusses the notion in the more general setting of mathematical models. Logicians sometimes refer to structures as "interpretations", whereas the term "interpretation" generally has a different (although related) meaning in model theory, see interpretation (model theory).
+In database theory, structures with no functions are studied as models for relational databases, in the form of relational models.

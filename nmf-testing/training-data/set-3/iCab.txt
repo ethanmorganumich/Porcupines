@@ -1,0 +1,5 @@
+1999 software~MacOS web browsers~Macintosh web browsers~News aggregator software~Software based on WebKit~
+||||||
+ICab
+||||||
+iCab is a web browser for Mac OS by Alexander Clauss, derived from Crystal Atari Browser (CAB) for Atari TOS compatible computers. It was one of the few browsers still updated for the classic Mac OS prior to that version being discontinued after version 3.0.5 in 2008; Classilla was the last browser that was maintained for that OS but it was discontinued in 2021.The downloadable product is fully functional, but is nagware—periodically displaying a dialog box asking the user to register the product, and upgrade to the "Pro" version.

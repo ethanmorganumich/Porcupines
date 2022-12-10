@@ -1,0 +1,5 @@
+Binary relations~Elementary algebra~Transitive relations~
+||||||
+Transitive relation
+||||||
+In mathematics, a relation R on a set X is transitive if, for all elements a, b, c in X, whenever R relates a  to b and b to c, then R also relates a to c. Each partial order as well as each equivalence relation needs to be transitive.

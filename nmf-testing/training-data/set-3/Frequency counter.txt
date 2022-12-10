@@ -1,0 +1,6 @@
+Counting instruments~Digital electronics~Electronic test equipment~
+||||||
+Frequency counter
+||||||
+A frequency counter is an electronic instrument, or component of one, that is used for measuring frequency. Frequency counters usually measure the number of cycles of oscillation, or pulses per second in a periodic electronic signal. Such an instrument is sometimes referred to as a cymometer, particularly one of Chinese manufacture.
+

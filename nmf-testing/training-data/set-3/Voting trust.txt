@@ -1,0 +1,6 @@
+Business law~Corporate law~Legal terminology~Wills and trusts~
+||||||
+Voting trust
+||||||
+A voting trust is an arrangement whereby the shares in a company of one or more shareholders and the voting rights attached thereto are legally transferred to a trustee, usually for a specified period of time (the "trust period").  In some voting trusts, the trustee may also be granted additional powers (such as to sell or redeem the shares).  At the end of the trust period, the shares would ordinarily be re-transferred to the beneficiary, although in practice many voting trusts contain provisions for them to re-vested on the voting trusts with identical terms.
+Voting trusts were made popular in Delaware corporate law, but they have since been adopted widely by other states in the United States. They have also been extensively adopted in offshore jurisdictions.

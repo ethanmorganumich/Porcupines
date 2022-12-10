@@ -1,0 +1,5 @@
+String matching algorithms~
+||||||
+Boyer–Moore–Horspool algorithm
+||||||
+In computer science, the Boyer–Moore–Horspool algorithm or Horspool's algorithm is an algorithm for finding substrings in strings. It was published by Nigel Horspool in 1980 as SBM.It is a simplification of the Boyer–Moore string search algorithm which is related to the Knuth–Morris–Pratt algorithm. The algorithm trades space for time in order to obtain an average-case complexity of O(n) on random text, although it has O(nm) in the worst case, where the length of the pattern is m and the length of the search string is n.

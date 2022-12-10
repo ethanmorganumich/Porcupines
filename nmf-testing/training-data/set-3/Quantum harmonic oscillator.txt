@@ -1,0 +1,6 @@
+Oscillators~Quantum models~
+||||||
+Quantum harmonic oscillator
+||||||
+The quantum harmonic oscillator is the quantum-mechanical analog of the classical harmonic oscillator. Because an arbitrary smooth potential can usually be approximated as a harmonic potential at the vicinity of a stable equilibrium point,  it is one of the most important model systems in quantum mechanics. Furthermore, it is one of the few quantum-mechanical systems for which an exact, analytical solution is known.
+

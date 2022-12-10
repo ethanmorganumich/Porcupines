@@ -1,0 +1,7 @@
+Aircraft performance~Flight phases~Types of take-off and landing~
+||||||
+Takeoff
+||||||
+Takeoff is the phase of flight in which an aerospace vehicle leaves the ground and becomes airborne. For aircraft traveling vertically, this is known as liftoff.
+For aircraft that take off horizontally, this usually involves starting with a transition from moving along the ground on a runway. For balloons, helicopters and some specialized fixed-wing aircraft (VTOL aircraft such as the Harrier and the Bell Boeing V22 Osprey), no runway is needed.
+

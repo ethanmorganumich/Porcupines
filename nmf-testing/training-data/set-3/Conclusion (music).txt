@@ -1,0 +1,10 @@
+Formal sections in music analysis~Jazz terminology~Musical terminology~
+||||||
+Conclusion (music)
+||||||
+In music, the conclusion is the ending of a composition and may take the form of a coda or outro.
+Pieces using sonata form typically use the recapitulation to conclude a piece, providing closure through the repetition of thematic material from the exposition in the tonic key. In all musical forms other techniques include "altogether unexpected digressions just as a work is drawing to its close, followed by a return...to a consequently more emphatic confirmation of the structural relations implied in the body of the work."For example:
+
+The slow movement of Bach's Brandenburg Concerto No. 2, where a "diminished-7th chord progression interrupts the final cadence."
+The slow movement of Symphony No. 5 by Beethoven, where, "echoing afterthoughts", follow the initial statements of the first theme and only return expanded in the coda.
+Varèse's Density 21.5, where partitioning of the chromatic scale into (two) whole tone scales provides the missing tritone of b implied in the previously exclusive partitioning by (three) diminished seventh chords.

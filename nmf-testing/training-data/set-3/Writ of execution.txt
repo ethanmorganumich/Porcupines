@@ -1,0 +1,7 @@
+Civil procedure~Legal terminology stubs~Writs~
+||||||
+Writ of execution
+||||||
+A writ of execution (also known as an execution) is a court order granted to put in force a judgment of possession obtained by a plaintiff from a court. When issuing a writ of execution, a court typically will order a sheriff or other similar official to take possession of property owned by a judgment debtor. Such property will often then be sold in a sheriff's sale and the proceeds remunerated to the plaintiff in partial or full satisfaction of the judgment. It is generally considered preferable for the sheriff simply to take possession of money from the defendant's bank account. If the judgment debtor owns real property, the judgment creditor can record the execution to "freeze" the title until the execution is satisfied.
+Generally, execution is unnecessary for defendants who pay verdicts against themselves voluntarily. However, some defendants ignore judgments against them, and thereby force plaintiffs to employ writs of execution to actually enforce judgments.
+In the United States, not all assets are subject to execution. For example, Social Security income that resides in a bank account is exempt from a levy on a debtor's bank account. Many states also protect an Individual Retirement Account (IRA) from execution as well as unemployment income, but the amount that is exempt may be limited.

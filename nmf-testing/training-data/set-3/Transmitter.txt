@@ -1,0 +1,7 @@
+Broadcast transmitters~Radar~Telecommunications equipment~
+||||||
+Transmitter
+||||||
+In electronics and telecommunications, a radio transmitter or just transmitter is an electronic device which produces radio waves with an antenna. The transmitter itself generates a radio frequency alternating current, which is applied to the antenna. When excited by this alternating current, the antenna radiates radio waves.
+Transmitters are necessary component parts of all electronic devices that communicate by radio, such as radio and television broadcasting stations, cell phones, walkie-talkies, wireless computer networks, Bluetooth enabled devices, garage door openers, two-way radios in aircraft, ships, spacecraft, radar sets and navigational beacons. The term transmitter is usually limited to equipment that generates radio waves for communication purposes; or radiolocation, such as radar and navigational transmitters. Generators of radio waves for heating or industrial purposes, such as microwave ovens or diathermy equipment, are not usually called transmitters, even though they often have similar circuits.
+The term is popularly used more specifically to refer to a broadcast transmitter, a transmitter used in broadcasting, as in FM radio transmitter or television transmitter. This usage typically includes both the transmitter proper, the antenna, and often the building it is housed in.

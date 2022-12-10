@@ -1,0 +1,9 @@
+Freight transport~Transport company stubs~
+||||||
+Private carrier
+||||||
+A private carrier is a company that transports only its own goods. The carrier's primary business is not transportation.
+Private carriers may refuse to sell their services at their own discretion, but common carriers must treat all customers equally. Some corporations mix both systems, using common carriers and private carriage in what is called a blended operation.
+Private carriage usually refers to trucking but is also found in rail and water transportation, as well as communication. Private carriage is distinguished from independent carrier, which is an individual owner-operator or trucker who may make discretionary deals with private carriers, common carriers, or contract carriers.
+A private carrier may also refer to communication or communication services. Certain frequencies that are restricted to use by law enforcement are sometimes called "private carriers". Station class codes beginning with FB6 or FB7 are private carriers.
+In the telecommunications industry, defining "private carrier" and "common carrier" has become increasingly difficult with the growth of mobile phone service providers, VOIP, and other nontraditional means of delivering communication services.

@@ -1,0 +1,6 @@
+Electromagnetic coils~Hermann von Helmholtz~Magnetic devices~
+||||||
+Helmholtz coil
+||||||
+A Helmholtz coil is a device for producing a region of nearly uniform magnetic field, named after the German physicist Hermann von Helmholtz. It consists of two electromagnets on the same axis, carrying an equal electric current in the same direction.  Besides creating magnetic fields, Helmholtz coils are also used in scientific apparatus to cancel external magnetic fields, such as the Earth's magnetic field.
+When the pair of two electromagnetics of a Helmholtz coil carry an equal electric current in the opposite direction, it is known as anti-Helmholtz coil, which creates a region of nearly uniform magnetic field gradient, and is used for creating magnetic traps for atomic physics experiments.

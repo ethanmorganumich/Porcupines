@@ -1,0 +1,5 @@
+Aerodynamics~Emergency aircraft operations~
+||||||
+Autorotation (fixed-wing aircraft)
+||||||
+For fixed-wing aircraft, autorotation is the tendency of an aircraft in or near a stall to roll spontaneously to the right or left, leading to a spin (a state of continuous autorotation).

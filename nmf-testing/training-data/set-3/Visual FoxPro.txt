@@ -1,0 +1,9 @@
+1984 software~Data-centric programming languages~Desktop database application development tools~Discontinued Microsoft development tools~Discontinued Microsoft software~Fourth-generation programming languages~High-level programming languages~Microsoft database software~Microsoft development tools~Microsoft programming languages~Multi-paradigm programming languages~Object-oriented programming languages~Procedural programming languages~Programming languages~Programming languages created in 1984~XBase programming language family~
+||||||
+Visual FoxPro
+||||||
+Visual FoxPro is a Microsoft data-centric procedural programming language with object-oriented programming (OOP) features.
+It was derived from FoxPro (originally known as FoxBASE) which was developed by Fox Software beginning in 1984. Fox Technologies merged with Microsoft in 1992, after which the software acquired further features and the prefix "Visual". FoxPro 2.6 worked on Mac OS, DOS, Windows, and Unix.
+Visual FoxPro 3.0, the first "Visual" version, reduced platform support to only Mac and Windows, and later versions 5, 6, 7, 8 and 9 were Windows-only. The current version of Visual FoxPro is COM-based and Microsoft has stated that they do not intend to create a Microsoft .NET version.
+Version 9.0, released in December 2004 and updated in October 2007 with the SP2 patch, was the final version of the product.
+

@@ -1,0 +1,8 @@
+Department of Computer Science, University of Manchester~Line codes~
+||||||
+Manchester code
+||||||
+In telecommunication and data storage, Manchester code (also known as phase encoding, or PE) is a line code in which the encoding of each data bit is either low then high, or high then low, for equal time. It is a self-clocking signal with no DC component. Consequently, electrical connections using a Manchester code are easily galvanically isolated.
+Manchester code derives its name from its development at the University of Manchester, where the coding was used for storing data on the magnetic drums of the Manchester Mark 1 computer.
+Manchester code was widely used for magnetic recording on 1600 bpi computer tapes before the introduction of 6250 bpi tapes which used the more efficient group-coded recording. Manchester code was used in early Ethernet physical layer standards and is still used in consumer IR protocols, RFID and near-field communication.
+

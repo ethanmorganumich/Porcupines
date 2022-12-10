@@ -1,0 +1,6 @@
+Modems~Network access~
+||||||
+Acoustic coupler
+||||||
+In telecommunications, an acoustic coupler is an interface device for coupling electrical signals by acoustical means—usually into and out of a telephone.
+The link is achieved through converting electric signals from the phone line to sound and reconvert sound to electric signals needed for the end terminal, such as a teletypewriter, and back, rather than through direct electrical connection.

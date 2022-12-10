@@ -1,0 +1,6 @@
+Antennas~Scattering, absorption and radiative transfer (optics)~
+||||||
+Near and far field
+||||||
+The near field and far field are regions of the electromagnetic (EM) field around an object, such as a transmitting antenna, or the result of radiation scattering off an object. Non-radiative near-field behaviors dominate close to the antenna or scattering object, while electromagnetic radiation far-field behaviors dominate at greater distances.
+Far-field E (electric) and B (magnetic) field strength decreases as the distance from the source increases, resulting in an inverse-square law for the radiated power intensity of electromagnetic radiation. By contrast, near-field E and B strength decrease more rapidly with distance: the radiative field decreases by the inverse-distance squared, the reactive field by an inverse-cube law, resulting in a diminished power in the parts of the electric field by an inverse fourth-power and sixth-power, respectively. The rapid drop in power contained in the near-field ensures that effects due to the near-field essentially vanish a few wavelengths away from the radiating part of the antenna.

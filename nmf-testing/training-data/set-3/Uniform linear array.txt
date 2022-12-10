@@ -1,0 +1,8 @@
+Sensors~
+||||||
+Sensor array
+||||||
+A sensor array is a group of sensors, usually deployed in a certain geometry pattern, used for collecting and processing electromagnetic or acoustic signals. The advantage of using a sensor array over using a single sensor lies in the fact that an array adds new dimensions to the observation, helping to estimate more parameters and improve the estimation performance.
+For example an array of radio antenna elements used for beamforming can increase antenna gain in the direction of the signal while decreasing the gain in other directions, i.e., increasing signal-to-noise ratio (SNR) by amplifying the signal coherently. Another example of sensor array application is to estimate the direction of arrival of impinging electromagnetic waves. 
+The related processing method is called array signal processing. A third examples includes chemical sensor arrays, which utilize multiple chemical sensors for fingerprint detection in complex mixtures or sensing environments. Application examples of array signal processing include radar/sonar, wireless communications, seismology, machine condition monitoring, astronomical observations fault diagnosis, etc.
+Using array signal processing, the temporal and spatial properties (or parameters) of the impinging signals interfered by noise and hidden in the data collected by the sensor array can be estimated and revealed. This is known as parameter estimation.

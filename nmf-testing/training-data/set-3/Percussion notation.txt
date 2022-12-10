@@ -1,0 +1,7 @@
+Percussion notation~
+||||||
+Percussion notation
+||||||
+Percussion notation is a type of musical notation indicating notes to be played by percussion instruments. As with other forms of musical notation, sounds are represented by symbols which are usually written onto a musical staff (or stave).
+Percussion instruments are generally grouped into two categories: pitched and non-pitched. The notation of non-pitched percussion instruments is less standardized, and therefore often includes a key or legend specifying which line or space each individual instrument will be notated on.
+Cymbals are usually notated with 'x' note heads, drums with normal elliptical note heads and auxiliary percussion with alternative note heads. Non-pitched percussion notation on a conventional staff once commonly employed the bass clef, but the neutral clef (or "percussion clef"), consisting of two parallel vertical lines, is usually preferred now. It is usual to label each instrument and technique the first time it is introduced, or to add an explanatory footnote, to clarify this. Sometimes unconventional staves are used to clarify notation, for example a 2-, 3-, or 4- line stave may be used where each line refers to a differently pitched instrument, such as temple blocks or tom-toms, or a single line stave may be used for a single non-pitched instrument such as a tambourine.

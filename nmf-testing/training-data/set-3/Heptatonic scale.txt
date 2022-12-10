@@ -1,0 +1,6 @@
+Heptatonic scales~
+||||||
+Heptatonic scale
+||||||
+A heptatonic scale is a musical scale that has seven pitches, or tones, per octave. Examples include the major scale or minor scale; e.g., in C major: C D E F G A B C—and in the relative minor, A minor, natural minor: A B C D E F G A; the melodic minor scale, A B C D E F♯G♯A ascending, A G F E D C B A descending; the harmonic minor scale, A B C D E F G♯A; and a scale variously known as the Byzantine, and Hungarian, scale, C D E♭ F♯ G A♭ B C. Indian classical theory postulates seventy-two seven-tone scale types, collectively called thaat, whereas others postulate twelve or ten (depending on the theorist) seven-tone scale types.
+Several heptatonic scales in Western, Roman, Spanish, Hungarian, and Greek music can be analyzed as juxtapositions of tetrachords. All heptatonic scales have all intervals present in their interval vector analysis, and thus all heptatonic scales are both hemitonic and tritonic. There is a special affinity for heptatonic scales in the Western key signature system.

@@ -1,0 +1,9 @@
+Graph families~Intersection classes of graphs~Planar graphs~
+||||||
+Planar graph
+||||||
+In graph theory, a planar graph is a graph that can be embedded in the plane, i.e., it can be drawn on the plane in such a way that its edges intersect only at their endpoints.  In other words, it can be drawn in such a way that no edges cross each other.   Such a drawing is called a plane graph or planar embedding of the graph. A plane graph can be defined as a planar graph with a mapping from every node to a point on a plane, and from every edge to a plane curve on that plane, such that the extreme points of each curve are the points mapped from its end nodes, and all curves are disjoint except on their extreme points.
+Every graph that can be drawn on a plane can be drawn on the sphere as well, and vice versa, by means of stereographic projection.
+Plane graphs can be encoded by combinatorial maps or rotation systems.
+An equivalence class of topologically equivalent drawings on the sphere, usually with additional assumptions such as the absence of isthmuses, is called a planar map. Although a plane graph has an external or unbounded face, none of the faces of a planar map has a particular status.
+Planar graphs generalize to graphs drawable on a surface of a given genus. In this terminology, planar graphs have genus 0, since the plane (and the sphere) are surfaces of genus 0. See "graph embedding" for other related topics.

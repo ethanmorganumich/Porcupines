@@ -1,0 +1,6 @@
+Graph connectivity~
+||||||
+Biconnected component
+||||||
+In graph theory, a biconnected component (sometimes known as a 2-connected component) is a maximal biconnected subgraph.  Any connected graph decomposes into a tree of biconnected components called the block-cut tree of the graph. The blocks are attached to each other at shared vertices called cut vertices or separating vertices or articulation points.  Specifically, a cut vertex is any vertex whose removal increases the number of connected components.
+

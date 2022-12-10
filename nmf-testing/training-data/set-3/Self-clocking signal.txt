@@ -1,0 +1,6 @@
+Digital electronics~Synchronization~
+||||||
+Self-clocking signal
+||||||
+In telecommunications and electronics, a self-clocking signal is one that can be decoded without the need for a separate clock signal or other source of synchronization. This is usually done by including embedded synchronization information within the signal, and adding constraints on the coding of the data payload such that false synchronization can easily be detected.
+Most line codes are designed to be self-clocking.

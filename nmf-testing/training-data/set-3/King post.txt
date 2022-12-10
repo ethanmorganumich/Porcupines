@@ -1,0 +1,6 @@
+Architectural elements~King post truss bridges~Structural engineering~Timber framing~Truss bridges by type~Trusses~
+||||||
+King post
+||||||
+A king post (or king-post or kingpost) is a central vertical post used in architectural or bridge designs, working in tension to support a beam below from a truss apex above (whereas a crown post, though visually similar, supports items above from the beam below).
+In aircraft design a strut called a king post acts in compression, similarly to an architectural crown post.  Usage in mechanical plant and marine engineering differs again, as noted below.

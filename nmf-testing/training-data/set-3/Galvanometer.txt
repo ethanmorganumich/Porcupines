@@ -1,0 +1,9 @@
+Electrical instruments~Galvanometers~Historical scientific instruments~
+||||||
+Galvanometer
+||||||
+A galvanometer is an electromechanical measuring instrument for electric current. Early galvanometers were uncalibrated, but improved versions, called ammeters, were calibrated and could measure the flow of current more precisely.
+A galvanometer works by deflecting a pointer in response to an electric current flowing through a coil in a constant magnetic field. Galvanometers can be thought of as a kind of actuator.
+Galvanometers came from the observation, first noted by Hans Christian Ørsted in 1820, that a magnetic compass's needle deflects when near a wire having electric current. They were the first instruments used to detect and measure small amounts of current. André-Marie Ampère, who gave mathematical expression to Ørsted's discovery, named the instrument after the Italian electricity researcher Luigi Galvani, who in 1791 discovered the principle of the frog galvanoscope – that electric current would make the legs of a dead frog jerk.
+Galvanometers have been essential for the development of science and technology in many fields. For example, in the 1800s they enabled long-range communication through submarine cables, such as the earliest transatlantic telegraph cables, and were essential to discovering the electrical activity of the heart and brain, by their fine measurements of current.
+Galvanometers have also been used as the display components of other kinds of analog meters (e.g., light meters and VU meters), capturing the outputs of these meters' sensors. Today, the main type of galvanometer still in use is the D'Arsonval/Weston type.

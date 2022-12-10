@@ -1,0 +1,6 @@
+65xx microprocessors~8-bit microprocessors~Commodore 64~MOS Technology microprocessors~
+||||||
+MOS Technology 6510
+||||||
+The MOS Technology 6510 is an 8-bit microprocessor designed by MOS Technology. It is a modified form of the very successful 6502. The 6510 is widely used in the Commodore 64 (C64) home computer and its variants.
+The primary change from the 6502 is the addition of an 8-bit general purpose I/O port, although 6 I/O pins are available in the most common version of the 6510. In addition, the address bus can be made tristate and the CPU can be halted cleanly.

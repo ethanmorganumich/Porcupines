@@ -1,0 +1,8 @@
+Evidence law~Legal doctrines and principles~
+||||||
+Presumption
+||||||
+In the law of evidence, a presumption of a particular fact can be made without the aid of proof in some situations. The invocation of a presumption shifts the burden of proof from one party to the opposing party in a court trial.
+There are two types of presumption: rebuttable presumption and conclusive presumption. A rebuttable presumption is assumed true until a person proves otherwise (for example the presumption of innocence). In contrast, a conclusive (or irrebuttable) presumption cannot be refuted in any case (such as defense of infancy in some legal systems).
+Presumptions are sometimes categorized into two types: presumptions without basic facts, and presumptions with basic facts. In the United States, mandatory presumptions are impermissible in criminal cases, but permissible presumptions are allowed.
+An example of presumption without basic facts is presumption of innocence.An example of presumption with basic facts is Declared death in absentia, e.g., the law says if a person has been missing for seven years or more (basic fact), that person is presumed dead.

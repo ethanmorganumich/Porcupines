@@ -1,0 +1,5 @@
+Bedding~Blankets~Furnishings~Insulators~
+||||||
+Blanket
+||||||
+A blanket is a swath of soft cloth large enough either to cover or to enfold most of the user's body and thick enough to keep the body warm by trapping radiant body heat that otherwise would be lost through convection.

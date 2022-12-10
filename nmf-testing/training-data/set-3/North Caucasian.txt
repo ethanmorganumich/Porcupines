@@ -1,0 +1,7 @@
+Languages of the Caucasus~North Caucasian languages~Proposed language families~
+||||||
+North Caucasian languages
+||||||
+The North Caucasian languages, sometimes called simply Caucasic, is a proposed language family consisting of a pair of well established language families spoken in the Caucasus, predominantly in the north, consisting of the Northwest Caucasian family (also called Pontic, Abkhaz–Adyghe, Circassian, or West Caucasian) and the Northeast Caucasian family (also called Nakh–Dagestanian, Caspian or East Caucasian).
+The Kartvelian languages, including Georgian, Zan and Svan, were once known as South Caucasian. However, they are no longer considered genetically related to the North Caucasian languages and are classified as an independent language family.
+Some linguists, notably Sergei Starostin and Sergei Nikolaev, believe that the two groups sprang from a common ancestor about five thousand years ago. However, this proposal is difficult to evaluate, and remains controversial. There are some 34 to 38 distinct North Caucasian languages.North Caucasian has also been given in an automated computational analysis (ASJP 4) by Müller et al. (2013). However, since the analysis was automatically generated, Müller et al. (2013) does not conclude whether the grouping is due to mutual lexical borrowing or genetic inheritance.

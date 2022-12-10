@@ -1,0 +1,5 @@
+Abstract data types~Heaps (data structures)~Priority queues~
+||||||
+Double-ended priority queue
+||||||
+In computer science, a double-ended priority queue (DEPQ) or double-ended heap is a data structure similar to a priority queue or heap, but allows for efficient removal of both the maximum and minimum, according to some ordering on the keys (items) stored in the structure. Every element in a DEPQ has a priority or value. In a DEPQ, it is possible to remove the elements in both ascending as well as descending order.

@@ -1,0 +1,5 @@
+Fiber optics~Optics stubs~
+||||||
+Reference surface
+||||||
+In fiber optic technology, a reference surface is that surface of an optical fiber that is used to contact the transverse-alignment elements of a component such as a connector or mechanical splice.  For telecommunications-grade fibers, the reference surface is the outer surface of the cladding. For plastic-clad silica (PCS) fibers, which have a strippable polymer cladding (not to be confused with the polymer overcoat of an all-silica fiber), the reference surface may be the core.

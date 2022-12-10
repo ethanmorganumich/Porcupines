@@ -1,0 +1,7 @@
+Engineering ratios~Interference~Noise (electronics)~Radio frequency propagation~Radio resource management~
+||||||
+Carrier-to-noise ratio
+||||||
+In telecommunications, the carrier-to-noise ratio, often written CNR or C/N, is the signal-to-noise ratio (SNR) of a modulated signal. The term is used to distinguish the CNR of the radio frequency passband signal from the SNR of an analog base band message signal after demodulation. For example, with FM radio, the strength of the 100 MHz carrier with modulations would be considered for CNR, whereas the audio frequency analogue message signal would be for SNR; in each case, compared to the apparent noise. If this distinction is not necessary, the term SNR is often used instead of CNR, with the same definition.
+Digitally modulated signals (e.g. QAM or PSK) are basically made of two CW carriers (the I and Q components, which are out-of-phase carriers). In fact, the information (bits or symbols) is carried by given combinations of phase and/or amplitude of the I and Q components. It is for this reason that, in the context of digital modulations, digitally modulated signals are usually referred to as carriers. Therefore, the term carrier-to-noise-ratio (CNR), instead of signal-to-noise-ratio (SNR), is preferred to express the signal quality when the signal has been digitally modulated.
+High C/N ratios provide good quality of reception, for example low bit error rate (BER) of a digital message signal, or high SNR of an analog message signal.

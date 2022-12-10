@@ -1,0 +1,7 @@
+Data transmission~
+||||||
+Eye pattern
+||||||
+In telecommunication, an eye pattern, also known as an eye diagram, is an oscilloscope display in which a digital signal from a receiver is repetitively sampled and applied to the vertical input, while the data rate is used to trigger the horizontal sweep. It is so called because, for several types of coding, the pattern looks like a series of eyes between a pair of rails. It is a tool for the evaluation of the combined effects of channel noise, dispersion and intersymbol interference on the performance of a baseband pulse-transmission system. The technique was first used with the WWII SIGSALY secure speech transmission system.
+From a mathematical perspective, an eye pattern is a visualization of the probability density function (PDF) of the signal, modulo the unit interval (UI). In other words, it shows the probability of the signal being at each possible voltage across the duration of the UI. Typically a color ramp is applied to the PDF in order to make small brightness differences easier to visualize.
+Several system performance measurements can be derived by analyzing the display. If the signals are too long, too short, poorly synchronized with the system clock, too high, too low, too noisy, or too slow to change, or have too much undershoot or overshoot, this can be observed from the eye diagram. An open eye pattern corresponds to minimal signal distortion. Distortion of the signal waveform due to intersymbol interference and noise appears as closure of the eye pattern.

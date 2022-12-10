@@ -1,0 +1,6 @@
+Fiber optics~Lighting~Optics stubs~
+||||||
+Radiation angle
+||||||
+In fiber optics, the radiation angle is half the vertex angle of the cone of light emitted at the exit face of an optical fiber.
+The cone boundary is usually defined (a) by the angle at which the far-field irradiance has decreased to a specified fraction of its maximum value or (b) as the cone within which there is a specified fraction of the total radiated power at any point in the far field.

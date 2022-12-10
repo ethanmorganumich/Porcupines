@@ -1,0 +1,17 @@
+Schenkerian analysis~
+||||||
+Voice exchange
+||||||
+In music, especially Schenkerian analysis, a voice exchange (German: Stimmtausch; also called voice interchange) is the repetition of a contrapuntal passage with the voices' parts exchanged; for instance, the melody of one part appears in a second part and vice versa. It differs from invertible counterpoint in that there is no octave displacement; therefore it always involves some voice crossing. If scored for equal instruments or voices, it may be indistinguishable from a repeat, although because a repeat does not appear in any of the parts, it may make the music more interesting for the musicians. It is a characteristic feature of rounds, although not usually called such.Patterns of voice exchange are sometimes schematized using letters for melodic patterns. A double voice exchange has the pattern:
+
+Voice 1:  a b
+Voice 2:  b a
+
+A triple exchange would thus be written:
+
+Voice 1:  a b c
+Voice 2:  c a b
+Voice 3:  b c a
+
+The first use of the term "Stimmtausch" was in 1903-4 in an article by Friedrich Ludwig, while its English calque was first used in 1949 by Jacques Handschin. The term is also used, with a related but distinct meaning, in Schenkerian theory.
+"When a piece is entirely conceived according to the system of Stimmtausch, it belongs to the rondellus type."

@@ -1,0 +1,62 @@
+Financial economics~Gambling terminology~Market risk~Wagering~
+||||||
+Risk premium
+||||||
+A risk premium is a measure of excess return that is required by an individual to compensate being subjected to an increased level of risk. It is used widely in finance and economics, the general definition being the expected risky return less the risk-free return, as demonstrated by the formula below.
+  
+    
+      
+        R
+        i
+        s
+        k
+         
+        p
+        r
+        e
+        m
+        i
+        u
+        m
+        =
+        E
+        (
+        r
+        )
+        −
+        
+          r
+          
+            f
+          
+        
+      
+    
+    {\displaystyle Risk\ premium=E(r)-r_{f}}
+  
+Where 
+  
+    
+      
+        E
+        (
+        r
+        )
+      
+    
+    {\displaystyle E(r)}
+   is the risky expected rate of return and 
+  
+    
+      
+        
+          r
+          
+            f
+          
+        
+      
+    
+    {\displaystyle r_{f}}
+   is the risk-free return.
+The inputs for each of these variables and the ultimate interpretation of the risk premium value differs depending on the application as explained in the following sections. Regardless of the application, the market premium can be volatile as both comprising variables can be impacted independent of each other by both cyclical and abrupt changes. This means that the market premium is dynamic in nature and ever-changing. Additionally, a general observation regardless of application is that the risk premium is larger during economic downturns and during periods of increased uncertainty.There are many forms of risk such as financial risk, physical risk, and reputation risk. The concept of risk premium can be applied to all these risks and the expected payoff from these risks can be determined if the risk premium can be quantified. In the equity market, the riskiness of a stock can be estimated by the magnitude of the standard deviation from the mean. If for example the price of two different stocks were plotted over a year and an average trend line added for each, the stock whose price varies more dramatically about the mean is considered the riskier stock. Investors also analyse many other factors about a company that may influence it’s risk such as industry volatility, cash flows, debt, and other market threats.

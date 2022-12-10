@@ -1,0 +1,8 @@
+Chromaticism~Music theory stubs~
+||||||
+Mistuning
+||||||
+In music mistuning is most generally the action of incorrectly tuning or the state of being out of tune.  Mistuning is also the displacement of a pitch a semitone away from its standard position in a stable tonal structure such as the most common perfect fourth or fifth, which mistuned in the opposite directions produce a tritone.  A portion of the alpha chord:E-G-C-E♭, may be considered an E major chord: E-G♯-B-E, whose members are mistuned. (Wilson 1992, p. 9) See: alteration and chord substitution.
+In mechanics mistuning is a lack of symmetry present in a real object that ideally is perfectly symmetric. 
+This phenomenon is studied in relation to turbine disks, for example; it can cause an increase of the forced response that can bring about unexpected failures due to fatigue. Mistuning is caused by manufacturer tolerances, non-homogeneity of the material, the usage, etc., and so it is unavoidable. 
+It has been observed that the amount of increase in the forced response of mistuned turbine disks strongly depends on the physical characteristics of the disk itself: actual efforts to limit the negative effects of this phenomenon upon turbine disks focus on understanding how to design a disk that is influenced minimally by mistuning in the working rotational speed.

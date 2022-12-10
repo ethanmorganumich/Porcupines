@@ -1,0 +1,5 @@
+Communication circuits~Digital circuits~Telecommunications equipment~
+||||||
+Dual-modulus prescaler
+||||||
+A dual modulus prescaler is an electronic circuit used in high-frequency synthesizer designs to overcome the problem of generating narrowly spaced frequencies that are nevertheless too high to be passed directly through the feedback loop of the system.  The modulus of a prescaler is its frequency divisor. A dual-modulus prescaler has two separate frequency divisors, usually M and M+1.

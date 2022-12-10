@@ -1,0 +1,6 @@
+Market failure~Monopoly (economics)~
+||||||
+Natural monopoly
+||||||
+A natural monopoly is a monopoly in an industry in which high infrastructural costs and other barriers to entry relative to the size of the market give the largest supplier in an industry, often the first supplier in a market, an overwhelming advantage over potential competitors. Specifically, an industry is a natural monopoly if the total cost of one firm, producing the total output, is lower than the total cost of two or more firms producing the entire production. In that case, it is very probable that a company (monopoly) or minimal number of companies (oligopoly) will form, providing all or most relevant products and/or services. This frequently occurs in industries where capital costs predominate, creating large economies of scale about the size of the market; examples include public utilities such as water services, electricity, telecommunications, mail, etc. Natural monopolies were recognized as potential sources of market failure as early as the 19th century; John Stuart Mill advocated government regulation to make them serve the public good.
+

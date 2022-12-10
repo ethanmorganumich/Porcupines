@@ -1,0 +1,6 @@
+1 (number)~Dimension~
+||||||
+One-dimensional space
+||||||
+In physics and mathematics, a sequence of n numbers can specify a location in n-dimensional space. When n = 1, the set of all such locations is called a one-dimensional space. An example of a one-dimensional space is the number line, where the position of each point on it can be described by a single number.In algebraic geometry there are several structures that are technically one-dimensional spaces but referred to in other terms. A field k is a one-dimensional vector space over itself. Similarly, the projective line over k is a one-dimensional space. In particular, if k = ℂ, the complex numbers, then the complex projective line P1(ℂ) is one-dimensional with respect to ℂ, even though it is also known as the Riemann sphere.
+More generally, a ring is a length-one module over itself. Similarly, the projective line over a ring is a one-dimensional space over the ring. In case the ring is an algebra over a field, these spaces are one-dimensional with respect to the algebra, even if the algebra is of higher dimensionality.

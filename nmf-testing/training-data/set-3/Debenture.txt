@@ -1,0 +1,7 @@
+Corporate finance~Debt~Interest-bearing instruments~
+||||||
+Debenture
+||||||
+In corporate finance, a debenture is a medium- to long-term debt instrument used by large companies to borrow money, at a fixed rate of interest. The legal term "debenture" originally referred to a document that either creates a debt or acknowledges it, but in some countries the term is now used interchangeably with bond, loan stock or note. A debenture is thus like a certificate of loan or a loan bond evidencing the company's liability to pay a specified amount with interest. Although the money raised by the debentures becomes a part of the company's capital structure, it does not become share capital. Senior debentures get paid before subordinate debentures, and there are varying rates of risk and payoff for these categories.
+Debentures are freely transferable by the debenture holder. Debenture holders have no rights to vote in the company's general meetings of shareholders, but they may have separate meetings or votes e.g. on changes to the rights attached to the debentures. The interest paid to them is a charge against profit in the company's financial statements.
+The term "debenture" is more descriptive than definitive.  An exact and all-encompassing definition for a debenture has proved elusive.  The English commercial judge, Lord Lindley, notably remarked in one case: "Now, what the correct meaning of ‘debenture’ is I do not know. I do not find anywhere any precise definition of it. We know that there are various kinds of instruments commonly called debentures."

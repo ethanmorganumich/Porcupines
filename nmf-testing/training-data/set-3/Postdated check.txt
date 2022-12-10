@@ -1,0 +1,6 @@
+Banking terms~Cheques~
+||||||
+Post-dated cheque
+||||||
+In banking, a post-dated cheque  is a cheque written by the drawer (payer) for a date in the future.
+Whether a post-dated cheque may be cashed or deposited before the date written on it depends on the country.  A Canadian bank, for example, is not supposed to process a post-dated cheque and if it does so by mistake, the cheque writer may ask their bank to correct the error. In the United States and the UK, post-dated cheques are negotiable instruments and can be drawn upon at any time, while in India and Australia post-dated cheques are not payable until the date written on the cheque.

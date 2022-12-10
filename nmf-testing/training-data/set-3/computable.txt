@@ -1,0 +1,6 @@
+Computability theory~Theory of computation~
+||||||
+Computability
+||||||
+Computability is the ability to solve a problem in an effective manner. It is a key topic of the field of computability theory within mathematical logic and the theory of computation within computer science. The computability of a problem is closely linked to the existence of an algorithm to solve the problem.
+The most widely studied models of computability are the Turing-computable and μ-recursive functions, and the lambda calculus, all of which have computationally equivalent power. Other forms of computability are studied as well: computability notions weaker than Turing machines are studied in automata theory, while computability notions stronger than Turing machines are studied in the field of hypercomputation.

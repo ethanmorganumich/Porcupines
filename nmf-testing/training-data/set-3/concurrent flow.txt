@@ -1,0 +1,6 @@
+Network flow problem~
+||||||
+Multi-commodity flow problem
+||||||
+The multi-commodity flow problem is a network flow problem with multiple commodities (flow demands) between different source and sink nodes.
+

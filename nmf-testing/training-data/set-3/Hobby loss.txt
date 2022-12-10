@@ -1,0 +1,5 @@
+Internal Revenue Code~
+||||||
+Internal Revenue Code section 183
+||||||
+Section 183 of the United States Internal Revenue Code (26 U.S.C. § 183), sometimes referred to as the "hobby loss rule," limits the losses that can be deducted from income which are attributable to hobbies and other not-for-profit activities.  Generally, losses which occur in for-profit activities are not limited and can be used to offset other income from other activities.  But the § 183 limitation curtails those deductions when the activity is deemed a hobby.

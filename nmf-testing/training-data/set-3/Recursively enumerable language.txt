@@ -1,0 +1,7 @@
+Alan Turing~Formal languages~Mathematics of computing~Theory of computation~
+||||||
+Recursively enumerable language
+||||||
+In mathematics, logic and computer science, a formal language is called recursively enumerable (also recognizable, partially decidable, semidecidable, Turing-acceptable or Turing-recognizable) if it is a recursively enumerable subset in the set of all possible words over the alphabet of the language, i.e., if there exists a Turing machine which will enumerate all valid strings of the language.
+Recursively enumerable languages are known as type-0 languages in the Chomsky hierarchy of formal languages. All regular, context-free, context-sensitive and recursive languages are recursively enumerable.
+The class of all recursively enumerable languages is called RE.

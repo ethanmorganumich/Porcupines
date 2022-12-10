@@ -1,0 +1,7 @@
+Graph theory objects~Network flow problem~Set index articles~
+||||||
+Minimum cut
+||||||
+In graph theory, a minimum cut or min-cut of a graph is a cut (a partition of the vertices of a graph into two disjoint subsets) that is minimal in some metric.
+Variations of the minimum cut problem consider weighted graphs, directed graphs, terminals, and partitioning the vertices into more than two sets.
+The weighted min-cut problem allowing both positive and negative weights can be trivially transformed into a weighted maximum cut problem by flipping the sign in all weights.

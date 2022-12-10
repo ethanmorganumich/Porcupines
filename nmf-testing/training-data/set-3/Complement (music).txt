@@ -1,0 +1,8 @@
+Intervals (music)~
+||||||
+Complement (music)
+||||||
+In music theory, complement refers to either traditional interval complementation, or the aggregate complementation of twelve-tone and serialism.
+In interval complementation a complement is the interval which, when added to the original interval, spans an octave in total. For example, a major 3rd is the complement of a minor 6th. The complement of any interval is also known as its inverse or inversion.  Note that the octave and the unison are each other's complements and that the tritone is its own complement (though the latter is "re-spelt" as either an augmented fourth or a diminished fifth, depending on the context).
+In the aggregate complementation of twelve-tone music and serialism the complement of one set of notes from the chromatic scale contains all the other notes of the scale.  For example, A-B-C-D-E-F-G is complemented by B♭-C♯-E♭-F♯-A♭.
+Note that musical set theory broadens the definition of both senses somewhat.

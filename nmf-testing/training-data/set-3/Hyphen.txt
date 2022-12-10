@@ -1,0 +1,8 @@
+Punctuation~Punctuation of English~
+||||||
+Hyphen
+||||||
+The hyphen ‐ is a punctuation mark used to join words and to separate syllables of a single word. The use of hyphens is called hyphenation. Son-in-law is an example of a hyphenated word. The hyphen is sometimes confused with dashes (figure dash ‒, en dash –, em dash —, horizontal bar ―), which are longer and have different uses, or with the minus sign −, which is also longer and more vertically centred in some typefaces.
+Although hyphens are not to be confused with en dashes, there are some overlaps in usage (in which either a hyphen or an en dash may be acceptable, depending on user preference, as discussed below). In addition, the hyphen often substitutes for the en dash elsewhere in informal writing.
+As an orthographic concept, the hyphen is a single entity. In terms of character encoding and display, it is represented by any of several characters and glyphs, including the Unicode hyphen (shown at the top of the infobox on this page), the hyphen-minus, the soft (optional) hyphen, and the non-breaking hyphen. The character most often used to represent a hyphen is called the "hyphen-minus" by Unicode, deriving from the original ASCII standard, where it was called "hyphen (minus)".
+

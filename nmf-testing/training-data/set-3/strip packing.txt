@@ -1,0 +1,59 @@
+Mathematical analysis~Packing problems~Strongly NP-complete problems~
+||||||
+Strip packing problem
+||||||
+The strip packing problem is a 2-dimensional geometric minimization problem. 
+Given a set of axis-aligned rectangles and a strip of bounded width and infinite height, determine an overlapping-free packing of the rectangles into the strip minimizing its height. 
+This problem is a cutting and packing problem and is classified as an Open Dimension Problem according to Wäscher et al.This problem arises in the area of scheduling, where it models jobs, that require a contiguous portion of the memory over a given time period. Another example is the area of industrial manufacturing, where rectangular pieces need to be cut out of a sheet of material (e.g., cloth or paper) that has a fixed width but infinite length, and one wants to minimize the wasted material.
+This problem was first studied in 1980. It is strongly-NP hard and there exists no polynomial time approximation algorithm with a ratio smaller than  
+  
+    
+      
+        3
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle 3/2}
+   unless 
+  
+    
+      
+        P
+        =
+        N
+        P
+      
+    
+    {\displaystyle P=NP}
+  . However, the best approximation ratio achieved so far (by a polynomial time algorithm by Harren et al.) is 
+  
+    
+      
+        (
+        5
+        
+          /
+        
+        3
+        +
+        ε
+        )
+      
+    
+    {\displaystyle (5/3+\varepsilon )}
+  , imposing an open question whether there is an algorithm with approximation ratio 
+  
+    
+      
+        3
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle 3/2}
+  .

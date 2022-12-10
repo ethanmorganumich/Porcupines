@@ -1,0 +1,110 @@
+Digital geometry~Distance~Mathematical chess problems~Metric geometry~Norms (mathematics)~
+||||||
+Taxicab geometry
+||||||
+A taxicab geometry or a Manhattan geometry is a geometry in which the usual distance function or metric of Euclidean geometry is replaced by a new metric in which the distance between two points is the sum of the absolute differences of their Cartesian coordinates. The taxicab metric is also known as rectilinear distance, L1 distance, L1 distance or 
+  
+    
+      
+        
+          ℓ
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \ell _{1}}
+   norm (see Lp space), snake distance, city block distance, Manhattan distance or Manhattan length, with corresponding variations in the name of the geometry. The latter names allude to the grid layout of most streets on the island of Manhattan, which causes the shortest path a car could take between two intersections in the borough to have length equal to the intersections' distance in taxicab geometry.
+The geometry has been used in regression analysis since the 18th century, and today is often referred to as LASSO. The geometric interpretation dates to non-Euclidean geometry of the 19th century and is due to Hermann Minkowski.
+In two dimensions, the taxicab distance between two points 
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          y
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{1},y_{1})}
+   and 
+  
+    
+      
+        (
+        
+          x
+          
+            2
+          
+        
+        ,
+        
+          y
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{2},y_{2})}
+   is 
+  
+    
+      
+        
+          |
+          
+            
+              x
+              
+                1
+              
+            
+            −
+            
+              x
+              
+                2
+              
+            
+          
+          |
+        
+        +
+        
+          |
+          
+            
+              y
+              
+                1
+              
+            
+            −
+            
+              y
+              
+                2
+              
+            
+          
+          |
+        
+      
+    
+    {\displaystyle \left|x_{1}-x_{2}\right|+\left|y_{1}-y_{2}\right|}
+  . That is, it is the sum of the absolute values of the differences between both sets of coordinates.

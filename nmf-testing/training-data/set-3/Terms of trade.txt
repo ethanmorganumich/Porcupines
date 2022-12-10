@@ -1,0 +1,6 @@
+International trade theory~
+||||||
+Terms of trade
+||||||
+The terms of trade (TOT) is the relative price of exports in terms of imports and is defined as the ratio of export prices to import prices. It can be interpreted as the amount of import goods an economy can purchase per unit of export goods.
+An improvement of a nation's terms of trade benefits that country in the sense that it can buy more imports for any given level of exports.  The terms of trade may be influenced by the exchange rate because a rise in the value of a country's currency lowers the domestic prices of its imports but may not directly affect the prices of the commodities it exports.

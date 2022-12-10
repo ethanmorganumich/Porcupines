@@ -1,0 +1,11 @@
+Articulations (music)~Musical notation~
+||||||
+Slur (music)
+||||||
+A slur is a symbol in Western musical notation indicating that the notes it embraces are to be played without separation (that is, with legato articulation). A slur is denoted with a curved line generally placed over the notes if the stems point downward, and under them if the stems point upwards.
+
+Prime functions of the slur in keyboard music...are to delineate the extent of a phrase line and to indicate the legato performance of melodies or arpeggiated chords.
+Both accents and slurs relate directly to woodwind articulation...(and brass as well) [since they] employ a variety of tonguing effects [which are indicated by use of, "the correct form," of accents and slurs].
+[With bowed string instruments] A curved slur over or under two or more notes indicates that these notes are to be connected...Slurs are only partially indicative of phrasing; if an actual phrase mark is necessary (to unite several bow-strokes into a larger melodic idea), it should be notated above the passage with broken lines.
+The example below shows two measures in 68 with a slur for each measure:
+

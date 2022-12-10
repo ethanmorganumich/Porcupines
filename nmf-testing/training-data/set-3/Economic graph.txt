@@ -1,0 +1,9 @@
+Economics curves~
+||||||
+Economic graph
+||||||
+The social science of economics makes extensive use of graphs to better illustrate the economic principles and trends it is attempting to explain. Those graphs have specific qualities that are not often found (or are not often found in such combinations) in other sciences.
+
+A common and specific example is the supply-and-demand graph shown on the right. This graph shows supply and demand as opposing curves, and the intersection between those curves determines the equilibrium price. An alteration of either supply or demand is shown by displacing the curve to either the left (a decrease in quantity demanded or supplied) or to the right (an increase in quantity demanded or supplied); this shift results in new equilibrium price and quantity. 
+Economic graphs are presented only in the first quadrant of the Cartesian plane when the variables conceptually can only take on non-negative values (such as the quantity of a product that is produced). Even though the axes refer to numerical variables, specific values are often not introduced if a conceptual point is being made that would apply to any numerical examples.
+More generally, there is usually some mathematical model underlying any given economic graph. For instance, the commonly used supply-and-demand graph has its underpinnings in general price theory—a highly mathematical discipline.

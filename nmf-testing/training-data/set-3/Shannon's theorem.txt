@@ -1,0 +1,6 @@
+Coding theory~Information theory~Telecommunication theory~Theorems in discrete mathematics~
+||||||
+Noisy-channel coding theorem
+||||||
+In information theory, the noisy-channel coding theorem (sometimes Shannon's theorem or Shannon's limit), establishes that for any given degree of noise contamination of a communication channel, it is possible to communicate discrete data (digital information) nearly error-free up to a computable maximum rate through the channel.  This result was presented by Claude Shannon in 1948 and was based in part on earlier work and ideas of Harry Nyquist and Ralph Hartley.
+The Shannon limit or Shannon capacity of a communication channel refers to the maximum rate of error-free data that can theoretically be transferred over the channel if the link is subject to random data transmission errors, for a particular noise level.  It was first described by Shannon (1948), and shortly after published in a book by Shannon and Warren Weaver entitled The Mathematical Theory of Communication (1949). This founded the modern discipline of information theory.

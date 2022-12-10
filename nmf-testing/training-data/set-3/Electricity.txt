@@ -1,0 +1,11 @@
+Electric and magnetic fields in matter~Electricity~
+||||||
+Electricity
+||||||
+Electricity is the set of physical phenomena associated with the presence and motion of matter that has a property of electric charge. Electricity is related to magnetism, both being part of the phenomenon of electromagnetism, as described by Maxwell's equations. Various common phenomena are related to electricity, including lightning, static electricity, electric heating, electric discharges and many others.
+The presence of an electric charge, which can be either positive or negative, produces an electric field. The movement of electric charges is an electric current and produces a magnetic field.
+When a charge is placed in a location with a non-zero electric field, a force will act on it. The magnitude of this force is given by Coulomb's law. If the charge moves, the electric field would be doing work on the electric charge. Thus we can speak of electric potential at a certain point in space, which is equal to the work done by an external agent in carrying a unit of positive charge from an arbitrarily chosen reference point to that point without any acceleration and is typically measured in volts.
+Electricity is at the heart of many modern technologies, being used for:
+
+Electric power where electric current is used to energise equipment;
+Electronics which deals with electrical circuits that involve active electrical components such as vacuum tubes, transistors, diodes and integrated circuits, and associated passive interconnection technologies.Electrical phenomena have been studied since antiquity, though progress in theoretical understanding remained slow until the seventeenth and eighteenth centuries. The theory of electromagnetism was developed in the 19th century, and by the end of that century electricity was being put to industrial and residential use by electrical engineers. The rapid expansion in electrical technology at this time transformed industry and society, becoming a driving force for the Second Industrial Revolution. Electricity's extraordinary versatility means it can be put to an almost limitless set of applications which include transport, heating, lighting, communications, and computation. Electrical power is now the backbone of modern industrial society.

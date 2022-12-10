@@ -1,0 +1,7 @@
+American legal terminology~Property law in the United States~Takings Clause case law~
+||||||
+Regulatory takings in the United States
+||||||
+In United States constitutional law, a regulatory taking occurs when governmental regulations limit the use of private property to such a degree that the landowner is effectively deprived of all economically reasonable use or value of their property. Under the Fifth Amendment to the United States Constitution governments are required to pay just compensation for such takings. The amendment is incorporated to the states via the Due Process Clause of the Fourteenth Amendment. 
+Regulatory takings jurisprudence has its roots in Justice Oliver Wendell Holmes' opinion in Pennsylvania Coal v. Mahon (1922) which stated that: "The general rule, at least, is that, if regulation goes too far, it will be recognized as a taking for which compensation must be paid."
+Modern jurisprudence to determine whether a regulatory taking has occurred centers around the ad hoc factor-based test that the Supreme Court of the United States laid out in Penn Central Transp. Co. v. New York City (1973). Courts are to consider the economic impact of the governmental regulation, the extent to which the regulation interferes with investment-backed expectations, and the character of the governmental action. It is characterized as a disorganized test.

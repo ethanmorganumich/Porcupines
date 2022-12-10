@@ -1,0 +1,5 @@
+Functional data structures~Functional programming~
+||||||
+Purely functional data structure
+||||||
+In computer science, a purely functional data structure is a data structure that can be implemented in a purely functional language. The main difference between an arbitrary data structure and a purely functional one is that the latter is (strongly) immutable. This restriction ensures the data structure possesses the advantages of immutable objects: (full) persistency, quick copy of objects, and thread safety. Efficient purely functional data structures may require the use of lazy evaluation and memoization.

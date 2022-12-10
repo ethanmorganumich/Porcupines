@@ -1,0 +1,10 @@
+Energy efficiency~Fuel technology~Power (physics)~
+||||||
+Brake-specific fuel consumption
+||||||
+Brake-specific fuel consumption (BSFC) is a measure of the fuel efficiency of any prime mover that burns fuel and produces rotational, or shaft power. It is typically used for comparing the efficiency of internal combustion engines with a shaft output.
+It is the rate of fuel consumption divided by the power produced. 
+In traditional units, it measures fuel consumption in pounds per hour divided by the brake horsepower, lb/(hp⋅h); in SI units, this corresponds to the inverse of the units of specific energy, kg/J = s2/m2.
+It may also be thought of as power-specific fuel consumption, for this reason. BSFC allows the fuel efficiency of different engines to be directly compared.
+The term "brake" here as in "brake horsepower" refers to a historical method of measuring torque (see Prony brake).
+

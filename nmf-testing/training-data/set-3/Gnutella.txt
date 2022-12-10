@@ -1,0 +1,5 @@
+Application layer protocols~File sharing networks~Gnutella~Hash based data structures~
+||||||
+Gnutella
+||||||
+Gnutella is a peer-to-peer network protocol. Founded in 2000, it was the first decentralized peer-to-peer network of its kind, leading to other, later networks adopting the model.In June 2005, Gnutella's population was 1.81 million computers  increasing to over three million nodes by January 2006. In late 2007, it was the most popular file-sharing network on the Internet with an estimated market share of more than 40%.

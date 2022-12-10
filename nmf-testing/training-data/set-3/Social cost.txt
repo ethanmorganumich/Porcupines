@@ -1,0 +1,6 @@
+Costs~Public economics~Rational choice theory~
+||||||
+Social cost
+||||||
+Social cost in neoclassical economics is the sum of the private costs resulting from a transaction and the costs imposed on the consumers as a consequence of being exposed to the transaction for which they are not compensated or charged. In other words, it is the sum of private and external costs. This might be applied to any number of economic problems: for example, social cost of carbon has been explored to better understand the costs of carbon emissions for proposed economic solutions such as a carbon tax.
+Private costs refer to direct costs to the producer for producing the good or service. Social cost includes these private costs and the additional costs (or external costs) associated with the production of the good which are not accounted for by the free market. In short, when the consequences of an action cannot be taken by the initiator, we will have external costs in the society. We will have private costs when initiator can take responsibility for agent's action.

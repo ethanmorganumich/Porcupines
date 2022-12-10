@@ -1,0 +1,7 @@
+Affixes~Lexical units~Linguistics terminology~Prefixes~Words~
+||||||
+Prefix
+||||||
+A prefix is an affix which is placed before the stem of a word. Adding it to the beginning of one word changes it into another word. For example, when the prefix un- is added to the word happy, it creates the word unhappy. Particularly in the study of languages, a prefix is also called a preformative, because it alters the form of the words to which it is affixed.
+Prefixes, like other affixes, can be either inflectional, creating a new form of the word with the same basic meaning and same lexical category (but playing a different role in the sentence), or derivational, creating a new word with a new semantic meaning and sometimes also a different lexical category. Prefixes, like all other affixes, are usually bound morphemes.In English, there are no inflectional prefixes; English uses suffixes instead for that purpose.
+The word prefix is itself made up of the stem fix (meaning "attach", in this case), and the prefix pre- (meaning "before"), both of which are derived from Latin roots.

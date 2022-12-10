@@ -1,0 +1,12 @@
+Instructional design models~Pedagogy~
+||||||
+ADDIE Model
+||||||
+ADDIE is an instructional systems design (ISD) framework that many instructional designers and training developers use to develop courses.  The name is an acronym for the five phases it defines for building training and performance support tools:
+
+Analysis
+Design
+Development
+Implementation
+EvaluationMost current ISD models are variations of the ADDIE process. Other models include the Dick and Carey and Kemp ISD models. Rapid prototyping is another common alternative.
+Instructional theories are important in instructional materials design. These include behaviorism, constructivism, social learning, and cognitivism.

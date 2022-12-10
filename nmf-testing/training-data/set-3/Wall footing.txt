@@ -1,0 +1,7 @@
+Architectural elements~Building engineering~Shallow foundations~
+||||||
+Wall footing
+||||||
+A wall footing or strip footing is a continuous strip of concrete that serves to spread the weight of a load-bearing wall across an area of soil. It is the component of a shallow foundation.
+
+Wall footings carrying direct vertical loads might be designed either in plain concrete or in reinforced concrete. Since a wall footing deflects essentially in one way, it is analyzed by considering as a strip of unit width and its length.

@@ -1,0 +1,6 @@
+Character encoding~
+||||||
+8-bit clean
+||||||
+8-bit clean is an attribute of computer systems, communication channels, and other devices and software, that handle 8-bit character encodings correctly. Such encoding include the ISO 8859 series and the UTF-8 encoding of Unicode.
+

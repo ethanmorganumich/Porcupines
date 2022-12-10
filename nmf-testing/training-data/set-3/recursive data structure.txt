@@ -1,0 +1,7 @@
+Data types~Type theory~
+||||||
+Recursive data type
+||||||
+In computer programming languages, a recursive data type (also known as a recursively-defined, inductively-defined or inductive data type) is a data type for values that may contain other values of the same type. Data of recursive types are usually viewed as directed graphs.
+An important application of recursion in computer science is in defining dynamic data structures such as Lists and Trees.  Recursive data structures can dynamically grow to an arbitrarily large size in response to runtime requirements; in contrast, a static array's size requirements must be set at compile time.
+Sometimes the term "inductive data type" is used for algebraic data types which are not necessarily recursive.

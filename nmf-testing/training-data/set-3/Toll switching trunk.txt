@@ -1,0 +1,6 @@
+Communication circuits~Telecommunications economics~Telecommunications stubs~
+||||||
+Toll switching trunk
+||||||
+In telecommunication, a toll switching trunk or toll connecting trunk is a trunk connecting an end office to a toll center as the first stage of concentration for intertoll or long-distance traffic.  
+Operator assistance or participation may be an optional function. In U.S. common carrier telephony service, a toll center designated Class 4C is an office where assistance in completing incoming calls is provided in addition to other traffic; a toll center designated Class 4P is an office where operators handle only outbound calls, or where switching is performed without operator assistance.

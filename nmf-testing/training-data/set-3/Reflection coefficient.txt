@@ -1,0 +1,8 @@
+Dimensionless numbers~Electronic engineering~Geometrical optics~Physical optics~Seismology measurement~Telecommunication theory~
+||||||
+Reflection coefficient
+||||||
+In physics and electrical engineering the reflection coefficient is a parameter that describes how much of a wave is reflected by an impedance discontinuity in the transmission medium.  It is equal to the ratio of the amplitude of the reflected wave to the incident wave, with each expressed as phasors.  For example, it is used in optics to calculate the amount of light that is reflected from a surface with a different index of refraction, such as a glass surface, or in an electrical transmission line to calculate how much of the electromagnetic wave is reflected by an impedance discontinuity. The reflection coefficient is closely related to the transmission coefficient. The reflectance of a system is also sometimes called a "reflection coefficient".
+
+Different specialties have different applications for the term.
+

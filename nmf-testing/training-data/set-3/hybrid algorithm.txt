@@ -1,0 +1,7 @@
+Algorithms~
+||||||
+Hybrid algorithm
+||||||
+A hybrid algorithm is an algorithm that combines two or more other algorithms that solve the same problem, and is mostly used in programming languages like C++, either choosing one (depending on the data), or switching between them over the course of the algorithm. This is generally done to combine desired features of each, so that the overall algorithm is better than the individual components.
+"Hybrid algorithm" does not refer to simply combining multiple algorithms to solve a different problem – many algorithms can be considered as combinations of simpler pieces – but only to combining algorithms that solve the same problem, but differ in other characteristics, notably performance.
+

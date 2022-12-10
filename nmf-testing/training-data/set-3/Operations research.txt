@@ -1,0 +1,6 @@
+Applied statistics~Decision-making~Engineering disciplines~Industrial engineering~Management science~Mathematical and quantitative methods (economics)~Mathematical economics~Mathematical optimization in business~Operations research~
+||||||
+Operations research
+||||||
+Operations research (British English: operational research), often shortened to the initialism OR, is a discipline that deals with the development and application of analytical methods to improve decision-making. It is considered to be a subfield of mathematical sciences. The term management science is occasionally used as a synonym.Employing techniques from other mathematical sciences, such as modeling, statistics, and optimization, operations research arrives at optimal or near-optimal solutions to decision-making problems. Because of its emphasis on practical applications, operations research has overlap with many other disciplines, notably industrial engineering. Operations research is often concerned with determining the extreme values of some real-world objective: the maximum (of profit, performance, or yield) or minimum (of loss, risk, or cost). Originating in military efforts before World War II, its techniques have grown to concern problems in a variety of industries.
+

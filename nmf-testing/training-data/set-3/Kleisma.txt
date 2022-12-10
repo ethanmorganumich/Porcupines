@@ -1,0 +1,9 @@
+5-limit tuning and intervals~Commas (music)~
+||||||
+Kleisma
+||||||
+In music theory and tuning, the kleisma (κλείσμα), or semicomma majeur, is a minute and barely perceptible comma type interval important to musical temperaments. It is the difference between six justly tuned minor thirds (each with a frequency ratio of 6/5) and one justly tuned tritave or perfect twelfth (with a frequency ratio of 3/1, formed by a 2/1 octave plus a 3/2 perfect fifth). It is equal to a frequency ratio of 15625/15552 = 2−6 3−5 56, or approximately 8.1 cents (Play ). It can be also defined as the difference between five justly tuned minor thirds and one justly tuned major tenth (of size 5/2, formed by a 2/1 octave plus a 5/4 major third) or as the difference between a chromatic semitone (25/24) and a greater diesis (648/625).
+
+The interval was named by Shohé Tanaka after the Greek for "closure", who noted that it was tempered to a unison by 53 equal temperament. It is also tempered out by 19 equal temperament, 34 equal temperament and 72 equal temperament, but it is not tempered out in 12 equal temperament. Namely, in 12 equal temperament the difference between six minor thirds (18 semitones) and one perfect twelfth (19 semitones) is not a comma, but exaggerated to a semitone (100 cents). The same is true for the difference between five minor thirds (15 semitones) and one major tenth (16 semitones).
+The interval was described but not used by Rameau in 1726.Larry Hanson independently discovered this interval which also manifested in a unique mapping using a generalized keyboard capable of accommodating  all the above temperaments as well as just intonation constant structures (periodicity blocks) with these numbers of scale degrees
+The kleisma is also an interval important to the Bohlen–Pierce scale.

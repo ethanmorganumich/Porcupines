@@ -1,0 +1,6 @@
+Equity (law)~Wills and trusts~
+||||||
+Beneficiary (trust)
+||||||
+In trust law, a beneficiary or cestui que use, a.k.a. cestui que trust, is the person or persons who are entitled to the benefit of any trust arrangement.  A beneficiary will normally be a natural person, but it is perfectly possible to have a company as the beneficiary of a trust, and this often happens in sophisticated commercial transaction structures.  With the exception of charitable trusts, and some specific anomalous non-charitable purpose trusts, all trusts are required to have ascertainable beneficiaries.
+Generally speaking, there are no strictures as to who may be a beneficiary of a trust; a beneficiary can be a minor, or under a mental disability (in fact many trusts are created specifically for persons with those legal disadvantages).  It is also possible to have trusts for unborn children, although the trusts must vest within the applicable perpetuity period.

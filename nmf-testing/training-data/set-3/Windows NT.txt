@@ -1,0 +1,9 @@
+1993 software~Advanced RISC Computing~Microsoft Windows~Windows NT~
+||||||
+Windows NT
+||||||
+Windows NT is a proprietary graphical operating system produced by Microsoft, the first version of which was released on July 27, 1993. It is a processor-independent, multiprocessing and multi-user operating system.
+The first version of Windows NT was Windows NT 3.1 and was produced for workstations and server computers. It was a commercially focused operating system intended to complement consumer versions of Windows that were based on MS-DOS (including Windows 1.0 through Windows 3.1x). Gradually, the Windows NT family was expanded into Microsoft's general-purpose operating system product line for all personal computers, deprecating the Windows 9x family.
+"NT" was formerly expanded to "New Technology" but no longer carries any specific meaning. Starting with Windows 2000, "NT" was removed from the product name and is only included in the product version string along with several low-level places within the system. In fact, NT was a trademark of Northern Telecom (later Nortel) at the time, which Microsoft was forced to acknowledge on the product packaging.
+NT was the first purely 32-bit version of Windows, whereas its consumer-oriented counterparts, Windows 3.1x and Windows 9x, were 16-bit/32-bit hybrids. It is a multi-architecture operating system. Initially, it supported several instruction set architectures, including IA-32, MIPS, and DEC Alpha; support for PowerPC, Itanium, x64, and ARM were added later. The latest versions support x86 (including IA-32 and x64) and ARM. Major features of the Windows NT family include Windows Shell, Windows API, Native API, Active Directory, Group Policy, Hardware Abstraction Layer, NTFS, BitLocker, Windows Store, Windows Update, and Hyper-V.
+

@@ -1,0 +1,5 @@
+Aircraft instruments~Avionics~Electronic engineering~Spacecraft components~
+||||||
+Avionics
+||||||
+Avionics (a blend of aviation and electronics) are the electronic systems used on aircraft. Avionic systems include communications, navigation, the display and management of multiple systems, and the hundreds of systems that are fitted to aircraft to perform individual functions. These can be as simple as a searchlight for a police helicopter or as complicated as the tactical system for an airborne early warning platform.

@@ -1,0 +1,13 @@
+IEEE 802~Link protocols~Logical link control~
+||||||
+IEEE 802.2
+||||||
+IEEE 802.2 is the original name of the ISO/IEC 8802-2 standard which defines logical link control (LLC) as the upper portion of the data link layer of the OSI Model. The original standard developed by the Institute of Electrical and Electronics Engineers (IEEE) in collaboration with the American National Standards Institute (ANSI) was adopted by the International Organization for Standardization (ISO) in 1998, but it remains an integral part of the family of IEEE 802 standards for local and metropolitan networks.
+LLC is a software component that provides a uniform interface to the user of the data link service, usually the network layer. LLC may offer three types of services:
+
+Unacknowledged connectionless mode services (mandatory)
+Connection mode services (optional)
+Acknowledged connectionless mode services (optional)Conversely, the LLC uses the services of the media access control (MAC), which is dependent on the specific transmission medium (Ethernet, Token Ring, FDDI, 802.11, etc.). Using LLC is compulsory for all IEEE 802 networks with the exception of Ethernet.  It is also used in Fiber Distributed Data Interface (FDDI) which is not part of the IEEE 802 family.
+The IEEE 802.2 sublayer adds some control information to the message created by the upper layer and passed to the LLC for transmission to another node on the same data link.  The resulting packet is generally referred to as LLC protocol data unit (PDU) and the additional information added by the LLC sublayer is the LLC HEADER. The LLC Header consist of DSAP (Destination Service Access Point), SSAP  (Source Service Access Point) and the Control field.
+The two 8-bit fields DSAP and SSAP allow multiplexing of various upper layer protocols above LLC. However, many protocols use the Subnetwork Access Protocol (SNAP) extension which allows using EtherType values to specify the protocol being transported atop IEEE 802.2. It also allows vendors to define their own protocol value spaces.
+The 8 or 16 bit HDLC-style Control field serves to distinguish communication mode, to specify a specific operation and to facilitate connection control and flow control (in connection mode) or acknowledgements (in acknowledged connectionless mode).

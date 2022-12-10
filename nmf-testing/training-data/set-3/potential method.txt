@@ -1,0 +1,5 @@
+Analysis of algorithms~
+||||||
+Potential method
+||||||
+In computational complexity theory, the potential method is a method used to analyze the amortized time and space complexity of a data structure, a measure of its performance over sequences of operations that smooths out the cost of infrequent but expensive operations.

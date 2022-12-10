@@ -1,0 +1,7 @@
+Corrosion prevention~Electrochemistry~
+||||||
+Galvanic anode
+||||||
+A galvanic anode, or sacrificial anode, is the main component of a galvanic cathodic protection system used to protect buried or submerged metal structures from corrosion.
+They are made from a metal alloy with a more "active" voltage (more negative reduction potential / more positive electrode potential) than the metal of the structure. The difference in potential between the two metals means that the galvanic anode corrodes, in effect being "sacrificed" in order to protect the structure.
+

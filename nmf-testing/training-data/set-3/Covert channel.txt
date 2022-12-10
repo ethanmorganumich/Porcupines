@@ -1,0 +1,5 @@
+Computer security exploits~Steganography~
+||||||
+Covert channel
+||||||
+In computer security, a covert channel is a type of attack that creates a capability to transfer information objects between processes that are not supposed to be allowed to communicate by the computer security policy.  The term, originated in 1973 by Butler Lampson, is defined as channels "not intended for information transfer at all, such as the service program's effect on system load," to distinguish it from legitimate channels that are subjected to access controls by COMPUSEC.

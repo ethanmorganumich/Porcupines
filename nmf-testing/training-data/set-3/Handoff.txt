@@ -1,0 +1,5 @@
+Mobile technology~Radio resource management~
+||||||
+Handover
+||||||
+In cellular telecommunications, handover, or handoff, is the process of transferring an ongoing call or data session from one channel connected to the core network to another channel. In satellite communications it is the process of transferring satellite control responsibility from one earth station to another without loss or interruption of service.

@@ -1,0 +1,8 @@
+Augmented intervals~Sevenths (music)~
+||||||
+Augmented seventh
+||||||
+In classical music from Western culture, an augmented seventh is an interval produced by widening a major seventh by a chromatic semitone. For instance, the interval from C to B is a major seventh, eleven semitones wide, and both the intervals from C♭ to B, and from C to B♯ are augmented sevenths, spanning twelve semitones. Being augmented, it is classified as a dissonant interval. However, it is enharmonically equivalent to the perfect octave.
+Since an octave can be described as a major seventh augmented by a diatonic semitone, the augmented seventh is the sum of an octave, plus the difference between the chromatic and diatonic semitones, which makes it a highly variable quantity between one meantone tuning and the next. In standard equal temperament, in fact, it is identical to the perfect octave (Play ), because both semitones have the same size. In 19 equal temperament, on the other hand, the interval is 63 cents short of an octave, i.e. 1137 cents. More typical meantone tunings fall between these extremes, giving it an intermediate size.
+In just intonation, three major thirds in succession make up an augmented seventh, which is just short of an octave by 41.05 cents.  Adding a diesis to this makes up an octave.  Hence, this interval's complement, the diminished second, is often referred to as a diesis.
+

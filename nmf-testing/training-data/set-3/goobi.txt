@@ -1,0 +1,5 @@
+Free institutional repository software~Free library and information science software~Free software~Mass digitization~
+||||||
+Goobi
+||||||
+Goobi (Abbr. of Göttingen online-objects binaries) is an open-source software suite intended to support mass digitisation projects for cultural heritage institutions. The software implements international standards such as METS, MODS and other formats maintained by the Library of Congress. Goobi consists of several independent modules serving different purposes such as controlling the digitization workflow, enriching descriptive and structural metadata, and presenting the results to the public in a modern and convenient way. It is used by archives, libraries, museums, publishers and scanning utilities.

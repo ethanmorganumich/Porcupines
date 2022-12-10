@@ -1,0 +1,7 @@
+19th-century inventions~Electrical generators~English inventions~
+||||||
+Electric generator
+||||||
+In electricity generation, a generator is a device that converts motive power (mechanical energy) or fuel-based power (chemical energy) into electric power for use in an external circuit. Sources of mechanical energy include steam turbines, gas turbines, water turbines, internal combustion engines, wind turbines and even hand cranks. The first electromagnetic generator, the Faraday disk, was invented in 1831 by British scientist Michael Faraday. Generators provide nearly all of the power for electric power grids.
+In addition to electromechanical designs, photovoltaic and fuel cell powered generators utilize solar power and hydrogen-based fuels, respectively, to generate electrical output. 
+The reverse conversion of electrical energy into mechanical energy is done by an electric motor, and motors and generators have many similarities. Many motors can be mechanically driven to generate electricity; frequently they make acceptable manual generators.

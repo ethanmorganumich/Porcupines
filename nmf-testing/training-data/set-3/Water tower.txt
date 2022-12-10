@@ -1,0 +1,6 @@
+Towers~Water towers~
+||||||
+Water tower
+||||||
+A water tower is an elevated structure supporting a water tank constructed at a height sufficient to pressurize a distribution system for potable water, and to provide emergency storage for fire protection. Water towers often operate in conjunction with underground or surface service reservoirs, which store treated water close to where it will be used. Other types of water towers may only store raw (non-potable) water for fire protection or industrial purposes, and may not necessarily be connected to a public water supply.
+Water towers are able to supply water even during power outages, because they rely on hydrostatic pressure produced by elevation of water (due to gravity) to push the water into domestic and industrial water distribution systems; however, they cannot supply the water for a long time without power, because a pump is typically required to refill the tower. A water tower also serves as a reservoir to help with water needs during peak usage times. The water level in the tower typically falls during the peak usage hours of the day, and then a pump fills it back up during the night. This process also keeps the water from freezing in cold weather, since the tower is constantly being drained and refilled.

@@ -1,0 +1,10 @@
+Legal procedure~Legal terminology stubs~
+||||||
+New trial
+||||||
+A new trial or retrial is a recurrence of a court case. A new trial may potentially be ordered for some or all of the matters at issue in the original trial. Depending upon the rules of the jurisdiction and the decision of the court that ordered the new trial, a new trial may occur if:
+a jury is unable to reach a verdict (see hung jury);
+a trial court grants a party's motion for a new trial, usually on the grounds of a legal defect in the original trial; or
+an appellate court reverses a judgment under circumstances requiring that the case be tried again.In some types of cases (for example, if the original trial court was not a court of record) or in some legal systems, if the losing party to a case appeals, then the appellate court itself will hold a new trial, known as a trial de novo.
+In the United States, if a defendant is acquitted of a crime, the Fifth Amendment generally prohibits a retrial; thus, with few exceptions, a retrial only can occur if the verdict in the first trial was "guilty", or if there was no verdict. In other legal systems, the rules may be different. For example, in Canada, the Crown (prosecution) may seek leave to appeal an acquittal; if such an appeal is successful, a retrial may be ordered. 
+

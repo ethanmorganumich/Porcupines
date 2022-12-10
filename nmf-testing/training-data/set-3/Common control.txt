@@ -1,0 +1,6 @@
+Telephone exchange equipment~Telephony stubs~
+||||||
+Common control
+||||||
+In telecommunications, common control is a principle of switching telephone calls in an automatic telephone exchange that employs shared control equipment which is attached to the circuit of a call only for the duration of establishing or otherwise controlling the call.  Thus, such control equipment need only be provided in as few units to satisfy overall exchange traffic, rather than being duplicated for every subscriber line.
+In contrast, direct control systems have subsystems for call control that are an integral part of the switching network. Strowger exchanges are usually direct control systems, whereas crossbar, and electronic exchanges (including all stored program control systems) are common control systems. Common control is also known as indirect control or register control.

@@ -1,0 +1,5 @@
+Automotive engineering~Automotive technology stubs~
+||||||
+Approach and departure angles
+||||||
+Approach angle is the maximum angle of a ramp onto which a vehicle can climb from a horizontal plane without interference.  It is defined as the angle between the ground and the line drawn between the front tire and the lowest-hanging part of the vehicle at the front overhang. Departure angle is its counterpart at the rear of the vehicle – the maximum ramp angle from which the car can descend without damage. Approach and departure angles are also referred to as ramp angles.Approach and departure angles are indicators of off-road ability of the vehicle: they indicate how steep obstacles, such as rocks or logs, the vehicle can negotiate according to its body shape alone.

@@ -1,0 +1,5 @@
+Electronic engineering~Pictograms~
+||||||
+Electronic symbol
+||||||
+An electronic symbol is a pictogram used to represent various electrical and electronic devices or functions, such as wires, batteries, resistors, and transistors, in a schematic diagram of an electrical or electronic circuit.  These symbols are largely standardized internationally today, but may vary from country to country, or engineering discipline, based on traditional conventions.

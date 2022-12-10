@@ -1,0 +1,7 @@
+Programming language topics~System software~Systems programming languages~
+||||||
+System programming language
+||||||
+A system programming language is a programming language used for system programming; such languages are designed for writing system software, which usually requires different development approaches when compared with application software. Edsger Dijkstra refers to these language as Machine Oriented High Order Languages, or mohol.General-purpose programming languages tend to focus on generic features to allow programs written in the language to use the same code on different platforms. Examples of such languages include ALGOL and Pascal. This generic quality typically comes at the cost of denying direct access to the machine's internal workings, and this often has negative effects on performance.
+System languages, in contrast, are designed not for compatibility, but for performance and ease of access to the underlying hardware while still providing high-level programming concepts like structured programming. Examples include SPL and ESPOL, both of which are similar to ALGOL in syntax but tuned to their respective platforms. Others are cross-platform but designed to work close to the hardware, like BLISS, JOVIAL and BCPL.
+Some languages straddle the system and application domains, bridging the gap between these uses. The canonical example is C, which is used widely for both system and application programming. Some modern languages also do this such as Rust and Swift.

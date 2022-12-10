@@ -1,0 +1,13 @@
+Horology~Time in astronomy~Time scales~Units of time~
+||||||
+Sidereal time
+||||||
+Sidereal time (as a unit also sidereal day or sidereal rotation period) (sidereal   sy-DEER-ee-əl, sə-) is a timekeeping system that astronomers use to locate celestial objects. Using sidereal time, it is possible to easily point a telescope to the proper coordinates in the night sky. In short, sidereal time is a "time scale that is based on Earth's rate of rotation measured relative to the fixed stars", or more correctly, relative to the March equinox.
+Viewed from the same location, a star seen at one position in the sky will be seen at the same position on another night at the same sidereal time. This is similar to how the time kept by a sundial (Solar time) can be used to find the location of the Sun. Just as the Sun and Moon appear to rise in the east and set in the west due to the rotation of Earth, so do the stars. Both Solar time and sidereal time make use of the regularity of Earth's rotation about its polar axis: solar time following the Sun while, roughly speaking, sidereal time follows the distant fixed stars on the celestial sphere.
+More exactly, sidereal time is the angle, measured along the celestial equator, from the observer's meridian to the great circle that passes through the March equinox and both celestial poles, and is usually expressed in hours, minutes, and seconds. Common time on a typical clock (mean Solar time) measures a slightly longer cycle, accounting not only for Earth's axial rotation but also for Earth's orbit around the Sun.
+A sidereal day on Earth is approximately 86164.0905 seconds (23 h 56 min 4.0905 s or 23.9344696 h).
+(Seconds here follow the SI definition and are not to be confused with ephemeris second.)
+The March equinox itself precesses slowly westward relative to the fixed stars, completing one revolution in about 25,800 years, so the misnamed sidereal day ("sidereal" is derived from the Latin sidus meaning "star") is 0.0084 second shorter than the stellar day, Earth's period of rotation relative to the fixed stars.
+The slightly longer "true" sidereal period is measured as the Earth Rotation Angle (ERA), formerly the stellar angle. An increase of 360° in the ERA is a full rotation of the Earth.
+Because Earth orbits the Sun once a year, the sidereal time at any given place and time will gain about four minutes against local civil time, every 24 hours, until, after a year has passed, one additional sidereal "day" has elapsed compared to the number of solar days that have gone by.
+

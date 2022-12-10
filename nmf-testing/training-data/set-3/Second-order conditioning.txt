@@ -1,0 +1,5 @@
+Learning~
+||||||
+Second-order conditioning
+||||||
+In classical conditioning, second-order conditioning or higher-order conditioning is a form of learning in which a stimulus is first made meaningful or consequential for an organism through an initial step of learning, and then that stimulus is used as a basis for learning about some new stimulus. For example, an animal might first learn to associate a bell with food (first-order conditioning), but then learn to associate a light with the bell (second-order conditioning). Honeybees show second-order conditioning during proboscis extension reflex conditioning.Second-order conditioning (SOC) occurs in three phases. In the first training phase, a conditioned stimulus, (CS1) is followed by an unconditioned stimulus (US). In the second phase, a second-order conditioned stimulus (CS2) is presented along with CS1. Finally, in the test phase, CS2 is presented alone to the subjects while their responses are recorded.

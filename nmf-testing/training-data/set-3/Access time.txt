@@ -1,0 +1,7 @@
+Computing stubs~Network access~
+||||||
+Access time
+||||||
+Access time is the time delay or latency between a request to an electronic system, and the access being completed or the requested data returned
+
+In a computer, it is the time interval between the instant at which an instruction control unit initiates a call for data or a request to store data, and the instant at which delivery of the data is completed or the storage is started.

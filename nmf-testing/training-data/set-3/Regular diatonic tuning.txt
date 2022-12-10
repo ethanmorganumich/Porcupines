@@ -1,0 +1,5 @@
+Linear temperaments~
+||||||
+Regular diatonic tuning
+||||||
+A regular diatonic tuning is any musical scale consisting of "tones" (T) and "semitones" (S) arranged in any rotation of the sequence TTSTTTS  which adds up to the octave with all the T's being the same size and all the S's the being the same size, with the 'S's being smaller than the 'T's. In such a tuning, then the notes are connected together in a chain of seven fifths, all the same size (TTTS or a permutation of that) which makes it a Linear temperament with the tempered fifth as a generator.

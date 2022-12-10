@@ -1,0 +1,7 @@
+Mine ventilation~Tunnel stubs~Tunnels~Ventilation~
+||||||
+Ventilation shaft
+||||||
+In subterranean civil engineering, ventilation shafts, also known as airshafts or vent shafts, are vertical passages used in mines and tunnels to move fresh air underground, and to remove stale air. 
+In architecture, an airshaft is a small, vertical space within a tall building which permits ventilation of the building's interior spaces to the outside. The floor plan of a building with an airshaft is often described as a "square donut" shape. Alternatively, an airshaft may be formed between two adjacent buildings. Windows on the interior side of the donut allow air from the building to be exhausted into the shaft, and, depending on the height and width of the shaft, may also allow extra sunlight inside.
+

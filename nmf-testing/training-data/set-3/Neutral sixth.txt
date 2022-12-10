@@ -1,0 +1,10 @@
+Neutral intervals~Quarter tones~Sixths (music)~
+||||||
+Neutral sixth
+||||||
+A neutral sixth is a musical interval wider than a minor sixth play  but narrower than a major sixth play .  Three distinct intervals may be termed neutral sixths:
+
+The undecimal neutral sixth has a ratio of 18:11 between the frequencies of the two tones, or about 852.59 cents. play 
+A tridecimal neutral sixth has a ratio of 13:8 between the frequencies of the two tones, or about 840.53 cents.  This is the smallest neutral sixth, and occurs infrequently in music, as little music utilizes the 13th harmonic. play 
+An equal-tempered neutral sixth is 850 cents, a hair narrower than the 18:11 ratio. It is an equal-tempered quarter tone exactly halfway between the equal-tempered minor and major sixths, and half of an equal-tempered perfect eleventh (octave plus fourth). play These intervals are all within about 12 cents of each other and are difficult for most people to distinguish.  Neutral sixths are roughly a quarter tone sharp from 12 equal temperament (12-ET) minor sixths and a quarter tone flat from 12-ET major sixths.  In just intonation, as well as in tunings such as 31-ET, 41-ET, or 72-ET, which more closely approximate just intonation, the intervals are closer together.
+A neutral sixth can be formed by subtracting a neutral second from a minor seventh.  Based on its positioning in the harmonic series, the undecimal neutral sixth implies a root one minor seventh above the higher of the two notes.

@@ -1,0 +1,5 @@
+Directed graphs~Graph data structures~Graph theory~
+||||||
+Directed graph
+||||||
+In mathematics, and more specifically in graph theory, a directed graph (or digraph) is a graph that is made up of a set of vertices connected by directed edges, often called arcs.

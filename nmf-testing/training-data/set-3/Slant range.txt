@@ -1,0 +1,6 @@
+Antennas~Wireless stubs~
+||||||
+Slant range
+||||||
+In radio electronics, especially radar terminology, slant range or slant distance is the distance along the relative direction between two points. If the two points are at the same level (relative to a specific datum), the slant distance equals the horizontal distance. 
+An example of slant range is the distance to an aircraft flying at high altitude with respect to that of the radar antenna. The slant range (1) is the hypotenuse of the triangle represented by the altitude of the aircraft and the distance between the radar antenna and the aircraft's ground track (point (3) on the earth directly below the aircraft). In the absence of altitude information, for example from a height finder, the aircraft location would be plotted farther (2) from the antenna than its actual ground track.

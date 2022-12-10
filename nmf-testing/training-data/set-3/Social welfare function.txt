@@ -1,0 +1,9 @@
+Mathematical economics~Social choice theory~Welfare economics~
+||||||
+Social welfare function
+||||||
+In welfare economics, a social welfare function is a function that ranks social states (alternative complete descriptions of the society) as less desirable, more desirable, or indifferent for every possible pair of social states.  Inputs of the function include any variables considered to affect the economic welfare of a society.  In using welfare measures of persons in the society as inputs, the social welfare function is individualistic in form.  One use of a social welfare function is to represent prospective patterns of collective choice as to alternative social states. The social welfare function provides the government with a simple guideline for achieving the optimal distribution of income.The social welfare function is analogous to the consumer theory of indifference-curve–budget constraint tangency for an individual, except that the social welfare function is a mapping of individual preferences or judgments of everyone in the society as to collective choices, which apply to all, whatever individual preferences are for (variable) constraints on factors of production.  One point of a social welfare function is to determine how close the analogy is to an ordinal utility function for an individual with at least minimal restrictions suggested by welfare economics, including constraints on the number of factors of production.
+There are two major distinct but related types of social welfare functions:
+
+A Bergson–Samuelson social welfare function considers welfare for a given set of individual preferences or welfare rankings.
+An Arrow social welfare function considers welfare across different possible sets of individual preferences or welfare rankings and seemingly reasonable axioms that constrain the function.

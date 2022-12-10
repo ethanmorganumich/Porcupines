@@ -1,0 +1,5 @@
+Electronics manufacturing~Laser applications~Metalworking~Soldering~
+||||||
+Soldering
+||||||
+Soldering (US: ; UK: ) is a process in which two or more items  are joined by melting and putting a filler metal (solder) into the joint, the filler metal having a lower melting point than the adjoining metal. Unlike welding, soldering does not involve melting the work pieces. In brazing, the work piece metal also does not melt, but the filler metal is one that melts at a higher temperature than in soldering. In the past, nearly all solders contained lead, but environmental and health concerns have increasingly dictated use of lead-free alloys for electronics and plumbing purposes.

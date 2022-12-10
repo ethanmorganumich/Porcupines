@@ -1,0 +1,5 @@
+Data transmission~
+||||||
+Tape relay
+||||||
+A tape relay is a method of retransmitting teletypewriter traffic from one communication channel to another, in which messages arriving on an incoming channel are recorded in the form of perforated tape, this punched tape then being either fed directly and automatically into an outgoing channel, or manually transferred to an automatic transmitter for transmission on an outgoing channel. Tape relay, sometimes informally called "torn tape operation", was commonplace during much of the 20th century.

@@ -1,0 +1,7 @@
+Radio~
+||||||
+Narrowband
+||||||
+Narrowband signals are signals that occupy a narrow range of frequencies or that have a small fractional bandwidth.  In the audio spectrum, narrowband sounds are sounds that occupy a narrow range of frequencies. In telephony, narrowband is usually considered to cover frequencies 300–3400 Hz, i.e. the voiceband.
+In radio communications, a narrowband channel is a channel in which the bandwidth of the message does not significantly exceed the channel's coherence bandwidth.
+In the study of wired channels, narrowband implies that the channel under consideration is sufficiently narrow that its frequency response can be considered flat. The message bandwidth will therefore be less than the coherence bandwidth of the channel. That is, no channel has perfectly flat fading, but the analysis of many aspects of wireless systems is greatly simplified if flat fading can be assumed.

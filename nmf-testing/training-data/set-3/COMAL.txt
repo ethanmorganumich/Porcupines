@@ -1,0 +1,6 @@
+Educational programming languages~Procedural programming languages~Programming languages~Programming languages created in 1973~Structured programming languages~
+||||||
+COMAL
+||||||
+COMAL (Common Algorithmic Language) is a computer programming language developed in Denmark by Børge R. Christensen and Benedict Løfstedt and originally released in 1975. COMAL was one of the few structured programming languages that was available for and comfortably usable on 8-bit home computers. It was based on the seminal BASIC programming language, adding multi-line statements and well-defined subroutines among other additions.
+"COMAL Kernel Syntax & Semantics" contains the formal definition of the language. Further extensions are common to many implementations.

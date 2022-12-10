@@ -1,0 +1,6 @@
+1969 introductions~Academic programming languages~Set theoretic programming languages~
+||||||
+SETL
+||||||
+SETL (SET Language) is a very high-level programming language based on the mathematical theory of sets.  It was originally developed by (Jack) Jacob T. Schwartz at the New York University (NYU) Courant Institute of Mathematical Sciences in the late 1960s.
+

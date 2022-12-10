@@ -1,0 +1,8 @@
+Architectural elements~Building engineering~Deep foundations~
+||||||
+Grade beam
+||||||
+A grade beam or grade beam footing is a component of a building's foundation. It consists of a reinforced concrete beam that transmits the load from a bearing wall into spaced foundations such as pile caps or caissons. It is used in conditions where the surface soil’s load-bearing capacity is less than the anticipated design loads.
+A grade beam differs from a wall footing because a grade beam is designed for bending and typically spans between pile caps or caissons, while a wall footing bears on soil and transmits the weight of the wall directly into the ground. It also differs from a strap beam because a grade beam is reinforced to distribute the weight of a wall to separate foundations, while a strap beam is designed to redistribute the weight of a column between footings.
+Grade beams may also be used in conjunction with spread footings, in a case with large moments from lateral loads, in order to reduce the size of each spread footing.
+

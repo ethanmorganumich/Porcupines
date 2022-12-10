@@ -1,0 +1,16 @@
+Bankruptcy~Law stubs~
+||||||
+Tools of trade
+||||||
+The tools of trade are items that are exempt from attachment under bankruptcy law or from seizure.
+The exemption exists in many jurisdictions.  For examples:
+
+In England, the Bankrupts (England) Act 1825 (6 Geo IV) included it in a short list of exemptions: "tools of trade, necessary household furniture, and the wearing apparel of himself, his wife and children".  The Bankruptcy Act 1883 and the Bankruptcy Act 1890 contained the same exception. The Bankruptcy Act 1914 contained an exception. The Insolvency Act 1986 that is nowadays applicable states "such tools, books, vehicles and other items of equipment as are necessary to the bankrupt for use personally by him in his employment, business or vocation".
+In Australia the Bankruptcy Act 1966 exempts the "ordinary tools of trade, plant and equipment […] ordinary professional instruments and professional reference books".
+All of the provinces of Canada have a tools of trade exemption in their various bankruptcy laws.
+In the United States, the Bankruptcy Code (USC 2) §522(f) exempts implements, professional books, and tools of the trade.All of these owe this exemption to the provisions for bankrupts that existed in English common law before it was codified by statute.What exactly constitute one's tools of trade comes down to case law, and the case law of the United States exemplifies how complex such case law often is.
+Farmers have claimed mechanical cream separators.
+A professional forest guide claimed his canoe as exempt, but was not allowed to claim his rifle.
+A car used only for commuting to work is not a tool of the trade, but a motor vehicle can be, including a farm tractor.
+Breeding stock can be, as can be a logging truck and trailer.
+However, some cases have limited the exemption to personal hand tools and not large machinery or power tools.

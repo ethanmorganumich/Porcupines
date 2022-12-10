@@ -1,0 +1,7 @@
+Fault-tolerant computer systems~Safety~
+||||||
+Fail-safe
+||||||
+In engineering, a fail-safe is a design feature or practice that in the event of a specific type of failure, inherently responds in a way that will cause minimal or no harm to other equipment, to the environment or to people. Unlike inherent safety to a particular hazard, a system being "fail-safe" does not mean that failure is impossible or improbable, but rather that the system's design prevents or mitigates unsafe consequences of the system's failure. That is, if and when a "fail-safe" system fails, it remains at least as safe as it was before the failure. Since many types of failure are possible, failure mode and effects analysis is used to examine failure situations and recommend safety design and procedures.
+Some systems can never be made fail-safe, as continuous availability is needed. Redundancy, fault tolerance, or contingency plans are used for these situations (e.g. multiple independently controlled and fuel-fed engines).
+

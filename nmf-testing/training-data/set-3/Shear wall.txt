@@ -1,0 +1,7 @@
+Construction~Earthquake engineering~Structural system~
+||||||
+Shear wall
+||||||
+In structural engineering, a shear wall is a vertical element of a system that is designed to resist in-plane lateral forces, typically wind and seismic loads. In many jurisdictions, the International Building Code and International Residential Code govern the design of shear walls.
+A shear wall resists loads parallel to the plane of the wall. Collectors, also known as drag members, transfer the diaphragm shear to shear walls and other vertical elements of the seismic force resisting system. Shear walls are typically light-framed or braced wooden walls with shear panels, reinforced concrete walls, reinforced masonry walls, or steel plates.
+Plywood is the conventional material used in wood (timber) shear walls, but with advances in technology and modern building methods, other prefabricated options have made it possible to inject shear assemblies into narrow walls that fall at either side of an opening. Sheet steel and steel-backed shear panels in the place of structural plywood in shear walls has proved to provide stronger seismic resistance.

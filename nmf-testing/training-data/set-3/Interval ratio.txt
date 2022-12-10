@@ -1,0 +1,9 @@
+Intervals (music)~Ratios~
+||||||
+Interval ratio
+||||||
+In music, an interval ratio is a ratio of the frequencies of the pitches in a musical interval. For example, a just perfect fifth (for example C to G) is 3:2 (Play ), 1.5, and may be approximated by an equal tempered perfect fifth (Play ) which is 27/12 (about 1.498). If the A above middle C is 440 Hz, the perfect fifth above it would be E, at (440*1.5=) 660 Hz, while the equal tempered E5 is 659.255 Hz. 
+Ratios, rather than direct frequency measurements, allow musicians to work with relative pitch measurements applicable to many instruments in an intuitive manner, whereas one rarely has the frequencies of fixed pitched instruments memorized and rarely has the capabilities to measure the changes of adjustable pitch instruments (electronic tuner). Ratios have an inverse relationship to string length, for example stopping a string at two-thirds (2:3) its length produces a pitch one and one-half (3:2) that of the open string (not to be confused with inversion).
+Intervals may be ranked by relative consonance and dissonance. As such ratios with lower integers are generally more consonant than intervals with higher integers. For example, 2:1 (Play ), 4:3 (Play ), 9:8 (Play ), 65536:59049 (Play ), etc.
+Consonance and dissonance may more subtly be defined by limit, wherein the ratios whose limit, which includes its integer multiples, is lower are generally more consonant. For example, the 3-limit 128:81 (Play ) and the 7-limit 14:9 (Play ). Despite having larger integers 128:81 is less dissonant than 14:9, as according to limit theory.
+For ease of comparison intervals may also be measured in cents, a logarithmic measurement. For example, the just perfect fifth is 701.955 cents while the equal tempered perfect fifth is 700 cents.

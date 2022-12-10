@@ -1,0 +1,5 @@
+Bioinformatics software~Biological databases~Biology websites~Internet search engines~Science and technology in Cambridgeshire~South Cambridgeshire District~
+||||||
+Bioinformatic Harvester
+||||||
+The Bioinformatic Harvester was a bioinformatic meta search engine created by the European Molecular Biology Laboratory and subsequently hosted and further developed by KIT Karlsruhe Institute of Technology for genes and protein-associated information. Harvester currently works for human, mouse, rat, zebrafish, drosophila and arabidopsis thaliana based information. Harvester cross-links >50 popular bioinformatic resources and allows cross searches. Harvester serves tens of thousands of pages every day to scientists and physicians. Since 2014 the service is down.

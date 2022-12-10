@@ -1,0 +1,5 @@
+Film and video technology~Picture aspect ratios~Ratios~
+||||||
+Aspect ratio (image)
+||||||
+The aspect ratio of an image is the ratio of its width to its height, and is expressed with two numbers separated by a colon, such as 16:9, sixteen-to-nine. For the x:y aspect ratio, the image is x units wide and y units high. Common aspect ratios are 1.85:1 and 2.39:1 in cinematography, 4:3 and 16:9 in television photography, and 3:2 in still photography.

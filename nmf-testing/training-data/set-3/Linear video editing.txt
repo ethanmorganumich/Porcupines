@@ -1,0 +1,9 @@
+Film and video technology~
+||||||
+Linear video editing
+||||||
+Linear video editing is a video editing post-production process of selecting, arranging and modifying images and sound in a predetermined, ordered sequence. Regardless of whether it was captured by a video camera, tapeless camcorder, or recorded in a television studio on a video tape recorder (VTR) the content must be accessed sequentially.For the most part video editing software has replaced linear editing. In the past, film editing was done in linear fashion, where film reels were literally cut into long strips divided by takes and scenes, and then glued or taped back together to create a logical sequence of film. Linear video editing is more time consuming and highly specialised and tedious work. Still, it is relevant today because of these reasons:
+
+The method is simple and inexpensive.
+Mandatory for some jobs: for example if only two sections of video clips are to be joined together in sequence it is often the quickest and easiest way.
+If video editors learn linear editing skills it increases their knowledge as well as versatility. According to many professional editors who learn linear editing skills first they tend to become proficient all-round editors.Until the advent of computer-based random access non-linear editing systems (NLE) in the early 1990s, linear video editing was simply called video editing.

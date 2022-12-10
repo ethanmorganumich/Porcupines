@@ -1,0 +1,8 @@
+Computer-aided manufacturing~Information technology management~Product lifecycle management~
+||||||
+Computer-aided manufacturing
+||||||
+Computer-aided manufacturing (CAM) also known as computer-aided modeling or computer-aided machining is the use of software to control machine tools in the manufacturing of work pieces. This is not the only definition for CAM, but it is the most common; CAM may also refer to the use of a computer to assist in all operations of a manufacturing plant, including planning, management, transportation and storage. Its primary purpose is to create a faster production process and components and tooling with more precise dimensions and material consistency, which in some cases, uses only the required amount of raw material (thus minimizing waste), while simultaneously reducing energy consumption.
+CAM is now a system used in schools and lower educational purposes.
+CAM is a subsequent computer-aided process after computer-aided design (CAD) and sometimes computer-aided engineering (CAE), as the model generated in CAD and verified in CAE can be input into CAM software, which then controls the machine tool. CAM is used in many schools alongside computer-aided design (CAD) to create objects.
+

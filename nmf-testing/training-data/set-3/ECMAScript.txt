@@ -1,0 +1,6 @@
+C programming language family~Computer standards~Computer-related introductions in 1997~Dynamically typed programming languages~Ecma standards~JavaScript dialect engines~JavaScript programming language family~Object-based programming languages~Programming languages with an ISO standard~Prototype-based programming languages~Scripting languages~Source-to-source compilers~
+||||||
+ECMAScript
+||||||
+ECMAScript (; ES) is a JavaScript standard intended to ensure the interoperability of web pages across different browsers. It is standardized by Ecma International in the document ECMA-262.
+ECMAScript is commonly used for client-side scripting on the World Wide Web, and it is increasingly being used for writing server-side applications and services using Node.js and other runtime environments.

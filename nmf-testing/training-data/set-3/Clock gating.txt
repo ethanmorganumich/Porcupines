@@ -1,0 +1,5 @@
+Clock signal~Electronic design automation~
+||||||
+Clock gating
+||||||
+Clock gating is a popular technique used in many synchronous circuits for reducing dynamic power dissipation, by removing the clock signal when the circuit is not in use or ignores clock signal. Clock gating saves power by pruning the clock tree, at the cost of adding more logic to a circuit. Pruning the clock disables portions of the circuitry so that the flip-flops in them do not have to switch states. Switching states consumes power. When not being switched, the switching power consumption goes to zero, and only leakage currents are incurred.Although asynchronous circuits by definition do not have a global "clock", the term perfect clock gating is used to illustrate how various clock gating techniques are simply approximations of the data-dependent behavior exhibited by asynchronous circuitry. As the granularity on which one gates the clock of a synchronous circuit approaches zero, the power consumption of that circuit approaches that of an asynchronous circuit: the circuit only generates logic transitions when it is actively computing.

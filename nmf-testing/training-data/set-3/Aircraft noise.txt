@@ -1,0 +1,10 @@
+Aircraft noise~Environment and health~Noise~Sound~
+||||||
+Aircraft noise pollution
+||||||
+Aircraft noise pollution refers to noise produced by aircraft in flight that has been associated with several negative stress-mediated health effects, from sleep disorders to cardiovascular ones. Governments have enacted extensive controls that apply to aircraft designers, manufacturers, and operators, resulting in improved procedures and cuts in pollution.
+Sound production is divided into three categories:
+
+Mechanical noise—rotation of the engine parts, most noticeable when fan blades reach supersonic speeds.
+Aerodynamic noise—from the airflow around the surfaces of the aircraft, especially when flying low at high speeds.
+Noise from aircraft systems—cockpit and cabin pressurization and conditioning systems, and Auxiliary Power units.

@@ -1,0 +1,7 @@
+Data transmission~Packets (information technology)~
+||||||
+Protocol data unit
+||||||
+In telecommunications, a protocol data unit (PDU) is a single unit of information transmitted among peer entities of a computer network. It is composed of protocol-specific control information and user data. In the layered architectures of communication protocol stacks, each layer implements protocols tailored to the specific type or mode of data exchange.
+For example, the Transmission Control Protocol (TCP) implements a connection-oriented transfer mode, and the PDU of this protocol is called a segment, while the User Datagram Protocol (UDP) uses datagrams as protocol data units for connectionless communication. A layer lower in the Internet protocol suite, at the Internet layer, the PDU is called a packet, irrespective of its payload type.
+

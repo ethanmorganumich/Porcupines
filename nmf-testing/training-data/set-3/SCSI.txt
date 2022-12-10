@@ -1,0 +1,6 @@
+Computer storage buses~Electrical communication interfaces~Logical communication interfaces~Macintosh internals~SCSI~
+||||||
+SCSI
+||||||
+Small Computer System Interface (SCSI,  SKUZ-ee) is a set of standards for physically connecting and transferring data between computers and peripheral devices. The SCSI standards define commands, protocols, electrical, optical and logical interfaces. The SCSI standard defines command sets for specific peripheral device types; the presence of "unknown" as one of these types means that in theory it can be used as an interface to almost any device, but the standard is highly pragmatic and addressed toward commercial requirements. The initial Parallel SCSI was most commonly used for hard disk drives and tape drives, but it can connect a wide range of other devices, including scanners and CD drives, although not all controllers can handle all devices.
+The ancestral SCSI standard, X3.131-1986, generally referred to as SCSI-1, was published by the X3T9 technical committee of the American National Standards Institute (ANSI) in 1986.  SCSI-2 was published in August 1990 as X3.T9.2/86-109, with further revisions in 1994 and subsequent adoption of a multitude of interfaces.  Further refinements have resulted in improvements in performance and support for ever-increasing data storage capacity.

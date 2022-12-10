@@ -1,0 +1,14 @@
+Primality tests~
+||||||
+Baillie–PSW primality test
+||||||
+The Baillie–PSW primality test is a probabilistic primality testing algorithm that determines whether a number is composite or is a probable prime. It is named after Robert Baillie, Carl Pomerance, John Selfridge, and Samuel Wagstaff.
+The Baillie–PSW test is a combination of a strong Fermat probable prime test to base 2 and a strong Lucas probable prime test. The Fermat and Lucas test each have their own list of pseudoprimes, that is, composite numbers that pass the test. For example, the first ten strong pseudoprimes to base 2 are
+
+2047, 3277, 4033, 4681, 8321, 15841, 29341, 42799, 49141, and 52633 (sequence A001262 in the OEIS).The first ten strong Lucas pseudoprimes (with Lucas parameters (P, Q) defined by Selfridge's Method A) are
+
+5459, 5777, 10877, 16109, 18971, 22499, 24569, 25199, 40309, and 58519 (sequence A217255 in the OEIS).There is no known overlap between these lists of strong Fermat pseudoprimes and strong Lucas pseudoprimes, and there is even evidence that the numbers in these lists tend to be different kinds of numbers. For example, Fermat pseudoprimes to base 2 tend to fall into the residue class 1 (mod m) for many small m, whereas Lucas pseudoprimes tend to fall into the residue class −1 (mod m).: §6 : Table 2 & §5  As a result, a number that passes both a strong Fermat and a strong Lucas test is very likely to be prime.
+No composite number below 264 (approximately 1.845·1019) passes the Baillie–PSW test. Consequently, this test is a deterministic primality test on numbers below that bound. There are also no known composite numbers above that bound that pass the test, in other words, there are no known Baillie–PSW pseudoprimes. Despite this, there are conjectured to be infinitely many.
+In 1980, the authors Pomerance, Selfridge, and Wagstaff offered $30 for the discovery of a counterexample, that is, a composite number that passed this test. Richard Guy incorrectly stated that the value of this prize had been raised to $620, but he was confusing the Lucas sequence with the Fibonacci sequence, and his remarks really apply only to a Conjecture of Selfridge's. As of June 2014 the prize remains unclaimed. However, a heuristic argument by Pomerance suggests that there are infinitely many counterexamples.
+Moreover, Chen and Greene
+have constructed a set S of 1248 primes such that, among the nearly 21248 products of distinct primes in S, there may be about 740 counterexamples. However, they are talking about the weaker PSW test that substitutes a Fibonacci test for the Lucas one.

@@ -1,0 +1,6 @@
+Directories~Internet search engines~Web portals~Website stubs~
+||||||
+Search.ch
+||||||
+search.ch is a search engine and web portal for Switzerland. It was founded in 1995  by Rudolf Räber and Bernhard Seefeld as a regional search engine. In the following years many other services were added, such as a phonebook in 1999 and a free SMS service in 2000 (now reduced to only one free SMS per week).
+The search technology is home grown. The user can restrict his search to regions of Switzerland, such as a canton or a city. The web crawler looks only at sites in the .ch and .li top-level domains and a number of automatically and manually updated list of Swiss websites on other domains. The index isv5 updated weekly.

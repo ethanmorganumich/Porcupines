@@ -1,0 +1,13 @@
+International taxation~Tax treaties~
+||||||
+Tax treaty
+||||||
+Many countries have entered into tax treaties (also called double tax agreements, or DTAs) with other countries to avoid or mitigate double taxation. Such treaties may cover a range of taxes including income taxes, inheritance taxes, value added taxes, or other taxes. Besides bilateral treaties, multilateral treaties are also in place. For example, European Union (EU) countries are parties to a multilateral agreement with respect to value added taxes under auspices of the EU, while a joint treaty on mutual administrative assistance of the Council of Europe and the Organisation for Economic Co-operation and Development (OECD) is open to all countries. Tax treaties tend to reduce taxes of one treaty country for residents of the other treaty country to reduce double taxation of the same income.
+The provisions and goals vary significantly, with very few tax treaties being alike.  Most treaties:
+
+define which taxes are covered and who is a resident and eligible for benefits,
+reduce the amounts of tax withheld from interest, dividends, and royalties paid by a resident of one country to residents of the other country,
+limit tax of one country on business income of a resident of the other country to that income from a permanent establishment in the first country,
+define circumstances in which income of individuals resident in one country will be taxed in the other country, including salary, self-employment, pension, and other income,
+provide for exemption of certain types of organizations or individuals, and
+provide procedural frameworks for enforcement and dispute resolution.The stated goals for entering into a treaty often include reduction of double taxation, eliminating tax evasion, and encouraging cross-border trade efficiency.  It is generally accepted that tax treaties improve certainty for taxpayers and tax authorities in their international dealings.Several governments and organizations use model treaties as starting points. Double taxation treaties generally follow the OECD Model Convention and the  official commentary and member comments thereon serve as a guidance as to interpretation by each member country. Other relevant models are the UN Model Convention, in the case of treaties with developing countries and the US Model Convention, in the case of treaties negotiated by the United States.

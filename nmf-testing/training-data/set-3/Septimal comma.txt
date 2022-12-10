@@ -1,0 +1,5 @@
+7-limit tuning and intervals~Commas (music)~Superparticular intervals~
+||||||
+Septimal comma
+||||||
+A septimal comma is a small musical interval in just intonation that contains the number seven in its prime factorization. There is more than one such interval, so the term septimal comma is ambiguous, but it most commonly refers to the interval 64/63 (27.26 cents).Use of septimal commas introduces new intervals that extend tuning beyond common-practice, extending music to the 7-limit, including the 7/6 septimal minor third, the 7/5 septimal tritone and the 8/7 septimal major second. Composers who made extensive use of these intervals include Harry Partch and Ben Johnston. Johnston uses a "7" as an accidental to indicate a note is lowered 49 cents, or an upside down seven ("ㄥ" or "") to indicate a note is raised 49 cents (36/35).

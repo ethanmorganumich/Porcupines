@@ -1,0 +1,7 @@
+Heuristics~Prospect theory~
+||||||
+Representativeness heuristic
+||||||
+The representativeness heuristic is used when making judgments about the probability of an event under uncertainty. It is one of a group of heuristics (simple rules governing judgment or decision-making) proposed by psychologists Amos Tversky and Daniel Kahneman in the early 1970s as "the degree to which [an event] (i) is similar in essential characteristics to its parent population, and (ii) reflects the salient features of the process by which it is generated".  
+Heuristics are described as "judgmental shortcuts that generally get us where we need to go – and quickly – but at the cost of occasionally sending us off course." Heuristics are useful because they use effort-reduction and simplification in decision-making.When people rely on representativeness to make judgments, they are likely to judge wrongly because the fact that something is more representative does not actually make it more likely. The representativeness heuristic is simply described as assessing similarity of objects and organizing them based around the category prototype (e.g., like goes with like, and causes and effects should resemble each other).
+This heuristic is used because it is an easy computation. The problem is that people overestimate its ability to accurately predict the likelihood of an event. Thus, it can result in neglect of relevant base rates and other cognitive biases.

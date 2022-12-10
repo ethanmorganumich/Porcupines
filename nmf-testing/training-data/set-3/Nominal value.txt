@@ -1,0 +1,6 @@
+Inflation~Valuation (finance)~
+||||||
+Real versus nominal value (economics)
+||||||
+In economics, nominal value is measured in terms of money, whereas real value is measured against goods or services. A real value is one which has been adjusted for inflation, enabling comparison of quantities as if the prices of goods had not changed on average; therefore, changes in real value exclude the effect of inflation. In contrast, a nominal value has not been adjusted for inflation, and so changes in nominal value reflect at least in part the effect of inflation but will not hold the same purchasing power.
+

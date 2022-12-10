@@ -1,0 +1,7 @@
+Analog circuits~Electronic filter topology~
+||||||
+RC circuit
+||||||
+A resistor–capacitor circuit (RC circuit), or RC filter or RC network, is an electric circuit composed of resistors and capacitors.  It may be driven by a voltage or current source and these will produce different responses. A first order RC circuit is composed of one resistor and one capacitor and is the simplest type of RC circuit.
+RC circuits can be used to filter a signal by blocking certain frequencies and passing others. The two most common RC filters are  the high-pass filters and low-pass filters; band-pass filters and band-stop filters usually require RLC filters, though crude ones can be made with RC filters.
+

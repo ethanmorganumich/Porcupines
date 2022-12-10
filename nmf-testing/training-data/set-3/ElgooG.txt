@@ -1,0 +1,5 @@
+Google Search~Google stubs~Internet censorship in China~Internet search engines~
+||||||
+ElgooG
+||||||
+elgooG (the word Google spelled backwards) is a mirrored website of Google Search with horizontally flipped search results, also known as a "Google mirror". It was created by All Too Flat "for fun", which started to gain popularity in 2002. ElgooG found practical use in mainland China after the domestic banning of Google, circumventing the Great Firewall, but it no longer works. A WHOIS request shows that the domain "elgoog.com" was registered to Google LLC since 2000, but it is currently for sale. The site has since migrated to the domain "elgoog.im".

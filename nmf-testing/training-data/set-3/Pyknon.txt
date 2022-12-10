@@ -1,0 +1,5 @@
+Ancient Greek music theory~Greek music~Musical scales~
+||||||
+Pyknon
+||||||
+Pyknon (from Greek: πυκνόν), sometimes also transliterated as pycnon (from Greek: πυκνός close, close-packed, crowded, condensed; Latin: spissus) in the music theory of Antiquity is a structural property of any tetrachord in which a composite of two smaller intervals is less than the remaining (incomposite) interval. The makeup of the pyknon serves to identify the melodic genus (also called "genus of a tetrachord") and the octave species made by compounding two such tetrachords, and the rules governing the ways in which such compounds may be made centre on the relationships of the two pykna involved.

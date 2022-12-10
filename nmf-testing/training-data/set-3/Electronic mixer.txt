@@ -1,0 +1,8 @@
+Analog circuits~Audio mixing~
+||||||
+Electronic mixer
+||||||
+An electronic mixer is a device that combines two or more electrical or electronic signals into one or two composite output signals. There are two basic circuits that both use the term mixer, but they are very different types of circuits: additive mixers and multiplicative mixers. Additive mixers are also known as analog adders to distinguish from the related digital adder circuits.
+Simple additive mixers use Kirchhoff's circuit laws to add the currents of two or more signals together, and this terminology ("mixer") is only used in the realm of audio electronics where audio mixers are used to add together audio signals such as voice signals, music signals, and sound effects.
+Multiplicative mixers multiply  together two time-varying input signals instantaneously (instant-by-instant).  If the two input signals are both sinusoids of specified frequencies f1 and f2, then the output of the mixer will contain two new sinusoids that have the sum f1 + f2 frequency and the difference frequency absolute value |f1 -  f2|.
+Any nonlinear electronic block driven by two signals with frequencies f1 and f2 would generate intermodulation (mixing) products. A multiplier (which is a nonlinear device) will generate ideally only the sum and difference frequencies, whereas an arbitrary nonlinear block will also generate signals at 2·f1-3·f2, etc. Therefore, normal nonlinear amplifiers or just single diodes have been used as mixers, instead of a more complex multiplier. A multiplier usually has the advantage of rejecting – at least partly – undesired higher-order intermodulations and larger conversion gain.

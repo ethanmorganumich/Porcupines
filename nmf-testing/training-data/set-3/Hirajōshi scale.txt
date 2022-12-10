@@ -1,0 +1,7 @@
+Hemitonic scales~Japan music stubs~Japanese music~Pentatonic scales~Tritonic scales~
+||||||
+Hirajōshi scale
+||||||
+Hirajōshi scale, or hira-choshi (Japanese: 平調子, Hepburn: hirachōshi, chōshi = tuning and hira = even, level, tranquil, standard or regular) is a tuning scale adapted from shamisen music by Yatsuhashi Kengyō for tuning of the koto. "The hirajoshi, kumoijoshi, and kokinjoshi 'scales' are Western derivations of the koto tunings of the same names. These scales have been used by rock and jazz guitarists in search of 'new' sounds."Burrows gives C-E-F♯-G-B. Sachs, as well as Slonimsky, give C-D♭-F-G♭-B♭. Speed and Kostka & Payne give C-D-E♭-G-A♭. Note that all are hemitonic pentatonic scales (five note scales with one or more semitones) and are different modes of the same pattern of intervals, 2-1-4-1-4 semitones. Peter Sculthorpe's Earth Cry uses the Hirajoshi mode as a tonal centre of the work. 
+The five modes of hirajoshi can also be derived as subsets of the Ionian, Phrygian, Lydian, Aeolian, and Locrian modes.
+Synonymous scales have different names per region of Japan, as well as according to several ethnomusicologists and researchers, which may lead to some confusion. For example, the Iwato scale bears the same intervals as Slonimsky's concept of the Hirajoshi scale, and is also the fourth mode of the In scale. The same scale given by Kostka & Payne matches the third mode of the In scale.

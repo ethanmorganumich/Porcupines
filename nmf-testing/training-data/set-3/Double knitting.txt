@@ -1,0 +1,21 @@
+Knitting~
+||||||
+Double knitting
+||||||
+Double knitting is a form of hand knitting in which two fabrics are knitted simultaneously on one pair of needles.  The fabrics may be inseparable, as in interlock knitted fabrics, or they can simply be two unconnected fabrics.  In principle, an arbitrary number 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   of fabrics can be knitted simultaneously on one pair of knitting needles with 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   yarns, as long as one is careful.

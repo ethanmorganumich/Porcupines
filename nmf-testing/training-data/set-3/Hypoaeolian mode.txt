@@ -1,0 +1,5 @@
+Modes (music)~
+||||||
+Hypoaeolian mode
+||||||
+The Hypoaeolian mode, literally meaning "below Aeolian", is the name assigned by Henricus Glareanus in his Dodecachordon (1547) to the musical plagal mode on A, which uses the diatonic octave species from E to the E an octave above, divided by the final into a second-species fourth (semitone–tone–tone) plus a first-species fifth (tone–semitone–tone–tone): E F G A + A B C D E. The tenor or reciting tone is C, mediant B, the participants are the low and high Es, the conceded modulations are G and D, and the absolute initials are E, G, A, B, and C.For his plainchant examples Glarean proposed two important and well-known Gregorian melodies normally written with their finals on A: the antiphon Benedicta tu in mulieribus (traditionally designated as transposed Hypophrygian) and the gradual Haec dies—Justus ut palma (traditionally designated as transposed Hypodorian).A polyphonic example of the Hypoaeolian mode is motet 19 from Palestrina's Liber quartus of five-voice motets on the Song of Solomon.

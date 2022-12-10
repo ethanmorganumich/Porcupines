@@ -1,0 +1,6 @@
+Classification algorithms~Inductive reasoning~Reasoning~
+||||||
+Case-based reasoning
+||||||
+In artificial intelligence and philosophy, case-based reasoning (CBR), broadly construed, is the process of solving new problems based on the solutions of similar past problems.In everyday life, an auto mechanic who fixes an engine by recalling another car that exhibited similar symptoms is using case-based reasoning. A lawyer who advocates a particular outcome in a trial based on legal precedents or a judge who creates case law is using case-based reasoning. So, too, an engineer copying working elements of nature (practicing biomimicry), is treating nature as a database of solutions to problems. Case-based reasoning is a prominent type of analogy solution making.
+It has been argued that case-based reasoning is not only a powerful method for computer reasoning, but also a pervasive behavior in everyday human problem solving; or, more radically, that all reasoning is based on past cases personally experienced. This view is related to prototype theory, which is most deeply explored in cognitive science.

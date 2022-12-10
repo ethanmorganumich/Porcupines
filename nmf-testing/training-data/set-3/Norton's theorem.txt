@@ -1,0 +1,11 @@
+Circuit theorems~Linear electronic circuits~
+||||||
+Norton's theorem
+||||||
+In direct-current circuit theory, Norton's theorem, also called the Mayer–Norton theorem, is a simplification that can be applied to networks made of linear time-invariant resistances, voltage sources, and current sources. At a pair of terminals of the network, it can be replaced by a current source and a single resistor in parallel. 
+For alternating current (AC) systems the theorem can be applied to reactive impedances as well as resistances.
+The Norton equivalent circuit is used to represent any network of linear sources and impedances at a given frequency.
+Norton's theorem and its dual, Thévenin's theorem, are widely used for circuit analysis simplification and to study circuit's initial-condition and steady-state response.
+Norton's theorem was independently derived in 1926 by Siemens & Halske researcher Hans Ferdinand Mayer (1895–1980) and Bell Labs engineer Edward Lawry Norton (1898–1983).To find the equivalent, the Norton current Ino is calculated as the current flowing at the terminals into a short circuit  (zero  resistance between A and B). This is Ino. The Norton resistance Rno is found by calculating the output voltage produced with no resistance connected at the terminals; equivalently, this is the resistance between the terminals with all (independent) voltage sources short-circuited and independent current sources open-circuited. This is equivalent to calculating the Thevenin resistance.
+
+When there are dependent sources, the more general method must be used. The voltage at the terminals is calculated for an injection of a 1 Amp test current at the terminals. This voltage divided by the 1 A current is the Norton impedance Rno. This method must be used if the circuit contains dependent sources, but it can be used in all cases even when there are no dependent sources.

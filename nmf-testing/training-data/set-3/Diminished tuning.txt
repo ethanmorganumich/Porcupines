@@ -1,0 +1,10 @@
+Music theory stubs~Musical tuning~
+||||||
+Diminished tuning
+||||||
+Diminished tuning is a system of choosing the reeds for a diatonic wind instrument (such as a harmonica or accordion) in which the blow notes repeat a sequence of
+
+C E♭ F♯ Aand draw notes follow a repeating sequence of
+
+D F G♯ B(perhaps shifted to begin with E♭ and F, with F♯ and G♯, or with A and B).
+For example:

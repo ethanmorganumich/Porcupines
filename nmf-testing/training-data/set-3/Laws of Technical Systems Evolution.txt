@@ -1,0 +1,6 @@
+Systems theory~TRIZ~Technology forecasting~
+||||||
+Laws of technical systems evolution
+||||||
+The laws of technical systems evolution are the most general evolution trends for technical systems discovered by TRIZ author G. S. Altshuller after reviewing thousands USSR invention authorship certificates and foreign patent abstracts.
+Altshuller studied the way technical systems have been invented, developed and improved over time. He discovered several evolutionary trends that help engineers to anticipate improvements that are most likely to make it advantageous. Convergence to ideality is the most important of these laws. There are two concepts of ideality: ideality as a leading pathway of a technical system's evolution, and ideality as a synonym of "ideal final result", which is one of the basic TRIZ concepts.

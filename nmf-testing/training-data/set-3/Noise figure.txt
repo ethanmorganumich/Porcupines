@@ -1,0 +1,7 @@
+Acoustics~Noise (electronics)~Radar signal processing~Sound~
+||||||
+Noise figure
+||||||
+Noise figure (NF) and noise factor (F) are figures of merit that indicate degradation of the signal-to-noise ratio (SNR) that is caused by components in a signal chain. These figures of merit are used to evaluate the performance of an amplifier or a radio receiver, with lower values indicating better performance.
+The noise factor is defined as the ratio of the output noise power of a device to the portion thereof attributable to thermal noise in the input termination at standard noise temperature T0 (usually 290 K). The noise factor is thus the ratio of actual output noise to that which would remain if the device itself did not introduce noise, or the ratio of input SNR to output SNR.
+The noise factor and noise figure are related, with the former being a unitless ratio and the latter being the same ratio but expressed in units of decibels (dB).

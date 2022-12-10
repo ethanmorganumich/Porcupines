@@ -1,0 +1,5 @@
+ALGOL 60 dialect~Programming language topic stubs~
+||||||
+ABC ALGOL
+||||||
+ABC ALGOL is an extension of the programming language ALGOL 60 with arbitrary data structures and user-defined operators, intended for computer algebra (symbolic mathematics). Despite its advances, it was never used as widely as Algol proper.

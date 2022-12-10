@@ -1,0 +1,6 @@
+History of the telephone~Military communications of the United States~Teletraffic~
+||||||
+Autovon
+||||||
+The Automatic Voice Network (AUTOVON, military designation 490-L) was a worldwide American military telephone system. The system was built starting in 1963, based on the Army's existing Switch Communications Automated Network (SCAN) system. 
+In June 1966 the Air Defense Command voice network was cut over to the new service. In 1969, AUTOVON switching centers opened in the United Kingdom, and later in other European countries, Asia, the Middle East, and Panama. It was a major part of the Defense Communications System (DCS), providing non-secure switched voice services. The system was replaced in the early 1990s by the Defense Switched Network.

@@ -1,0 +1,57 @@
+Fractal curves~
+||||||
+Hilbert curve
+||||||
+The Hilbert curve (also known as the Hilbert space-filling curve) is a continuous fractal space-filling curve first described by the German mathematician David Hilbert in 1891, as a variant of the space-filling Peano curves discovered by Giuseppe Peano in 1890.Because it is space-filling, its Hausdorff dimension is 2 (precisely, its image is the unit square, whose dimension is 2 in any definition of dimension; its graph is a compact set homeomorphic to the closed unit interval, with Hausdorff dimension 2).
+The Hilbert curve is constructed as a limit of piecewise linear curves. The length of the 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  th curve is 
+  
+    
+      
+        
+          
+            2
+            
+              n
+            
+          
+          −
+          
+            
+              1
+              
+                2
+                
+                  n
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle 2^{n}-{1 \over 2^{n}}}
+  , i.e., the length grows exponentially with 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , even though each curve is contained in a square with area 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  .

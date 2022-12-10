@@ -1,0 +1,11 @@
+Minor scales~Musical keys~
+||||||
+D-flat minor
+||||||
+D-flat minor is a theoretical key based on D♭, consisting of the pitches D♭, E♭, F♭, G♭, A♭, B♭♭, and C♭. Its key signature has six flats and one double flat. Its relative major is F-flat major, which is usually replaced by E major. Its parallel major is D-flat major, and its direct enharmonic equivalent, C-sharp minor, is normally used.
+The D-flat natural minor scale is:
+
+Changes needed for the melodic and harmonic versions of the scale are written in with accidentals as necessary. The D-flat harmonic minor and melodic minor scales are:
+
+D-flat minor is usually notated as the enharmonic key of C-sharp minor, as in the second and third measures of Amy Beach's Canticle of the Sun. However, unusually, two of Verdi's most well-known operas, La traviata and Rigoletto, both end in D-flat minor (although written with the five-flat key signature of the parallel major). Mahler's thematic motif "der kleine Appell" ("call to order") from his Fourth and Fifth Symphonies uses both notations: in his Symphony No. 4 (first movement) it is in D-flat minor, but in his Symphony No. 5 it is in C-sharp minor. In the Adagio of his Symphony No. 9, a solo bassoon interpolation following the main theme appears first in D-flat minor, returning twice more notated in C-sharp minor. Likewise, in the Adagio of Bruckner's Symphony No. 8, phrases that are tonally in D-flat minor are notated as C-sharp minor.
+

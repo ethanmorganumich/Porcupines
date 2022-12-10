@@ -1,0 +1,222 @@
+Graph families~
+||||||
+Dense graph
+||||||
+In mathematics, a dense graph is a graph in which the number of edges is close to the maximal number of edges (where every pair of vertices is connected by one edge). The opposite, a graph with only a few edges, is a sparse graph. The distinction of what constitutes a dense or sparse graph is ill-defined, and depends on context.
+The graph density of simple graphs is defined to be the ratio of the number of edges |E| with respect to the maximum possible edges.
+For undirected simple graphs, the graph density is:
+
+  
+    
+      
+        D
+        =
+        
+          
+            
+              
+                |
+              
+              E
+              
+                |
+              
+            
+            
+              
+                (
+              
+              
+                
+                  
+                    |
+                  
+                  V
+                  
+                    |
+                  
+                
+                2
+              
+              
+                )
+              
+            
+          
+        
+        =
+        
+          
+            
+              2
+              
+                |
+              
+              E
+              
+                |
+              
+            
+            
+              
+                |
+              
+              V
+              
+                |
+              
+              (
+              
+                |
+              
+              V
+              
+                |
+              
+              −
+              1
+              )
+            
+          
+        
+      
+    
+    {\displaystyle D={\frac {|E|}{\binom {|V|}{2}}}={\frac {2|E|}{|V|(|V|-1)}}}
+  For directed, simple graphs, the maximum possible edges is twice that of undirected graphs (as there are two directions to an edge) so the density is:
+
+  
+    
+      
+        D
+        =
+        
+          
+            
+              
+                |
+              
+              E
+              
+                |
+              
+            
+            
+              2
+              
+                
+                  
+                    (
+                  
+                  
+                    
+                      
+                        |
+                      
+                      V
+                      
+                        |
+                      
+                    
+                    2
+                  
+                  
+                    )
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              E
+              
+                |
+              
+            
+            
+              
+                |
+              
+              V
+              
+                |
+              
+              (
+              
+                |
+              
+              V
+              
+                |
+              
+              −
+              1
+              )
+            
+          
+        
+      
+    
+    {\displaystyle D={\frac {|E|}{2{\binom {|V|}{2}}}}={\frac {|E|}{|V|(|V|-1)}}}
+  where E is the number of edges and V is the number of vertices in the graph. The maximum number of edges for an undirected graph is 
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              
+                
+                  |
+                
+                V
+                
+                  |
+                
+              
+              2
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              V
+              
+                |
+              
+              (
+              
+                |
+              
+              V
+              
+                |
+              
+              −
+              1
+              )
+            
+            2
+          
+        
+      
+    
+    {\displaystyle {\binom {|V|}{2}}={\frac {|V|(|V|-1)}{2}}}
+  , so the maximal density is 1 (for complete graphs) and the minimal density is 0 (Coleman & Moré 1983).

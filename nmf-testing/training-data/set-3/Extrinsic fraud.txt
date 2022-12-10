@@ -1,0 +1,14 @@
+Contract law~Family law~Fraud~Judicial remedies~Lawsuits~
+||||||
+Extrinsic fraud
+||||||
+Extrinsic fraud is fraud that induces one not to present a case in court or deprives one of the opportunity to be heard or is not involved in the actual issues. More broadly, it is defined as:
+
+fraudulent acts which keep a person from obtaining information about his/her rights to enforce a contract or getting evidence to defend against a lawsuit. This could include destroying evidence or misleading an ignorant person about the right to sue. Extrinsic fraud is distinguished from intrinsic fraud, which is the fraud that is the subject of a lawsuit.
+Extrinsic fraud often involves fraud on the court, but may arise in other contexts. Extrinsic fraud does not mean merely lying or perjury, nor misrepresentations, nor intrinsic fraud, nor "to matters that could have been raised during the divorce proceeding."  It must involve "collateral ... circumstances" such as:
+
+"bribery of a judge or juror,"
+"fabrication of evidence by an attorney,"
+"preventing another party's witness from appearing,"
+"intentionally failing to join a necessary party," or
+"misleading another party into thinking a continuance had been granted...."The U.S. Supreme Court distinguished extrinsic fraud from intrinsic fraud in the 1878 case United States v. Throckmorton. Where, "by reason of something done by the successful party to a suit, there was in fact no adversary trial or decision of the issue in the case", an unsuccessful litigant is entitled to equitable relief from the judgement thus obtained, or a new trial if the fraud prevented that from happening.

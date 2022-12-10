@@ -1,0 +1,6 @@
+Discipline-oriented digital libraries~Full-text scholarly online databases~Internet search engines~Open access projects~Scientific organisations based in Switzerland~Swiss digital libraries~
+||||||
+ScientificCommons
+||||||
+ScientificCommons was a project of the University of St. Gallen Institute for Media and Communications Management. The major aim of the project was to develop the world’s largest archive of scientific knowledge with fulltexts freely accessible to the public. The project was closed down in 2014.ScientificCommons included a search engine for publications and author profiles. It also allowed the user to turn searches into customized RSS feeds of new publications. ScientificCommons also provided a fulltext caching service for researchers.
+Starting from the beginning of 2013, ScientificCommons has been inaccessible. All visitors were forwarded to an administration login for server virtualization management software Proxmox VE and the site is no longer issuing a valid TLS certificate.

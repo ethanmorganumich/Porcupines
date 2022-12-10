@@ -1,0 +1,6 @@
+Chip carriers~
+||||||
+Ball grid array
+||||||
+A ball grid array (BGA) is a type of surface-mount packaging (a chip carrier) used for integrated circuits. BGA packages are used to permanently mount devices such as microprocessors. A BGA can provide more interconnection pins than can be put on a dual in-line or flat package. The whole bottom surface of the device can be used, instead of just the perimeter. The traces connecting the package's leads to the wires or balls which connect the die to package are also on average shorter than with a perimeter-only type, leading to better performance at high speeds.BGAs were introduced in the 1990s and became popular by 2001.Soldering of BGA devices requires precise control and is usually done by automated processes such as in computer-controlled automatic reflow ovens.
+

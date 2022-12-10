@@ -1,0 +1,7 @@
+History of television~ITU-R recommendations~Television terminology~Television transmission standards~Video formats~Video signal~
+||||||
+NTSC
+||||||
+The first American standard for analog television broadcast was developed by National Television System Committee (NTSC) in 1941. In 1961, it was assigned the designation System M.
+In 1953, a second NTSC standard was adopted, which allowed for color television broadcast compatible with the existing stock of black-and-white receivers. It is one of three major color formats for analog television, the others being PAL and SECAM. NTSC color is usually associated with the System M. The only other broadcast television system to use NTSC color was the System J.
+Since the introduction of digital sources (ex: DVD) the term "NTSC" might be used to refer to digital formats with number of active lines between 480 and 487 having 30 or 29.97 frames per second rate. This borrowed term should not be confused with the analog color system itself.

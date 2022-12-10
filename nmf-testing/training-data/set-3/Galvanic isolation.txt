@@ -1,0 +1,6 @@
+Electricity concepts~Electronic circuits~
+||||||
+Galvanic isolation
+||||||
+Galvanic isolation is a principle of isolating functional sections of electrical systems to prevent current flow; no direct conduction path is permitted. Energy or information can still be exchanged between the sections by other means, such as capacitive, inductive, radiative, optical, acoustic or mechanical.
+Galvanic isolation is used where two or more electric circuits must communicate, but their grounds may be at different potentials. It is an effective method of breaking ground loops by preventing unwanted current from flowing between two units sharing a ground conductor. Galvanic isolation is also used for safety, preventing accidental electric shocks.

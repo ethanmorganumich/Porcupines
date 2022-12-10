@@ -1,0 +1,11 @@
+Euclidean symmetries~Lie groups~Linear algebraic groups~Quadratic forms~
+||||||
+Orthogonal group
+||||||
+In mathematics, the orthogonal group in dimension n, denoted O(n), is the group of distance-preserving transformations of a Euclidean space of dimension n that preserve a fixed point, where the group operation is given by composing transformations. The orthogonal group is sometimes called the general orthogonal group, by analogy with the general linear group. Equivalently, it is the group of n×n orthogonal matrices, where the group operation is given by matrix multiplication (an orthogonal matrix is a real matrix whose inverse equals its transpose). The orthogonal group is an algebraic group and a Lie group. It is compact.
+The orthogonal group in dimension n has two connected components. The one that contains the identity element is a normal subgroup, called the special orthogonal group, and denoted SO(n). It consists of all orthogonal matrices of determinant 1. This group is also called the rotation group, generalizing the fact that in dimensions 2 and 3, its elements are the usual rotations around a point (in dimension 2) or a line (in dimension 3). In low dimension, these groups have been widely studied, see SO(2), SO(3) and SO(4). The other component consists of all orthogonal matrices of determinant –1.  This component does not form a group, as the product of any two of its elements is of determinant 1, and therefore not an element of the component.
+By extension, for any field F, an n×n matrix with entries in F such that its inverse equals its transpose is called an orthogonal matrix over F. The n×n orthogonal
+matrices form a subgroup, denoted O(n, F), of the general linear group GL(n, F); that is 
+
+More generally, given a non-degenerate symmetric bilinear form or quadratic form on a vector space over a field, the orthogonal group of the form is the group of invertible linear maps that preserve the form. The preceding orthogonal groups are the special case where, on some basis, the bilinear form is the dot product, or, equivalently, the quadratic form is the sum of the square of the coordinates.
+All orthogonal groups are algebraic groups, since the condition of preserving a form can be expressed as an equality of matrices.

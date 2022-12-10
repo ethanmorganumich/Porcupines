@@ -1,0 +1,5 @@
+Anti-aliasing algorithms~
+||||||
+Xiaolin Wu's line algorithm
+||||||
+Xiaolin Wu's line algorithm is an algorithm for line antialiasing.

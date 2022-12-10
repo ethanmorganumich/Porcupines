@@ -1,0 +1,8 @@
+Note values~
+||||||
+Half note
+||||||
+In music, a half note (American) or minim (British) is a note played for half the duration of a whole note (or semibreve) and twice the duration of a quarter note (or crotchet). It was given its Latin name (minima, meaning "least or smallest") because it was the shortest of the five note values used in early medieval music notation. 
+Half notes are notated with a hollow oval notehead like a whole note and straight note stem with no flags like a quarter note (see Figure 1). The half rest (or minim rest) denotes a silence of the same duration. Half rests are drawn as filled-in rectangles sitting on top of the middle line of the musical staff, although in polyphonic music the rest may need to be moved to a different line or even a ledger line. As with all notes with stems, half notes are drawn with upward stems on the right when they are below the middle line of the staff and downward stems on the left when they are on or above the middle line. In vocal music, notes on the middle line have a downward stem instead of an upward stem.
+The American term half note is a 19th-century loan translation of German halbe Note.
+The Catalan, French, and Spanish names (blanca, blanche, meaning "white") derive from the fact that the minima was the shortest unfilled note in mensural white notation, which is true of the modern form as well. The form in the earlier black notation resembles the modern quarter note (crotchet). The Greek, Chinese, Japanese, and Korean names mean "half", and in Greek, the modern word (miso – μισό) and older (imisi – ήμισι) are used.

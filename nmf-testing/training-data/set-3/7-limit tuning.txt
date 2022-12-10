@@ -1,0 +1,9 @@
+7-limit tuning and intervals~
+||||||
+7-limit tuning
+||||||
+7-limit or septimal tunings and intervals are musical instrument tunings that have a limit of seven: the largest prime factor contained in the interval ratios between pitches is seven. Thus, for example, 50:49 is a 7-limit interval, but 14:11 is not.
+For example, the greater just minor seventh, 9:5 (Play ) is a 5-limit ratio, the harmonic seventh has the ratio 7:4 and is thus a septimal interval. Similarly, the septimal chromatic semitone, 21:20, is a septimal interval as 21÷7=3. The harmonic seventh is used in the barbershop seventh chord and music. (Play) Compositions with septimal tunings include La Monte Young's The Well-Tuned Piano, Ben Johnston's String Quartet No. 4, Lou Harrison's Incidental Music for Corneille's Cinna, and Michael Harrison's Revelation: Music in Pure Intonation.
+The Great Highland bagpipe is tuned to a ten-note seven-limit scale: 1:1, 9:8, 5:4, 4:3, 27:20, 3:2, 5:3, 7:4, 16:9, 9:5.
+In the 2nd century Ptolemy described the septimal intervals: 7/4, 8/7, 7/6, 12/7, 7/5, and 10/7.
+Those considering 7 to be consonant include Marin Mersenne, Giuseppe Tartini, Leonhard Euler, François-Joseph Fétis, J. A. Serre, Moritz Hauptmann, Alexander John Ellis, Wilfred Perrett, Max Friedrich Meyer. Those considering 7 to be dissonant include Gioseffo Zarlino, René Descartes, Jean-Philippe Rameau, Hermann von Helmholtz, Arthur von Oettingen, Hugo Riemann, Colin Brown, and Paul Hindemith ("chaos").

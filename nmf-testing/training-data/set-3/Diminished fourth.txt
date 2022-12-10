@@ -1,0 +1,6 @@
+Diminished intervals~Fourths (music)~Music theory stubs~
+||||||
+Diminished fourth
+||||||
+In classical music from Western culture, a diminished fourth (Play ) is an interval produced by narrowing a perfect fourth by a chromatic semitone. For example, the interval from C to F is a perfect fourth, five semitones wide, and both the intervals from C♯ to F, and from C to F♭ are diminished fourths, spanning four semitones. Being diminished, it is considered a dissonant interval.A diminished fourth is enharmonically equivalent to a major third; that is, it spans the same number of semitones, and they are physically the same pitch in twelve-tone equal temperament. For example, B–D♯ is a major third; but if the same pitches are spelled B and E♭, as occurs in the C harmonic minor scale, the interval is instead a diminished fourth. In other tunings, however, they are not necessarily identical. For example, in 31 equal temperament the diminished fourth is slightly wider than a major third, and is instead the same width as the septimal major third. The Pythagorean diminished fourth (F♭--, 8192:6561 = 384.36 cents), also known as the schismatic major third, is closer to the just major third than the Pythagorean major third.
+The 32:25 just diminished fourth arises in the C harmonic minor scale between B and E♭. Play

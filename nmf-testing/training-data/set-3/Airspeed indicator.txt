@@ -1,0 +1,5 @@
+Aircraft instruments~Airspeed~Measuring instruments~Speed sensors~
+||||||
+Airspeed indicator
+||||||
+The airspeed indicator (ASI) or airspeed gauge is a flight instrument indicating the airspeed of an aircraft in kilometers per hour (km/h), knots (kn), miles per hour (MPH) and/or meters per second (m/s). The recommendation by ICAO is to use km/h, however knots is currently the most used unit. The ASI measures the pressure differential between static pressure from the static port, and total pressure from the pitot tube.  This difference in pressure is registered with the ASI pointer on the face of the instrument.

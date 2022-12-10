@@ -1,0 +1,6 @@
+Hexatonic scales~Musical scales~Tritones~
+||||||
+Hexatonic scale
+||||||
+In music and music theory, a hexatonic scale is a scale with six pitches or notes per octave. Famous examples include the whole-tone scale, C D E F♯ G♯ A♯ C; the augmented scale, C D♯ E G A♭ B C; the Prometheus scale, C D E F♯ A B♭ C; and the blues scale, C E♭ F G♭ G B♭ C. A hexatonic scale can also be formed by stacking perfect fifths. This results in a diatonic scale with one note removed (for example, A C D E F G).
+

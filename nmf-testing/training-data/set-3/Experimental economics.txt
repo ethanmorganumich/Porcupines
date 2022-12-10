@@ -1,0 +1,5 @@
+Experimental economics~Mathematical and quantitative methods (economics)~Social science experiments~
+||||||
+Experimental economics
+||||||
+Experimental economics is the application of experimental methods to study economic questions. Data collected in experiments are used to estimate effect size, test the validity of economic theories, and illuminate market mechanisms. Economic experiments usually use cash to motivate subjects, in order to mimic real-world incentives. Experiments are used to help understand how and why markets and other exchange systems function as they do. Experimental economics have also expanded to understand institutions and the law (experimental law and economics).A fundamental aspect of the subject is design of experiments.  Experiments may be conducted in the field or in laboratory settings, whether of individual or group behavior.Variants of the subject outside such formal confines include natural and quasi-natural experiments.

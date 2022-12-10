@@ -1,0 +1,94 @@
+Matrices~
+||||||
+Square matrix
+||||||
+In mathematics, a square matrix is a matrix with the same number of rows and columns. An n-by-n matrix is known as a square matrix of order 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  . Any two square matrices of the same order can be added and multiplied. 
+Square matrices are often used to represent simple linear transformations, such as shearing or rotation. For example, if 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   is a square matrix representing a rotation (rotation matrix) and 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   is a column vector describing the position of a point in space, the product 
+  
+    
+      
+        R
+        
+          v
+        
+      
+    
+    {\displaystyle R\mathbf {v} }
+   yields another column vector describing the position of that point after that rotation. If 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   is a row vector, the same transformation can be obtained using 
+  
+    
+      
+        
+          v
+        
+        
+          R
+          
+            
+              T
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} R^{\mathsf {T}}}
+  , where 
+  
+    
+      
+        
+          R
+          
+            
+              T
+            
+          
+        
+      
+    
+    {\displaystyle R^{\mathsf {T}}}
+   is the transpose of 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  .

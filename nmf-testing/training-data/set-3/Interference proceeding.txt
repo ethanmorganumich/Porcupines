@@ -1,0 +1,6 @@
+United States patent law~
+||||||
+Interference proceeding
+||||||
+An interference proceeding, also known as a priority contest, is an inter partes proceeding to determine the priority issues of multiple patent applications. It is a proceeding unique to the patent law of the United States. Unlike in most other countries, which have long had a first-to-file system, until the enactment of the Leahy-Smith America Invents Act (AIA) in 2011, the United States operated under a first-to-invent. The interference proceeding determines which of several patent applications had been made by the first inventor.
+The AIA switched the US to a first-to-file regime effective March 16, 2013, and interferences apply only to patent applications with an effective filing date prior to that change.

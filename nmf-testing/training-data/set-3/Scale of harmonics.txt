@@ -1,0 +1,5 @@
+Acoustics~Hemitonic scales~Hexatonic scales~Just tuning and intervals~Sound~
+||||||
+Scale of harmonics
+||||||
+The scale of harmonics is a musical scale based on the noded positions of the natural harmonics existing on a string. This musical scale is present on the guqin, regarded as one of the first string instruments with a musical scale. Most fret positions appearing on Non-Western string instruments (lutes) are equal to positions of this scale. Unexpectedly, these fret positions are actually the corresponding undertones of the overtones from the harmonic series. The distance from the nut to the fret is an integer number lower than the distance from the fret to the bridge (see: superparticular number).

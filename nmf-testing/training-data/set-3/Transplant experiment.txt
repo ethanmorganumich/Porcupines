@@ -1,0 +1,7 @@
+Biology experiments~
+||||||
+Transplant experiment
+||||||
+A transplant experiment, is an experiment to test the effect of environment by moving two species from their native environments into a common environment. The name was originally applied to experiments on plants, but is now equally applied to animals such as lizards and ants, and other organisms.
+A reciprocal transplant experiment involves introducing organisms from each of two environments into the other; the approach can be extended to more than two environments if required.
+Transplant experiments are often used to test if there is a genetic component to differences in populations. Advances in molecular biology have provided researchers with the ability to study genetic variation more directly. However, transplant experiments still have the advantages of being simple and requiring little technology. On the other hand, they may require considerable time and labour, and the number of test organisms is often relatively limited. Common garden methods can be improved by combining evidence with genomic studies, the use of dense marker panel data, and modern statistical methods.

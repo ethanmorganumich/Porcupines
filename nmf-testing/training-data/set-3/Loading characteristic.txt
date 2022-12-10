@@ -1,0 +1,6 @@
+Telephony~Telephony stubs~
+||||||
+Loading characteristic
+||||||
+In multichannel telephone systems, the loading characteristic is a plot, for the busy hour, of the equivalent mean power and the peak power as a function of the number of voice channels.  
+The equivalent power of a multichannel signal referred to the zero transmission level point is a function of the number of channels and has for its basis a specified voice channel mean power.

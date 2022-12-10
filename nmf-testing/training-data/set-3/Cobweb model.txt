@@ -1,0 +1,5 @@
+Economics models~
+||||||
+Cobweb model
+||||||
+The cobweb model or cobweb theory is an economic model that explains why prices might be subject to periodic fluctuations in certain types of markets. It describes cyclical supply and demand in a market where the amount produced must be chosen before prices are observed. Producers' expectations about prices are assumed to be based on observations of previous prices. Nicholas Kaldor analyzed the model in 1934, coining the term "cobweb theorem" (see Kaldor, 1938 and Pashigian, 2008), citing previous analyses in German by Henry Schultz and Umberto Ricci.

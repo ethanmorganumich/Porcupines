@@ -1,0 +1,20 @@
+Equal temperaments~Microtonality~
+||||||
+96 equal temperament
+||||||
+In music, 96 equal temperament, called 96-TET, 96-EDO ("Equal Division of the Octave"), or 96-ET, is the tempered scale derived by dividing the octave into 96 equal steps (equal frequency ratios). Each step represents a frequency ratio of 
+  
+    
+      
+        
+          
+            2
+            
+              96
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{96}]{2}}}
+  , or 12.5 cents. Since 96 factors into 1, 2, 3, 4, 6, 8, 12, 16, 24, 32, 48, and 96, it contains all of those temperaments. Most humans can only hear differences of 6 cents on notes that are played sequentially, and this amount varies according to the pitch, so the use of larger divisions of octave can be considered unnecessary. Smaller differences in pitch may be considered vibrato or stylistic devices.

@@ -1,0 +1,6 @@
+Electronic test equipment~Electronics stubs~
+||||||
+Hot-point probe
+||||||
+A hot point probe is a method of quickly determining whether a semiconductor sample is n-type or p-type. The sample is probed using a voltmeter or ammeter and a heat source, such as a soldering iron, is placed on one of the leads. The heat will cause charge carriers (electrons in n-type, holes in p-type) to move away from the lead. The heat from the probe creates an increased number of carriers, which then diffuse away from the contact point. This causes a current/voltage difference. 
+For example, if the heat source is placed on the positive lead of a voltmeter attached to an n-type semiconductor, a positive voltage reading will result as the area around the heat source/positive lead becomes positively charged. A simple explanation is that the thermally-excited majority free carriers move from the hot probe to the cold probe.  The mechanism for this motion with in semiconductor is diffusion type since the material is uniformly doped.

@@ -1,0 +1,8 @@
+Chord factors~Compound intervals~Fourths (music)~Music theory stubs~
+||||||
+Eleventh
+||||||
+In music or music theory, an eleventh play  is the note eleven scale degrees from the root of a chord and also the interval between the root and the eleventh. The interval can be also described as a compound fourth, spanning an octave plus a fourth.
+Since there are only seven degrees in a diatonic scale the eleventh degree is the same as the subdominant.
+The eleventh is considered highly dissonant with the major third.
+A perfect eleventh is an eleventh which spans exactly 17 semitones.

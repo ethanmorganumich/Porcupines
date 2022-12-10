@@ -1,0 +1,5 @@
+Equal temperaments~Microtonality~
+||||||
+23 equal temperament
+||||||
+In music, 23 equal temperament, called 23-TET, 23-EDO ("Equal Division of the Octave"), or 23-ET, is the tempered scale derived by dividing the octave into 23 equal steps (equal frequency ratios). Each step represents a frequency ratio of 23√2, or 52.174 cents. This system is the largest EDO that has an error of at least 20 cents for the 3rd (3:2), 5th (5:4), 7th (7:4), and 11th (11:8) harmonics. The lack of approximation to simple intervals makes the scale notable among those seeking to break free from conventional harmony rules.

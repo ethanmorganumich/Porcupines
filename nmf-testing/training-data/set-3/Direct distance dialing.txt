@@ -1,0 +1,5 @@
+Telecommunication services~Telecommunications-related introductions in 1951~
+||||||
+Direct distance dialing
+||||||
+Direct distance dialing (DDD) is a telecommunication service feature in North America by which a caller may, without operator assistance, call any other user outside the local calling area. Direct dialing by subscribers typically requires extra digits to be dialed as prefixes to the directory telephone number of the destination. International Direct Distance Dialing (IDDD) extends the system beyond the geographic boundaries of the North American Numbering Plan (NANP).

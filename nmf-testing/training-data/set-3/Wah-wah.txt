@@ -1,0 +1,6 @@
+Audio engineering~Effects units~Tone, EQ and filter~
+||||||
+Wah-wah pedal
+||||||
+A wah-wah pedal, or simply wah pedal, is a type of electric guitar effects pedal that alters the tone and frequencies of the guitar signal to create a distinctive sound, mimicking the human voice saying the onomatopoeic name "wah-wah". The pedal sweeps the peak response of a frequency filter up and down in frequency to create the sound, a spectral glide, also known as "the wah effect". The wah-wah effect originated in the 1920s, with trumpet or trombone players finding they could produce an expressive crying tone by moving a mute in and out of the instrument's bell. This was later simulated with electronic circuitry for the electric guitar when the wah-wah pedal was invented. It is controlled by movement of the player's foot on a rocking pedal connected to a potentiometer. Wah-wah effects may be used as a fixed-filter to alter an instrument’s timbre (known as a “cocked-wah”); they may be used when a guitarist is soloing; or, classically, they may be used to create a "wacka-wacka" funk-styled rhythm for rhythm guitar playing.An envelope filter or envelope follower is often referred to as an auto-wah.
+

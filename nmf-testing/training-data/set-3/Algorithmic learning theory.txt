@@ -1,0 +1,6 @@
+Computational learning theory~Formal languages~Learning theory (education)~
+||||||
+Algorithmic learning theory
+||||||
+Algorithmic learning theory is a mathematical framework for analyzing 
+machine learning problems and algorithms. Synonyms include formal learning theory and algorithmic inductive inference. Algorithmic learning theory is different from statistical learning theory in that it does not make use of statistical assumptions and analysis. Both algorithmic and statistical learning theory are concerned with machine learning and can thus be viewed as branches of computational learning theory.

@@ -1,0 +1,5 @@
+Theoretical computer science~Theory of computation~
+||||||
+Interactive computation
+||||||
+In computer science, interactive computation is a mathematical model for computation that involves input/output communication with the external world during computation.

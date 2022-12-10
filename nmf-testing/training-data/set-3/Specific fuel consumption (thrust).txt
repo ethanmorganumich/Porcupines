@@ -1,0 +1,8 @@
+Engine technology~Power (physics)~
+||||||
+Thrust-specific fuel consumption
+||||||
+Thrust-specific fuel consumption (TSFC) is the fuel efficiency of an engine design with respect to thrust output. 
+TSFC may also be thought of as fuel consumption (grams/second) per unit of thrust (kilonewtons, or kN). It is thus thrust-specific, meaning that the fuel consumption is divided by the thrust.
+TSFC or SFC for thrust engines (e.g. turbojets, turbofans, ramjets, rocket engines, etc.) is the mass of fuel needed to provide the net thrust for a given period e.g. lb/(h·lbf) (pounds of fuel per hour-pound of thrust) or g/(s·kN) (grams of fuel per second-kilonewton). Mass of fuel is used, rather than volume (gallons or litres) for the fuel measure, since it is independent of temperature.Specific fuel consumption of air-breathing jet engines at their maximum efficiency is more or less proportional to exhaust speed. The fuel consumption per mile or per kilometre is a more appropriate comparison for aircraft that travel at very different speeds. There also exists power-specific fuel consumption, which equals the thrust-specific fuel consumption divided by speed. It can have units of pounds per hour per horsepower.
+This figure is inversely proportional to specific impulse.

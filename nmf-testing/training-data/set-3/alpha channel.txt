@@ -1,0 +1,7 @@
+Computer graphics algorithms~
+||||||
+Alpha compositing
+||||||
+In computer graphics, alpha compositing or alpha blending is the process of combining one image with a background to create the appearance of partial or full transparency. It is often useful to render picture elements (pixels) in separate passes or layers and then combine the resulting 2D images into a single, final image called the composite. Compositing is used extensively in film when combining computer-rendered image elements with live footage. Alpha blending is also used in 2D computer graphics to put rasterized foreground elements over a background.
+In order to combine the picture elements of the images correctly, it is necessary to keep an associated matte for each element in addition to its color. This matte layer contains the coverage information—the shape of the geometry being drawn—making it possible to distinguish between parts of the image where something was drawn and parts that are empty.
+Although the most basic operation of combining two images is to put one over the other, there are many operations, or blend modes, that are used.

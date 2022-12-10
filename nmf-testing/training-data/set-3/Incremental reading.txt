@@ -1,0 +1,6 @@
+Learning~Learning methods~Reading (process)~
+||||||
+Incremental reading
+||||||
+Incremental reading is a software-assisted method for learning and retaining information from reading, which involves the creation of flashcards out of electronic articles. "Incremental reading" means "reading in portions". Instead of a linear reading of articles one at a time, the method works by keeping a large reading list of electronic articles or books (often dozens or hundreds of them) and reading parts of several articles in each session. Articles in the reading list are prioritized by the user. In the course of reading, key points of articles are broken up into flashcards, which are then learned and reviewed over an extended period of time with the help of a spaced repetition algorithm.
+This use of flashcards at later stages of the process is based on the spacing effect (the phenomenon whereby learning is greater when studying is spread out over time) and the testing effect (the finding that long-term memory is increased when some of the learning period is devoted to retrieving the to-be-remembered information through testing). It is targeted towards people who are trying to learn for life a large amount of information, particularly if that information comes from various sources.

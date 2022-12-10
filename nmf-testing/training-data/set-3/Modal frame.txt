@@ -1,0 +1,28 @@
+Melody~Modal frames~Musical techniques~
+||||||
+Modal frame
+||||||
+A modal frame in music is "a number of types permeating and unifying African, European, and American song" and melody. It may also be called a melodic mode. "Mode" and "frame" are used interchangeably in this context without reference to scalar or rhythmic modes. Melodic modes define and generate melodies that are not determined by harmony, but purely by melody. A note frame, is a melodic mode that is atonic (without a tonic), or has an unstable tonic.
+Modal frames may be defined by their:
+
+floor note: the bottom of the frame, felt to be the lowest note, though isolated notes may go lower,
+ceiling note: the top of the frame,
+central note: the center around which other notes cluster or gravitate,
+upper or lower focus: portion of the mode on which the melody temporarily dwells, and can also defined by melody types, such as:
+chant tunes: (Bob Dylan's "Subterranean Homesick Blues")
+axial tunes: ("A Hard Day's Night", "Peggy Sue", Marvin Gaye's "Can I Get A Witness", and Roy Milton's "Do the Hucklebuck")
+oscillating: (Rolling Stones' "Jumpin' Jack Flash")
+open/closed: (Bo Diddley's "Hey Bo Diddley")
+terrace
+shout-and-fall
+ladder of thirds
+"Chel-sea" football crowd chant: minor third.
+Further defined features include:
+
+melodic dissonance: the quality of a note that is modally unstable and attracted to other more important tones in a non-harmonic way
+melodic triad: arpeggiated triads in a melody. A non-harmonic arpeggio is most commonly a melodic triad, it is an arpeggio the notes of which do not appear in the harmony of the accompaniment.
+level: a temporary modal frame contrasted with another built on a different foundation note. A change in levels is called a shift.
+co-tonic: a melodic tonic different from and as important as the harmonic tonic
+secondary tonic: a melodic tonic different from but subordinate to the harmonic tonic
+pendular third: alternating notes a third apart, most often a neutral, see double tonic
+

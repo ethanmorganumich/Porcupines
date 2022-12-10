@@ -1,0 +1,5 @@
+Equal temperaments~Microtonality~
+||||||
+15 equal temperament
+||||||
+In music, 15 equal temperament, called 15-TET, 15-EDO, or 15-ET, is a tempered scale derived by dividing the octave into 15 equal steps (equal frequency ratios). Each step represents a frequency ratio of 15√2 (=2(1/15)), or 80 cents (Play ).  Because 15 factors into 3 times 5, it can be seen as being made up of three scales of 5 equal divisions of the octave, each of which resembles the Slendro scale in Indonesian gamelan. 15 equal temperament is not a meantone system.

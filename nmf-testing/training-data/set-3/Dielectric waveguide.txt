@@ -1,0 +1,8 @@
+Optical components~Photonics~
+||||||
+Waveguide (optics)
+||||||
+An optical waveguide is a physical structure that guides electromagnetic waves in the optical spectrum. Common types of optical waveguides include optical fiber waveguides, transparent dielectric waveguides made of plastic and glass, liquid light guides, and liquid waveguides.
+Optical waveguides are used as components in integrated optical circuits or as the transmission medium in local and long-haul optical communication systems.
+Optical waveguides can be classified according to their geometry (planar, strip, or fiber waveguides), mode structure (single-mode, multi-mode), refractive index distribution (step or gradient index), and material (glass, polymer, semiconductor).
+

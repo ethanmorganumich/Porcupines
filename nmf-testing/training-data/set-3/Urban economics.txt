@@ -1,0 +1,8 @@
+Regional science~Urban economics~Urban planning~
+||||||
+Urban economics
+||||||
+Urban economics is broadly the economic study of urban areas; as such, it involves using the tools of economics to analyze urban issues such as crime, education, public transit, housing, and local government finance. More specifically, it is a branch of microeconomics that studies urban spatial structure and the location of households and firms (Quigley 2008).
+Much urban economic analysis relies on a particular model of urban spatial structure, the monocentric city model pioneered in the 1960s by William Alonso, Richard Muth, and Edwin Mills. While most other forms of neoclassical economics do not account for spatial relationships between individuals and organizations, urban economics focuses on these spatial relationships to understand the economic motivations underlying the formation, functioning, and development of cities.
+Since its formulation in 1964, Alonso's monocentric city model of a disc-shaped Central Business District (CBD) and the surrounding residential region has served as a starting point for urban economic analysis. Monocentricity has weakened over time because of changes in technology, particularly, faster and cheaper transportation (which makes it possible for commuters to live farther from their jobs in the CBD) and communications (which allow back-office operations to move out of the CBD).
+Additionally, recent research has sought to explain the polycentricity described in Joel Garreau's Edge City. Several explanations for polycentric expansion have been proposed and summarized in models that account for factors such as utility gains from lower average land rents and increasing (or constant) returns due to economies of agglomeration (Strange 2008).

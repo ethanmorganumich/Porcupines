@@ -1,0 +1,5 @@
+Internet search engines~Library automation~Scholarly search services~Search engine website stubs~
+||||||
+MetaLib
+||||||
+MetaLib is a federated search system developed by Ex Libris Group. MetaLib conducts simultaneous searches in multiple, and often heterogeneous, information resources such as library catalogs, journal articles, newspapers and selected quality Internet resources. The resources are often subscription based, and MetaLib provides access for legitimate users. MetaLib is often used in conjunction with the SFX OpenURL resolver.

@@ -1,0 +1,15 @@
+Dance notation~Dance stubs~
+||||||
+Action stroke dance notation
+||||||
+Action Stroke Dance Notation (ASDN) is a dance notation system that was invented by Iver Cooper. Designed for fast writing, the notations primarily consist of "action strokes" that represent one of three basic actions:
+
+a support gesture that takes weight (e.g., hop or step)
+a touch gesture (makes contacts without taking weight)
+an air gesture (makes no contact)A dance score has five sections:
+
+general – describing the general movement of the dancer
+leg (or staff) – indicating movement of the legs and feet
+arm (or staff) – indicating movement of the arms and hands
+trunk – indicating movement of head, neck, chest and pelvis
+notes – detailed explanations of the movementScores are read from bottom to top. The horizontal dimension represents body symmetry and the vertical dimension represents time. ASDN employs abstract symbols and is visually similar to Motif description, a subset of Labanotation that is also designed for speed of writing.

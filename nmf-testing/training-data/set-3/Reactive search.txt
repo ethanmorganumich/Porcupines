@@ -1,0 +1,7 @@
+Metaheuristics~Optimization algorithms and methods~
+||||||
+Local search (optimization)
+||||||
+In computer science, local search is a heuristic method for solving computationally hard optimization problems. Local search can be used on problems that can be formulated as finding a solution maximizing a criterion among a number of candidate solutions. Local search algorithms move from solution to solution in the space of candidate solutions (the search space) by applying local changes, until a solution deemed optimal is found or a time bound is elapsed.
+Local search algorithms are widely applied to numerous hard computational problems, including problems from computer science (particularly artificial intelligence), mathematics, operations research, engineering, and bioinformatics. Examples of local search algorithms are WalkSAT, the 2-opt algorithm for the Traveling Salesman Problem and the Metropolis–Hastings algorithm.
+

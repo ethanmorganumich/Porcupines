@@ -1,0 +1,6 @@
+Anti-competitive practices~Conjectures~Monopoly (economics)~Pricing~
+||||||
+Pacman conjecture
+||||||
+The Pacman conjecture holds that durable-goods monopolists have complete market power and so can exercise perfect price discrimination, thus extracting the total surplus. This is in contrast to the Coase conjecture which holds that a durable goods monopolist has no market power, and so price is equal to the competitive market price.
+In a December 1989 journal article Mark Bagnoli, Stephen W. Salant, and Joseph E. Swierzbinski theorized that if each consumer could be relied upon to buy a good as soon as its price dipped below a certain point (with different consumers valuing goods differently, but all pursuing the same "get-it-while-you-can" strategy), then a monopolist could set prices very high initially and then "eat his way down the demand curve", extracting maximum profit in what Bagnoli et al. called "the Pacman strategy" after the voracious video-game character. Specifically, Bagnoli et al. state that "Pacman is a sequential best reply to get-it-while-you-can", a result they call "the Pacman Theorem". Their proof, however, relies strongly on the assumption that there is an infinite time horizon.

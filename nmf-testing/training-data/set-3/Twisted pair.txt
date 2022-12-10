@@ -1,0 +1,6 @@
+19th-century inventions~2 (number)~Communication circuits~Electromagnetic compatibility~Signal cables~Video hardware~
+||||||
+Twisted pair
+||||||
+Twisted pair cabling is a type of wiring used for communications in which two conductors of a single circuit are twisted together for the purposes of improving electromagnetic compatibility. Compared to a single conductor or an untwisted balanced pair, a twisted pair reduces electromagnetic radiation from the pair and crosstalk between neighboring pairs and improves rejection of external electromagnetic interference. It was invented by Alexander Graham Bell.For additional noise immunity, twisted-pair cabling may be shielded. Cable with shielding is known as shielded twisted pair (STP) and without as unshielded twisted pair (UTP).
+

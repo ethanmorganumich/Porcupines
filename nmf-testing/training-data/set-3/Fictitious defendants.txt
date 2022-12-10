@@ -1,0 +1,12 @@
+Civil procedure~Common law legal terminology~Legal fictions~
+||||||
+Fictitious defendants
+||||||
+A fictitious defendant is a person that cannot be identified by the plaintiff before a lawsuit is commenced. Commonly this person is identified as "John Doe" or "Jane Doe".
+As the statute of limitations for many torts such as medical malpractice is generally very short, plaintiffs under pressure to issue an originating process such as a statement of claim often use contrived names such as John Doe in the title of proceedings and identify the person's role in the lawsuit in the body of the pleading. Generally, this tactic preserves the limitation period and, with leave of the court, the plaintiff can later substitute the real name of the defendant once it is learned during the discovery process.
+For example, in a medical malpractice case, the plaintiff may have been treated by doctors and nurses and did not know the names of those providers at the time. This is particularly true of plaintiffs who may have been unconscious during long periods of their treatment. At the beginning of the lawsuit, it may be impossible to determine which medical professional was negligent, so all persons who treated the plaintiff must be sued. However, the hospital records available to the plaintiff may be limited or unintelligible, and the hospital that does have the records may refuse to release them unless litigation is pending.
+Typically, the plaintiff will plead as follows:
+In the case of John Smith vs. Jones Memorial Hospital and Dr. John Doe.
+
+Jones Memorial Hospital is a hospital in the city of Anytown, USA.
+Dr. John Doe is a doctor employed by Jones Memorial, and at all relevant times was the plaintiff's treating physician.  The identity of the treating physician is unknown to the plaintiff despite the plaintiff's best efforts to identify the doctor.Once the originating pleading is issued, the plaintiff is usually required to work with all deliberate speed to determine the names of the fictitious defendants through discovery of the defendants it is aware of.  If the plaintiff delays too long, the court generally will not allow amendment of the claim to substitute the names of the appropriate party, and any valid claims against those defendants may become statute barred.  However, the plaintiff may not, through the action of the fictitious defendants or the other defendants to the lawsuit, be prejudiced by any delay caused by obstruction or refusal to reveal the identities of the fictitious witnesses.

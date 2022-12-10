@@ -1,0 +1,6 @@
+Industrial design~Logarithmic scales of measurement~Numbers~
+||||||
+E series of preferred numbers
+||||||
+The E series is a system of preferred numbers (also called preferred values) derived for use in electronic components. It consists of the E3, E6, E12, E24, E48, E96 and E192 series, where the number after the 'E' designates the quantity of logarithmic value "steps" per decade. Although it is theoretically possible to produce components of any value, in practice the need for inventory simplification has led the industry to settle on the E series for resistors, capacitors, inductors, and zener diodes.  Other types of electrical components are either specified by the Renard series (for example fuses) or are defined in relevant product standards (for example IEC 60228 for wires).
+

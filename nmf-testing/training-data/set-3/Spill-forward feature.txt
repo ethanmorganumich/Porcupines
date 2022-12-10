@@ -1,0 +1,5 @@
+Telecommunications stubs~Teletraffic~
+||||||
+Spill-forward feature
+||||||
+In telecommunication, a spill-forward feature is a service feature, in the operation of an intermediate office, that, acting on incoming trunk service treatment indications, assumes routing control of the call from the originating office. This increases the chances of completion by offering the call to more trunk groups than are available in the originating office.

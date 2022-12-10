@@ -1,0 +1,6 @@
+Circuit theorems~Electric power~Electrical circuits~Graph operations~Three-phase AC power~
+||||||
+Y-Δ transform
+||||||
+The Y-Δ transform, also written wye-delta and also known by many other names, is a mathematical technique to simplify the analysis of an electrical network. The name derives from the shapes of the circuit diagrams, which look respectively like the letter Y and the Greek capital letter Δ. This circuit transformation theory was published by Arthur Edwin Kennelly in 1899.   It is widely used in analysis of three-phase electric power circuits. 
+The Y-Δ transform can be considered a special case of the star-mesh transform for three resistors.  In mathematics, the Y-Δ transform plays an important role in theory of circular planar graphs.

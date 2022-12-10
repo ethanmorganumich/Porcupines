@@ -1,0 +1,18 @@
+Internet search engines~Natural language processing~Search engine website stubs~
+||||||
+Lexxe
+||||||
+Lexxe is an internet search engine that applies Natural Language Processing
+in its semantic search technology.  Founded in 2005 by Dr. Hong Liang Qiao,
+Lexxe is based in Sydney, Australia.  Today, Lexxe's key focus is on sentiment search with the launch of a news sentiment search site at News & Moods (www.newsandmoods.com).
+Lexxe has experienced several stages of change of focus in search technology:
+Lexxe launched its Alpha version in 2005, featuring Natural Language question
+answering (i.e. users could ask questions in English to the search engine apart from keyword searches — this feature has been suspended for redevelopment since 2010).  It used only algorithms to extract answers from web pages, with no question-answer pair databases prepared in advance.
+In 2011, Lexxe launched a beta version  with a new search technology called Semantic Key.  Semantic Keys enable users to query with a conceptual keyword
+(or a keyword with a special meaning, hence the term Semantic Key) in order
+to find instances under the concept, e.g. price → $5.95 or €200, color →
+red, yellow, white.  For example, “price: a pound of apples”, “color:
+ferrari”.  With initial 500 Semantic Keys at the Beta launch, Lexxe
+became the first search engine in the world to offer this unique and useful
+search technology to the users.  The cost of building Semantic Keys was too heavy though.
+In 2017, Lexxe launched News & Moods (www.newsandmoods.com), an open platform for news sentiment search, a first step towards sentiment search feature for the entire Internet search in Lexxe search engine.  News & Moods also comes with smartphone apps in Android and iOS.

@@ -1,0 +1,5 @@
+1988 in computing~Computer worms~Hacking in the 1980s~
+||||||
+Morris worm
+||||||
+The Morris worm or Internet worm of November 2, 1988, is one of the oldest computer worms distributed via the Internet, and the first to gain significant mainstream media attention. It resulted in the first felony conviction in the US under the 1986 Computer Fraud and Abuse Act. It was written by a graduate student at Cornell University, Robert Tappan Morris, and launched on November 2, 1988, from the Massachusetts Institute of Technology network.

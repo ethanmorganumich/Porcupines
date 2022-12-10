@@ -1,0 +1,6 @@
+Legal procedure~Legal terminology stubs~
+||||||
+Confession and avoidance
+||||||
+Confession and avoidance, in pleading, relates to a plea which admits that the facts alleged in a declaration are true, but which shows new facts by which it is hoped to destroy the effect of the allegations admitted.
+A plea in confession and avoidance neither admits nor denies; it admits that the facts alleged by the opposite party make out a good prima facie case or defense, and it proceeds to destroy the effect of these allegations either by showing some justification or excuse of the matter charged, or some discharge or release from it. All matters in confession and avoidance must be stated clearly and specifically. If intended to apply only to a part of a statement of claim, it must be so stated.

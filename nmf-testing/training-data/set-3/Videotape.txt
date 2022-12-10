@@ -1,0 +1,7 @@
+American inventions~Audiovisual introductions in 1950~History of television~Home video~Videotape~
+||||||
+Videotape
+||||||
+Videotape is magnetic tape used for storing video and usually sound in addition. Information stored can be in the form of either an analog or digital signal. Videotape is used in both video tape recorders (VTRs) and, more commonly, videocassette recorders (VCRs) and camcorders. Videotapes have also been used for storing scientific or medical data, such as the data produced by an electrocardiogram.
+Because video signals have a very high bandwidth, and stationary heads would require extremely high tape speeds, in most cases, a helical-scan video head rotates against the moving tape to record the data in two dimensions.
+Tape is a linear method of storing information and thus imposes delays to access a portion of the tape that is not already against the heads. The early 2000s saw the introduction and rise to prominence of high-quality random-access video recording media such as hard disks and flash memory. Since then, videotape has been increasingly relegated to archival and similar uses.

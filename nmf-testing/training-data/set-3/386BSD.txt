@@ -1,0 +1,6 @@
+1992 software~Berkeley Software Distribution~Discontinued operating systems~Free software operating systems~
+||||||
+386BSD
+||||||
+386BSD (also known as "Jolix") is a discontinued Unix operating system based on the Berkeley Software Distribution (BSD). It was released in 1992 and ran on PC-compatible computer systems based on the 32-bit Intel 80386 microprocessor. 386BSD innovations included role-based security, ring buffers, self-ordered configuration and modular kernel design.
+

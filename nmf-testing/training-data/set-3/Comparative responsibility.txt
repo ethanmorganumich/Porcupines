@@ -1,0 +1,7 @@
+Comparative law~Tort law~
+||||||
+Comparative responsibility
+||||||
+Comparative responsibility (known as comparative fault in some jurisdictions) is a doctrine of tort law that compares the fault of each party in a lawsuit for a single injury. Comparative responsibility may apply to intentional torts as well as negligence and encompasses the doctrine of comparative negligence.
+Comparative responsibility divides the fault among parties by percentages, and then accordingly divides the money awarded to the plaintiff.  The plaintiff may only recover the percentage of the damages he is not at fault for.  If a plaintiff is found to be 25% at fault, he can recover only 75% of his damages.
+There are several circumstances that make comparative responsibility intricate: when the plaintiff shares in fault for the damages, when a defendant who has a share of the fault cannot be included in the suit, when one of the defendants can not pay, and when there are charges of both negligence and intentional torts in the same action.

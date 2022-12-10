@@ -1,0 +1,9 @@
+Computational complexity theory~
+||||||
+Interactive proof system
+||||||
+In computational complexity theory, an interactive proof system is an abstract machine that models computation as the exchange of messages between two parties: a prover and a verifier. The parties interact by exchanging messages in order to ascertain whether a given string belongs to a language or not. The prover possesses unlimited computational resources but cannot be trusted, while the verifier has bounded computation power but is assumed to be always honest. Messages are sent between the verifier and prover until the verifier has an answer to the problem and has "convinced" itself that it is correct.
+All interactive proof systems have two requirements:
+
+Completeness: if the statement is true, the honest prover (that is, one following the protocol properly) can convince the honest verifier that it is indeed true.
+Soundness: if the statement is false, no prover, even if it doesn't follow the protocol, can convince the honest verifier that it is true, except with some small probability.The specific nature of the system, and so the complexity class of languages it can recognize, depends on what sort of bounds are put on the verifier, as well as what abilities it is given—for example, most interactive proof systems depend critically on the verifier's ability to make random choices. It also depends on the nature of the messages exchanged—how many and what they can contain. Interactive proof systems have been found to have some important implications for traditional complexity classes defined using only one machine. The main complexity classes describing interactive proof systems are AM and IP.

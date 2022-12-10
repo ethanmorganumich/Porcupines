@@ -1,0 +1,9 @@
+Data transmission~Telecommunications stubs~
+||||||
+Bit-count integrity
+||||||
+In telecommunication, the term bit-count integrity (BCI) has the following meanings: 
+
+In message communications, the preservation of the exact number of bits that are in the original message.
+In connection-oriented services, preservation of the number of bits per unit time.Note:  Bit-count integrity is not the same as bit integrity, which requires that the delivered bits correspond exactly with the original bits.
+Source: from Federal Standard 1037C and from MIL-STD-188

@@ -1,0 +1,7 @@
+Just tuning and intervals~
+||||||
+Just intonation
+||||||
+In music, just intonation or pure intonation is the tuning of musical intervals as whole number ratios (such as 3:2 or 4:3) of frequencies. An interval tuned in this way is said to be pure, and is called a just interval. Just intervals (and chords created by combining them) consist of tones from a single harmonic series of an implied fundamental. For example, in the diagram, if the notes G3 and C4 (labelled 3 and 4) are tuned as members of the harmonic series of the lowest C, their frequencies will be 3 and 4 times the fundamental frequency. The interval ratio between C4 and G3 is therefore 4:3, a just fourth. 
+In Western musical practice, instruments are rarely tuned using only pure intervals—the desire for different keys to have identical intervals in Western music makes this impractical. Some instruments of fixed pitch, such as electric pianos, are commonly tuned using equal temperament, in which all intervals other than octaves consist of irrational-number frequency ratios. Acoustic pianos are usually tuned with the octaves slightly widened, and thus with no pure intervals at all.
+

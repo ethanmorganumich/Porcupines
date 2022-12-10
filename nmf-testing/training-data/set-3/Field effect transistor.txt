@@ -1,0 +1,6 @@
+Arab inventions~Austrian inventions~Egyptian inventions~Field-effect transistors~Hungarian inventions~Japanese inventions~South Korean inventions~Transistor types~
+||||||
+Field-effect transistor
+||||||
+The field-effect transistor (FET) is a type of transistor that uses an electric field to control the flow of current in a semiconductor.  FETs (JFETs or MOSFETs) are devices with three terminals: source, gate, and drain. FETs control the flow of current by the application of a voltage to the gate, which in turn alters the conductivity between the drain and source.
+FETs are also known as unipolar transistors since they involve single-carrier-type operation. That is, FETs use either electrons (n-channel) or holes (p-channel) as charge carriers in their operation, but not both. Many different types of field effect transistors exist. Field effect transistors generally display very high input impedance at low frequencies. The most widely used field-effect transistor is the MOSFET (metal-oxide-semiconductor field-effect transistor).

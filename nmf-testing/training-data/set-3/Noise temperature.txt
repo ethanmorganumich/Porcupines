@@ -1,0 +1,96 @@
+Electrical engineering~Noise (electronics)~Telecommunication theory~
+||||||
+Noise temperature
+||||||
+In electronics, noise temperature is one way of expressing the level of available noise power introduced by a component or source. (This is to be distinguished from Temperature Noise in Thermodynamics or Principal Interferrometric Analysis Over Cross-Type Interference Between different noise types) The power spectral density of the noise is expressed in terms of the temperature (in kelvins) that would produce that level of Johnson–Nyquist noise, thus:
+
+  
+    
+      
+        
+          
+            
+              P
+              
+                N
+              
+            
+            B
+          
+        
+        =
+        
+          k
+          
+            B
+          
+        
+        T
+      
+    
+    {\displaystyle {\frac {P_{\text{N}}}{B}}=k_{\text{B}}T}
+  where:
+
+  
+    
+      
+        
+          P
+          
+            N
+          
+        
+      
+    
+    {\displaystyle P_{\text{N}}}
+   is the noise power (in W, watts)
+
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   is the total bandwidth (Hz, hertz) over which that noise power is measured
+
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+      
+    
+    {\displaystyle k_{\text{B}}}
+   is the Boltzmann constant (1.381×10−23 J/K, joules per kelvin)
+
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   is the noise temperature (K, kelvin)Thus the noise temperature is proportional to the power spectral density of the noise,  
+  
+    
+      
+        
+          P
+          
+            N
+          
+        
+        
+          /
+        
+        B
+      
+    
+    {\displaystyle P_{\text{N}}/B}
+  . That is the power that would be absorbed from the component or source by a matched load. Noise temperature is generally a function of frequency, unlike that of an ideal resistor which is simply equal to the actual temperature of the resistor at all frequencies.
+

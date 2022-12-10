@@ -1,0 +1,115 @@
+Families of sets~Hypergraphs~
+||||||
+Hypergraph
+||||||
+In mathematics, a hypergraph is a generalization of a graph in which an edge can join any number of vertices. In contrast, in an ordinary graph, an edge connects exactly two vertices.
+Formally, an undirected hypergraph 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is a pair 
+  
+    
+      
+        H
+        =
+        (
+        X
+        ,
+        E
+        )
+      
+    
+    {\displaystyle H=(X,E)}
+   where 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   is a set of elements called nodes or vertices, and 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   is a set of non-empty subsets of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   called hyperedges or edges. Therefore, 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   is a subset of 
+  
+    
+      
+        
+          
+            P
+          
+        
+        (
+        X
+        )
+        ∖
+        {
+        ∅
+        }
+      
+    
+    {\displaystyle {\mathcal {P}}(X)\setminus \{\emptyset \}}
+  , where 
+  
+    
+      
+        
+          
+            P
+          
+        
+        (
+        X
+        )
+      
+    
+    {\displaystyle {\mathcal {P}}(X)}
+   is the power set of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  . The size of the vertex set is called the order of the hypergraph, and the size of edges set is the size of the hypergraph.
+A directed hypergraph differs in that its hyperedges are not sets, but ordered pairs of subsets of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , with each pair's first and second entries constituting the tail and head of the hyperedge respectively.
+While graph edges connect only 2 nodes, hyperedges connect an arbitrary number of nodes. However, it is often desirable to study hypergraphs where all hyperedges have the same cardinality; a k-uniform hypergraph is a hypergraph such that all its hyperedges have size k. (In other words, one such hypergraph is a collection of sets, each such set a hyperedge connecting k nodes.) So a 2-uniform hypergraph is a graph, a 3-uniform hypergraph is a collection of unordered triples, and so on. An undirected hypergraph is also called a set system or a family of sets drawn from the universal set.
+Hypergraphs can be viewed as incidence structures.  In particular, there is a bipartite "incidence graph" or "Levi graph" corresponding to every hypergraph, and conversely, most, but not all, bipartite graphs can be regarded as incidence graphs of hypergraphs.
+Hypergraphs have many other names.  In computational geometry, an undirected hypergraph may sometimes be called a range space and then the hyperedges are called ranges.
+In cooperative game theory, hypergraphs are called simple games (voting games); this notion is applied to solve problems in social choice theory.  In some literature edges are referred to as hyperlinks or connectors.The collection of hypergraphs is a category with hypergraph homomorphisms as morphisms.

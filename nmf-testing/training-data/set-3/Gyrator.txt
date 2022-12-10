@@ -1,0 +1,8 @@
+Analog circuits~Dutch inventions~Linear filters~
+||||||
+Gyrator
+||||||
+A gyrator is a passive, linear, lossless, two-port electrical network element proposed in 1948 by Bernard D. H. Tellegen as a hypothetical fifth linear element after the resistor, capacitor, inductor and ideal transformer. Unlike the four conventional elements, the gyrator is non-reciprocal. Gyrators permit network realizations of two-(or-more)-port devices which cannot be realized with just the conventional four elements. In particular, gyrators make possible network realizations of isolators and circulators. Gyrators do not however change the range of one-port devices that can be realized. Although the gyrator was conceived as a fifth linear element, its adoption makes both the ideal transformer and either the capacitor or inductor redundant. Thus the number of necessary linear elements is in fact reduced to three.  Circuits that function as gyrators can be built with transistors and op-amps using feedback.
+
+ Tellegen invented a circuit symbol for the gyrator and suggested a number of ways in which a practical gyrator might be built.
+An important property of a gyrator is that it inverts the current–voltage characteristic of an electrical component or network.  In the case of linear elements, the impedance is also inverted.  In other words, a gyrator can make a capacitive circuit behave inductively, a series LC circuit behave like a parallel LC circuit, and so on.  It is primarily used in active filter design and miniaturization.

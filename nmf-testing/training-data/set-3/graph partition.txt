@@ -1,0 +1,6 @@
+Computational problems in graph theory~NP-complete problems~
+||||||
+Graph partition
+||||||
+In mathematics, a graph partition is the reduction of a graph to a smaller graph by partitioning its set of nodes into mutually exclusive groups. Edges of the original graph that cross between the groups will produce edges in the partitioned graph. If the number of resulting edges is small compared to the original graph, then the partitioned graph may be better suited for analysis and problem-solving than the original. Finding a partition that simplifies graph analysis is a hard problem, but one that has applications to scientific computing, VLSI circuit design, and task scheduling in multiprocessor computers, among others. Recently, the graph partition problem has gained importance due to its application for clustering and detection of cliques in social, pathological and biological networks. For a survey on recent trends in computational methods and applications see Buluc et al. (2013).
+Two common examples of graph partitioning are minimum cut and maximum cut problems.

@@ -1,0 +1,6 @@
+Analog video connectors~Audiovisual introductions in 1987~Film and video technology~Video signal~
+||||||
+S-Video
+||||||
+S-Video (also known as separate video, Y/C, and erroneously Super-Video ) is an analog video signal format that carries standard-definition video, typically at 525 lines or 625 lines. It encodes video luma and chrominance on two separate channels, achieving higher image quality than composite video which encodes all video information on one channel. It also eliminates several types of visual defects such as dot crawl which commonly occur with composite video. Although it improved over composite video, S-Video has lower color resolution than component video, which is encoded over three channels.The Atari 800 was the first to introduce separate Chroma/Luma output in late 1979. However, S-Video did not get widely adopted until JVC's introduction of the S-VHS (Super-VHS) format in 1987, which is why it is sometimes incorrectly referred to as "Super-Video." Before the shift towards digital video the S-video format was widely used by consumers, but it was rarely used in professional studios where YPbPr or composite was generally preferred.
+

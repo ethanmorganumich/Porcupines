@@ -1,0 +1,12 @@
+Minor scales~Musical keys~
+||||||
+A-sharp minor
+||||||
+A-sharp minor is a minor musical scale based on A♯, consisting of the pitches A♯, B♯, C♯, D♯, E♯, F♯, and G♯. Its key signature has seven sharps, while the direct enharmonic equivalent, B-flat minor, has five flats.
+Its relative major is C-sharp major (or enharmonically D-flat major), and its parallel major is A-sharp major, usually replaced by B-flat major, since A-sharp major's three double-sharps make it impractical to use.
+A-sharp minor is likely the least used minor key in music as it is not generally considered a practical key for composition. The enharmonic equivalent B-flat minor, which only contains five flats as opposed to A-sharp minor's seven sharps, is preferable to use.
+The A-sharp natural minor scale is:
+
+Changes needed for the melodic and harmonic versions of the scale are written in with accidentals as necessary. The A-sharp harmonic minor and melodic minor scales are:
+
+In Christian Heinrich Rinck's 30 Preludes and Exercises in all major and minor keys, Op. 67, the 16th Prelude and Exercise is in A-sharp minor. In Bach's Prelude and Fugue in C-sharp major, BWV 848, a brief section near the beginning of the piece modulates to A-sharp minor.

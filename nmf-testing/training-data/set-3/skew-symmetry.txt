@@ -1,0 +1,38 @@
+Matrices~
+||||||
+Skew-symmetric matrix
+||||||
+In mathematics, particularly in linear algebra, a skew-symmetric (or antisymmetric or antimetric) matrix is a square matrix whose transpose equals its negative. That is, it satisfies the condition: p. 38 
+
+In terms of the entries of the matrix, if 
+  
+    
+      
+        
+          a
+          
+            i
+            j
+          
+        
+      
+    
+    {\textstyle a_{ij}}
+   denotes the entry in the 
+  
+    
+      
+        i
+      
+    
+    {\textstyle i}
+  -th row and 
+  
+    
+      
+        j
+      
+    
+    {\textstyle j}
+  -th column, then the skew-symmetric condition is equivalent to
+

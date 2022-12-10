@@ -1,0 +1,5 @@
+Radio technology~Telecommunications engineering~Telecommunications stubs~
+||||||
+Transmit-after-receive time delay
+||||||
+In telecommunication, transmit-after-receive time delay is the time interval from removal of RF energy at the local receiver input until the local transmitter is automatically keyed on and the transmitted rf signal amplitude has increased to 90% of its steady-state value.  An Exception: High-frequency (HF) transceiver equipment is normally not designed with an interlock between receiver squelch and transmitter on-off key. The transmitter can be keyed on at any time, independent of whether or not a signal is being received at the receiver input.

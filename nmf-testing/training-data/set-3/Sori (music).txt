@@ -1,0 +1,6 @@
+Musical notation~Persian music~
+||||||
+Sori (music)
+||||||
+The sori (Persian:سری) is a symbol that corresponds to a quarter step higher in tone in Persian traditional music. It is written as a ">" sign, crossed by two vertical lines, and can be used like an accidental.
+In the early 20th century, Iranian master musician Alinaghi Vaziri established this sign for the sori for use in written Persian music using standard western notation. Character representation of this accidental symbol together with Koron encoding (encoded as U+1D1E9 and U+1D1EA) microtones used in modern Iranian classical music added to the Unicode standard in Version 14.0.0.

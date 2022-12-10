@@ -1,0 +1,6 @@
+3D computer graphics~Binary trees~Geometric data structures~
+||||||
+Binary space partitioning
+||||||
+In computer science, binary space partitioning (BSP) is a method for space partitioning which recursively subdivides a Euclidean space into two convex sets by using hyperplanes as partitions. This process of subdividing gives rise to a representation of objects within the space in the form of a tree data structure known as a BSP tree.
+Binary space partitioning was developed in the context of 3D computer graphics in 1969. The structure of a BSP tree is useful in rendering because it can efficiently give spatial information about the objects in a scene, such as objects being ordered from front-to-back with respect to a viewer at a given location. Other applications of BSP include: performing geometrical operations with shapes (constructive solid geometry) in CAD, collision detection in robotics and 3D video games, ray tracing, and other applications that involve the handling of complex spatial scenes.

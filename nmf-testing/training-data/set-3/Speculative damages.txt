@@ -1,0 +1,10 @@
+Judicial remedies~Law stubs~
+||||||
+Speculative damages
+||||||
+Speculative damages are damages claimed by a plaintiff for losses that may occur in the future, but are highly improbable. They can not be used as a basis for recovery in tort or contract cases. Example: A plaintiff claims the tortfeasor's failure to deliver a shipment not only hurt his current sales, but also customer satisfaction and thus future sales as well.
+There is, however, one way that speculative damages can be recovered.  If the plaintiff can prove that the speculative damages are reasonably likely to occur, he can recover the damages up to the amount that is reasonably likely to occur.  The damages do not have to be proven with absolute certainty, only reasonable certainty.For example, if the aforementioned small business owner claims that the tortfeasor's claims hurt his customer satisfaction, and proved it by showing security camera footage of one of his most frequent customers being so upset over the business' inability to deliver the product that he ordered that he stormed out of the store and vowed to never come back, then the business owner might have something.  However, he would only be able to collect on future sales for that one customer, as no other customer's future sales are "reasonably likely to occur."
+Ballentine's Law Dictionary has been used to define Speculative Damages in court cases such as Hawkinson v Johnston and Murphy v Hobbs:
+1. Damages not proved with reasonable certainty, the trier of the fact being left to speculate as to the actual damages suffered by the plaintiff.
+2. Damages are not speculative merely because they cannot be computed with mathematical exactness, if under the evidence they are capable of reasonable approximation.
+3. "So long as the jury are considering the material pecuniary injury, and the physical pain, their inquiry relates to what are termed actual damages; but when authorized by a vicious intent of the wrongdoer, they turn to the realm of mental anguish, public indignity, wounded sensibility, etc., the damages may more appropriately be described as presumptive, speculative, or imaginary."

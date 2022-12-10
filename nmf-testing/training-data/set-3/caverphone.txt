@@ -1,0 +1,5 @@
+Phonetic algorithms~
+||||||
+Caverphone
+||||||
+The Caverphone within linguistics and computing, is a phonetic matching algorithm invented to identify English names with their sounds, originally built to process a custom dataset compound between 1893 and 1938 in southern Dunedin, New Zealand. Started from a similar concept as metaphone, it has been developed to accommodate and process general English since then.

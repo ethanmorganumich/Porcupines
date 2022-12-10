@@ -1,0 +1,5 @@
+Interference~Radio frequency propagation~Radio resource management~
+||||||
+Co-channel interference
+||||||
+Co-channel interference or CCI is crosstalk from two different radio transmitters using the same channel. Co-channel interference can be caused by many factors from weather conditions to administrative and design issues. Co-channel interference may be controlled by various radio resource management schemes.

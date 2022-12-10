@@ -1,0 +1,6 @@
+Comparison sorts~Heaps (data structures)~Sorting algorithms~
+||||||
+Weak heap
+||||||
+In computer science, a weak heap is a data structure for priority queues, combining features of the binary heap and binomial heap.  It can be stored in an array as an implicit binary tree like a binary heap, and has the efficiency guarantees of binomial heaps.
+A sorting algorithm using weak heaps, weak-heapsort, uses a number of comparisons that is close to the theoretical lower bound on the number of comparisons required to sort a list, so is particularly useful when comparison is expensive, such as when comparing strings using the full Unicode collation algorithm.

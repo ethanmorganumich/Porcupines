@@ -1,0 +1,5 @@
+Graph algorithms~Iteration in programming~Recursion~Trees (data structures)~
+||||||
+Tree traversal
+||||||
+In computer science, tree traversal (also known as tree search and walking the tree) is a form of graph traversal and refers to the process of visiting (e.g. retrieving, updating, or deleting) each node in a tree data structure, exactly once. Such traversals are classified by the order in which the nodes are visited. The following algorithms are described for a binary tree, but they may be generalized to other trees as well.

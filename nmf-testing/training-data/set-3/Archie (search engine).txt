@@ -1,0 +1,5 @@
+History of the Internet~Internet Standards~Internet search engines~Unix Internet software~
+||||||
+Archie (search engine)
+||||||
+Archie is a tool for indexing FTP archives, allowing users to more easily identify specific files. It is considered the first Internet search engine. The original implementation was written in 1990 by Alan Emtage, then a postgraduate student at McGill University in Montreal, Canada.Archie has since been superseded by other, more sophisticated search engines, including Jughead and Veronica. These were in turn superseded by search engines like Yahoo! in 1995 and Google in 1997. Work on Archie ceased in the late 1990s. A legacy Archie server is still maintained active for historic purposes in Poland at University of Warsaw's Interdisciplinary Centre for Mathematical and Computational Modelling.

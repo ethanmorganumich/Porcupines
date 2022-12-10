@@ -1,0 +1,5 @@
+Common law legal terminology~Evidence law~
+||||||
+Relevance (law)
+||||||
+Relevance, in the common law of evidence, is the tendency of a given item of evidence to prove or disprove one of the legal elements of the case, or to have probative value to make one of the elements of the case likelier or not. Probative is a term used in law to signify "tending to prove". Probative evidence "seeks the truth". Generally in law, evidence that is not probative (doesn't tend to prove the proposition for which it is proffered) is inadmissible and the rules of evidence permit it to be excluded from a proceeding or stricken from the record "if objected to by opposing counsel".  A balancing test may come into the picture if the value of the evidence needs to be weighed versus its prejudicial nature.

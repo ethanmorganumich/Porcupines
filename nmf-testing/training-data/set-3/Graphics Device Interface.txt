@@ -1,0 +1,7 @@
+Graphics libraries~Microsoft application programming interfaces~Windows components~
+||||||
+Graphics Device Interface
+||||||
+The Graphics Device Interface (GDI) is a legacy component of Microsoft Windows responsible for representing graphical objects and transmitting them to output devices such as monitors and printers. Windows apps use Windows API to interact with GDI, for such tasks as drawing lines and curves, rendering fonts, and handling palettes. The Windows USER subsystem uses GDI to render such UI elements as window frames and menus. Other systems have components that are similar to GDI; for example: macOS has Quartz, and Linux has X Window System and Wayland (display server protocol).
+GDI's most significant advantages over more direct methods of accessing the hardware are perhaps its scaling capabilities and its abstract representation of target devices.  Using GDI, it is possible to draw on multiple devices, such as a screen and a printer, and expect proper reproduction in each case.  This capability is at the center of most "What You See Is What You Get" applications for Microsoft Windows.
+Simple games that do not require fast graphics rendering may use GDI. However, GDI is relatively hard to use for advanced animation, lacks a notion for synchronizing with individual video frames in the video card, and lacks hardware rasterization for 3D. Modern games usually use DirectX, Vulkan, or OpenGL instead.

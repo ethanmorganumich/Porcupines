@@ -1,0 +1,6 @@
+Musical notation~Pitch (music)~
+||||||
+Scientific pitch notation
+||||||
+Scientific pitch notation (SPN), also known as American standard pitch notation (ASPN) and international pitch notation (IPN), is a method of specifying musical pitch by combining a musical note name (with accidental if needed) and a number identifying the pitch's octave.
+Although scientific pitch notation was originally designed as a companion to scientific pitch (see below), the two are not synonymous. Scientific pitch is a pitch standard—a system that defines the specific frequencies of particular pitches (see below). Scientific pitch notation concerns only how pitch names are notated, that is, how they are designated in printed and written text, and does not inherently specify actual frequencies. Thus, the use of scientific pitch notation to distinguish octaves does not depend on the pitch standard used.

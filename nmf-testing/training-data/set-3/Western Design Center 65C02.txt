@@ -1,0 +1,8 @@
+65xx microprocessors~8-bit microprocessors~
+||||||
+WDC 65C02
+||||||
+The Western Design Center (WDC) 65C02 microprocessor is an enhanced CMOS version of the popular nMOS-based 8-bit MOS Technology 6502. The 65C02 fixed several problems in the original 6502 and added some new instructions, but its main feature was greatly lowered power usage, on the order of 10 to 20 times less than the original 6502 running at the same speed. The reduced power consumption made the 65C02 useful in portable computer roles and microcontroller systems in industrial settings.  It has been used in some home computers, as well as in embedded applications, including medical-grade implanted devices.
+Development of the WDC 65C02 began in 1981 with samples released in early 1983. The 65C02
+was officially released sometime shortly after. WDC licensed the design to Synertek, NCR, GTE, and Rockwell Semiconductor. Rockwell's primary interest was in the embedded market and asked for several new commands to be added to aid in this role. These were later copied back into the baseline version, at which point WDC added two new commands of their own to create the W65C02. Sanyo later licensed the design as well, and Seiko Epson produced a further modified version as the HuC6280.
+Early versions used 40-pin DIP packaging, and were available in 1, 2 and 4 MHz versions, matching the speeds of the original nMOS versions. Later versions were produced in PLCC and QFP packages, as well as PDIP, and with much higher clock speed ratings.  The current version from WDC, the W65C02S-14 has a fully static core and officially runs at speeds up to 14 MHz when powered at 5 volts.

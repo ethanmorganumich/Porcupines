@@ -1,0 +1,21 @@
+Commas (music)~Equal temperaments~
+||||||
+Holdrian comma
+||||||
+In music theory and musical tuning the Holdrian comma, also called Holder's comma, and rarely the Arabian comma, is a small musical interval of approximately 22.6415 cents, equal to one step of 53 equal temperament, or 
+  
+    
+      
+        
+          
+            2
+            
+              53
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{53}]{2}}}
+   (play ). The name comma is misleading, since this interval is an irrational number and does not describe the compromise between intervals of any tuning system; it assumes this name because it is an approximation of the syntonic comma (21.51 cents)(play ), which was widely used as a measurement of tuning in William Holder's time.
+The origin of Holder's comma resides in the fact that the Ancient Greeks (or at least Boethius) believed that in the Pythagorean tuning the tone could be divided in nine commas, four of which forming the diatonic semitone and five the chromatic semitone. If all these commas are exactly of the same size, there results an octave of 5 tones + 2 diatonic semitones, 5 × 9 + 2 × 4 = 53 equal commas. Holder attributes the division of the octave in 53 equal parts to Nicholas Mercator, who would have named the 1/53 part of the octave the "artificial comma".

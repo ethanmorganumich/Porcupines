@@ -1,0 +1,6 @@
+Number theoretic algorithms~
+||||||
+Binary GCD algorithm
+||||||
+The binary GCD algorithm, also known as Stein's algorithm or the binary Euclidean algorithm, is an algorithm that computes the greatest common divisor of two nonnegative integers. Stein's algorithm uses simpler arithmetic operations than the conventional Euclidean algorithm; it replaces division with arithmetic shifts, comparisons, and subtraction.
+Although the algorithm in its contemporary form was first published by the Israeli physicist and programmer Josef Stein in 1967, it may have been known by the 2nd century BCE, in ancient China.

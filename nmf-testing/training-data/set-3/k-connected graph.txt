@@ -1,0 +1,6 @@
+Graph connectivity~Graph families~
+||||||
+K-vertex-connected graph
+||||||
+In graph theory, a connected graph G is said to be k-vertex-connected (or k-connected) if it has more than k vertices and remains connected whenever fewer than k vertices are removed.
+The vertex-connectivity, or just connectivity, of a graph is the largest k for which the graph is k-vertex-connected.

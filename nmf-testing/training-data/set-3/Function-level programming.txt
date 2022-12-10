@@ -1,0 +1,9 @@
+Programming language theory~Programming paradigms~
+||||||
+Function-level programming
+||||||
+In computer science, function-level programming refers to one of the two contrasting programming paradigms identified by John Backus in his work on programs as mathematical objects, the other being value-level programming.
+In his 1977 Turing Award lecture, Backus set forth what he considered to be the need to switch to a different philosophy in programming language design:
+Programming languages appear to be in trouble. Each successive language incorporates, with a little cleaning up, all the features of its predecessors plus a few more. [...] Each new language claims new and fashionable features... but the plain fact is that few languages make programming sufficiently cheaper or more reliable to justify the cost of producing and learning to use them.
+He designed FP to be the first programming language to specifically support the function-level programming style.
+A function-level program is variable-free (cf. point-free programming), since program variables, which are essential in value-level definitions, are not needed in function-level programs.

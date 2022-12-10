@@ -1,0 +1,24 @@
+Abstraction~Critical thinking~Formal sciences~History of logic~History of philosophy~Intellectual history~Logic~Philosophical logic~Philosophy of logic~Reasoning~Thought~
+||||||
+Logic
+||||||
+Logic is the study of correct reasoning. It includes both formal and informal logic. Formal logic is the science of deductively valid inferences or of logical truths. It is a formal science investigating how conclusions follow from premises in a topic-neutral way. When used as a countable noun, the term "a logic" refers to a logical formal system that articulates a proof system. Formal logic contrasts with informal logic, which is associated with informal fallacies, critical thinking, and argumentation theory. While there is no general agreement on how formal and informal logic are to be distinguished, one prominent approach associates their difference with whether the studied arguments are expressed in formal or informal languages. Logic plays a central role in multiple fields, such as philosophy, mathematics, computer science, and linguistics.
+Logic studies arguments, which consist of a set of premises together with a conclusion. Premises and conclusions are usually understood either as sentences or as propositions and are characterized by their internal structure; complex propositions are made up of simpler propositions linked to each other by propositional connectives like 
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \land }
+   (and) or 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \to }
+   (if...then). The truth of a proposition usually depends on the denotations of its constituents. Logically true propositions constitute a special case since their truth depends only on the logical vocabulary used in them and not on the denotations of other terms. 
+Arguments can be either correct or incorrect. An argument is correct if its premises support its conclusion. The strongest form of support is found in deductive arguments: it is impossible for their premises to be true and their conclusion to be false. Deductive arguments contrast with ampliative arguments, which may arrive in their conclusion at new information that is not present in the premises. However, it is possible for all their premises to be true while their conclusion is still false. Many arguments found in everyday discourse and the sciences are ampliative arguments, sometimes divided into inductive and abductive arguments. Inductive arguments usually take the form of statistical generalizations while abductive arguments are inferences to the best explanation. Arguments that fall short of the standards of correct reasoning are called fallacies.
+Systems of logic are theoretical frameworks for assessing the correctness of reasoning and arguments. Logic has been studied since Antiquity; early approaches include Aristotelian logic, Stoic logic, Anviksiki, and the mohists. Modern formal logic has its roots in the work of late 19th-century mathematicians such as Gottlob Frege. While Aristotelian logic focuses on reasoning in the form of syllogisms, in the modern era its traditional dominance was replaced by classical logic, a set of fundamental logical intuitions shared by most logicians. It consists of propositional logic, which only considers the logical relations on the level of propositions, and first-order logic, which also articulates the internal structure of propositions using various linguistic devices, such as predicates and quantifiers. Extended logics accept the basic intuitions behind classical logic and extend it to other fields, such as metaphysics, ethics, and epistemology. Deviant logics, on the other hand, reject certain classical intuitions and provide alternative accounts of the fundamental laws of logic.

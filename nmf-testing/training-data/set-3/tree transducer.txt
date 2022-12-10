@@ -1,0 +1,7 @@
+Automata (computation)~Finite automata~Formal languages~Theoretical computer science~Trees (data structures)~
+||||||
+Tree transducer
+||||||
+In theoretical computer science and formal language theory, a tree transducer (TT) is an abstract machine taking as input a tree, and generating output – generally other trees, but models producing words or other structures exist. Roughly speaking, tree transducers extend tree automata in the same way that word transducers extend word automata.
+Manipulating tree structures instead of words enable TT to model syntax-directed transformations of formal or natural languages. However, TT are not as well-behaved as their word counterparts in terms of algorithmic complexity, closure properties, etcetera. In particular, most of the main classes are not closed under composition.
+The main classes of tree transducers are:

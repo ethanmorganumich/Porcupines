@@ -1,0 +1,5 @@
+Computer connectors~RF connectors~
+||||||
+N connector
+||||||
+The N connector (also, type-N connector) is a threaded, weatherproof, medium-size RF connector used to join coaxial cables.  It was one of the first connectors capable of carrying microwave-frequency signals, and was invented in the 1940s by Paul Neill of Bell Labs, after whom the connector is named.

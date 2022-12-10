@@ -1,0 +1,8 @@
+Electric transformers~Telecommunications equipment~
+||||||
+Hybrid coil
+||||||
+A hybrid coil (or bridge transformer, or sometimes hybrid) is a transformer that has three windings, and which is designed to be configured as a circuit having four ports that are conjugate in pairs.
+A signal arriving at one port is divided equally between the two adjacent ports but does not appear at the opposite port. In the schematic diagram, the signal into W  splits between X and Z, and no signal passes to Y. Similarly, signals into X split to W and Y with none to Z, etc.
+Correct operation requires matched characteristic impedance at all four ports.  Hybrids are a class of directional coupler in which the input port power is split equally between the two output ports.  Forms of hybrid other than transformer coils are possible; any format of directional coupler can be designed to be a hybrid.  These formats include transmission lines and waveguides.
+

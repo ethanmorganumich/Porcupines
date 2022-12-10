@@ -1,0 +1,5 @@
+Graph theory objects~
+||||||
+Path cover
+||||||
+Given a directed graph G = (V, E), a path cover is a set of directed paths such that every vertex v ∈ V belongs to at least one path.  Note that a path cover may include paths of length 0 (a single vertex).A path cover may also refer to a vertex-disjoint path cover, i.e., a set of paths such that every vertex v ∈ V belongs to exactly one path.

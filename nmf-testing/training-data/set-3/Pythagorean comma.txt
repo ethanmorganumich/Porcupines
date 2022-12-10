@@ -1,0 +1,6 @@
+3-limit tuning and intervals~Commas (music)~
+||||||
+Pythagorean comma
+||||||
+In musical tuning, the Pythagorean comma (or ditonic comma), named after the ancient mathematician and philosopher Pythagoras, is the small interval (or comma) existing in Pythagorean tuning between two enharmonically equivalent notes such as C and B♯ (Play ), or D♭ and C♯. It is equal to the frequency ratio (1.5)12⁄27 = 531441⁄524288 ≈ 1.01364, or about 23.46 cents, roughly a quarter of a semitone (in between 75:74 and 74:73). The comma that musical temperaments often refer to tempering is the Pythagorean comma.The Pythagorean comma can be also defined as the difference between a Pythagorean apotome and a Pythagorean limma (i.e., between a chromatic and a diatonic semitone, as determined in Pythagorean tuning), or the difference between twelve just perfect fifths and seven octaves, or the difference between three Pythagorean ditones and one octave (this is the reason why the Pythagorean comma is also called a ditonic comma).
+The diminished second, in Pythagorean tuning, is defined as the difference between limma and apotome. It coincides, therefore, with the opposite of a Pythagorean comma, and can be viewed as a descending Pythagorean comma (e.g. from C♯ to D♭), equal to about −23.46 cents.

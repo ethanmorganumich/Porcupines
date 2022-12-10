@@ -1,0 +1,140 @@
+Foreign exchange market~
+||||||
+Effective exchange rate
+||||||
+The effective exchange rate is an index that describes the strength of a currency relative to a basket of other currencies. Suppose a country has 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   trading partners and denote 
+  
+    
+      
+        T
+        r
+        a
+        d
+        
+          e
+          
+            i
+          
+        
+      
+    
+    {\displaystyle Trade_{i}}
+   and 
+  
+    
+      
+        
+          E
+          
+            i
+          
+        
+      
+    
+    {\displaystyle E_{i}}
+  as the trade and exchange rate with country 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   respectively. Then the effective exchange rate is calculated as:
+
+  
+    
+      
+        
+          E
+          
+            e
+            f
+            f
+            e
+            c
+            t
+            i
+            v
+            e
+          
+        
+        =
+        
+          E
+          
+            1
+          
+        
+        
+          
+            
+              T
+              r
+              a
+              d
+              
+                e
+                
+                  1
+                
+              
+            
+            
+              T
+              r
+              a
+              d
+              e
+            
+          
+        
+        +
+        .
+        .
+        .
+        +
+        
+          E
+          
+            N
+          
+        
+        
+          
+            
+              T
+              r
+              a
+              d
+              
+                e
+                
+                  N
+                
+              
+            
+            
+              T
+              r
+              a
+              d
+              e
+            
+          
+        
+      
+    
+    {\displaystyle E_{effective}=E_{1}{\frac {Trade_{1}}{Trade}}+...+E_{N}{\frac {Trade_{N}}{Trade}}}
+  
+Although typically that basket is trade-weighted, the trade-weighted effective exchange rate index is not the only way to derive a meaningful effective exchange rate index.  Ho (2012) proposed a new approach to compiling effective exchange rate indices.  It defines the effective exchange rate as the ratio of the "normalized Exchange Value of Currency i against the US dollar" to the normalized exchange value of the "benchmark currency basket" against the US dollar. The US dollar is here used as numeraire for convenience, and since it cancels out, in principle any other currency can be used instead without affecting the results.   The benchmark currency basket is a GDP-weighted basket of the major fully convertible currencies of the world.
+Bilateral exchange rate involves a currency pair, while an effective exchange rate is a weighted average of a basket of foreign currencies, and it can be viewed as an overall measure of the country's external competitiveness. A nominal effective exchange rate (NEER) is weighted with the inverse of the asymptotic trade weights. A real effective exchange rate (REER) adjusts NEER by the appropriate foreign price level and deflates by the home country price level. There are four aspects for alternative measures of REER which are (a) using end-of-period or period averages of the nominal exchange rate. (b) choosing price indexes. (c) in obtaining the real effective exchange rates, deciding upon the number of trading partners in calculating the weights. (d) deciding upon the formula to use in aggregation. Considering all these aspects together led to the calculation of a great number of alternative series.The Bank for International Settlements provides four sets of effective exchange rates, updated monthly. One pair uses a "narrow" set of 27 countries with data going back to 1964, both in nominal terms and as a "real" effective exchange rate adjusted using consumer price inflation. The "broad" set covers 61 economies, but with data only from 1994, again available both as a nominal series and adjusted for relative inflation. The trade weights are not updated monthly; as of March 2016, the base period was the average over 2011–13.
+Effective exchange rates are useful for gauging whether a currency has appreciated overall relative to trading partners. For example, in 2015 the Chinese RMB depreciated about 8% against the US dollar. However, more of China's trade is with Asia and Europe than with the United States, and the dollar appreciated against those currencies. The net effect was that once weighted by trade shares the value of the Chinese currency actually appreciated approximately 10% relative to its trading partners.EER are still volatile over short periods of time and a poor guide for comparing standards of living across countries. For that purpose Purchasing Power Parity measures are more appropriate.

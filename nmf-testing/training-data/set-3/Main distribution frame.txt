@@ -1,0 +1,6 @@
+Telephone exchanges~Telephony equipment~
+||||||
+Main distribution frame
+||||||
+In telephony, a main distribution frame (MDF or main frame) is a signal distribution frame for connecting equipment (inside plant) to cables and subscriber carrier equipment (outside plant). 
+

@@ -1,0 +1,5 @@
+Optical filters~Polarization (waves)~
+||||||
+Polarizing filter (photography)
+||||||
+A polarizing filter or polarising filter (see spelling differences) is often placed in front of the camera lens in photography in order to darken skies, manage reflections, or suppress glare from the surface of lakes or the sea. Since reflections (and sky-light) tend to be at least partially linearly-polarized, a linear polarizer can be used to change the balance of the light in the photograph. The rotational orientation of the filter is adjusted for the preferred artistic effect. For modern cameras, a circular polarizer (CPL) is typically used; this comprises firstly a linear polarizer which performs the artistic function just described, followed by a quarter-wave plate which further transforms the now-linearly polarized light into circularly-polarized light before entering the camera. This additional step avoids problems with autofocus and light-metering sensors within some cameras, which otherwise may not function reliably with a simple linear polarizer.

@@ -1,0 +1,7 @@
+Anthropology~Behavioural sciences~Correlates of crime~Covariance and correlation~Criminology~Forensic psychology~
+||||||
+Correlates of crime
+||||||
+The correlates of crime explore the associations of specific non-criminal factors with specific crimes.
+The field of criminology studies the dynamics of crime. Most of these studies use correlational data; that is, they attempt to identify various factors are associated with specific categories of criminal behavior. Such correlational studies led to hypotheses about the causes of these crimes.
+The Handbook of Crime Correlates (2009) is a systematic review of 5200 empirical studies on crime that have been published worldwide. A crime consistency score represents the strength of relationships. The scoring depends on how consistently a statistically significant relationship was identified across multiple studies. The authors claim that the review summarizes most of what is currently known about the variables associated with criminality. Writing in 2019, criminologist Greg Ridgeway argued that criminology was still trying to conclusively determine what causes crime.

@@ -1,0 +1,7 @@
+Chords~Music theory stubs~Pentatonic scales~Simultaneities (music)~
+||||||
+Pentachord
+||||||
+A pentachord in music theory may be either of two things. In pitch-class set theory, a pentachord is defined as any five pitch classes, regarded as an unordered collection (Roeder 2001). In other contexts, a pentachord may be any consecutive five-note section of a diatonic scale (Latham 2002). A pentad is a five-note chord (Bailey 1991, 450).
+Under the latter definition, a diatonic scale comprises five non-transpositionally equivalent pentachords rather than seven because the Ionian and Mixolydian pentachords and the Dorian and Aeolian pentachords are intervallically identical (CDEFG=GABCD; DEFGA=ABCDE).
+The name "pentachord" was also given to a musical instrument, now in disuse, built to the specifications of Sir Edward Walpole. It was demonstrated by Karl Friedrich Abel at his first public concert in London, on 5 April 1759, when it was described as "newly invented" (Knape, Charters, and McVeigh 2001). In the dedication to Walpole of his cello sonatas op. 3, the cellist/composer James Cervetto praised the pentachord, declaring: "I know not a more fit Instrument to Accompany the Voice" (Charters 1973, 1224). Performances on the instrument are documented as late as 1783, after which it seems to have fallen out of use. It appears to have been similar to a five-string violoncello (McLamore 2004, 84).

@@ -1,0 +1,8 @@
+JEDEC standards~SDRAM~South Korean inventions~
+||||||
+DDR SDRAM
+||||||
+Double Data Rate Synchronous Dynamic Random-Access Memory (DDR SDRAM) is a double data rate (DDR) synchronous dynamic random-access memory (SDRAM) class of memory integrated circuits used in computers. DDR SDRAM, also retroactively called DDR1 SDRAM, has been superseded by DDR2 SDRAM, DDR3 SDRAM, DDR4 SDRAM and DDR5 SDRAM. None of its successors are forward or backward compatible with DDR1 SDRAM, meaning DDR2, DDR3, DDR4 and DDR5 memory modules will not work in DDR1-equipped motherboards, and vice versa.
+Compared to single data rate (SDR) SDRAM, the DDR SDRAM interface makes higher transfer rates possible by more strict control of the timing of the electrical data and clock signals. Implementations often have to use schemes such as phase-locked loops and self-calibration to reach the required timing accuracy. The interface uses double pumping (transferring data on both the rising and falling edges of the clock signal) to double data bus bandwidth without a corresponding increase in clock frequency. One advantage of keeping the clock frequency down is that it reduces the signal integrity requirements on the circuit board connecting the memory to the controller. The name "double data rate" refers to the fact that a DDR SDRAM with a certain clock frequency achieves nearly twice the bandwidth of a SDR SDRAM running at the same clock frequency, due to this double pumping.
+With data being transferred 64 bits at a time, DDR SDRAM gives a transfer rate (in bytes/s) of (memory bus clock rate) × 2 (for dual rate) × 64 (number of bits transferred) / 8 (number of bits/byte). Thus, with a bus frequency of 100 MHz, DDR SDRAM gives a maximum transfer rate of 1600 MB/s.
+

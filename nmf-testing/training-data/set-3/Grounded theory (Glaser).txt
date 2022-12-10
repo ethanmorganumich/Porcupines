@@ -1,0 +1,6 @@
+Psychological theories~Qualitative research~Research methods~
+||||||
+Grounded theory
+||||||
+Grounded theory is a systematic methodology that has been largely applied to qualitative research conducted by social scientists. The methodology involves the construction of hypotheses and theories through the collecting and analysis of data. Grounded theory involves the application of inductive reasoning. The methodology contrasts with the hypothetico-deductive model used in traditional scientific research.
+A study based on grounded theory is likely to begin with a question, or even just with the collection of qualitative data. As researchers review the data collected, ideas or concepts become apparent to the researchers. These ideas/concepts are said to "emerge" from the data. The researchers tag those ideas/concepts with codes that succinctly summarize the ideas/concepts. As more data are collected and re-reviewed, codes can be grouped into higher-level concepts and then into categories. These categories become the basis of a hypothesis or a new theory. Thus, grounded theory is quite different from the traditional scientific model of research, where the researcher chooses an existing theoretical framework, develops one or more hypotheses derived from that framework, and only then collects data for the purpose of assessing the validity of the hypotheses.

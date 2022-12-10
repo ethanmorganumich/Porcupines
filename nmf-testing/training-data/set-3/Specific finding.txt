@@ -1,0 +1,5 @@
+Criminal procedure~United States law stubs~
+||||||
+Specific finding
+||||||
+A specific finding pertains to a type of verdict rendered in a jury trial. A judge may direct questions at the jury to be answered as part of its deliberations. These questions are meant to guide the jury through the facts of the case or the elements of each claim that must be proven. The answers returned by the jury, the specific findings, are then used to resolve the case as a matter of law.For example, in a civil tort, if the jury makes the specific finding that a defendant's actions did not proximately cause the plaintiff's injury, the defendant may as a matter of law be held not liable to the plaintiff.

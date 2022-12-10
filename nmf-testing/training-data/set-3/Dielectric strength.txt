@@ -1,0 +1,9 @@
+Electricity~
+||||||
+Dielectric strength
+||||||
+In physics, the term dielectric strength has the following meanings:
+
+for a pure electrically insulating material, the maximum electric field that the material can withstand under ideal conditions without undergoing electrical breakdown and becoming electrically conductive (i.e. without failure of its insulating properties).
+For a specific piece of dielectric material and location of electrodes, the minimum applied electric field (i.e. the applied voltage divided by electrode separation distance) that results in breakdown. This is the concept of breakdown voltage.The theoretical dielectric strength of a material is an intrinsic property of the bulk material, and is independent of the configuration of the material or the electrodes with which the field is applied. This "intrinsic dielectric strength" corresponds to what would be measured using pure materials under ideal laboratory conditions. At breakdown, the electric field frees bound electrons. If the applied electric field is sufficiently high, free electrons from background radiation may be accelerated to velocities that can liberate additional electrons by collisions with neutral atoms or molecules, in a process known as avalanche breakdown. Breakdown occurs quite abruptly (typically in nanoseconds), resulting in the formation of an electrically conductive path and a disruptive discharge through the material. In a solid material, a breakdown event severely degrades, or even destroys, its insulating capability.
+

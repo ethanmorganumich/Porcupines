@@ -1,0 +1,11 @@
+Melody~Perception~Sound~
+||||||
+Constant spectrum melody
+||||||
+A constant timbre at a constant pitch is characterized by a spectrum.
+Along a piece of music, the spectrum measured within a narrow time window varies with the melody and the possible effects of instruments.
+Therefore, it may seem paradoxical that a constant spectrum can be perceived as a melody rather than a stamp.
+The paradox is that the ear is not an abstract spectrograph: it "calculates" the Fourier transform of the audio signal in a narrow time window, but the slower variations are seen as temporal evolution and not as pitch.
+However, the example of paradoxical melody above contains no infrasound (i.e. pure tone of period slower than the time window).
+The second paradox is that when two pitches are very close, they create a beat. If the period of this beat is longer than the integration window, it is seen as a sinusoidal variation in the average rating: sin(2π(f+ε)t) + sin(2π(f-ε)t) = sin(2πft)cos(2πεt), where 1/ε is the slow period.
+The present spectrum is made of multiple frequencies beating together, resulting in a superimposition of various pitches fading in and out at different moments and pace, thus forming the melody.

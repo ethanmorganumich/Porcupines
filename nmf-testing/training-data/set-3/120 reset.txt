@@ -1,0 +1,5 @@
+Computer hardware~Electric power distribution~Out-of-band management~
+||||||
+Power cycling
+||||||
+Power cycling is the act of turning a piece of equipment, usually a computer, off and then on again. Reasons for power cycling include having an electronic device reinitialize its set of configuration parameters or recover from an unresponsive state of its mission critical functionality, such as in a crash or hang situation. Power cycling can also be used to reset network activity inside a modem. It can also be among the first steps for troubleshooting an issue.

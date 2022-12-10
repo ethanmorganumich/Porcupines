@@ -1,0 +1,11 @@
+Heuristics~
+||||||
+Self-organising heuristic
+||||||
+In computing, a Self-organising heuristic is an algorithm that modifies a data structure such as a linked list in response to use of the data structure.
+Examples might be:
+
+Move-to-front (or 'Move to top')
+Self-learning Frequency list (or 'Order by access frequency')
+Re-insert at random position
+Move to back

@@ -1,0 +1,6 @@
+Area~Metaphors referring to food and drink~Pizza~Proof without words~Theorems about circles~
+||||||
+Pizza theorem
+||||||
+In elementary geometry, the pizza theorem states the equality of two areas that arise when one partitions a disk in a certain way.
+The theorem is so called because it mimics a traditional pizza slicing technique. It shows that if two people share a pizza sliced into 8 pieces (or any multiple of 4 greater than 8), and take alternating slices, then they will each get an equal amount of pizza, irrespective of whether the central cutting point of these slices was in the very center of the circle.

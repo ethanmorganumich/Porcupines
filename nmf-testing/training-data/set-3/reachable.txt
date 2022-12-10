@@ -1,0 +1,86 @@
+Graph connectivity~
+||||||
+Reachability
+||||||
+In graph theory, reachability refers to the ability to get from one vertex to another within a graph. A vertex 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   can reach a vertex 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   (and 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   is reachable from 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  ) if there exists a sequence of adjacent vertices (i.e. a walk) which starts with 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   and ends with 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  .
+In an undirected graph, reachability between all pairs of vertices can be determined by identifying the connected components of the graph. Any pair of vertices in such a graph can reach each other if and only if they belong to the same connected component; therefore, in such a graph, reachability is symmetric (
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+   reaches 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   iff 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   reaches 
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  ). The connected components of an undirected graph can be identified in linear time. The remainder of this article focuses on the more difficult problem of determining pairwise reachability in a directed graph (which, incidentally, need not be symmetric).

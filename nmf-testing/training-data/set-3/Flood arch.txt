@@ -1,0 +1,6 @@
+Arches and vaults~Bridge (structure) stubs~Bridge components~Building and structure type stubs~
+||||||
+Flood arch
+||||||
+A flood arch is a small supplemental arch bridge provided alongside a main bridge. It provides extra capacity for floodwater.The space beneath a flood arch is normally dry and often carries a towpath or similar. In some cases it borders on the shallow edge of a river, but this does not carry substantial flow in normal conditions. A bridge with multiple arches across a flowing river would instead be termed a viaduct.
+For some bridges, flood arches were added after the first bridge had been constructed, often after initial flooding.

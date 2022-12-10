@@ -1,0 +1,9 @@
+Just tuning and intervals~Music theory~Pitch space~
+||||||
+Vogel's Tonnetz
+||||||
+Vogel's Tonnetz is a graphical and mathematical representation of the scale range of just intonation, introduced by German music theorist Martin Vogel 1976 in his book Die Lehre von den Tonbeziehungen (English: On the Relations of Tone, 1993). 
+The graphical representation is based on Euler's Tonnetz, adding a third dimension for just sevenths to the two dimensions for just fifths and just thirds. 
+It serves to illustrate and analyze chords and their relations.
+The four-dimensional mathematical representation including octaves allows the Evaluation of the congruency of harmonics of chords depending on the tonal material. 
+It can thus also serve to determine the optimal tonal material for a certain chord.

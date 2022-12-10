@@ -1,0 +1,6 @@
+Law stubs~United States labor law~
+||||||
+Scope of employment
+||||||
+Scope of employment is the legal consideration of the various activities which may occur in the performance of a person's job, especially those acts which are reasonably relative to the job description and foreseeable by the employer.
+Key examples of this consideration under US law can include tort liability of the employer due to a duty to supervise or control the employee. If a security guard harms a customer in a retail store, a court may consider if the employee's harmful acts were foreseeable by the employer to the point that the employer should have instituted reasonable precautions to prevent the resulting harm.  Extreme examples would likely find the employer is liable for the employee using a gun which was permitted on the job, but perhaps not if strict instructions against carrying guns on the job had been given to the employee who ignored them.

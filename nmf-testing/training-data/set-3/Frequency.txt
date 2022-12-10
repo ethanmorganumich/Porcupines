@@ -1,0 +1,5 @@
+Frequency~
+||||||
+Frequency
+||||||
+Frequency is the number of occurrences of a repeating event per unit of time. It is also occasionally referred to as temporal frequency to emphasize the contrast to spatial frequency, and ordinary frequency to emphasize the contrast to angular frequency. Frequency is expressed in units of hertz (Hz) which is equivalent to one (event) per second.  The corresponding period is the time duration of one cycle in a repeating event, so the period is the reciprocal of the frequency.  For example, if a heart beats at a frequency of 120 times a minute (2 hertz), its period, T—the time interval between beats—is half a second (60 seconds divided by 120 beats). Frequency is an important parameter used in science and engineering to specify the temporal rate of change observed in oscillatory and periodic phenomena, such as mechanical vibrations, audio signals (sound), radio waves, and light.

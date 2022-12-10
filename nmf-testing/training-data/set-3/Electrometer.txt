@@ -1,0 +1,5 @@
+Electrical meters~Electricity~Measuring instruments~Voltmeters~
+||||||
+Electrometer
+||||||
+An electrometer is an electrical instrument for measuring electric charge or electrical potential difference. There are many different types, ranging from historical handmade mechanical instruments to high-precision electronic devices. Modern electrometers based on vacuum tube or solid-state technology can be used to make voltage and charge measurements with very low leakage currents, down to 1 femtoampere. A simpler but related instrument, the electroscope, works on similar principles but only indicates the relative magnitudes of voltages or charges.

@@ -1,0 +1,7 @@
+Integrated circuits~Intellectual property law~
+||||||
+Integrated circuit layout design protection
+||||||
+Layout designs (topographies) of integrated circuits are a field in the protection of intellectual property.
+In United States intellectual property law, a "mask work" is a two or three-dimensional layout or topography of an integrated circuit (IC or "chip"), i.e. the arrangement on a chip of semiconductor devices such as transistors and passive electronic components such as resistors and interconnections. The layout is called a mask work because, in photolithographic processes, the multiple etched layers within actual ICs are each created using a mask, called the photomask, to permit or block the light at specific locations, sometimes for hundreds of chips on a wafer simultaneously.
+Because of the functional nature of the mask geometry, the designs cannot be effectively protected under copyright law (except perhaps as decorative art). Similarly, because individual lithographic mask works are not clearly protectable subject matter; they also cannot be effectively protected under patent law, although any processes implemented in the work may be patentable. So since the 1990s, national governments have been granting copyright-like exclusive rights conferring time-limited exclusivity to reproduction of a particular layout. Terms of integrated circuit rights are usually shorter than copyrights applicable on pictures.

@@ -1,0 +1,8 @@
+Aerial maneuvers~Aviation risks~Emergency aircraft operations~
+||||||
+Spin (aerodynamics)
+||||||
+In flight dynamics a spin is a special category of stall resulting in autorotation (uncommanded roll) about the aircraft's longitudinal axis and a shallow, rotating, downward path approximately centred on a vertical axis. Spins can be entered intentionally or unintentionally, from any flight attitude if the aircraft has sufficient yaw while at the stall point.
+In a normal spin, the wing on the inside of the turn stalls while the outside wing remains flying. It is possible for both wings to stall, but the angle of attack of each wing, and consequently its lift and drag, are different.Either situation causes the aircraft to autorotate toward the stalled wing due to its higher drag and loss of lift. Spins are characterized by high angle of attack, an airspeed below the stall on at least one wing and a shallow descent. Recovery and avoiding a crash may require a specific and counter-intuitive set of actions.
+A spin differs from a spiral dive, in which neither wing is stalled and which is characterized by a low angle of attack and high airspeed. A spiral dive is not a type of spin because neither wing is stalled. In a spiral dive, the aircraft responds conventionally to the pilot's inputs to the flight controls, and recovery from a spiral dive requires a different set of actions from those required to recover from a spin.In the early years of flight, a spin was frequently referred to as a "tailspin".
+

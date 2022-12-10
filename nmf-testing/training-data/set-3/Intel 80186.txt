@@ -1,0 +1,5 @@
+16-bit microprocessors~Intel microcontrollers~Intel x86 microprocessors~
+||||||
+Intel 80186
+||||||
+The Intel 80186, also known as the iAPX 186, or just 186, is a microprocessor and microcontroller introduced in 1982. It was based on the Intel 8086 and, like it, had a 16-bit external data bus multiplexed with a 20-bit address bus. The 80188 variant, with an 8-bit external data bus was also available.

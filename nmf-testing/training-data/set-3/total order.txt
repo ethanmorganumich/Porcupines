@@ -1,0 +1,142 @@
+Binary relations~Order theory~Set theory~
+||||||
+Total order
+||||||
+In mathematics, a total or linear order is a partial order in which any two elements are comparable.  That is, a total order is a binary relation 
+  
+    
+      
+        ≤
+      
+    
+    {\displaystyle \leq }
+   on some set 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , which satisfies the following for all 
+  
+    
+      
+        a
+        ,
+        b
+      
+    
+    {\displaystyle a,b}
+   and 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  :
+
+  
+    
+      
+        a
+        ≤
+        a
+      
+    
+    {\displaystyle a\leq a}
+   (reflexive).
+If 
+  
+    
+      
+        a
+        ≤
+        b
+      
+    
+    {\displaystyle a\leq b}
+   and 
+  
+    
+      
+        b
+        ≤
+        c
+      
+    
+    {\displaystyle b\leq c}
+   then 
+  
+    
+      
+        a
+        ≤
+        c
+      
+    
+    {\displaystyle a\leq c}
+   (transitive).
+If 
+  
+    
+      
+        a
+        ≤
+        b
+      
+    
+    {\displaystyle a\leq b}
+   and 
+  
+    
+      
+        b
+        ≤
+        a
+      
+    
+    {\displaystyle b\leq a}
+   then 
+  
+    
+      
+        a
+        =
+        b
+      
+    
+    {\displaystyle a=b}
+   (antisymmetric).
+
+  
+    
+      
+        a
+        ≤
+        b
+      
+    
+    {\displaystyle a\leq b}
+   or 
+  
+    
+      
+        b
+        ≤
+        a
+      
+    
+    {\displaystyle b\leq a}
+   (strongly connected, formerly called total).Total orders are sometimes also called simple, connex, or full orders.A set equipped with a total order is a totally ordered set; the terms simply ordered set, linearly ordered set, and loset are also used. The term chain is sometimes defined as a synonym of totally ordered set, but refers generally to some sort of totally ordered subsets of a given partially ordered set.
+An extension of a given partial order to a total order is called a linear extension of that partial order.

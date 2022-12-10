@@ -1,0 +1,5 @@
+Conductive polymers~Molecular electronics~Nanoelectronics~Organic polymers~Organic semiconductors~
+||||||
+Molecular electronics
+||||||
+Molecular electronics is the study and application of molecular building blocks for the fabrication of electronic components. It is an interdisciplinary area that spans physics, chemistry, and materials science. The unifying feature is use of molecular building blocks to fabricate electronic components. Due to the prospect of size reduction in electronics offered by molecular-level control of properties, molecular electronics has generated much excitement. It provides a potential means to extend Moore's Law beyond the foreseen limits of small-scale conventional silicon integrated circuits.

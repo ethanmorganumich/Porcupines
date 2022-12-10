@@ -1,0 +1,5 @@
+Modes (music)~
+||||||
+Aeolian mode
+||||||
+The Aeolian mode is a musical mode or, in modern usage, a diatonic scale also called the natural minor scale. On the white piano keys, it is the scale that starts with A. Its ascending interval form consists of a key note, whole step, half step, whole step, whole step, half step, whole step, whole step. That means that, in A aeolian (or A minor), you would play A, move up a whole step (two piano keys) to B, move up a half step (one piano key) to C, then up a whole step to D, a whole step to E, a half step to F, a whole step to G, and a final whole step to a high A.

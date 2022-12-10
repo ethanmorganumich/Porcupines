@@ -1,0 +1,5 @@
+Combinatorial optimization~Graph algorithms~Hamiltonian paths and cycles~
+||||||
+Bottleneck traveling salesman problem
+||||||
+The Bottleneck traveling salesman problem (bottleneck TSP) is a problem in discrete or combinatorial optimization.  The problem is to find the Hamiltonian cycle (visiting each node exactly once) in a weighted graph which minimizes the weight of the highest-weight edge of the cycle. It was first formulated by Gilmore & Gomory (1964) with some additional constraints, and in its full generality by Garfinkel & Gilbert (1978).

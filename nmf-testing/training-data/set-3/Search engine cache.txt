@@ -1,0 +1,7 @@
+Internet search engines~Web crawlers~Web scraping~World Wide Web stubs~
+||||||
+Search engine cache
+||||||
+Search engine cache is a cache of web pages that shows the page as it was when it was indexed by a web crawler. Cached versions of web pages can be used to view the contents of a page when the live version cannot be reached, has been altered or taken down.When a web crawler crawls the web, it collects the contents of each page to allow the page to be indexed by the search engine. At the same time, it can store a copy of that page. The search engine may make the copy accessible to users in the search engine results. Web crawlers that obey restrictions given in robots.txt or meta tags by the webmaster may not make a cached copy available to search engine users if instructed not to.
+Search engine cache can be used for crime investigation, legal proceedings and journalism. Examples of search engines that offer their users cached versions of web pages are Google Search, Bing, Yandex Search, and Baidu.
+Search engine cache may not be fully protected by the usual laws that protect technology providers from copyright infringement claims.Some search engine caches may be equipped with additional functionality such as the ability to view the page as simple unstyled hypertext or its source code, as supported by Google Cache ("Full version", "Text-only version", "View source").

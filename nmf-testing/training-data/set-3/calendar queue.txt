@@ -1,0 +1,5 @@
+Priority queues~
+||||||
+Calendar queue
+||||||
+A calendar queue (CQ) is a priority queue (queue in which every element has associated priority and the dequeue operation removes the highest priority element). It is analogous to desk calendar, which is used by humans for ordering future events by date. Discrete event simulations require a future event list (FEL) structure that sorts pending events according to their time. Such simulators require a good and efficient data structure as time spent on queue management can be significant. The calendar queue (with optimum bucket size) can approach O(1) average performance. Calendar queues are closely related to bucket queues but differ from them in how they are searched and in being dynamically resized.

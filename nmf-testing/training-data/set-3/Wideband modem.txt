@@ -1,0 +1,8 @@
+Computer hardware stubs~Modems~Networking hardware~
+||||||
+Wideband modem
+||||||
+In telecommunication, the term wideband modem has the following meanings: 
+
+A modem whose modulated output signal can have an essential frequency spectrum that is broader than that which can be wholly contained within, and faithfully transmitted through, a voice channel with a nominal 4 kHz bandwidth.
+A modem whose bandwidth capability is greater than that of a narrowband modem.

@@ -1,0 +1,8 @@
+Database stubs~Geographical databases~
+||||||
+Aerodrome mapping database
+||||||
+An aerodrome mapping database is a geographic information system (GIS) database to describe airports. The following standards have been defined by the RTCA and EUROCAE:
+
+RTCA DO-272A/EUROCAE ED-99A: User requirements for aerodrome mapping information
+RTCA DO-291/EUROCAE ED-119: Interchange standards for terrain, obstacle, and aerodrome mapping data

@@ -1,0 +1,6 @@
+Acoustics~Musical terminology~
+||||||
+Musical acoustics
+||||||
+Musical acoustics or music acoustics is a multidisciplinary field that combines knowledge from physics, psychophysics, organology (classification of the instruments), physiology, music theory, ethnomusicology, signal processing and instrument building,  among other disciplines.  As a branch of acoustics, it is concerned with researching and describing the physics of music – how sounds are employed to make music. Examples of areas of study are the function of musical instruments, the human voice (the physics of speech and singing), computer analysis of melody, and in the clinical use of music in music therapy.
+The pioneer of music acoustics was Hermann von Helmholtz, a German polymath  of the 19th century who was an influential physician, physicist, physiologist, musician, mathematician and philosopher. His book On the Sensations of Tone as a Physiological Basis for the Theory of Music is a revolutionary compendium of several studies and approaches that provided a complete new perspective to music theory, musical performance, music psychology and the physical behaviour of musical instruments.

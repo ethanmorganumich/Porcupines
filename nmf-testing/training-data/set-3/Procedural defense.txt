@@ -1,0 +1,22 @@
+Criminal defenses~Legal terminology stubs~
+||||||
+Procedural defense
+||||||
+In jurisprudence, procedural defenses are forms of defense challenging the legitimacy of the legal proceeding. A party argues that it should not be held liable for a legal charge or claim brought against them by some legal process, because it has been found such a process is illegitimate. Procedural defenses are built into legal systems as incentives for systems to follow their own rules. In common law jurisdictions the term has applications in both criminal law and civil law.  Procedural defenses do not settle questions of guilt or innocence in a criminal proceeding, and are independent of substantive findings for or against a plaintiff or defendant in a civil proceeding. As examples: Defendants might claim there is something about the method of bringing them to be judged, that is unable to result in justice done to someone in their situation. They might claim the process is incompatible with the goals of the justice system. 
+In the United States, procedural defenses include: 
+
+collateral estoppel
+denial of a speedy trial
+double jeopardy
+entrapment
+prosecutorial misconduct
+selective prosecution
+exclusionary rule
+facts found by judge rather than jury
+denial or neglect of public counsel appointment
+no opportunity to impugn witnesses against you
+breaches of due process, such as precedent established in Rhode Island v. Innis (1980) or Miranda v. Arizona (1966)
+denial of a jury trial in a civil caseTraditional procedural defenses in "equity" in the U.S. and other common law jurisdictions:
+
+laches
+estoppel

@@ -1,0 +1,7 @@
+Bagpiping~Music theory stubs~Musical notes~Northumbrian music~
+||||||
+F+ (pitch)
+||||||
+F+ is a musical pitch approximately 20 cents sharp of modern concert F (500 + 20 = 520 cents), and is primarily associated with the Northumbrian smallpipes.
+
+Similarly, composer Ben Johnston uses a "−" as an accidental to indicate a note is lowered 21.51 cents, or a "+" to indicate a note is raised 21.51 cents (which is the width of a syntonic comma. 498.04 + 21.51 = 519.55 (Just perfect fourth + syntonic comma = F+).

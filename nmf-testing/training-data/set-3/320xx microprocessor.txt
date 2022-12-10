@@ -1,0 +1,8 @@
+32-bit microprocessors~Instruction set architectures~National Semiconductor microprocessors~
+||||||
+NS32000
+||||||
+The NS32000, sometimes known as the 32k, is a series of microprocessors produced by National Semiconductor. The first member of the family came to market in 1982, briefly known as the 16032 before becoming the 32016. It was the first 32-bit general-purpose microprocessor on the market: the Motorola 68000 could process 32-bit data and use 32-bit addresses but had a 16-bit ALU, whereas the 32000 series was described in 1983 as the only microprocessor available at that time with 32-bit internal data paths and ALU. However, the 32016 contained a large number of bugs and often could not be run at its rated speed. These problems, and the presence of the similar Motorola 68000 which had been available since 1980, led to little use in the market.
+Several improved versions followed, including 1985's 32032 which was essentially a bug-fixed 32016 with an external 32-bit data bus. While it offered about 50% better speed than the 32016, it was outperformed by the 32-bit Motorola 68020, released a year prior. The 32532, released in 1987, outperformed the contemporary Motorola 68030 by almost two times, but by this time most interest in microprocessors had turned to RISC platforms and this otherwise excellent design saw almost no use as well.
+National was working on further improvements in the 32732, but eventually gave up attempting to compete in the central processing unit (CPU) space. Instead, the basic 32000 architecture was combined with several support systems and relaunched as the Swordfish microcontroller. This had some success in the market before it was replaced by the CompactRISC architecture in mid-1990s.
+

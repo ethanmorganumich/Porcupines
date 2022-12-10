@@ -1,0 +1,6 @@
+Radio modulation modes~Telecommunication theory~Telecommunications stubs~
+||||||
+Overmodulation
+||||||
+Overmodulation is the condition that prevails in telecommunication when the instantaneous level of the modulating signal exceeds the value necessary to produce 100% modulation of the carrier. In the sense of this definition, it is almost always considered a fault condition. In layman's terms, the signal is going "off the scale". Overmodulation results in spurious emissions by the modulated carrier, and distortion of the recovered modulating signal. This means that the envelope of the output waveform is distorted. 
+Although overmodulation is sometimes considered permissible, it should not occur in practice; a distorted waveform envelope will result in a distorted output signal of the receiving medium.

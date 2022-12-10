@@ -1,0 +1,6 @@
+Architectural design~Computer-aided design~
+||||||
+Architectural animation
+||||||
+Architectural animation is a short architectural movie created on a computer. A computer-generated building is created along with landscaping and sometimes moving people and vehicles. Unlike an architectural rendering, which is a single image from a single point of view, an architectural animation is generally a series of hundreds or even thousands of still images played simultaneously in order to produce a video. When these images are assembled and played back, they produce a movie effect much like a real movie camera except all images are artificially created by computer. It is possible to add a computer-created environment around the building to enhance reality and to better convey its relationship to the surrounding area; this can all be done before the project is built giving designers and stakeholders a realistic view of the completed project. Architectural renderings are often used along with architectural animation.
+

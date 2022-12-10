@@ -1,0 +1,5 @@
+Computer jargon~Internet terminology~
+||||||
+Online and offline
+||||||
+In computer technology and telecommunications, online indicates a state of connectivity and offline indicates a disconnected state. In modern terminology, this usually refers to an Internet connection, but (especially when expressed "on line" or "on the line") could refer to any piece of equipment or functional unit that is connected to a larger system. Being online means that the equipment or subsystem is connected, or that it is ready for use."Online" has come to describe activities performed on and data available on the Internet, for example: "online identity", "online predator", "online gambling", "online shopping", "online banking", and "online learning". Similar meaning is also given by the prefixes "cyber" and "e", as in the words "cyberspace", "cybercrime", "email", and "ecommerce".  In contrast, "offline" can refer to either computing activities performed while disconnected from the Internet, or alternatives to Internet activities (such as shopping in brick-and-mortar stores). The term "offline" is sometimes used interchangeably with the acronym "IRL", meaning "in real life".

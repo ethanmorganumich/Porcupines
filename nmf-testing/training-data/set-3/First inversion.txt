@@ -1,0 +1,12 @@
+Chord factors~Chords~Voicing (music)~
+||||||
+First inversion
+||||||
+The first inversion of a chord is the voicing of a triad, seventh chord, or ninth chord in which the third of the chord is the bass note and the root a sixth above it. In the first inversion of a C-major triad, the bass is E — the third of the triad — with the fifth and the root stacked above it (the root now shifted an octave higher), forming the intervals of a minor third and a minor sixth above the inverted bass of E, respectively.
+
+In the first inversion of G-dominant seventh chord, the bass note is B, the third of the seventh chord.
+
+In figured bass, a first-inversion triad is a  6 chord (not to be confused with an added sixth chord), while a first-inversion seventh chord is a 65 chord.
+
+According to The American History and Encyclopedia of Music:Inversions are not restricted to the same number of tones as the original chord, nor to any fixed order of tones except with regard to the interval between the root, or its octave, and the bass note, hence, great variety results.
+Note that any voicing above the bass is allowed. A first inversion chord must have the third chord factor in the bass, but it may have any arrangement of the root and fifth above that, including doubled notes, compound intervals, and omission (E-G-C, E-G-C-G', E-C'-G'', etc.)

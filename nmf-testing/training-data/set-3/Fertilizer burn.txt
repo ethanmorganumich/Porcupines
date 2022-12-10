@@ -1,0 +1,5 @@
+Fertilizers~Physiological plant disorders~Plant disease stubs~
+||||||
+Fertilizer burn
+||||||
+Fertilizer burns occur when the use of too much fertilizer, the wrong type of fertilizer, or too little water with a fertilizer causes damage to a plant. Although fertilizer is used to help a plant grow by providing nutrients, too much will result in excess salt, nitrogen, or ammonia which have adverse effects on a plant. An excess of these nutrients can damage the plant's ability to photosynthesize and cellularly respire, causing visible burns. The intensity of burns determine the strategy for recovery.

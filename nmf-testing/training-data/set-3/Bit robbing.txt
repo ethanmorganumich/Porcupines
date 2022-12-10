@@ -1,0 +1,6 @@
+Telephony signals~
+||||||
+Robbed-bit signaling
+||||||
+In communications systems, robbed-bit signaling (RBS) is a scheme to provide maintenance and line signaling services on many T1 digital carrier circuits using channel-associated signaling (CAS). The T1 carrier circuit is a type of dedicated circuit currently employed in North America and Japan. 
+

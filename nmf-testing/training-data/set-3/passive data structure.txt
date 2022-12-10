@@ -1,0 +1,6 @@
+C++~Composite data types~
+||||||
+Passive data structure
+||||||
+In computer science and object-oriented programming, a passive data structure (PDS, also termed a plain old data structure, or plain old data, POD) is a term for a record, to contrast with objects. It is a data structure that is represented only as passive collections of field values (instance variables), without using object-oriented features.
+

@@ -1,0 +1,6 @@
+Computability theory~Computation oracles~Turing machine~
+||||||
+Oracle machine
+||||||
+In complexity theory and computability theory, an oracle machine is an abstract machine used to study decision problems. It can be visualized as a Turing machine with a black box, called an oracle, which is able to solve certain problems in a single operation. The problem can be of any complexity class. Even undecidable problems, such as the halting problem, can be used.
+

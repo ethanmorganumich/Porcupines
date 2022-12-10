@@ -1,0 +1,8 @@
+Dance notation~Dance stubs~
+||||||
+Motif description
+||||||
+Motif description is the term that has been used for a form of dance notation; however, the current preferred terminology is Motif Notation.  It is a subset and reconception of Labanotation sharing a common lexis. The main difference between the two forms is the type of information they record.
+
+Labanotation: Detailed description of movement so it may be reproduced exactly as it was performed or conceived.
+Motif description: Depicts the most important elements, the essential aspects of the movement sequence.Motif description is often used as an alternative to Labanotation when information needs to be written down quickly.

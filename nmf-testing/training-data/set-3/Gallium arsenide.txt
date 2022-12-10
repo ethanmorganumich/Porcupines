@@ -1,0 +1,6 @@
+Arsenides~Gallium compounds~IARC Group 1 carcinogens~III-V compounds~III-V semiconductors~Inorganic compounds~Light-emitting diode materials~Optoelectronics~Solar cells~Zincblende crystal structure~
+||||||
+Gallium arsenide
+||||||
+Gallium arsenide (GaAs) is a III-V direct band gap semiconductor with a zinc blende crystal structure.
+Gallium arsenide is used in the manufacture of devices such as microwave frequency integrated circuits, monolithic microwave integrated circuits, infrared light-emitting diodes, laser diodes, solar cells and optical windows.GaAs is often used as a substrate material for the epitaxial growth of other III-V semiconductors, including indium gallium arsenide, aluminum gallium arsenide and others.

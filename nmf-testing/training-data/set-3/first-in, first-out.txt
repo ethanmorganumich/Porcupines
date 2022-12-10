@@ -1,0 +1,7 @@
+English phrases~Inventory~
+||||||
+First Expired, First Out
+||||||
+First Expired, First Out (FEFO) is a term used in field inventory management to describe a way of dealing with the logistics of products that have a limited shelf life. These items include perishable products or consumer goods with a specified expiration date. The product with the deadline for the next intake will be the first to be served or removed from stock. FEFO is majorly used in the pharmaceutical and chemical industries where expired dates are calculated based on a batch-expired date or shelf-life time.
+A common example of this treatment is the management of perishable products in a shelf display: Products with deadlines closest consumption should be used before the other. Foods and pharmaceutical drugs can be sold at a discounted price, and, near the expiration date, they can be destinated to humanitarian aids to the neighbours or to the more distant foreign countries. Perishable goods can also be collected through single donations or some charities.
+The First expired, first out logic is a type of stock rotation that enable organizations to get a distribution process optimization, able to minimize the waste generation of finished and yet marketable products.

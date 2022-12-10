@@ -1,0 +1,16 @@
+Financial risk~Government bonds~
+||||||
+Risk-free bond
+||||||
+A risk-free bond is a theoretical bond that repays interest and principal with absolute certainty. The rate of return would be the risk-free interest rate.  It is primary security, which pays off 1 unit no matter state of economy is realized at time 
+  
+    
+      
+        t
+        +
+        1
+      
+    
+    {\displaystyle t+1}
+  . So its payoff is the same regardless of what state occurs. Thus, an investor experiences no risk by investing in such an asset.
+In practice, government bonds of financially stable countries are treated as risk-free bonds, as governments can raise taxes or indeed print money to repay their domestic currency debt.For instance, United States Treasury notes and United States Treasury bonds are often assumed to be risk-free bonds. Even though investors in United States Treasury securities do in fact face a small amount of credit risk, this risk is often considered to be negligible. An example of this credit risk was shown by Russia, which defaulted on its domestic debt during the 1998 Russian financial crisis.

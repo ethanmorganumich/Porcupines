@@ -1,0 +1,6 @@
+Forecasting~Statistical forecasting~Supply chain analytics~Supply chain management~Time series~
+||||||
+Forecasting
+||||||
+Forecasting is the process of making predictions based on past and present data. Later these can be compared (resolved) against what happens. For example, a company might estimate their revenue in the next year, then compare it against the actual results. Prediction is a similar, but more general term. Forecasting might refer to specific formal statistical methods employing time series, cross-sectional or longitudinal data, or alternatively to less formal judgmental methods or the process of prediction and resolution itself. Usage can vary between areas of application: for example, in hydrology the terms "forecast" and "forecasting" are sometimes reserved for estimates of values at certain specific future times, while the term "prediction" is used for more general estimates, such as the number of times floods will occur over a long period.
+Risk and uncertainty are central to forecasting and prediction; it is generally considered a good practice to indicate the degree of uncertainty attaching to forecasts. In any case, the data must be up to date in order for the forecast to be as accurate as possible. In some cases the data used to predict the variable of interest is itself forecast.

@@ -1,0 +1,7 @@
+Computer-related introductions in 1999~Macintosh computers by product line~Macintosh laptops~PowerPC Macintosh computers~
+||||||
+IBook
+||||||
+iBook is a line of laptop computers designed, manufactured, and sold by Apple Computer from 1999 to 2006. The line targeted entry-level, consumer and education markets, with lower specifications and prices than the PowerBook, Apple's higher-end line of laptop computers. It was the first mass consumer product to offer Wi-Fi network connectivity, which was then branded by Apple as AirPort.The iBook had three different designs during its lifetime. The first, known as the "Clamshell", was inspired by the design of Apple's popular iMac line at the time. It was a significant departure from previous portable computer designs due to its shape, bright colors, incorporation of a handle into the casing, lack of a display closing latch, lack of a hinged cover over the external ports and built-in wireless networking. Two years later, the second generation abandoned the original form factor in favor of a more conventional, rectangular design. In October 2003, the third generation was introduced, adding a PowerPC G4 chip, USB 2.0 and a slot-loading drive.
+They were very popular in education, with Henrico County Public Schools being the first of many school systems in the United States to distribute one to every student.
+Apple replaced the iBook line with the MacBook in May 2006 during the Mac transition to Intel processors.

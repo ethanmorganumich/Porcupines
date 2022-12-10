@@ -1,0 +1,8 @@
+Political science stubs~Subfields of political science~
+||||||
+Positive political theory
+||||||
+Positive political theory (PPT) or explanatory political theory is the study of politics using formal methods such as social choice theory,  game theory, and statistical analysis. In particular, social choice theoretic methods are often used to describe and (axiomatically) analyze the performance of rules or institutions.  The outcomes of the rules or institutions described are then analyzed by game theory, where the individuals/parties/nations involved in a given interaction are modeled as rational agents playing a game, guided by self-interest.  
+Based on this assumption, the outcome of the interactions can be predicted as an equilibrium of the game.
+The founder of the field was William H. Riker. In his book The Theory of Political Coalitions (1962), he applied the principles of game theory to the study of politics. 
+The original creation of PPT was developed while Riker was the leader of Rochester School of Political Science, generating the Rochester School movement. Positive political theory has been used to study democratic institutions such as political bargaining. PPT allows researchers to determine how outcomes of political bargaining differ based on whether political actors are equals or if power is unevenly distributed. PPT also permits the identification of institutional and contextual mechanisms that give some group members additional influence in determining collective outcomes. By focusing on the mechanisms, PPT also allows researchers to determine if outcomes are a result of asymmetric bargaining or deliberative persuasion.

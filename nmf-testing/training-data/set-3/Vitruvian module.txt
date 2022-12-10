@@ -1,0 +1,7 @@
+Architectural theory~
+||||||
+Vitruvian module
+||||||
+A module (Latin modulus, a measure) is a term that was in use among Roman architects, corresponding to the semidiameter of the column at its base. The term was first set forth by Vitruvius (book iv.3), and was employed by architects in the Italian Renaissance to determine the relative proportions of the various parts of the Classical orders. The module was divided by the 16th century theorists into thirty parts, called minutes, allowing for much greater precision than was thought necessary by Vitruvius, whose subdivision was usually six parts.When illustrating Palladio, the British architect Isaac Ware (The Four Books of Andrea Palladio's Architecture, London 1738; illustration, right) laid out the Doric order as an exercise in modular construction. The module he selected was a full column diameter taken at the base. He set his columns, 15 modules tall, at an intercolumniation of 5½ modules. His architrave and frieze, without the cornice, is equal to one module.
+The tendency in Beaux-Arts architectural training was similarly to adopt the whole columnar diameter as the module when determining the height of the column or entablature or any of their subdivisions.
+Thus module can be extended to mean more generally a unitary part that gives the measuring unit for the whole. In education, for example, lessons may be divided into modules.

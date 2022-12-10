@@ -1,0 +1,7 @@
+6502-based home computers~8-bit computers~Apple II computers~Computer-related introductions in 1977~Products and services discontinued in 1979~
+||||||
+Apple II
+||||||
+The Apple II (stylized as apple ][) is an 8-bit home computer and one of the world's first highly successful mass-produced microcomputer products. It was designed primarily by Steve Wozniak; Jerry Manock developed the design of Apple II's foam-molded plastic case, Rod Holt developed the switching power supply, while Steve Jobs's role in the design of the computer was limited to overseeing Jerry Manock's work on the plastic case. It was introduced by Jobs and Wozniak at the 1977 West Coast Computer Faire, and marks Apple's first launch of a personal computer aimed at a consumer market—branded toward American households rather than businessmen or computer hobbyists.
+
+Byte magazine referred to the Apple II, Commodore PET 2001, and TRS-80 as the "1977 Trinity". As the Apple II had the defining feature of being able to display color graphics, the Apple logo was redesigned to have a spectrum of colors.The Apple II is the first model in the Apple II series, followed by Apple II+, Apple IIe, Apple IIc, and the 16-bit Apple IIGS—all of which remained compatible. Production of the last available model, Apple IIe, ceased in November 1993.

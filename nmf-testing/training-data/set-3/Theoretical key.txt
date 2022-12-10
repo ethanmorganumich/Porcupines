@@ -1,0 +1,7 @@
+Music theory~Musical keys~Musical notation~
+||||||
+Theoretical key
+||||||
+In music theory, a theoretical key is a key whose key signature would have at least one double-flat () or double-sharp ().
+Double-flats and double-sharps are often used as accidentals, but placing them in the key signature (in music that uses equal temperament) makes the music generally impractical to read.
+

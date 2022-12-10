@@ -1,0 +1,24 @@
+Harmony~Musical scales~
+||||||
+Harmonization
+||||||
+In music, harmonization is the chordal accompaniment to a line or melody: "Using chords and melodies together, making harmony by stacking scale tones as triads".A harmonized scale can be created by using each note of a musical scale as a root note for a chord and then by taking other tones within the scale building the rest of a chord.
+For example, using an Ionian (major scale)
+
+the root note would become the I major chord,
+the second note the ii minor chord,
+the third note the iii minor chord,
+the fourth note the IV major chord,
+the fifth note the V major chord (or even a dominant 7th),
+the sixth note the vi minor chord,
+the seventh note the vii diminished chord and
+the octave would be a I major chord.Using the minor (aeolian mode) one would have:
+
+i minor,
+ii diminished,
+(♭)III major,
+iv minor,
+v minor,
+(♭)VI major,
+(♭)VII major and
+the i minor an octave higher.

@@ -1,0 +1,6 @@
+Music theory stubs~Musical techniques~
+||||||
+Bass arpeggiation
+||||||
+In Schenkerian analysis, the bass arpeggiation (German: Bassbrechung) is the bass pattern forming the deep background of tonal musical works. It consists in scale steps (de: Stufen) I-V-I, each of which may span hundreds of measures of music in the foreground.The bass pattern is an arpeggiation in the sense that its middle note (V) first arises as the fifth of the elaborated chord (I), of which it is the upper-fifth divider.  It is only when it meets with the passing note  of the fundamental line that V becomes an independent chord within the first one. See also Schenkerian analysis, The arpeggiation of the bass and the divider at the fifth.
+The bass arpeggiation properly speaking consists in the three scale steps I-V-I exclusively, but it may be elaborated at a remote level: see Schenkerian analysis, Elaboration of the bass arpeggiation.

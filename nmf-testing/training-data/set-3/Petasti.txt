@@ -1,0 +1,7 @@
+Byzantine music theory~Musical notation~
+||||||
+Petasti
+||||||
+Petasti (or Petaste; Greek: πεταστή) is a neume of Byzantine chant notation, which is usually called a flutter in English. In the most general form it means "Go one note up, and stress this note", where the "stress" is usually interpreted either as a mordent of Western music (in a high tempo), as a triplet (in a medium tempo), or as a sequence of two eighth notes and a quarter note (in a slow tempo).
+Petasti can also be combined with other neumes, such as oligon, to form jumps of more than one note up, still stressed with a flutter.
+Petasti Unicode symbol is U+1D049.

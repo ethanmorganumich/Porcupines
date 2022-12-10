@@ -1,0 +1,8 @@
+Compound intervals~Octaves~Perfect intervals~
+||||||
+Fifteenth
+||||||
+In music, a fifteenth or double octave, abbreviated 15ma, is the interval between one musical note and another with one-quarter the wavelength or quadruple the frequency. It has also been referred to as the bisdiapason. The fourth harmonic, it is two octaves. It is referred to as a fifteenth because, in the diatonic scale, there are 15 notes between them if one counts both ends (as is customary). Two octaves (based on the Italian word for eighth) do not make a sixteenth, but a fifteenth. In other contexts, the term two octaves is likely to be used.
+For example, if one note has a frequency of 400 Hz, the note a fifteenth above it is at 1600 Hz (15ma ), and the note a fifteenth below is at 100 Hz (15mb ). The ratio of frequencies of two notes a fifteenth apart is therefore 4:1.
+
+As the fifteenth is a multiple of octaves, the human ear tends to hear both notes as being essentially "the same", as it does the octave. Like the octave, in the Western system of music notation notes a fifteenth apart are given the same name—the name of a note an octave above A is also A. However, because of the large frequency distance between the notes, it is less likely than an octave to be judged the same pitch by non-musicians. Passages in parallel fifteenths are much less common than parallel octaves. In particular, sometimes an organist will use two stops a fifteenth away (notated as 2′).

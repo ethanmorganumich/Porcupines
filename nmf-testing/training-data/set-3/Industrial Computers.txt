@@ -1,0 +1,5 @@
+Classes of computers~Industrial computing~Personal computers~
+||||||
+Industrial PC
+||||||
+An industrial PC is a computer intended for industrial purposes (production of goods and services), with a form factor between a nettop and a server rack. Industrial PCs have higher dependability and precision standards, and are generally more expensive than consumer electronics. They often use complex instruction sets, such as x86, where reduced instruction sets such as ARM would otherwise be used.

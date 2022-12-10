@@ -1,0 +1,7 @@
+Computability theory~Functions and mappings~Recursion~Theory of computation~
+||||||
+Primitive recursive function
+||||||
+In computability theory, a primitive recursive function is roughly speaking a function that can be computed by a computer program whose loops are all "for" loops (that is, an upper bound of the number of iterations of every loop can be determined before entering the loop). Primitive recursive functions form a strict subset of those general recursive functions that are also total functions. 
+The importance of primitive recursive functions lies in the fact that most computable functions that are studied in number theory (and more generally in mathematics) are primitive recursive. For example, addition and division, the factorial and exponential function, and the function which returns the nth prime are all primitive recursive. In fact, for showing that a computable function is primitive recursive, it suffices to show that its time complexity is bounded above by a primitive recursive function of the input size. It is hence not that easy to devise a computable function that is not primitive recursive; some examples are shown in section § Limitations below.
+The set of primitive recursive functions is known as PR in computational complexity theory.

@@ -1,0 +1,7 @@
+Aerodynamics~Aerospace engineering~Energy in transport~
+||||||
+Aerodynamics
+||||||
+Aerodynamics, from Ancient Greek: ἀήρ aero (air) + Ancient Greek: δυναμική (dynamics), is the study of the motion of air, particularly when affected by a solid object, such as an airplane wing. It involves topics covered in the field of fluid dynamics and its subfield of gas dynamics. The term aerodynamics is often used synonymously with gas dynamics, the difference being that "gas dynamics" applies to the study of the motion of all gases, and is not limited to air. 
+The formal study of aerodynamics began in the modern sense in the eighteenth century, although observations of fundamental concepts such as aerodynamic drag were recorded much earlier. Most of the early efforts in aerodynamics were directed toward achieving heavier-than-air flight, which was first demonstrated by Otto Lilienthal in 1891. Since then, the use of aerodynamics through mathematical analysis, empirical approximations, wind tunnel experimentation, and computer simulations has formed a rational basis for the development of heavier-than-air flight and a number of other technologies. Recent work in aerodynamics has focused on issues related to compressible flow, turbulence, and boundary layers and has become increasingly computational in nature.
+

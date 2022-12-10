@@ -1,0 +1,5 @@
+Finite automata~
+||||||
+Moore machine
+||||||
+In the theory of computation, a Moore machine is a finite-state machine whose current output values are determined only by its current state. This is in contrast to a Mealy machine, whose output values are determined both by its current state and by the values of its inputs. Like other finite state machines, in Moore machines, the input typically influences the next state. Thus the input may indirectly influence subsequent outputs, but not the current or immediate output. The Moore machine is named after Edward F. Moore, who presented the concept in a 1956 paper, “Gedanken-experiments on Sequential Machines.”

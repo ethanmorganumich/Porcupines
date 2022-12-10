@@ -1,0 +1,6 @@
+Aircraft controls~Mechanical vibrations~
+||||||
+Stick shaker
+||||||
+A stick shaker is a mechanical device designed to rapidly and noisily vibrate the control yoke (the "stick") of an aircraft, warning the flight crew that an imminent aerodynamic stall has been detected. It is typically present on the majority of large civil jet aircraft, as well as most large military planes.
+The stick shaker comprises a key component of an aircraft's stall protection system. Several accidents, such as the 1963 BAC One-Eleven test crash and American Airlines Flight 191, were attributable to aerodynamic stalls and motivated aviation regulatory bodies to establish requirements for certain aircraft to be outfitted with stall protection measures, such as the stick shaker and stick pusher, to reduce such occurrences. While the stick shaker has become relatively prevalent amongst airliners and large transport aircraft, such devices are not infallible and require flight crews to be appropriately trained on their functionality and how to respond to their activation. Several instances of aircraft entering stalls have occurred even with properly functioning stick shakers, largely due to pilots reacting improperly.

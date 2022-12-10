@@ -1,0 +1,6 @@
+Information systems~Software development process~
+||||||
+Data engineering
+||||||
+Data engineering refers to the building of systems to enable the collection and usage of data. This data is usually used to enable subsequent analysis and data science; which often involves machine learning. Making the data usable usually involves substantial compute and storage, as well as data processing and cleaning.
+

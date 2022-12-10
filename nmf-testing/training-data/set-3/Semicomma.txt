@@ -1,0 +1,5 @@
+5-limit tuning and intervals~Commas (music)~
+||||||
+Semicomma
+||||||
+The semicomma, also Fokker's comma (after 31-TET pioneer Adriaan Fokker), is type of small musical interval, or comma, in microtonal music equivalent to 2109375:2097152, or 33×57 : 221.  This is a ratio of approximately 1:1.0058283805847168, or about 10.06 cents (Play ). It is derived from the difference in pitch between three 75:64 just augmented seconds (Play just augmented second ) and one 8:5 just minor sixth (Play minor sixth ) begun on the same root ((3 × 274.58) − (1 × 813.69) = 823.74 − 813.69 = 10.05 cents). It can also be viewed as the amount by which three tritaves exceed seven minor sixths.

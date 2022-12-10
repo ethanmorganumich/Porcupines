@@ -1,0 +1,5 @@
+Genetic algorithms~Genetic programming~
+||||||
+Schema (genetic algorithms)
+||||||
+A schema (pl. schemata) is a template in computer science used in the field of genetic algorithms that identifies a subset of strings with similarities at certain string positions. Schemata are a special case of cylinder sets, forming a basis for a product topology on strings. In other words, schemata can be used to generate a topology on a space of strings.

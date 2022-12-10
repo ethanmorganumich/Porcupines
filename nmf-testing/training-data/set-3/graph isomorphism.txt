@@ -1,0 +1,60 @@
+Graph algorithms~Graph theory~Morphisms~
+||||||
+Graph isomorphism
+||||||
+In graph theory, an isomorphism of graphs G and H is a bijection between the vertex sets of G and H
+
+  
+    
+      
+        f
+        :
+        V
+        (
+        G
+        )
+        →
+        V
+        (
+        H
+        )
+      
+    
+    {\displaystyle f\colon V(G)\to V(H)}
+  such that any two vertices u and v of G are adjacent in G if and only if 
+  
+    
+      
+        f
+        (
+        u
+        )
+      
+    
+    {\displaystyle f(u)}
+   and 
+  
+    
+      
+        f
+        (
+        v
+        )
+      
+    
+    {\displaystyle f(v)}
+   are adjacent in H. This kind of bijection is commonly described as "edge-preserving bijection", in accordance with the general notion of isomorphism being a structure-preserving bijection.
+If an isomorphism exists between two graphs, then the graphs are called isomorphic and denoted as 
+  
+    
+      
+        G
+        ≃
+        H
+      
+    
+    {\displaystyle G\simeq H}
+  . In the case when the bijection is a mapping of a graph onto itself, i.e., when G and H are one and the same graph, the bijection is called an automorphism of G.
+If a graph is finite, we can prove it to be bijective by showing it is one-one/onto; no need to show both. 
+Graph isomorphism is an equivalence relation on graphs and as such it partitions the class of all graphs into equivalence classes. A set of graphs isomorphic to each other is called an isomorphism class of graphs. The question of whether graph isomorphism can be determined in polynomial time is a major unsolved problem in computer science.
+The two graphs shown below are isomorphic, despite their different looking drawings.

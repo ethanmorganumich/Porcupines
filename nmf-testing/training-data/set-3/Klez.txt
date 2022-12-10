@@ -1,0 +1,9 @@
+2001 in computing~Email worms~Hacking in the 2000s~
+||||||
+Klez
+||||||
+Klez is a computer worm that propagates via e-mail. It first appeared in October 2001. A number of variants of the worm exist.
+Klez infects Microsoft Windows systems, exploiting a vulnerability in Internet Explorer's Trident layout engine, used by both Microsoft Outlook and Outlook Express to render HTML mail.
+The e-mail through which the worm spreads always includes a text portion and one or more attachments. The text portion consists of either an HTML internal frame tag which causes buggy e-mail clients to automatically execute the worm, or a few lines of text that attempt to induce the recipient to execute the worm by opening the attachment (sometimes by claiming that the attachment is a patch from Microsoft; sometimes by claiming that the attachment is an antidote for the Klez worm).  The first attachment is always the worm, whose internals vary.
+Once the worm is executed, either automatically by the buggy HTML engine or manually by a user, it searches for addresses to send itself to. When it sends itself out, it may attach a file from the infected machine, leading to possible privacy breaches.
+Later variants of the worm would use a false From address, picking an e-mail address at random from the infected machine's Outlook or Outlook Express address book, making it impossible for casual observers to determine which machine is infected, and making it difficult for experts to determine anything more than the infected machine's Internet Service Provider.

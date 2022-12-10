@@ -1,0 +1,7 @@
+CBM floppy disk drives~Commodore 64~
+||||||
+Commodore 1541
+||||||
+The Commodore 1541 (also known as the CBM 1541 and VIC-1541) is a floppy disk drive  which was made by Commodore International for the Commodore 64 (C64), Commodore's most popular home computer. The best-known floppy disk drive for the C64, the 1541 is a single-sided 170-kilobyte drive for 5¼" disks. The 1541 directly followed the Commodore 1540 (meant for the VIC-20).
+The disk drive uses group coded recording (GCR) and contains a MOS Technology 6502 microprocessor, doubling as a disk controller and on-board disk operating system (DOS) processor. The number of sectors per track varies from 17 to 21 (an early implementation of zone bit recording). The drive's built-in disk operating system is CBM DOS 2.6.
+

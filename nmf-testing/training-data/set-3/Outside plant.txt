@@ -1,0 +1,9 @@
+Telecommunications infrastructure~
+||||||
+Outside plant
+||||||
+In telecommunication, the term outside plant has the following meanings:
+
+In civilian telecommunications, outside plant refers to all of the physical cabling and supporting infrastructure (such as conduit, cabinets, tower or poles), and any associated hardware (such as repeaters) located between a demarcation point in a switching facility and a demarcation point in another switching center or customer premises.
+In the United States, the DOD defines outside plant as the communications equipment located between a main distribution frame (MDF) and a user end instrument.The CATV industry divides its fixed assets between head end or inside plant, and outside plant.  The electrical power industry also uses the term outside plant to refer to electric power distribution systems.
+

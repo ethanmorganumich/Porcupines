@@ -1,0 +1,6 @@
+1904 in British law~1904 in case law~English trusts case law~
+||||||
+Re Atkinson
+||||||
+Re Atkinson, Barbers' Company v Grose-Smith [1904] 2 Ch 160 is an English trusts law case, which lays down a rule of equity relating to the disposition by the trustees of an authorised mortgage security where the security forms part of a trust fund, and the beneficiaries of the trust fund include a tenant for life and a remainderman.  Where the security is sold and the proceeds are insufficient to satisfy the principal and interest in full, it is necessary to determine the way in which the loss shall be shared as between the tenant for life and the remainderman.  The sum realised by the sale must be apportioned between the life tenant and the remainderman in the proportion that the amount due for the arrears of interest bears to the amount due in respect of principal.
+The rule also applies to debenture stock, but not to dividends or arrears of dividends on preference shares.

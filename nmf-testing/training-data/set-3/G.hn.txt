@@ -1,0 +1,5 @@
+Computer networks~ITU-T G Series Recommendations~ITU-T recommendations~International standards~Internet Standards~Link protocols~Logical link control~Network protocols~Networking standards~Open standards~
+||||||
+G.hn
+||||||
+G.hn is a specification for home networking with data rates up to 2 Gbit/s and operation over four types of legacy wires: telephone wiring, coaxial cables, power lines and plastic optical fiber. A single G.hn semiconductor device is able to network over any of the supported home wire types. Some benefits of a multi-wire standard are lower equipment development costs and lower deployment costs for service providers (by allowing customer self-install).

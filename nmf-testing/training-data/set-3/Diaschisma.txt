@@ -1,0 +1,8 @@
+5-limit tuning and intervals~Commas (music)~
+||||||
+Diaschisma
+||||||
+The diaschisma (or diacisma) is a small musical interval defined as the difference between three octaves and four perfect fifths plus two major thirds (in just intonation). It can be represented by the ratio 2048:2025 and is about 19.5 cents. The use of the name diaschisma for this interval is due to Helmholtz; earlier Rameau had called that interval a "diminished comma" or comma minor.
+A diaschisma is the difference between a schisma and a syntonic comma, as well as the difference between the greater chromatic semitone (135:128 = 92.18 cents) and the just minor second (16:15 = 111.73 cents). Medieval theorists Boethius and Tinctoris described the diaschisma as one-half of the Pythagorean minor second, or 256/243, which would make the other half either 25/24 (70.67 cents) or about 45 cents. The diaschisma may be approximated by 89/88, 19.56 cents.
+
+Tempering out the diaschisma, in the modern meaning of the term, leads to a diaschismic temperament. The diaschisma is tempered out in the usual system of 12 equal temperament; in fact, 12 equal temperament can be characterized as the 5-limit temperament that tempers out both the syntonic comma of 81/80 and the diaschisma. However, it is possible to improve the tuning a good deal over that of 12-et and still temper out the diaschisma; the equal temperaments with 22, 34 and 46 notes all temper it out.

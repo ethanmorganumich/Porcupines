@@ -1,0 +1,5 @@
+Virology~
+||||||
+Permissive
+||||||
+A permissive cell or host is one that allows a virus to circumvent its defenses and replicate. Usually this occurs when the virus has modulated one or several of the host cellular intrinsic defenses and the host immune system.  The permissive state of a host has now been determined to be the primary factor in determining whether a virus will cause pathological symptoms in a host.

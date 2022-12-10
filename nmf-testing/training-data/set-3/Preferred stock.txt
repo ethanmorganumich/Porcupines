@@ -1,0 +1,7 @@
+Corporate finance~Embedded options~Equity securities~Stock market~
+||||||
+Preferred stock
+||||||
+Preferred stock (also called preferred shares, preference shares, or simply preferreds) is a component of share capital that may have any combination of features not possessed by common stock, including properties of both an equity and a debt instrument, and is generally considered a hybrid instrument. Preferred stocks are senior (i.e., higher ranking) to common stock but subordinate to bonds in terms of claim (or rights to their share of the assets of the company, given that such assets are payable to the returnee stock bond) and may have priority over common stock (ordinary shares) in the payment of dividends and upon liquidation. Terms of the preferred stock are described in the issuing company's articles of association or articles of incorporation.
+Like bonds, preferred stocks are rated by major credit rating agencies. Their ratings are generally lower than those of bonds, because preferred dividends do not carry the same guarantees as interest payments from bonds, and because preferred-stock holders' claims are junior to those of all creditors.
+Preferred equity has characteristics similar to preferred stock, but the term is typically used for investments in real estate or other private investments where the common stock is not publicly traded, so private equity has no public credit rating.

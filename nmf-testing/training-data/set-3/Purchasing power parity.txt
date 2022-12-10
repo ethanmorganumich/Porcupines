@@ -1,0 +1,7 @@
+Currency~Gross domestic product~Inequalities~International economics~Purchasing power~Trade~
+||||||
+Purchasing power parity
+||||||
+Purchasing power parity (PPP) is the measurement of prices in different countries that uses the prices of specific goods to compare the absolute purchasing power of the countries' currencies, and, to some extent, their people's living standards. In many cases, PPP produces an inflation rate equal to the price of the basket of goods at one location divided by the price of the basket of goods at a different location. The PPP inflation and exchange rate may differ from the market exchange rate because of tariffs, and other transaction costs.The Purchasing Power Parity indicator can be used to compare economies regarding their Gross Domestic Product, labour productivity and actual individual consumption, and in some cases to analyse price convergence and to compare the cost of living between places.
+The calculation of the PPP, according to the OECD, is made through a basket of goods that contains a "final product list [that] covers around 3,000 consumer goods and services, 30 occupations in government, 200 types of equipment goods and about 15 construction projects".
+

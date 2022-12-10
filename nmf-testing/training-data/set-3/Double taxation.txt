@@ -1,0 +1,11 @@
+Foreign direct investment~International taxation~Tax terms~Taxation in the United States~
+||||||
+Double taxation
+||||||
+Double taxation is the levying of tax by two or more jurisdictions on the same income (in the case of income taxes), asset (in the case of capital taxes), or financial transaction (in the case of sales taxes).
+Double liability may be mitigated in a number of ways, for example, a jurisdiction may:
+
+exempt foreign-source income from tax,
+exempt foreign-source income from tax if tax had been paid on it in another jurisdiction, or above some benchmark to exclude tax haven jurisdictions, or
+fully tax the foreign-source income but give a credit for taxes paid on the income in the foreign jurisdiction.Jurisdictions may enter into tax treaties with other countries, which set out rules to avoid double taxation. These treaties often include arrangements for exchange of information to prevent tax evasion –  such as when a person claims tax exemption in one country on the basis of non-residence in that country, but then does not declare it as foreign income in the other country; or who claims local tax relief on a foreign tax deduction at source that had not actually happened.The term "double taxation" can also refer to the taxation of some income or activity twice. For example, corporate profits may be taxed first when earned by the corporation (corporation tax) and again when the profits are distributed to shareholders as a dividend or other distribution (dividend tax).
+There are two types of double taxation: jurisdictional double taxation, and economic double taxation. In the first one, when source rule overlaps, tax is imposed by two or more countries as per their domestic laws in respect of the same transaction, income arises or deemed to arise in their respective jurisdictions. In the latter one, when same transaction, item of income or capital is taxed in two or more states but in hands of different person, double taxation arises.

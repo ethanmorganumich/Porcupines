@@ -1,0 +1,8 @@
+Register machines~
+||||||
+Pointer machine
+||||||
+In theoretical computer science a pointer machine is an "atomistic" abstract computational machine model akin to the random-access machine. A pointer algorithm is an algorithm restricted to the pointer machine model.Depending on the type, a pointer machine may be called a linking automaton, a KU-machine, an SMM, an atomistic LISP machine, a tree-pointer machine, etc. (cf Ben-Amram 1995). At least three major varieties exist in the literature—the Kolmogorov-Uspenskii model (KUM, KU-machine), the Knuth linking automaton, and the Schönhage Storage Modification Machine model (SMM). The SMM seems to be the most common.
+From its "read-only tape" (or equivalent) a pointer machine receives input—bounded symbol-sequences ("words") made of at least two symbols e.g. { 0, 1 } -- and it writes output symbol-sequences on an output "write-only" tape (or equivalent). To transform a symbol-sequence (input word) to an output symbol-sequence the machine is equipped with a "program"—a finite-state machine (memory and list of instructions). Via its state machine the program reads the input symbols, operates on its storage structure—a collection of "nodes" (registers) interconnected by "edges" (pointers labelled with the symbols e.g. { 0, 1 }), and writes symbols on the output tape.
+Pointer machines cannot do arithmetic in normal ways. Computation proceeds only by reading input symbols, modifying and doing various tests on its storage structure—the pattern of nodes and pointers, and outputting symbols based on the tests. "Information" is in the storage structure.
+

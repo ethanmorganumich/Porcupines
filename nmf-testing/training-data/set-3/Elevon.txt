@@ -1,0 +1,7 @@
+Aircraft controls~Aircraft wing design~
+||||||
+Elevon
+||||||
+Elevons or tailerons are aircraft control surfaces that combine the functions of the elevator (used for pitch control) and the aileron (used for roll control), hence the name.  They are frequently used on tailless aircraft such as flying wings.  An elevon that is not part of the main wing, but instead is a separate tail surface, is a stabilator (but stabilators are also used for pitch control only, with no roll function, as on the Piper Cherokee series of aircraft).  
+Elevons are installed on each side of the aircraft at the trailing edge of the wing.  When moved in the same direction (up or down) they will cause a pitching force (nose up or nose down) to be applied to the airframe.  When moved differentially, (one up, one down) they will cause a rolling force to be applied.  These forces may be applied simultaneously by appropriate positioning of the elevons e.g. one wing's elevons completely down and the other wing's elevons partly down.
+An aircraft with elevons is controlled as though the pilot still has separate aileron and elevator surfaces at their disposal, controlled by the yoke or stick.  The inputs of the two controls are mixed either mechanically or electronically to provide the appropriate position for each elevon.

@@ -1,0 +1,9 @@
+Lists of software~Video editing software~
+||||||
+List of video editing software
+||||||
+The following is a list of video editing software.
+The criterion for inclusion in this list is the ability to perform non-linear video editing. Most modern transcoding software supports transcoding a portion of a video clip, which would count as cropping and trimming. However, items in this article have one of the following conditions:
+
+Can perform other non-linear video editing function such as montage or compositing
+Can do the trimming or cropping without transcoding

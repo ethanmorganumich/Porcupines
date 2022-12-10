@@ -1,0 +1,7 @@
+Jurisdiction~Metaphors referring to body parts~
+||||||
+Long-arm jurisdiction
+||||||
+Long-arm jurisdiction is the ability of local courts to exercise jurisdiction over foreign ("foreign" meaning out of jurisdiction, whether a state, province, or nation) defendants, whether on a statutory basis or through a court's inherent jurisdiction (depending on the jurisdiction). This jurisdiction permits a court to hear a case against a defendant and enter a binding judgment against a defendant residing outside the jurisdiction concerned.
+At heart, the constraints on long arm jurisdiction are concepts of international law, and the principle that one country ought not exercise state power over the territory of another unless some recognized exception applies. In municipal law, the authority of a court to exercise long-arm jurisdiction must be based upon some action of the defendant which subjects him or her to the jurisdiction of the court.
+

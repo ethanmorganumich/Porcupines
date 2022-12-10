@@ -1,0 +1,48 @@
+Electricity~Electronics concepts~Microwave technology~Physical quantities~
+||||||
+Negative resistance
+||||||
+In electronics, negative resistance (NR) is a property of some electrical circuits and devices in which an increase in voltage across the device's terminals results in a decrease in electric current through it.This is in contrast to an ordinary resistor in which an increase of applied voltage causes a proportional increase in current due to Ohm's law, resulting in a positive resistance. While a positive resistance consumes power from current passing through it, a negative resistance produces power. Under certain conditions it can increase the power of an electrical signal, amplifying it.Negative resistance is an uncommon property which occurs in a few nonlinear electronic components. In a nonlinear device, two types of resistance can be defined: 'static' or 'absolute resistance', the ratio of voltage to current 
+  
+    
+      
+        v
+        
+          /
+        
+        i
+      
+    
+    {\displaystyle v/i}
+  , and differential resistance, the ratio of a change in voltage to the resulting change in current 
+  
+    
+      
+        Δ
+        v
+        
+          /
+        
+        Δ
+        i
+      
+    
+    {\displaystyle \Delta v/\Delta i}
+  . The term negative resistance means negative differential resistance (NDR), 
+  
+    
+      
+        Δ
+        v
+        
+          /
+        
+        Δ
+        i
+        <
+        0
+      
+    
+    {\displaystyle \Delta v/\Delta i<0}
+  . In general, a negative differential resistance is a two-terminal component which can amplify, converting DC power applied to its terminals to AC output power to amplify an AC signal applied to the same terminals. They are used in electronic oscillators and amplifiers, particularly at microwave frequencies. Most microwave energy is produced with negative differential resistance devices. They can also have hysteresis and be bistable, and so are used in switching and memory circuits. Examples of devices with negative differential resistance are tunnel diodes, Gunn diodes, and gas discharge tubes such as neon lamps, and fluorescent lights. In addition, circuits containing amplifying devices such as transistors and op amps with positive feedback can have negative differential resistance. These are used in oscillators and active filters.
+Because they are nonlinear, negative resistance devices have a more complicated behavior than the positive "ohmic" resistances usually encountered in electric circuits. Unlike most positive resistances, negative resistance varies depending on the voltage or current applied to the device, and negative resistance devices can only have negative resistance over a limited portion of their voltage or current range. Therefore, there is no real "negative resistor" analogous to a positive resistor, which has a constant negative resistance over an arbitrarily wide range of current.

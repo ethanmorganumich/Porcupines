@@ -1,0 +1,7 @@
+Ballistics~
+||||||
+Ballistics
+||||||
+Ballistics is the field of mechanics concerned with the launching, flight behaviour and impact effects of projectiles, especially ranged weapon munitions such as bullets, unguided bombs, rockets or the like; the science or art of designing and accelerating projectiles so as to achieve a desired performance.
+A ballistic body is a free-moving body with momentum which can be subject to forces such as the forces exerted by pressurized gases from a gun barrel or a propelling nozzle, normal force by rifling, and gravity and air drag during flight.
+A ballistic missile is a missile that is guided only during the relatively brief initial phase of powered flight and the trajectory is subsequently governed by the laws of classical mechanics; in contrast to (for example) a cruise missile which is aerodynamically guided in powered flight like a fixed-wing aircraft.

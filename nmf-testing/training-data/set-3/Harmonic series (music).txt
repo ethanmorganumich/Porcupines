@@ -1,0 +1,7 @@
+Harmonic series (music)~
+||||||
+Harmonic series (music)
+||||||
+A harmonic series (also overtone series) is the sequence of harmonics, musical tones, or pure tones whose frequency is an integer multiple of a fundamental frequency.
+Pitched musical instruments are often based on an acoustic resonator such as a string or a column of air, which oscillates at numerous modes simultaneously. At the frequencies of each vibrating mode, waves travel in both directions along the string or air column, reinforcing and canceling each other to form standing waves. Interaction with the surrounding air causes audible sound waves, which travel away from the instrument. Because of the typical spacing of the resonances, these frequencies are mostly limited to integer multiples, or harmonics, of the lowest frequency, and such multiples form the harmonic series.
+The musical pitch of a note is usually perceived as the lowest partial present (the fundamental frequency), which may be the one created by vibration over the full length of the string or air column, or a higher harmonic chosen by the player. The musical timbre of a steady tone from such an instrument is strongly affected by the relative strength of each harmonic.

@@ -1,0 +1,5 @@
+Economics models~Utility~
+||||||
+Classical general equilibrium model
+||||||
+The classical general equilibrium model aims to describe the economy by aggregating the behavior of individuals and firms. Note that the classical general equilibrium model is unrelated to classical economics, and was instead developed within neoclassical economics beginning in the late 19th century.In the model, the individual is assumed to be the basic unit of analysis and these individuals, both workers and employers, will make choices that reflect their unique tastes, objectives, and preferences. It is assumed that individuals' wants typically exceed their ability to satisfy them (hence scarcity of goods and time). It is further assumed that individuals will eventually experience diminishing marginal utility. Finally, wages and prices are assumed to be elastic (they move up and down freely). The classical model assumes that traditional supply and demand analysis is the best approach to understanding the labor market. The functions that follow are aggregate functions that can be thought of as the summation of all the individual participants in the market.

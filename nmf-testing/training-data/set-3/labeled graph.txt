@@ -1,0 +1,7 @@
+Extensions and generalizations of graphs~
+||||||
+Graph labeling
+||||||
+In the mathematical discipline of graph theory, a graph labelling is the assignment of labels, traditionally represented by integers, to edges and/or vertices of a graph.Formally, given a graph G = (V, E), a vertex labelling is a function of V to a set of labels; a graph with such a function defined is called a vertex-labeled graph. Likewise, an edge labelling is a function of E to a set of labels. In this case, the graph is called an edge-labeled graph.
+When the edge labels are members of an ordered set (e.g., the real numbers), it may be called a weighted graph.
+When used without qualification, the term labeled graph generally refers to a vertex-labeled graph with all labels distinct. Such a graph may equivalently be labeled by the consecutive integers { 1, …, |V| } , where |V| is the number of vertices in the graph. For many applications, the edges or vertices are given labels that are meaningful in the associated domain. For example, the edges may be assigned weights representing the "cost" of traversing between the incident vertices.In the above definition a graph is understood to be a finite undirected simple graph. However, the notion of labelling may be applied to all extensions and generalizations of graphs. For example, in automata theory and formal language theory it is convenient to consider labeled multigraphs, i.e., a pair of vertices may be connected by several labeled edges.

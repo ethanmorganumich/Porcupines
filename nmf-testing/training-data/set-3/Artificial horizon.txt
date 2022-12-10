@@ -1,0 +1,6 @@
+Aircraft instruments~Avionics~Navigational equipment~Technology systems~
+||||||
+Attitude indicator
+||||||
+The attitude indicator (AI), formerly known as the gyro horizon or artificial horizon, is a flight instrument that informs the pilot of the aircraft orientation relative to Earth's horizon, and gives an immediate indication of the smallest orientation change. The miniature aircraft and horizon bar mimic the relationship of the aircraft relative to the actual horizon. It is a primary instrument for flight in instrument meteorological conditions.Attitude is always presented to users in the unit degrees (°). However, inner workings such as sensors, data and calculations may use a mix of degrees and radians, as scientists and engineers may prefer to work with radians.
+

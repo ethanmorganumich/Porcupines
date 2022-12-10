@@ -1,0 +1,9 @@
+Contract law~Legal terminology stubs~
+||||||
+Severable contract
+||||||
+In contract law, a severable contract is a contract that is actually composed of several separate contracts concluded between the same parties, so that failing (breaching) one part of such a 'severable' contract does not breach the whole contract. Therefore, the other party must still honor the other subparts and cannot cancel the whole agreement.  A severable contract generally must contain a "severability clause" that allows certain clauses and aspects of the contract to be "severed" without affecting the validity of the rest of the contract.
+For example, if Mr. X purchases a computer, a scanner, a printer and a desk from a retailer, and the retailer cannot deliver the printer, the other parts of the contract (the computer, the scanner and the desk) are still valid and must be honored.
+The above example, however, is incomplete.  If Mr. X purchases a computer, scanner, printer and desk as part of a package, with the explicit agreement that all parts must be delivered together, the failure to deliver the printer may be material breach of the entire contract.
+In addition, if a contract is made explicitly for a set - such as a complete set of books, furniture or clothes - the failure to deliver the entire set is almost certainly a breach of the entire contract.
+Also termed divisible contract.

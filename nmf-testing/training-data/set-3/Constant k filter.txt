@@ -1,0 +1,5 @@
+Analog circuits~Electronic filter topology~Image impedance filters~
+||||||
+Constant k filter
+||||||
+Constant k filters, also k-type filters, are a type of electronic filter designed using the image method.  They are the original and simplest filters produced by this methodology and consist of a ladder network of identical sections of passive components. Historically, they are the first filters that could approach the ideal filter frequency response to within any prescribed limit with the addition of a sufficient number of sections. However, they are rarely considered for a modern design, the principles behind them having been superseded by other methodologies which are more accurate in their prediction of filter response.

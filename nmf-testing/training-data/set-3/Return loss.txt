@@ -1,0 +1,52 @@
+Electrical parameters~Engineering ratios~Fiber optics~Radio electronics~Wave mechanics~
+||||||
+Return loss
+||||||
+In telecommunications, return loss is a measure in relative terms of the power of the signal reflected by a discontinuity in a transmission line or optical fiber.  This discontinuity can be caused by a mismatch between the termination or load connected to the line and the characteristic impedance of the line.  It is usually expressed as a ratio in decibels (dB);
+
+  
+    
+      
+        R
+        L
+        (
+        
+          d
+          B
+        
+        )
+        =
+        10
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          
+            
+              P
+              
+                
+                  i
+                
+              
+            
+            
+              P
+              
+                
+                  r
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle RL(\mathrm {dB} )=10\log _{10}{P_{\mathrm {i} } \over P_{\mathrm {r} }}}
+  
+where RL(dB) is the return loss in dB, Pi is the incident power and Pr is the reflected power.Return loss is related to both standing wave ratio (SWR) and reflection coefficient (Γ).  Increasing return loss corresponds to lower SWR.  Return loss is a measure of how well devices or lines are matched.  A match is good if the return loss is high.  A high return loss is desirable and results in a lower insertion loss.
+From a certain perspective 'Return Loss' is a misnomer.  The usual function of a transmission line is to convey power from a source to a load with minimal loss.  If a transmission line is correctly matched to a load, the reflected power will be zero, no power will be lost due to reflection, and 'Return Loss' will be infinite.  Conversely if the line is terminated in an open circuit, the reflected power will be equal to the incident power; all of the incident power will be lost in the sense that none of it will be transferred to a load, and RL will be zero.  Thus the numerical values of RL tend in the opposite sense to that expected of a 'loss'.

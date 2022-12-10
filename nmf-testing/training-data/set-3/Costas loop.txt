@@ -1,0 +1,58 @@
+Communication circuits~Electronic oscillators~
+||||||
+Costas loop
+||||||
+A Costas loop is a phase-locked loop (PLL) based circuit which is used for carrier frequency recovery from suppressed-carrier modulation signals (e.g. double-sideband suppressed carrier signals) and phase modulation signals (e.g. BPSK, QPSK). It was invented by John P. Costas at General Electric in the 1950s. Its invention was described as having had "a profound effect on modern digital communications".
+The primary application of Costas loops is in wireless receivers. Its advantage over other PLL-based detectors is that at small deviations the Costas loop error voltage is 
+  
+    
+      
+        sin
+        ⁡
+        (
+        2
+        (
+        
+          θ
+          
+            i
+          
+        
+        −
+        
+          θ
+          
+            f
+          
+        
+        )
+        )
+      
+    
+    {\displaystyle \sin(2(\theta _{i}-\theta _{f}))}
+   as compared to 
+  
+    
+      
+        sin
+        ⁡
+        (
+        
+          θ
+          
+            i
+          
+        
+        −
+        
+          θ
+          
+            f
+          
+        
+        )
+      
+    
+    {\displaystyle \sin(\theta _{i}-\theta _{f})}
+  . This translates to double the sensitivity and also makes the Costas loop uniquely suited for tracking Doppler-shifted carriers, especially in OFDM and GPS receivers.
+

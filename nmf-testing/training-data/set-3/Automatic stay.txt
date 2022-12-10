@@ -1,0 +1,5 @@
+United States bankruptcy law~
+||||||
+Automatic stay
+||||||
+In United States bankruptcy law, an automatic stay is an automatic injunction that halts actions by creditors, with certain exceptions, to collect debts from a debtor who has declared bankruptcy.  Under section 362 of the United States Bankruptcy Code, the stay begins at the moment the bankruptcy petition is filed.  Secured creditors may, however, petition the bankruptcy court for relief from the automatic stay upon a showing of cause.

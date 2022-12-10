@@ -1,0 +1,14 @@
+Law~Legal terminology~Legal terminology stubs~
+||||||
+Party (law)
+||||||
+A party is an individual or group of individuals that compose a single entity which can be identified as one for the purposes of the law. 
+Parties include: 
+
+plaintiff (person filing suit),
+defendant (person sued or charged with a crime),
+petitioner (files a petition asking for a court ruling),
+respondent (usually in opposition to a petition or an appeal),
+cross-complainant (a defendant who sues someone else in the same lawsuit), or
+cross-defendant (a person sued by a cross-complainant).A person who only appears in the case as a witness is not considered a party.
+Courts use various terms to identify the role of a particular party in civil litigation, usually identifying the party that brings a lawsuit as the plaintiff, or, in older American cases, the party of the first part; and the party against whom the case was brought as the defendant, or, in older American cases, the party of the second part. In a criminal case in Nigeria and some other countries the parties are called prosecutor and defendant

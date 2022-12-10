@@ -1,0 +1,8 @@
+3D GUIs~Graphical user interfaces~User interface techniques~Zoomable user interfaces~
+||||||
+Zooming user interface
+||||||
+In computing, a zooming user interface or zoomable user interface (ZUI, pronounced zoo-ee) is a graphical environment where users can change the scale of the viewed area in order to see more detail or less, and browse through different documents.  A ZUI is a type of graphical user interface (GUI).  Information elements appear directly on an infinite virtual desktop (usually created using vector graphics), instead of in windows. Users can pan across the virtual surface in two dimensions and zoom into objects of interest. For example, as you zoom into a text object it may be represented as a small dot, then a thumbnail of a page of text, then a full-sized page and finally a magnified view of the page.
+ZUIs use zooming as the main metaphor for browsing through hyperlinked or multivariate information.
+Objects present inside a zoomed page can in turn be zoomed themselves to reveal further detail, allowing for recursive nesting and an arbitrary level of zoom.
+When the level of detail present in the resized object is changed to fit the relevant information into the current size, instead of being a proportional view of the whole object, it's called semantic zooming.Some consider the ZUI paradigm as a flexible and realistic successor to the traditional windowing GUI, being a Post-WIMP interface.

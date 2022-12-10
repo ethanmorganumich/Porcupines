@@ -1,0 +1,5 @@
+32-bit microprocessors~Instruction set architectures~Motorola microprocessors~
+||||||
+Motorola 88000
+||||||
+The 88000 (m88k for short) is a RISC instruction set architecture developed by Motorola during the 1980s. The MC88100 arrived on the market in 1988, some two years after the competing SPARC and MIPS. Due to the late start and extensive delays releasing the second-generation MC88110, the m88k achieved very limited success outside of the MVME platform and embedded controller environments. When Motorola joined the AIM alliance in 1991 to develop the PowerPC, further development of the 88000 ended.

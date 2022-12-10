@@ -1,0 +1,7 @@
+Audio engineering~Audiovisual connectors~Computer connectors~Telephone connectors~
+||||||
+Phone connector (audio)
+||||||
+A phone connector, also known as phone jack, audio jack, headphone jack or jack plug, is a family of electrical connectors typically used for analog audio signals. A plug, the male connector, is inserted into the jack, the female connector.
+The phone connector was invented for use in telephone switchboards in the 19th century and is still widely used.
+The phone connector is cylindrical in shape, with a grooved tip to retain it. In its original audio configuration, it typically has two, three, four or, occasionally, five contacts. Three-contact versions are known as TRS connectors, where T stands for "tip", R stands for "ring" and S stands for "sleeve". Ring contacts are typically the same diameter as the sleeve, the long shank. Similarly, two-, four- and five-contact versions are called TS, TRRS and TRRRS connectors respectively. The outside diameter of the "sleeve" conductor is 6.35 millimetres (1⁄4 inch). The "mini" connector has a diameter of 3.5 mm (0.14 in) and the "sub-mini" connector has a diameter of 2.5 mm (0.098 in). The "mini" connector has a length of 14 millimetres (0.55 in).

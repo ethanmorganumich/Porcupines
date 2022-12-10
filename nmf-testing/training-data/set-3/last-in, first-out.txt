@@ -1,0 +1,8 @@
+Inter-process communication~Queue management~Scheduling algorithms~
+||||||
+FIFO (computing and electronics)
+||||||
+In computing and in systems theory, FIFO is an acronym for first in, first out (the first in is the first out), a method for organizing the manipulation of a data structure (often, specifically a data buffer) where the oldest (first) entry, or "head" of the queue, is processed first.
+Such processing is analogous to servicing people in a queue area on a first-come, first-served (FCFS) basis, i.e. in the same sequence in which they arrive at the queue's tail.
+FCFS is also the jargon term for the FIFO operating system scheduling algorithm, which gives every process central processing unit (CPU) time in the order in which it is demanded. FIFO's opposite is LIFO, last-in-first-out, where the youngest entry or "top of the stack" is processed first. A priority queue is neither FIFO or LIFO but may adopt similar behaviour temporarily or by default. Queueing theory encompasses these methods for processing data structures, as well as interactions between strict-FIFO queues.
+

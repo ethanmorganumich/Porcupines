@@ -1,0 +1,9 @@
+Hymnology~Musical notation~Swedish music~Swedish words and phrases~
+||||||
+Siffernotskrift
+||||||
+Siffernotskrift (Swedish: "numerical note writing") or sifferskrift  is a form of numbered musical notation in which numerals are given which correspond to musical notes on given instruments. The system was devised and used by Swedish clergyman, psalmist, and music educator Johan Dillner (1785-1862) in the hymnal he wrote 1830 for the psalmodicon - a one-string, bowed string instrument.
+
+Unlike the Galin-Paris-Chevé numbered notation, octave shifts are described using a combination of under/overlining and a shift in the position of numbers. The first phrase of the Vor Gud han er saa fast en Borg would become the following in the Asian GPC notation:
+
+•1 | •1 •1 | 5 7 | •1 6 ...

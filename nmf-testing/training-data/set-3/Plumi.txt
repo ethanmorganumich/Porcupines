@@ -1,0 +1,5 @@
+Free content management systems~Free software programmed in Python~Video hosting software~Zope~
+||||||
+Plumi
+||||||
+Plumi is a free software video sharing content management system based on Plone and primarily developed by the Indo-Pacific based EngageMedia, the Greece based Unweb.me consultancy, and others. Plumi allows users to create a video sharing site by adding it to an existing Plone instance. The software includes a wide array of functionality to facilitate video distribution and community creation.Plumi is one project that aims to help establish "community controlled, noncommercial, free and open source alternatives" to commercial video sites such as YouTube. It is designed to allow communities and "citizen publishers create their own video-sharing communities out of the box" It is also designed to be more accessible to non-profit groups and independent journalists, given it is available as free-software without cost.

@@ -1,0 +1,12 @@
+Augmented intervals~Fifths (music)~
+||||||
+Augmented fifth
+||||||
+In classical music from Western culture, an augmented fifth (Play ) is an interval produced by widening a perfect fifth by a chromatic semitone. For instance, the interval from C to G is a perfect fifth, seven semitones wide, and both the intervals from C♭ to G, and from C to G♯ are augmented fifths, spanning eight semitones. Being augmented, it is considered a dissonant interval.Its inversion is the diminished fourth, and its enharmonic equivalent is the minor sixth.
+The augmented fifth only began to make an appearance at the beginning of the common practice period of music as a consequence of composers seeking to strengthen the normally weak seventh degree when composing music in minor modes.
+This was achieved by chromatically raising the seventh degree (or subtonic) to match that of the unstable seventh degree (or leading tone) of the major mode (an increasingly widespread practice that led to the creation of a modified version of the minor scale known as the harmonic minor scale).
+A consequence of this was that the interval between the minor mode's already lowered third degree (mediant) and the newly raised seventh degree (leading note), previously a perfect fifth, had now been "augmented" by a semitone.
+Another result of this practice was the appearance of the first augmented triads, built on the same (mediant) degree, in place of the naturally occurring major chord.
+As music became increasingly chromatic, the augmented fifth was used with correspondingly greater freedom and also became a common component of jazz chords. Near the end of the nineteenth century the augmented fifth became commonly used in a dominant chord. This would create an augmented dominant (or V) chord. The augmented fifth of the chord would then act as a leading tone to the third of the next chord. This augmented V chord would never precede a minor tonic (or i) chord since the augmented fifth of the dominant chord is identical to the third of the tonic chord.
+In an equal tempered tuning, an augmented fifth is equal to eight semitones, a ratio of 22/3:1 (about 1.587:1), or 800 cents. The 25:16 just augmented fifth arises in the C harmonic minor scale between E♭ and B. Play 
+The augmented fifth is a context-dependent dissonance. That is, when heard in certain contexts, such as that described above, the interval will sound dissonant. In other contexts, however, the same eight-semitone interval will simply be heard (and notated) as its consonant enharmonic equivalent, the minor sixth.

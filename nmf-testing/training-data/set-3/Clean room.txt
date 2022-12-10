@@ -1,0 +1,8 @@
+Cleanroom technology~Filters~Rooms~Semiconductor device fabrication~Telecommunications engineering~
+||||||
+Cleanroom
+||||||
+A cleanroom or clean room is an engineered space, which maintains a very low concentration of airborne particulates. It is well isolated, well-controlled from contamination, and actively cleansed. Such rooms are commonly needed for scientific research, and in industrial production for all nanoscale processes, such as semiconductor manufacturing. A cleanroom is designed to keep everything from dust, to airborne organisms, or vaporised particles, away from it, and so from whatever material is being handled inside it.
+The other way around, a cleanroom can also help keep materials escaping from it. This is often the primary aim in hazardous biology and nuclear work, in pharmaceutics and in virology.
+Cleanrooms typically come with a cleanliness level quantified by the number of particles per cubic meter at a predetermined molecule measure. The ambient outdoor air in a typical urban area contains 35,000,000 particles for each cubic meter in the size range 0.5 μm and bigger, equivalent to an ISO 9 certified cleanroom. By comparison an ISO 14644-1 level 1 certified cleanroom permits no particles in that size range, and just 12 particles for each cubic meter of 0.3 μm and smaller. Semiconductor facilities often get by with level 7, while level 1 facilities are exceedingly rare.
+

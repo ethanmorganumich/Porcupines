@@ -1,0 +1,12 @@
+Audio codecs~Computer-related introductions in 1993~Data compression~ISO/IEC standards~MPEG~Video codecs~
+||||||
+MPEG-1
+||||||
+MPEG-1 is a standard for lossy compression of video and audio.  It is designed to compress VHS-quality raw digital video and CD audio down to about 1.5 Mbit/s (26:1 and 6:1 compression ratios respectively) without excessive quality loss, making video CDs, digital cable/satellite TV and digital audio broadcasting (DAB) practical.Today, MPEG-1 has become the most widely compatible lossy audio/video format in the world, and is used in a large number of products and technologies.  Perhaps the best-known part of the MPEG-1 standard is the first version of the MP3 audio format it introduced.
+The MPEG-1 standard is published as ISO/IEC 11172 – Information technology—Coding of moving pictures and associated audio for digital storage media at up to about 1.5 Mbit/s.
+The standard consists of the following five Parts:
+Systems (storage and synchronization of video, audio, and other data together)
+Video (compressed video content)
+Audio (compressed audio content)
+Conformance testing (testing the correctness of implementations of the standard)
+Reference software (example software showing how to encode and decode according to the standard)

@@ -1,0 +1,5 @@
+Antennas~Communication circuits~Radio electronics~Satellite broadcasting~Transducers~
+||||||
+Orthomode transducer
+||||||
+An orthomode transducer (OMT) is a waveguide component that is commonly referred to as a polarisation duplexer. Orthomode is a contraction of orthoganal mode. Orthomode transducers serve either to combine or to separate two orthogonally polarized microwave signal paths. One of the paths forms the uplink, which is transmitted over the same waveguide as the received signal path, or downlink path. Such a device may be part of a very small aperture terminal (VSAT) antenna feed or a terrestrial microwave radio feed; for example, OMTs are often used with a feed horn to isolate orthogonal polarizations of a signal and to transfer transmit and receive signals to different ports.

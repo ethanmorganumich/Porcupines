@@ -1,0 +1,19 @@
+Machine learning algorithms~
+||||||
+Incremental learning
+||||||
+In computer science, incremental learning is a method of machine learning in which input data is continuously used to extend the existing model's knowledge i.e. to further train the model. It represents a dynamic technique of supervised learning and unsupervised learning that can be applied when training data becomes available gradually over time or its size is out of system memory limits. Algorithms that can facilitate incremental learning are known as incremental machine learning algorithms.
+Many traditional machine learning algorithms inherently support incremental learning.
+Other algorithms can be adapted to facilitate incremental learning. 
+Examples of incremental algorithms include
+decision trees
+(IDE4,
+ID5R and gaenari),
+decision rules,artificial neural networks
+(RBF networks,
+Learn++,
+Fuzzy ARTMAP,
+TopoART, and
+IGNG) or
+the incremental SVM.The aim of incremental learning is for the learning model to adapt to new data without forgetting its existing knowledge.  Some incremental learners have built-in some parameter or assumption that controls the relevancy of old data, while others, called stable incremental machine learning algorithms, learn representations of the training data that are not even partially forgotten over time. Fuzzy ART and TopoART are two examples for this second approach.
+Incremental algorithms are frequently applied to data streams or big data, addressing issues in data availability and resource scarcity respectively. Stock trend prediction and user profiling are some examples of data streams where new data becomes continuously available.  Applying incremental learning to big data aims to produce faster classification or forecasting times.

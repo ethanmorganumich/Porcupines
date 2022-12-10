@@ -1,0 +1,11 @@
+Contract law~Legal terminology~
+||||||
+Guarantee
+||||||
+Guarantee is a legal term more comprehensive and of higher import than either warranty or "security". It most commonly designates a private transaction by means of which one person, to obtain some trust, confidence or credit for another, engages to be answerable for them. It may also designate a treaty through which claims, rights or possessions are secured. It is to be differentiated from the colloquial "personal guarantee" in that a guarantee is a legal concept which produces an economic effect. A personal guarantee by contrast is often used to refer to a promise made by an individual which is supported by, or assured through, the word of (speak enough) the individual. In the same way, a guarantee produces a legal effect wherein one party affirms the promise of another (usually to pay) by promising to themselves pay if default occurs.
+At law, the giver of a guarantee is called the surety or the "guarantor". The person to whom the guarantee is given is the creditor or the "obligee"; while the person whose payment or performance is secured thereby is termed "the obligor", "the principal debtor", or simply "the principal".
+Suretys have been classified as follows:
+
+Those in which there is an agreement to constitute, for a particular purpose, the relation of principal and surety, to which agreement the secured creditor is a party;
+those in which there is a similar agreement between the principal and surety only, to which the creditor is a stranger;
+those in which, without any such contract of suretyship, there is a primary and a secondary liability of two persons for one and the same debt, the debt being, as between the two, that of one of those persons only, and not equally of both, so that the other, if they should be compelled to pay it, would be entitled to reimbursement from the person by whom (as between the two) it ought to have been paid.

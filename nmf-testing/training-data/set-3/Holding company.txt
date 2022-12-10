@@ -1,0 +1,8 @@
+Business models~Business terms~Holding companies~Legal entities~Types of business entity~
+||||||
+Holding company
+||||||
+A holding company is a company whose primary business is holding a controlling interest in the securities of other companies. A holding company usually does not produce goods or services itself. Its purpose is to own shares of other companies to form a corporate group.
+In some jurisdictions around the world, holding companies are called parent companies, which, besides holding stock in other companies, can conduct trade and other business activities themselves. Holding companies reduce risk for the shareholders, and can permit the ownership and control of a number of different companies. The New York Times also refers to the term as parent holding company.Holding companies are also created to hold assets such as intellectual property or trade secrets, that are protected from the operating company. That creates a smaller risk when it comes to litigation.
+In the United States, 80% of stock, in voting and value, must be owned before tax consolidation benefits such as tax-free dividends can be claimed.  That is, if Company A owns 80% or more of the stock of Company B, Company A will not pay taxes on dividends paid by Company B to its stockholders, as the payment of dividends from B to A is essentially transferring cash within a single enterprise. Any other shareholders of Company B will pay the usual taxes on dividends, as they are legitimate and ordinary dividends to these shareholders.
+Sometimes, a company intended to be a pure holding company identifies itself as such by adding "Holding" or "Holdings" to its name.

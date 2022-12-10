@@ -1,0 +1,7 @@
+Communication circuits~Internet architecture~
+||||||
+Loopback
+||||||
+Loopback (also written loop-back) is the routing of electronic signals or digital data streams back to their source without intentional processing or modification. It is primarily a means of testing the communications infrastructure.
+There are many example applications. It may be a communication channel with only one communication endpoint. Any message transmitted by such a channel is immediately and only received by that same channel.  In telecommunications, loopback devices perform transmission tests of access lines from the serving switching center, which usually does not require the assistance of personnel at the served terminal. Loop around is a method of testing between stations that are not necessarily adjacent, wherein two lines are used, with the test being done at one station and the two lines are interconnected at the distant station. A patch cable may also function as loopback, when applied manually or automatically, remotely or locally, facilitating a loop-back test.
+Where a system (such as a modem) involves round-trip analog-to-digital processing, a distinction is made between analog loopback, where the analog signal is looped back directly, and digital loopback, where the signal is processed in the digital domain before being re-converted to an analog signal and returned to the source.

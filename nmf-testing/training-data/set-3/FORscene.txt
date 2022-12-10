@@ -1,0 +1,7 @@
+Film and video technology~Java platform software~Publishing software~Video editing software~Video hosting~Web applications~Web hosting~
+||||||
+Blackbird (software)
+||||||
+Blackbird (formerly named FORscene) is an integrated internet video platform, video editing software, covering non-linear editing and publishing for broadcast, web and mobile.
+Designed by Blackbird plc to allow collaborative editing of video at resolutions of up to 540p and up to 60 frames per second on bandwidths as low as 2MBit/s, it is capable of video logging, reviewing, publishing and hosting through HD and 4K to UHD quality from original sources. The system is implemented as a mobile app for Android and iOS devices, a Java applet and a pure JavaScript web application as part of its user interface. The latter runs on platforms without application installation, codec installation, or machine configuration and has Web 2.0 features.
+Blackbird won the Royal Television Society's award for Technology in the post-production process in December 2005.

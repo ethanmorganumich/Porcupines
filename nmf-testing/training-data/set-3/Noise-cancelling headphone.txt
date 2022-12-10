@@ -1,0 +1,6 @@
+Audio engineering~Noise reduction~
+||||||
+Noise-cancelling headphones
+||||||
+Noise-cancelling headphones reduce unwanted ambient sounds using active noise control. This is distinct from passive headphones which, if they reduce ambient sounds at all, use techniques such as soundproofing.
+Noise cancellation makes it possible to listen to audio content without raising the volume excessively. It can also help a passenger sleep in a noisy vehicle such as an airliner. In the aviation environment, noise-cancelling headphones increase the signal-to-noise ratio significantly more than passive noise attenuating headphones or no headphones, making hearing important information such as safety announcements easier. Noise-cancelling headphones can improve listening enough to completely offset the effect of a distracting concurrent activity.

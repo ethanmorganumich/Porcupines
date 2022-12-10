@@ -1,0 +1,9 @@
+Telephony signals~
+||||||
+Single-frequency signaling
+||||||
+In telephony, single-frequency signaling (SF) is line signaling in which dial pulses or supervisory signals are conveyed by a single voice-frequency tone in each direction.  SF and similar systems were used in 20th-century carrier systems.
+An SF signaling unit converts DC signaling (usually, at least in long-distance circuits, E&M signaling) to a format (characterized by the presence or absence of a single voice-frequency tone), which is suitable for transmission over an AC path, e.g., a carrier system. The SF tone is present in the on-hook or idle state and absent during the seized state. In the seized state, dial pulses are conveyed by bursts of SF tone, corresponding to the interruptions in dc continuity created by a rotary dial or other DC dialing mechanism. 
+The SF tone may occupy a small portion of the user data channel spectrum, e.g., 1600 Hz or 2600 Hz (SF "in-band signaling)". There may be a notch filter at the precise SF frequency, either filtering the circuit at all times or only when the circuit is off-hook, to prevent the user from inadvertently disconnecting a call if the users voice has a sufficiently strong spectral content at the SF frequency, a falsing condition known as talk-off. Notoriously, this property was exploited by blue boxers and other toll fraudsters. The SF tone may also be just outside the user voice band, e.g., 3600 Hz.  
+The Defense Data Network (DDN) transmitted DC line signaling pulses or supervisory signals, or both, over carrier channels or cable pairs on a four-wire circuit basis using a 2600 Hz signal tone. The conversion into tones, or vice versa, is done by SF signal units.
+SF was developed in the early 20th century and standardized in middle century.  It declined in the 1970s due to the adoption of T-carrier, and was largely abandoned late in the century in favor of common-channel signaling.

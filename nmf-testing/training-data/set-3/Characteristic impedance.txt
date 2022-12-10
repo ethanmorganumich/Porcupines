@@ -1,0 +1,6 @@
+Distributed element circuits~Electricity~Physical quantities~Transmission lines~
+||||||
+Characteristic impedance
+||||||
+The characteristic impedance or surge impedance (usually written Z0) of a uniform transmission line is the ratio of the amplitudes of voltage and current of a single wave propagating along the line; that is, a wave travelling in one direction in the absence of reflections in the other direction. Alternatively, and equivalently, it can be defined as the input impedance of a transmission line when its length is infinite. Characteristic impedance is determined by the geometry and materials of the transmission line and, for a uniform line, is not dependent on its length. The SI unit of characteristic impedance is the ohm.
+The characteristic impedance of a lossless transmission line is purely real, with no reactive component. Energy supplied by a source at one end of such a line is transmitted through the line without being dissipated in the line itself. A transmission line of finite length (lossless or lossy) that is terminated at one end with an impedance equal to the characteristic impedance appears to the source like an infinitely long transmission line and produces no reflections.

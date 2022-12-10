@@ -1,0 +1,24 @@
+Geometric algorithms~Types of polygons~
+||||||
+Star-shaped polygon
+||||||
+In geometry, a star-shaped polygon is a polygonal region in the plane that is a star domain, that is, a polygon that contains a point from which the entire polygon boundary is visible.
+Formally, a polygon P is star-shaped if there exists a point z such that for each point p of P the segment 
+  
+    
+      
+        
+          
+            
+              z
+              p
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {zp}}}
+   lies entirely within P. The set of all points z with this property (that is, the set of points from which all of P is visible) is called the kernel of P.
+If a star-shaped polygon is convex, the link distance between any two of its points (the minimum number of sequential line segments sufficient to connect those points) is 1, and so the polygon's link diameter (the maximum link distance over all pairs of points) is 1. If a star-shaped polygon is not convex, the link distance between a point in the kernel and any other point in the polygon is 1, while the link distance between any two points that are in the polygon but outside the kernel is either 1 or 2; in this case the maximum link distance is 2.
+

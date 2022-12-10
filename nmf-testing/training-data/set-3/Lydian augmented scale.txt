@@ -1,0 +1,12 @@
+Heptatonic scales~
+||||||
+Lydian augmented scale
+||||||
+In music, the Lydian augmented scale (Lydian ♯5 scale) is the third mode of the ascending melodic minor scale or jazz minor scale.
+Starting on C, the notes would be as follows:
+
+Generically the whole and half steps are:
+
+-  W -  W -  W -  W -  H -  W -  H -
+
+The scale may be thought of as a major scale with an augmented fourth and fifth, or as the relative to the melodic minor ascending scale (C Lydian augmented and A melodic minor ascending share the same notes).

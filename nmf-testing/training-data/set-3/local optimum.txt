@@ -1,0 +1,6 @@
+Mathematical optimization~
+||||||
+Local optimum
+||||||
+In applied mathematics and computer science, a local optimum of an optimization problem is a solution that is optimal (either maximal or minimal) within a neighboring set of candidate solutions. This is in contrast to a global optimum, which is the optimal solution among all possible solutions, not just those in a particular neighborhood of values. 
+

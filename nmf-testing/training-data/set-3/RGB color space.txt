@@ -1,0 +1,6 @@
+Color space~
+||||||
+RGB color spaces
+||||||
+An RGB color space is any additive color space based on the RGB color model.  An RGB color space is defined by chromaticity coordinates of the red, green, and blue additive primaries, the white point which is usually a standard illuminant, and the transfer function which is also known as the tone response curve (TRC) or gamma. Applying Grassmann's law of light additivity, a colorspace so defined can produce colors which are enclosed within the 2D triangle on the chromaticity diagram defined by those primary coordinates. The TRC and white point further define the possible colors, creating a volume in a 3D shape that never exceeds the triangular bounds.The primary colors are often specified in terms of their xyY chromaticity coordinates, though the uʹ,vʹ coordinates from the UCS chromaticity diagram may be used. Both xyY and uʹ,vʹ are derived from the CIE 1931 color space, a device independent space also known as XYZ which uses the 2° standard observer, an averaging of experimental data defining the limits of the human color gamut.
+

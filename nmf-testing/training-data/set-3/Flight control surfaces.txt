@@ -1,0 +1,8 @@
+Aircraft controls~Attitude control~
+||||||
+Flight control surfaces
+||||||
+Aircraft flight control surfaces are aerodynamic devices allowing a pilot to adjust and control the aircraft's flight attitude.
+Development of an effective set of flight control surfaces was a critical advance in the development of aircraft. Early efforts at fixed-wing aircraft design succeeded in generating sufficient lift to get the aircraft off the ground, but once aloft, the aircraft proved uncontrollable, often with disastrous results. The development of effective flight controls is what allowed stable flight.
+This article describes the control surfaces used on a fixed-wing aircraft of conventional design.  Other fixed-wing aircraft configurations may use different control surfaces but the basic principles remain.  The controls (stick and rudder) for rotary wing aircraft (helicopter or autogyro) accomplish the same motions about the three axes of rotation, but manipulate the rotating flight controls (main rotor disk and tail rotor disk) in a completely different manner.
+Flight control surfaces are operated by aircraft flight control systems.

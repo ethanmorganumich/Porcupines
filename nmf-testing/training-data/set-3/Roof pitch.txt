@@ -1,0 +1,7 @@
+Building~Building engineering~
+||||||
+Roof pitch
+||||||
+Roof pitch is the steepness of a roof expressed as a ratio of inch(es) rise per horizontal foot (or their metric equivalent), or as the angle in degrees its surface deviates from the horizontal.  A flat roof has a pitch of zero in either instance; all other roofs are pitched.
+A roof that rises 3 inches per foot, for example, would be described as having a pitch of 3 (or “3 in 12”).
+

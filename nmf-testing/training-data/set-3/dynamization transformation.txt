@@ -1,0 +1,6 @@
+Data structures~
+||||||
+Dynamization
+||||||
+In computer science, dynamization is the process of transforming a static data structure into a dynamic one. Although static data structures may provide very good functionality and fast queries, their utility is limited because of their inability to grow/shrink quickly, thus making them inapplicable for the solution of dynamic problems, where the amount of the input data changes. Dynamization techniques provide uniform ways of creating dynamic data structures.
+

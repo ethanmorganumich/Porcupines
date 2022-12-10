@@ -1,0 +1,8 @@
+Formal sections in music analysis~Music stubs~
+||||||
+Movement (music)
+||||||
+A movement is a self-contained part of a musical composition or musical form. While individual or selected movements from a composition are sometimes performed separately as stand-alone pieces, a performance of the complete work requires all the movements to be performed in succession. A movement is a section, "a major structural unit perceived as the result of the coincidence of relatively large numbers of structural phenomena".
+A unit of a larger work that may stand by itself as a complete composition. Such divisions are usually self-contained. Most often the sequence of movements is arranged fast-slow-fast or in some other order that provides contrast.
+While the ultimate harmonic goal of a tonal composition is the final tonic  triad, there will
+ also be many interior harmonic goals found within the piece, some of them tonic triads and some of them not. ...We use the term cadence to mean a harmonic goal, specifically the chords used at the goal.

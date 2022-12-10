@@ -1,0 +1,9 @@
+Horticultural techniques~Hydroculture~
+||||||
+Fogponics
+||||||
+Fogponics, or atmoponics (from  Ancient Greek ἀτμός (atmós), meaning "vapour" or "steam"), is a subset of aeroponics. Fogponics uses a suspension of nutrient enriched water to deliver nutrients and oxygen to plant roots. 
+This is in contrast to geoponics and organoponics which use soil and organic materials as the primary source of nutrients (as well as the growth medium), and 'traditional' hydroponics, which uses a submersion of nutrient enriched water as the primary nutrient source (using an inert, or no growth medium).
+The difference between fogponics and other forms of aeroponics is that while aeroponics typically delivers nutrient rich water to the roots using a spray (relatively large particles in air), fogponics uses one of a number of mechanisms (for example ultrasonic, compressed air, or heating elements) to form a suspension of much smaller particles of water (5–30 μm), or even as a vapour.
+Plants best absorb particles from the 1–50 μm range. 
+It is assumed that the absorption rate, as well as the energy required to grow are inversely proportional to particle size.

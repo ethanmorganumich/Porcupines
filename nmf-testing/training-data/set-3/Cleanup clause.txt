@@ -1,0 +1,6 @@
+Contract clauses~Finance stubs~
+||||||
+Cleanup clause
+||||||
+A cleanup clause is a contractual provision in a loan agreement which provides that all loans must be repaid within a specified period, after which no further loans will be made available to the debtor for a specified "cleanup" period.
+It may also refer to revolving line of credit. A lender may require a cleanup period annually, for example a borrower may have to pay down the balance to zero for 30 days.

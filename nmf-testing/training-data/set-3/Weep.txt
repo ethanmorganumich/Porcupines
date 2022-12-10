@@ -1,0 +1,8 @@
+Architectural elements~Geotechnical structures~
+||||||
+Weep
+||||||
+A weep, a weep hole, or a weep-brick is a small opening that allows water to drain from within an assembly. Weeps are located at the bottom of the object to allow for drainage; the weep hole must be sized adequately to overcome surface tension.
+Weeps may also be necessary in a retaining wall, so water can escape from the retained earth, thus lessening the hydrostatic load on the wall and preventing damage to the wall from the excess water weight and possible moisture damage from freeze/thaw cycles.  In such cases the weeps may consist of a plastic, clay or metal pipe extending through the wall to a layer of porous backfill.
+Typically, weeps are arranged to direct water which may have entered an assembly from outside, back to the outside. Weeps may also be found in metal windows and glazed curtain walls to permit interstitial condensation to escape. Automotive water pumps have weep holes to protect the bearings by letting out water that leaks past the seal.
+

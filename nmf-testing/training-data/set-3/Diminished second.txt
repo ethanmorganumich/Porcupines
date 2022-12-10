@@ -1,0 +1,7 @@
+Diminished intervals~Seconds (music)~
+||||||
+Diminished second
+||||||
+In modern Western tonal music theory, a diminished second is the interval produced by narrowing a minor second by one chromatic semitone. It is enharmonically equivalent to a perfect unison. Thus, it is the interval between notes on two adjacent staff positions, or having adjacent note letters, altered in such a way that they have no pitch difference in twelve-tone equal temperament. An example is the interval from a B to the C♭ immediately above; another is the interval from a B♯ to the C immediately above.
+In particular, it may be regarded as the "difference" between a diatonic and chromatic semitone. For instance, the interval from B to C is a diatonic semitone, the interval from B to B♯ is a chromatic semitone, and their difference, the interval from B♯ to C is a diminished second.
+Being diminished, it is considered a dissonant interval.

@@ -1,0 +1,6 @@
+3-limit tuning and intervals~
+||||||
+Pythagorean interval
+||||||
+In musical tuning theory, a Pythagorean interval is a musical interval with frequency ratio equal to a power of two divided by a power of three, or vice versa. For instance, the perfect fifth with ratio 3/2 (equivalent to 31/ 21) and the perfect fourth with ratio 4/3 (equivalent to 22/ 31) are Pythagorean intervals.
+All the intervals between the notes of a scale are Pythagorean if they are tuned using the Pythagorean tuning system. However, some Pythagorean intervals are also used in other tuning systems. For instance, the above-mentioned Pythagorean perfect fifth and fourth are also used in just intonation.

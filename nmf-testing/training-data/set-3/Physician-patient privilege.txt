@@ -1,0 +1,5 @@
+Health law~Patient~Physicians~Privileged communication~
+||||||
+Physician–patient privilege
+||||||
+Physician–patient privilege is a legal concept, related to medical confidentiality, that protects communications between a patient and their doctor from being used against the patient in court. It is a part of the rules of evidence in many common law jurisdictions. Almost every jurisdiction that recognizes physician–patient privilege not to testify in court, either by statute or through case law, limits the privilege to knowledge acquired during the course of providing medical services. In some jurisdictions, conversations between a patient and physician may be privileged in both criminal and civil courts.

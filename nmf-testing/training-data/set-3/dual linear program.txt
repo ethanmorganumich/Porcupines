@@ -1,0 +1,10 @@
+Linear programming~
+||||||
+Dual linear program
+||||||
+The dual of a given linear program (LP) is another LP that is derived from the original (the primal) LP in the following schematic way:
+
+Each variable in the primal LP becomes a constraint in the dual LP;
+Each constraint in the primal LP becomes a variable in the dual LP;
+The objective direction is inversed – maximum in the primal becomes minimum in the dual and vice versa.The weak duality theorem states that the objective value of the dual LP at any feasible solution is always a bound on the objective of the primal LP at any feasible solution (upper or lower bound, depending on whether it is a maximization or minimization problem).  In fact, this bounding property holds for the optimal values of the dual and primal LPs.
+The strong duality theorem states that, moreover, if the primal has an optimal solution then the dual has an optimal solution too, and the two optima are equal.These theorems belong to a larger class of duality theorems in optimization. The strong duality theorem is one of the cases in which the duality gap (the gap between the optimum of the primal and the optimum of the dual) is 0.

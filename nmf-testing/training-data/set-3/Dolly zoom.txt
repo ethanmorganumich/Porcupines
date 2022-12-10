@@ -1,0 +1,8 @@
+Alfred Hitchcock~Cinematic techniques~Cinematography~Film and video terminology~Special effects~Television terminology~
+||||||
+Dolly zoom
+||||||
+A dolly zoom (also known as a Hitchcock shot, Vertigo shot, Jaws effect,
+or Zolly shot) is an  in-camera effect that appears to undermine normal visual perception.
+The effect is achieved by zooming a zoom lens to adjust the angle of view (often referred to as field of view, or FOV) while the camera dollies (moves) toward or away from the subject in such a way as to keep the subject the same size in the frame throughout. In its classic form, the camera angle is pulled away from a subject while the lens zooms in, or vice versa. Thus, during the zoom, there is a continuous perspective distortion, the most directly noticeable feature being that the background appears to change size relative to the subject.
+The visual appearance for the viewer is that either the background suddenly grows in size and detail and overwhelms the foreground, or the foreground becomes immense and dominates its previous setting, depending on which way the dolly zoom is executed. As the human visual system uses both size and perspective cues to judge the relative sizes of objects, seeing a perspective change without a size change is a highly unsettling effect, often with strong emotional impact.

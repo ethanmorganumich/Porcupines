@@ -1,0 +1,13 @@
+Concurrent algorithms~Higher-order functions~
+||||||
+Prefix sum
+||||||
+In computer science, the prefix sum, cumulative sum, inclusive scan, or simply scan of a sequence of numbers x0, x1, x2, ... is a second sequence of numbers y0, y1, y2, ..., the sums of prefixes (running totals) of the input sequence:
+
+y0 = x0
+y1 = x0 + x1
+y2 = x0 + x1+ x2
+...For instance, the prefix sums of the natural numbers are the triangular numbers:
+
+Prefix sums are trivial to compute in sequential models of computation, by using the formula yi = yi − 1 + xi to compute each output value in sequence order. However, despite their ease of computation, prefix sums are a useful primitive in certain algorithms such as counting sort,
+and they form the basis of the scan higher-order function in functional programming languages. Prefix sums have also been much studied in parallel algorithms, both as a test problem to be solved and as a useful primitive to be used as a subroutine in other parallel algorithms.Abstractly, a prefix sum requires only a binary associative operator ⊕, making it useful for many applications from calculating well-separated pair decompositions of points to string processing.Mathematically, the operation of taking prefix sums can be generalized from finite to infinite sequences; in that context, a prefix sum is known as a partial sum of a series. Prefix summation or partial summation form linear operators on the vector spaces of finite or infinite sequences; their inverses are finite difference operators.

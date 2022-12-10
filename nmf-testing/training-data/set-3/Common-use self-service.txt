@@ -1,0 +1,5 @@
+Kiosks~
+||||||
+Common-use self-service
+||||||
+Common-use self-service or CUSS is a shared kiosk offering airport check-in to passengers without the need for ground staff. The CUSS can be used by several participating airlines in a single terminal.The first major installation of CUSS for multiple airlines was launched in 2003 in a cooperative project between LAS McCarran Airport, ARINC and twelve participating airlines. British Airways, Singapore Airlines, Royal Dutch KLM and Lufthansa By the end of 2008, CUSS had been implemented at more than 100 airports globally.

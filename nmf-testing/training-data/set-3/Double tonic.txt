@@ -1,0 +1,27 @@
+Chord progressions~Melodic motion~
+||||||
+Double tonic
+||||||
+A double tonic is a chord progression, melodic motion, or shift of level consisting of a, "regular back-and-forth motion," in melody similar to Bruno Nettl's pendulum type though it uses small intervals, most often a whole tone though may be almost a semitone to a minor third (see pendular thirds).
+
+It is extremely common in African music ("Mkwaze mmodzi"), Asian music, and European music, including:
+European Middle Ages music such as "Sumer is Icumen in"
+Elizabethan popular music such as "The Woods so Wild" and "Dargason"
+Classical music featuring the regular alternation of tonic-dominant
+Alternating 'discords' such as in Debussy or Stravinsky
+Gustav Mahler has also used this kind of musical pendulum motion
+"Scottish" and European music such as "Donald MacGillavry"
+Sea shanties and other work songs such as "Drunken Sailor", "Roun' de Corn, Sally", and "Shallow Brown", and in
+Football chants such as:
+In American music, a rare example of a double-tonic is the spiritual "Rock my Soul" though American popular music began to use the double tonic commonly in the last half of the 1900s, including Beck's "Puttin It Down".Double tonic patterns may be classified as beginning on the lower ("Sumer is Icumen in", "The Woods so Wild", "The Irish Washerwoman") or upper (most Scottish tunes, passamezzo antico, "Roun' de Corn, Sally", "Shallow Brown", "Mkwaze mmodzi") note and may repeat open endedly, though they are often closed through a tonic close, as in :
+Am|G|Am-G|Am||
+
+They are also often varied through a binary scheme ending on the dominant then tonic, as in:
+
+Am|G|Am|E|| Am|G|Am-G|Am||
+
+or,
+
+Am|G|Am|E|| Am|G|Am-E|Am||
+
+A variation of this last progression is the passamezzo antico.

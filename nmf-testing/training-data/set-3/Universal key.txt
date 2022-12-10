@@ -1,0 +1,14 @@
+Musical scales~
+||||||
+Universal key
+||||||
+The universal key or universal scale is a concept employed in music theory in which specific notes or chord symbols in a key signature are replaced with numbers or Roman numerals, allowing for a discussion describing relationships between notes or chords that can be universally applied to all key signatures.
+For example, in the key of E-flat major, the notes of the scale would be replaced like so:
+
+E♭ becomes scale degree 1
+F becomes scale degree 2
+G becomes scale degree 3
+A♭ becomes scale degree 4
+B♭ becomes scale degree 5
+C becomes scale degree 6
+D becomes scale degree 7

@@ -1,0 +1,10 @@
+British inventions~Electric motors~Electromagnetic components~Energy conversion~Hungarian inventions~Magnetic propulsion devices~
+||||||
+Electric motor
+||||||
+An electric motor is an electrical machine that converts electrical energy into mechanical energy. Most electric motors operate through the interaction between the motor's magnetic field and electric current in a wire winding to generate force in the form of torque applied on the motor's shaft. An electric generator is mechanically identical to an electric motor, but operates with a reversed flow of power, converting mechanical energy into electrical energy.
+Electric motors can be powered by direct current (DC) sources, such as from batteries, or rectifiers, or by alternating current (AC) sources, such as a power grid, inverters or electrical generators.
+Electric motors may be classified by considerations such as power source type, construction, application and type of motion output. They can be powered by AC or DC, be brushed or brushless, single-phase, two-phase, or three-phase, axial or radial flux, and may be air-cooled or liquid-cooled.
+Standardized motors provide convenient mechanical power for industrial use. The largest are used for ship propulsion, pipeline compression and pumped-storage applications with output exceeding 100 megawatts.
+Applications include industrial fans, blowers and pumps, machine tools, household appliances, power tools, vehicles, and disk drives. Small motors may be found in electric watches. In certain applications, such as in regenerative braking with traction motors, electric motors can be used in reverse as generators to recover energy that might otherwise be lost as heat and friction.
+Electric motors produce linear or rotary force (torque) intended to propel some external mechanism, such as a fan or an elevator. An electric motor is generally designed for continuous rotation, or for linear movement over a significant distance compared to its size. Magnetic solenoids are also transducers that convert electrical power to mechanical motion, but can produce motion over only a limited distance.

@@ -1,0 +1,59 @@
+Analysis of algorithms~Computer performance~Software optimization~Software quality~
+||||||
+Algorithmic efficiency
+||||||
+In computer science, algorithmic efficiency is a property of an algorithm which relates to the amount of computational resources used by the algorithm. An algorithm must be analyzed to determine its resource usage, and the efficiency of an algorithm can be measured based on the usage of different resources. Algorithmic efficiency can be thought of as analogous to engineering productivity for a repeating or continuous process.
+For maximum efficiency it is desirable to minimize resource usage. However, different resources such as time and space complexity cannot be compared directly, so which of two algorithms is considered to be more efficient often depends on which measure of efficiency is considered most important.
+For example, bubble sort and timsort are both algorithms to sort a list of items from smallest to largest. Bubble sort sorts the list in time proportional to the number of elements squared (
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        )
+      
+    
+    {\textstyle O(n^{2})}
+  , see Big O notation), but only requires a small amount of extra memory which is constant with respect to the length of the list (
+  
+    
+      
+        O
+        (
+        1
+        )
+      
+    
+    {\textstyle O(1)}
+  ). Timsort sorts the list in time linearithmic (proportional to a quantity times its logarithm) in the list's length (
+  
+    
+      
+        O
+        (
+        n
+        log
+        ⁡
+        n
+        )
+      
+    
+    {\textstyle O(n\log n)}
+  ), but has a space requirement linear in the length of the list (
+  
+    
+      
+        O
+        (
+        n
+        )
+      
+    
+    {\textstyle O(n)}
+  ). If large lists must be sorted at high speed for a given application, timsort is a better choice; however, if minimizing the memory footprint of the sorting is more important, bubble sort is a better choice.

@@ -1,0 +1,5 @@
+Applications of artificial intelligence~Bibliographic databases in computer science~Internet search engines~Scholarly search services~
+||||||
+SciGraph
+||||||
+SciGraph is a search engine tool developed by Springer Nature. The technology, which is considered a Linked Open Data (LOD) platform, collects information that covers the research landscape, which includes research projects, publications, conferences, funding agencies, and others. Key features of the platform include the detailed semantic description of the relationship of information and the visualization of the scholarly domain.

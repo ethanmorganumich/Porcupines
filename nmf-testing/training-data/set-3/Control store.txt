@@ -1,0 +1,5 @@
+Firmware~Instruction processing~
+||||||
+Control store
+||||||
+A control store is the part of a CPU's control unit that stores the CPU's microprogram.  It is usually accessed by a microsequencer. A control store implementation whose contents are unalterable is known as a Read Only Memory (ROM) or Read Only Storage (ROS); one whose contents are alterable is known as a Writable Control Store (WCS).

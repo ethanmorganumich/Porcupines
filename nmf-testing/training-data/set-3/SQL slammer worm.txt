@@ -1,0 +1,7 @@
+Cybercrime in India~Denial-of-service attacks~Exploit-based worms~Hacking in the 2000s~
+||||||
+SQL Slammer
+||||||
+SQL Slammer is a 2003 computer worm that caused a denial of service on some Internet hosts and dramatically slowed general Internet traffic. It spread rapidly, infecting most of its 75,000 victims within ten minutes.
+The program exploited a buffer overflow bug in Microsoft's SQL Server and Desktop Engine database products. Although the MS02-039 patch had been released six months earlier, many organizations had not yet applied it.
+The most infected regions were Europe, North America, and Asia (including East Asia and India).

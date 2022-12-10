@@ -1,0 +1,11 @@
+Chords~
+||||||
+Minor chord
+||||||
+In music theory, a minor chord is a chord that has a root, a minor third, and a perfect fifth. When a chord comprises only these three notes, it is called a minor triad.  For example, the minor triad built on C, called a C minor triad, has pitches C–E♭–G:
+
+In harmonic analysis and on lead sheets, a C minor chord can be notated as Cm, C−, Cmin, or simply the lowercase "c". A minor triad is represented by the integer notation {0, 3, 7}.
+A minor triad can also be described by its intervals: the interval between the bottom and middle notes is a minor third, and the interval between the middle and top notes is a major third. By contrast, a major triad has a major third on the bottom and minor third on top. They both contain fifths, because a minor third (three semitones) plus a major third (four semitones) equals a perfect fifth (seven semitones). Chords that are constructed of consecutive (or "stacked") thirds are called tertian.
+In Western classical music from 1600 to 1820 and in Western pop, folk and rock music, a major chord is usually played as a triad. Along with the major triad, the minor triad is one of the basic building blocks of tonal music and the common practice period. In Western music, a minor chord, in comparison, "sounds darker than a major chord" but is still considered highly consonant, stable, or as not requiring resolution.
+Some minor chords with additional notes, such as the minor seventh chord, may also be called minor chords.
+

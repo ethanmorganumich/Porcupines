@@ -1,0 +1,7 @@
+Audio engineering~Broadcast engineering~Electrical signal connectors~Networking hardware~Telephony equipment~
+||||||
+Patch panel
+||||||
+A patch panel is a device or unit featuring a number of jacks, usually of the same or similar type, for the use of connecting and routing circuits for monitoring, interconnecting, and testing circuits in a convenient, flexible manner. Patch panels are commonly used in computer networking, recording studios, and radio and television.
+The term patch came from early use in telephony and radio studios, where extra equipment kept on standby could be temporarily substituted for failed devices. This reconnection was done via patch cords and patch panels, like the jack fields of cord-type telephone switchboards.
+

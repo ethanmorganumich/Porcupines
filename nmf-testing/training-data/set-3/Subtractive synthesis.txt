@@ -1,0 +1,5 @@
+Sound synthesis types~
+||||||
+Subtractive synthesis
+||||||
+Subtractive synthesis is a method of sound synthesis in which partials of an audio signal (often one rich in harmonics) are attenuated by a filter to alter the timbre of the sound. While subtractive synthesis can be applied to any source audio signal, the sound most commonly associated with the technique is that of analog synthesizers of the 1960s and 1970s, in which the harmonics of simple waveforms such as sawtooth, pulse or square waves are attenuated with a voltage-controlled resonant low-pass filter. Many digital, virtual analog and software synthesizers use subtractive synthesis, sometimes in conjunction with other methods of sound synthesis.

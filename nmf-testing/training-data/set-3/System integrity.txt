@@ -1,0 +1,9 @@
+Computer security~Reliability engineering~Systems engineering~Systems theory stubs~Technology systems~Telecommunications systems~
+||||||
+System integrity
+||||||
+In telecommunications, the term system integrity has the following meanings: 
+
+That condition of a system wherein its mandated operational and technical parameters are within the prescribed limits.
+The quality of an AIS when it performs its intended function in an unimpaired manner, free from deliberate or inadvertent unauthorized manipulation of the system.
+The state that exists when there is complete assurance that under all conditions an IT system is based on the logical correctness and reliability of the operating system, the logical completeness of the hardware and software that implement the protection mechanisms, and data integrity.

@@ -1,0 +1,7 @@
+1904 introductions~Diodes~Semiconductor devices~
+||||||
+Diode
+||||||
+A diode is a two-terminal electronic component that conducts current primarily in one direction (asymmetric conductance); it has low (ideally zero) resistance in one direction, and high (ideally infinite) resistance in the other.
+A diode vacuum tube or thermionic diode is a vacuum tube with two electrodes, a heated cathode and a plate, in which electrons can flow in only one direction, from cathode to plate.
+A semiconductor diode, the most commonly used type today, is a crystalline piece of semiconductor material with a p–n junction connected to two electrical terminals. Semiconductor diodes were the first semiconductor electronic devices. The discovery of asymmetric electrical conduction across the contact between a crystalline mineral and a metal was made by German physicist Ferdinand Braun in 1874. Today, most diodes are made of silicon, but other semiconducting materials such as gallium arsenide and germanium are also used.Among many uses, diodes are found in rectifiers to convert AC power to DC, demodulation in radio receivers, and can even be used as temperature sensors. A common variant of a diode is a light emitting diode, which is used as electric lighting and status indicators on electronic devices. Diodes may be combined with other components to form logic gates.

@@ -1,0 +1,6 @@
+Financial economics~Valuation (finance)~Yield (finance)~
+||||||
+Yield (finance)
+||||||
+In finance, the yield on a security is a measure of the ex-ante return to a holder of the security. It is one component of return on an investment, the other component being the change in the market price of the security. It is a measure applied to fixed income securities, common stocks, preferred stocks, convertible stocks and bonds, annuities and real estate investments.
+There are various types of yield, and the method of calculation depends on the particular type of yield and the type of security. Because of these differences, yield comparisons between different types of financial products should be treated with caution.

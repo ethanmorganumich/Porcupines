@@ -1,0 +1,9 @@
+Geometry stubs~Mechanics~Science stubs~
+||||||
+Slewing
+||||||
+Slewing is the rotation of an object around an axis, usually the z axis. An example is a radar scanning 360 degrees by slewing around the z axis. This is also common terminology in astronomy. The process of rotating a telescope to observe a different region of the sky is referred to as slewing.
+The term slewing is also found in motion control applications.  Often the slew axis is combined with another axis to form a motion profile.
+In crane terminology, slewing is the angular movement of a crane boom or crane jib in a horizontal plane.
+The term is also used in the computer game Microsoft Flight Simulator wherein the user presses a key and he or she can rotate and move the virtual aircraft along all three spatial planes.
+In the modern day use of CNC programs, slewing is a vital part of the process.

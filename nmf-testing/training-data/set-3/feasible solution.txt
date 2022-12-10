@@ -1,0 +1,91 @@
+Mathematical optimization~Optimal decisions~
+||||||
+Feasible region
+||||||
+In mathematical optimization, a feasible region, feasible set, search space, or solution space is the set of all possible points (sets of values of the choice variables) of an optimization problem that satisfy the problem's constraints, potentially including inequalities, equalities, and integer constraints. This is the initial set of candidate solutions to the problem, before the set of candidates has been narrowed down.
+For example, consider the problem of minimizing the function 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+      
+    
+    {\displaystyle x^{2}+y^{4}}
+   with respect to the variables 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        y
+        ,
+      
+    
+    {\displaystyle y,}
+   subject to 
+  
+    
+      
+        1
+        ≤
+        x
+        ≤
+        10
+      
+    
+    {\displaystyle 1\leq x\leq 10}
+   and 
+  
+    
+      
+        5
+        ≤
+        y
+        ≤
+        12.
+        
+      
+    
+    {\displaystyle 5\leq y\leq 12.\,}
+   Here the feasible set is the set of pairs (x, y) in which the value of x is at least 1 and at most 10 and the value of y is at least 5 and at most 12. The feasible set of the problem is separate from the objective function, which states the criterion to be optimized and which in the above example is 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            4
+          
+        
+        .
+      
+    
+    {\displaystyle x^{2}+y^{4}.}
+  
+In many problems, the feasible set reflects a constraint that one or more variables must be non-negative. In pure integer programming problems, the feasible set is the set of integers (or some subset thereof).  In linear programming problems, the feasible set is a convex polytope: a region in multidimensional space whose boundaries are formed by hyperplanes and whose corners are vertices.
+Constraint satisfaction is the process of finding a point in the feasible region.

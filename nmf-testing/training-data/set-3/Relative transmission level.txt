@@ -1,0 +1,7 @@
+Radio frequency propagation~Telecommunications stubs~
+||||||
+Relative transmission level
+||||||
+In telecommunication, relative transmission level is the ratio of the signal power, at a given point in a transmission system, to a reference signal power. 
+The ratio is usually determined by applying a standard test tone at zero transmission level point (or applying adjusted test tone power at any other point) and measuring the gain or loss to the location of interest. A distinction should be made between the standard test tone power and the expected median power of the actual signal required as the basis for the design of transmission systems.
+ This article incorporates public domain material from Federal Standard 1037C. General Services Administration. (in support of MIL-STD-188).

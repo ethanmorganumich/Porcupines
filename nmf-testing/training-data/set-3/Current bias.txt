@@ -1,0 +1,6 @@
+Electronic engineering~Vacuum tubes~
+||||||
+Biasing
+||||||
+In electronics, biasing is the setting of DC (direct current) operating conditions (current and voltage) of an active device in an amplifier. Many electronic devices, such as diodes, transistors and vacuum tubes, whose function is processing time-varying (AC) signals, also require a steady (DC) current or voltage at their terminals to operate correctly. This current or voltage is called bias. The AC signal applied to them is superposed on this DC bias current or voltage. 
+The operating point of a device, also known as bias point, quiescent point, or Q-point, is the DC voltage or current at a specified terminal of an active device (a transistor or vacuum tube) with no input signal applied. A bias circuit is a portion of the device's circuit which supplies this steady current or voltage.

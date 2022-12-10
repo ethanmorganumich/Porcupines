@@ -1,0 +1,7 @@
+Broadband~Digital technology~
+||||||
+Broadband
+||||||
+In telecommunications, broadband is wide bandwidth data transmission which transports multiple signals at a wide range of frequencies and Internet traffic types, that enables messages to be sent simultaneously, used in fast internet connections. The medium can be coaxial cable, optical fiber, wireless Internet (radio), twisted pair or satellite.
+In the context of Internet access, broadband is used to mean any high-speed Internet access that is always on and faster than dial-up access over traditional analog or ISDN PSTN services.
+

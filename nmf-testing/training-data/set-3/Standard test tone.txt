@@ -1,0 +1,5 @@
+Audio engineering~Music production~Sound technology stubs~Telecommunications standards~
+||||||
+Reference tone
+||||||
+A reference tone is a pure tone corresponding to a known frequency, and produced at a stable sound pressure level (volume), usually by specialized equipment.

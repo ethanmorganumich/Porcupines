@@ -1,0 +1,7 @@
+Cognitive musicology~Perception~Pitch (music)~Psychoacoustics~Sound~
+||||||
+Pitch (music)
+||||||
+Pitch is a perceptual property of sounds that allows their ordering on a frequency-related scale,
+or more commonly, pitch is the quality that makes it possible to judge sounds as "higher" and "lower" in the sense associated with musical melodies.  
+Pitch is a major auditory attribute of musical tones, along with duration, loudness, and timbre.Pitch may be quantified as a frequency, but pitch is not a purely objective physical property; it is a subjective psychoacoustical attribute of sound. Historically, the study of pitch and pitch perception has been a central problem in psychoacoustics, and has been instrumental in forming and testing theories of sound representation, processing, and perception in the auditory system.

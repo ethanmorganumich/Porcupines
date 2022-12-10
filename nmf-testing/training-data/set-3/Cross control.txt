@@ -1,0 +1,5 @@
+Aircraft operations~Aviation stubs~
+||||||
+Cross control
+||||||
+In aviation, cross-controlled flight refers to a state of uncoordinated flight where the aircraft's rudder and ailerons are working in opposite directions. Crossed controls are most commonly used in slips. Having crossed controls, as in any form of uncoordinated flight, is aerodynamically unsound and if not monitored closely by the pilot can result in a stall or a spin.

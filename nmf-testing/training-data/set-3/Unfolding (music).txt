@@ -1,0 +1,7 @@
+Melody~Music theory stubs~Schenkerian analysis~
+||||||
+Unfolding (music)
+||||||
+In Schenkerian analysis, unfolding (German: Ausfaltung) or compound melody is the implication of more than one melody or line by a single voice through skipping back and forth between the notes of the two melodies. In music cognition, the phenomenon is also known as melodic fission.
+The term "compound melody" may have its origin in Walter Piston's Counterpoint (New York, Norton, 1947), under the form "compound melodic line" (London edition, 1947, p. 23). In the context of Schenkerian analysis, it appears among others in Forte & Gilbert, Introduction to Schenkerian Analysis (1982), Chapter 3, pp. 67-80. Manfred Bukofzer, Music in the Baroque Era, New York, Norton,  1947, had spoken of "implied polyphony".
+Unfolding is "a prolongation by means of the unfolding of intervals horizontally." Though the notes skipped between, those heard, may be considered near the foreground, the dyads, those implied, are in the middle or background. Middleground dyads are "unfolded" in the foreground: "intervals conceptually heard as sounding together are separated in time, unfolded, as it where, into a melodic sequence."

@@ -1,0 +1,5 @@
+Causal inference~Validity (statistics)~
+||||||
+External validity
+||||||
+External validity is the validity of applying the conclusions of a scientific study outside the context of that study. In other words, it is the extent to which the results of a study can be generalized to and across other situations, people, stimuli, and times. In contrast, internal validity is the validity of conclusions drawn within the context of a particular study. Because general conclusions are almost always a goal in research, external validity is an important property of any study. Mathematical analysis of external validity concerns a determination of whether generalization across heterogeneous populations is feasible, and devising statistical and computational methods that produce valid generalizations.

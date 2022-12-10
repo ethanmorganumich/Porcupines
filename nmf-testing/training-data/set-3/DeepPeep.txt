@@ -1,0 +1,5 @@
+Internet search engines~Science and technology in the United States~
+||||||
+DeepPeep
+||||||
+DeepPeep was a search engine that aimed to crawl and index every database on the public Web. Unlike traditional search engines, which crawl existing webpages and their hyperlinks, DeepPeep aimed to allow access to the so-called Deep web, World Wide Web content only available via for instance typed queries into databases. The project started at the University of Utah and was overseen by Juliana Freire, an associate professor at the university's School of Computing WebDB group. The goal was to make 90% of all WWW content accessible, according to Freire. The project ran a beta search engine and was sponsored by the University of Utah and a $243,000 grant from the National Science Foundation. It generated worldwide interest.

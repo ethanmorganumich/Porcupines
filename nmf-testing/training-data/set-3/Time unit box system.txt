@@ -1,0 +1,8 @@
+Music theory stubs~Musical notation~
+||||||
+Time unit box system
+||||||
+Time Unit Box System (TUBS) is a simple system for notating events that happen over a period. This system is mostly used for notating rhythms in music. The notation consists of one or more rows of boxes; each box represents a fixed unit of time. Blank boxes indicate that nothing happens during that interval, while a mark in a box indicates that an event occurs at the start of that time interval.
+TUBS is most useful for showing relationships between complex rhythms, such as polyrhythms, that would be difficult to see in traditional musical notation. TUBS also has the advantage that non-musicians can interpret it much more easily than musical notation, because of its simplicity.
+The term "TUBS" and the notation was originally used by musicologists Philip Harland and James Koetting to notate polyrhythms in African music in the early 1960s.  However, Joseon composer Bak Yeon(박연)'s invention of similar but unrelated notation jeongganbo(정간보, image) to notate Korean court music dates back to middle of the 15th century.
+TUBS notation has been adapted by several people; the most common adaptations use different symbols in the boxes to represent different sounds, for example different ways of hitting a drum or even different musical pitches. In fact, tracker notation is essentially TUBS rotated by 90 degrees.

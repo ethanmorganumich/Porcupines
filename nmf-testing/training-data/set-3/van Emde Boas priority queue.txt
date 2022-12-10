@@ -1,0 +1,6 @@
+Priority queues~Search trees~
+||||||
+Van Emde Boas tree
+||||||
+A van Emde Boas tree (Dutch pronunciation: [vɑn ˈɛmdə ˈboːɑs]), also known as a vEB tree or van Emde Boas priority queue, is a tree data structure which implements an associative array with m-bit integer keys. It was invented by a team led by Dutch computer scientist Peter van Emde Boas in 1975. It performs all operations in O(log m) time, or equivalently in O(log log M) time, where M = 2m is the largest element that can be stored in the tree. The parameter M is not to be confused with the actual number of elements stored in the tree, by which the performance of other tree data-structures is often measured. 
+The vEB tree has poor space efficiency. For example, for storing 32-bit integers (i.e., when m=32), it requires M=232 bits of storage. However, similar data structures with equally good time efficiency and space O(n) exist, where n is the number of stored elements.

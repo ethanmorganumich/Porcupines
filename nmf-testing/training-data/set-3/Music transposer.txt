@@ -1,0 +1,10 @@
+Musical techniques~Pitch (music)~
+||||||
+Transposition (music)
+||||||
+In music, transposition refers to the process or operation of moving a collection of notes (pitches or pitch classes) up or down in pitch by a constant interval.
+
+The shifting of a melody, a harmonic progression or an entire musical piece to another key, while maintaining the same tone structure, i.e. the same succession of whole tones and semitones and remaining melodic intervals.
+For example, one might transpose an entire piece of music into another key.  Similarly, one might transpose a tone row or an unordered collection of pitches such as a chord so that it begins on another pitch.
+The transposition of a set A by n semitones is designated by Tn(A), representing the addition (mod 12) of an integer n to each of the pitch class integers of the set A. Thus the set (A) consisting of 0–1–2 transposed by 5 semitones is 5–6–7 (T5(A)) since 0 + 5 = 5, 1 + 5 = 6, and 2 + 5 = 7.
+

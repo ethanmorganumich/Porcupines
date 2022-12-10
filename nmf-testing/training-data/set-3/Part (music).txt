@@ -1,0 +1,11 @@
+Formal sections in music analysis~Melody~Musical texture~Polyphonic form~Voicing (music)~
+||||||
+Part (music)
+||||||
+A part (or voice) generally refers to a single strand or melody or harmony of music within a larger ensemble or a polyphonic musical composition.
+There are several senses in which the word is often used:
+
+the physical copy of printed or written sheet music given to any individual instrument or voice (as opposed to the full score which shows all parts in the same document). A musician's part usually does not contain instructions for the other players in the ensemble, only instructions for that individual.
+the music played by any group of musicians who all perform in unison for a given piece; in a symphony orchestra, a dozen or more cello players may all play "the same part" even if they each have their own physical copy of the music. This sense of "part" does not require a written copy of the music; a bass player in a rock band "plays the bass part" even if there is no written version of the song.
+any individual melody that can be abstracted as continuous and independent from other notes being performed simultaneously. Within the music played by a single pianist, one can often identify outer parts (the top and bottom parts) or an inner part (those in between). On the other hand, within a choir, "outer parts" and "inner parts" would refer to music performed by different people. See the section Polyphony and Part-writing below.
+a section in the large-scale form of a piece. See the section Musical form below.

@@ -1,0 +1,6 @@
+Ballistics~
+||||||
+Terminal ballistics
+||||||
+Terminal ballistics (also known as wound ballistics) is a sub-field of ballistics concerned with the behavior and effects of a projectile when it hits and transfers its energy to a target. 
+Bullet design (as well as the velocity of impact) largely determine the effectiveness of penetration.

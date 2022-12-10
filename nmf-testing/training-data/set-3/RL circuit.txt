@@ -1,0 +1,5 @@
+Analog circuits~Electronic filter topology~
+||||||
+RL circuit
+||||||
+A resistor–inductor circuit (RL circuit), or RL filter or RL network, is an electric circuit composed of resistors and inductors driven by a voltage or current source. A first-order RL circuit is composed of one resistor and one inductor, either in series driven by a voltage source or in parallel driven by a current source. It is one of the simplest analogue infinite impulse response electronic filters.

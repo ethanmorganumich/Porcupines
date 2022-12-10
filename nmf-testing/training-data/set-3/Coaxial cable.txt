@@ -1,0 +1,8 @@
+19th-century inventions~Antennas (radio)~English inventions~Signal cables~Transmission lines~
+||||||
+Coaxial cable
+||||||
+Coaxial cable, or coax (pronounced ) is a type of electrical cable consisting of an inner conductor surrounded by a concentric conducting shield, with the two separated by a dielectric (insulating material); many coaxial cables also have a protective outer sheath or jacket. The term coaxial refers to the inner conductor and the outer shield sharing a geometric axis.
+Coaxial cable is a type of transmission line, used to carry high-frequency electrical signals with low losses.  It is used in such applications as telephone trunk lines, broadband internet networking cables, high-speed computer data busses, cable television signals, and connecting radio transmitters and receivers to their antennas. It differs from other shielded cables because the dimensions of the cable and connectors are controlled to give a precise, constant conductor spacing, which is needed for it to function efficiently as a transmission line.
+
+Coaxial cable was used in the first (1858) and following transatlantic cable installations, but its theory was not described until 1880 by English physicist, engineer, and mathematician Oliver Heaviside, who patented the design in that year (British patent No. 1,407).

@@ -1,0 +1,6 @@
+Dimensionless numbers~Logarithmic scales of measurement~Optics~Science of photography~
+||||||
+F-number
+||||||
+In optics, the f-number of an optical system such as a camera lens is the ratio of the system's focal length to the diameter of the entrance pupil ("clear aperture"). It is also known as the focal ratio, f-ratio, or f-stop, and is very important in photography. It is a dimensionless number that is a quantitative measure of lens speed; increasing the f-number is referred to as stopping down. The f-number is commonly indicated using a lower-case hooked f with the format f/N, where N is the f-number.
+The f-number is the reciprocal of the relative aperture (the aperture diameter divided by focal length).

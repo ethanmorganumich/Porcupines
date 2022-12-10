@@ -1,0 +1,76 @@
+Equal temperaments~Microtonality~
+||||||
+41 equal temperament
+||||||
+In music, 41 equal temperament, abbreviated 41-TET, 41-EDO, or 41-ET, is the tempered scale derived by dividing the octave into 41 equally sized steps (equal frequency ratios). Play  Each step represents a frequency ratio of 21/41, or 29.27 cents (Play ), an interval close in size to the septimal comma.  41-ET can be seen as a tuning of the schismatic, magic and miracle temperaments.  It is the second smallest equal temperament, after 29-ET, whose perfect fifth is closer to just intonation than that of 12-ET. In other words, 
+  
+    
+      
+        
+          2
+          
+            24
+            
+              /
+            
+            41
+          
+        
+        ≈
+        1.50042
+      
+    
+    {\displaystyle 2^{24/41}\approx 1.50042}
+   is a better approximation to the ratio 
+  
+    
+      
+        3
+        
+          /
+        
+        2
+        =
+        1.5
+      
+    
+    {\displaystyle 3/2=1.5}
+   than either 
+  
+    
+      
+        
+          2
+          
+            17
+            
+              /
+            
+            29
+          
+        
+        ≈
+        1.50129
+      
+    
+    {\displaystyle 2^{17/29}\approx 1.50129}
+   or 
+  
+    
+      
+        
+          2
+          
+            7
+            
+              /
+            
+            12
+          
+        
+        ≈
+        1.49831
+      
+    
+    {\displaystyle 2^{7/12}\approx 1.49831}
+  .

@@ -1,0 +1,8 @@
+Accounting~Accounting terminology~Specific calendars~
+||||||
+Accounting period
+||||||
+An accounting period, in bookkeeping, is the period with reference to which management accounts and financial statements are prepared. 
+In management accounting the accounting period varies widely and is determined by management. Monthly accounting periods are common.
+In financial accounting the accounting period is determined by regulation and is usually 12 months. The beginning of the accounting period differs according to jurisdiction. For example, one entity may follow the calendar year, January to December, while another may follow April to March as the accounting period.
+The International Financial Reporting Standards allow a period of 52 weeks as an accounting period instead of 12 months.  This method is known as the 4-4-5 calendar in British and Commonwealth usage and the 52–53-week fiscal year in the United States.  In the United States the method is permitted by generally accepted accounting principles, as well as by US Internal Revenue Code Regulation 1.441-2  (IRS Publication 538).In some of the ERP tools there are more than 12 accounting periods in a financial year. They put one accounting period as "Year Open" period where all the carried over balances from last financial year are cleared and one period as "Year Close" where all the transactions for closed for the same financial year. Older systems sometimes called these periods "Month 0" and "Month 13".

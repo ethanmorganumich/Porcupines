@@ -1,0 +1,5 @@
+Communication circuits~Electronic design~History of radio~Radio electronics~Receiver (radio)~
+||||||
+Superheterodyne receiver
+||||||
+A superheterodyne receiver, often shortened to superhet, is a type of radio receiver that uses frequency mixing to convert a received signal to a fixed intermediate frequency (IF) which can be more conveniently processed than the original carrier frequency. It was long believed to have been invented by US engineer Edwin Armstrong, but after some controversy the earliest patent for the invention is now credited to French radio engineer and radio manufacturer Lucien Lévy. Virtually all modern radio receivers use the superheterodyne principle; except those software-defined radios using direct sampling.

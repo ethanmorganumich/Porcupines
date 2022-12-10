@@ -1,0 +1,6 @@
+Election stubs~Elections~
+||||||
+Quick count
+||||||
+Quick count is a method for verification of election results by projecting them from a sample of the polling stations.
+The similar Parallel Vote Tabulation (PVT) is an election observation methodology that is typically based on a representative random sample of polling stations and is employed for independent verification (or challenge) of election results. A PVT involves observation of the administration of the election, the process of voting and of counting of ballots at the polling stations, collection of official polling station results and independent tabulation of these results, parallel to election authorities.

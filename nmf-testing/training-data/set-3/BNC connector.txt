@@ -1,0 +1,5 @@
+Analog video connectors~Audiovisual connectors~RF connectors~
+||||||
+BNC connector
+||||||
+The BNC connector (initialism of "Bayonet Neill–Concelman") is a miniature quick connect/disconnect radio frequency connector used for coaxial cable. It is designed to maintain the same characteristic impedance of the cable, with 50 ohm and 75 ohm types being made. It is usually applied for video and radio frequency connections up to about 2 GHz and up to 500 volts. The connector has a twist to lock design with two lugs in the female portion of the connector engaging a slot in the  shell of the male portion. The type was introduced on military radio equipment in the 1940s and has since become widely applied in radio systems, and is a common type of video connector. Similar radio-frequency connectors differ in dimensions and attachment features, and may allow for higher voltages, higher frequencies, or three-wire connections.

@@ -1,0 +1,7 @@
+Signal processing~
+||||||
+Baseband
+||||||
+In telecommunications and signal processing, baseband is the range of frequencies occupied by a signal that has not been modulated to higher frequencies. Baseband signals typically originate from transducers, converting some other variable into an electrical signal.  For example, the output of a microphone is a baseband signal that is an analog of the applied voice audio. In conventional analog radio broadcasting the baseband audio signal is used to modulate an RF carrier signal at a much higher frequency.
+A baseband signal may have frequency components going all the way down to DC, or at least it will have a high ratio bandwidth.  A modulated baseband signal is called a passband signal.  This occupies a higher range of frequencies and has a lower ratio and fractional bandwidth.
+

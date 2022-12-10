@@ -1,0 +1,6 @@
+Economic theories~
+||||||
+Identity economics
+||||||
+Identity economics captures the idea that people make economic choices based on both monetary incentives and their identity: holding monetary incentives constant, people avoid actions that conflict with their concept of self. The fundamentals of identity economics was first formulated by Nobel Prize–winning economist George Akerlof and Rachel Kranton in their article "Economics and Identity," published in the Quarterly Journal of Economics.
+This article provides a framework for incorporating social identities into standard economics models, expanding the standard utility function to include both pecuniary payoffs and identity utility. The authors demonstrate the importance of identity in economics by showing how predictions of the classic principal-agent problem change when the identity of the agent is considered.

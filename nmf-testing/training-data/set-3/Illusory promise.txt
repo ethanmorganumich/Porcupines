@@ -1,0 +1,11 @@
+Contract law~
+||||||
+Illusory promise
+||||||
+In contract law, an illusory promise is one that courts will not enforce.  This is in contrast with a contract, which is a promise that courts will enforce.  A promise may be illusory for a number of reasons.  In common law countries this usually results from failure or lack of consideration (see also consideration under English law).
+Illusory promises are so named because they merely hold the illusion of contract.  For example, a promise of the form, "I will give you ten dollars if I feel like it," is purely illusory and will not be enforced as a contract.
+It is a general principle of contract law that courts should err on the side of enforcing contracts.  Parties entering into the arrangement presumably had the intention of forming an enforceable contract, and so courts generally attempt to follow this intention.A promise conditioned upon an event within the promisor's control is not illusory if the promisor also "impliedly promises to make reasonable effort to bring the event about or to use good faith and honest judgment in determining whether or not it has in fact occurred."Methods of finding potentially illusory contracts enforceable include:
+
+Implied-in-law "good faith" terms
+Implied-in-fact terms
+Bargaining for a chance

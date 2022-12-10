@@ -1,0 +1,16 @@
+Electric power distribution~Rooms~
+||||||
+Electrical room
+||||||
+An electrical room is a room or space in a building dedicated to electrical equipment. Its size is usually proportional to the size of the building; large buildings may have a main electrical room and subsidiary electrical rooms. Electrical equipment may be for power distribution equipment, or for communications equipment.Electrical rooms typically house the following equipment:
+
+Electric switchboards
+Distribution boards
+Circuit breakers and disconnects
+Motor control centers
+Transformers
+Busbars
+Electricity meters
+Backup batteries in a Battery room
+Fire alarm control panels
+Distribution framesIn large building complexes, the primary electrical room may house an indoor electrical substation.

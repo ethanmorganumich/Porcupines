@@ -1,0 +1,90 @@
+Financial management~Pricing~Profit~
+||||||
+Profit maximization
+||||||
+In economics, profit maximization is the short run or long run process by which a firm may determine the price, input and output levels that will lead to the highest possible total profit (or just profit in short). In neoclassical economics, which is currently the mainstream approach to microeconomics, the firm is assumed to be a "rational agent" (whether operating in a perfectly competitive market or otherwise) which wants to maximize its total profit, which is the difference between its total revenue and its total cost. 
+Measuring the total cost and total revenue is often impractical, as the firms do not have the necessary reliable information to determine costs at all levels of production. Instead, they take a more practical approach by examining how small changes in production influence revenues and costs. When a firm produces an extra unit of product, the additional revenue gained from selling it is called the marginal revenue (
+  
+    
+      
+        
+          MR
+        
+      
+    
+    {\displaystyle {\text{MR}}}
+  ), and the additional cost to produce that unit is called the marginal cost (
+  
+    
+      
+        
+          MC
+        
+      
+    
+    {\displaystyle {\text{MC}}}
+  ). When the level of output is such that the marginal revenue is equal to the marginal cost (
+  
+    
+      
+        
+          MR
+        
+        =
+        
+          MC
+        
+      
+    
+    {\displaystyle {\text{MR}}={\text{MC}}}
+  ), then the firm's total profit is said to be maximized. If the marginal revenue is greater than the marginal cost (
+  
+    
+      
+        
+          MR
+        
+        >
+        
+          MC
+        
+      
+    
+    {\displaystyle {\text{MR}}>{\text{MC}}}
+  ), then its total profit is not maximized, because the firm can produce additional units to earn additional profit. In other words, in this case, it is in the "rational" interest of the firm to increase its output level until its total profit is maximized. On the other hand, if the marginal revenue is less than the marginal cost (
+  
+    
+      
+        
+          MR
+        
+        <
+        
+          MC
+        
+      
+    
+    {\displaystyle {\text{MR}}<{\text{MC}}}
+  ), then too its total profit is not maximized, because producing one unit less will reduce total cost more than total revenue gained, thus giving the firm more total profit. In this case, a "rational" firm has an incentive to reduce its output level until its total profit is maximized.There are several perspectives one can take on profit maximization. First, since profit equals revenue minus cost, one can plot graphically each of the variables revenue and cost as functions of the level of output and find the output level that maximizes the difference (or this can be done with a table of values instead of a graph). Second, if specific functional forms are known for revenue and cost in terms of output, one can use calculus to maximize profit with respect to the output level. Third, since the first order condition for the optimization equates marginal revenue and marginal cost, if marginal revenue (
+  
+    
+      
+        
+          MR
+        
+      
+    
+    {\displaystyle {\text{MR}}}
+  ) and marginal cost (
+  
+    
+      
+        
+          MC
+        
+      
+    
+    {\displaystyle {\text{MC}}}
+  ) functions in terms of output are directly available one can equate these, using either equations or a graph. Fourth, rather than a function giving the cost of producing each potential output level, the firm may have input cost functions giving the cost of acquiring any amount of each input, along with a production function showing how much output results from using any combination of input quantities. In this case one can use calculus to maximize profit with respect to input usage levels, subject to the input cost functions and the production function. The first order condition for each input equates the marginal revenue product of the input (the increment to revenue from selling the product caused by an increment to the amount of the input used) to the marginal cost of the input.
+For a firm in a perfectly competitive market for its output, the revenue function will simply equal the market price times the quantity produced and sold, whereas for a monopolist, which chooses its level of output simultaneously with its selling price. In the case of monopoly, the company will produce more products because it can still make normal profits. To get the most profit, you need to set higher prices and lower quantities than the competitive market. However, the revenue function takes into account the fact that higher levels of output require a lower price in order to be sold. An analogous feature holds for the input markets: in a perfectly competitive input market the firm's cost of the input is simply the amount purchased for use in production times the market-determined unit input cost, whereas a monopsonist’s input price per unit is higher for higher amounts of the input purchased.
+The principal difference between short run and long run profit maximization is that in the long run the quantities of all inputs, including physical capital, are choice variables, while in the short run the amount of capital is predetermined by past investment decisions. In either case, there are inputs of labor and raw materials.

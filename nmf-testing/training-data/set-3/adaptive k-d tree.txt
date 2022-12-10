@@ -1,0 +1,5 @@
+Algorithms and data structures stubs~Computer programming stubs~Geometric data structures~Trees (data structures)~
+||||||
+Adaptive k-d tree
+||||||
+An adaptive k-d tree is a tree for multidimensional points where successive levels may be split along different dimensions.

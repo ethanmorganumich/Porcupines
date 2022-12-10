@@ -1,0 +1,6 @@
+Cognitive science~Enactive cognition~Mind–body problem~Philosophy of artificial intelligence~
+||||||
+Embodied cognition
+||||||
+Embodied cognition is the theory that many features of cognition, whether human or otherwise, are shaped by aspects of an organism's entire body. Sensory and motor systems are seen as fundamentally integrated with cognitive processing. The cognitive features include high-level mental constructs (such as concepts and categories) and performance on various cognitive tasks (such as reasoning or judgment). The bodily aspects involve the motor system, the perceptual system, the bodily interactions with the environment (situatedness), and the assumptions about the world built into the organism's functional structure.
+The embodied mind thesis challenges other theories, such as cognitivism, computationalism, and Cartesian dualism. It is closely related to the extended mind thesis, situated cognition, and enactivism. The modern version depends on insights drawn from up to date research in psychology, linguistics, cognitive science, dynamical systems, artificial intelligence, robotics, animal cognition, plant cognition, and neurobiology.

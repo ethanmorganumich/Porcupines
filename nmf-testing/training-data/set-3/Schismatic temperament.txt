@@ -1,0 +1,5 @@
+Linear temperaments~
+||||||
+Schismatic temperament
+||||||
+A schismatic temperament is a musical tuning system that results from tempering the schisma of 32805:32768 (1.9537 cents) to a unison. It is also called the schismic temperament, Helmholtz temperament, or quasi-Pythagorean temperament.

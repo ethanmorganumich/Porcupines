@@ -1,0 +1,6 @@
+Language acquisition~Memory~Mnemonics~
+||||||
+Linkword
+||||||
+Linkword is a mnemonic system promoted by Michael Gruneberg since at least the early 1980s for learning languages based on the similarity of the sounds of words.  The process involves creating an easily visualized scene that will link the words together.  One example is the Russian word for cow (корова, pronounced roughly karova): think and visualize "I ran my car over a cow."
+It has a long history of software versions in its native United Kingdom being available for the Sinclair, Acorn and BBC Micro computers as well as a variety of audio and book editions over the years.

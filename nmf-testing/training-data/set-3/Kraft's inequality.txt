@@ -1,0 +1,6 @@
+Coding theory~Inequalities~
+||||||
+Kraft–McMillan inequality
+||||||
+In coding theory, the Kraft–McMillan inequality gives a necessary and sufficient condition for the existence of a prefix code (in Leon G. Kraft's version) or a uniquely decodable code (in Brockway McMillan's version) for a given set of codeword lengths. Its applications to prefix codes and trees often find use in computer science and information theory.
+Kraft's inequality was published in Kraft (1949). However, Kraft's paper discusses only prefix codes, and attributes the analysis leading to the inequality to Raymond Redheffer. The result was independently discovered in McMillan (1956). McMillan proves the result for the general case of uniquely decodable codes, and attributes the version for prefix codes to a spoken observation in 1955 by Joseph Leo Doob.

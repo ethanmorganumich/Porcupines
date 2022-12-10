@@ -1,0 +1,6 @@
+Acoustics~Hearing~Qualia~Sound~Waves~
+||||||
+Sound
+||||||
+In physics, sound is a vibration that propagates as an acoustic wave, through a transmission medium such as a gas, liquid or solid.
+In human physiology and psychology, sound is the reception of such waves and their perception by the brain. Only acoustic waves that have frequencies lying between about 20 Hz and 20 kHz, the audio frequency range, elicit an auditory percept in humans. In air at atmospheric pressure, these represent sound waves with wavelengths of 17 meters (56 ft) to 1.7 centimeters (0.67 in). Sound waves above 20 kHz are known as ultrasound and are not audible to humans. Sound waves below 20 Hz are known as infrasound. Different animal species have varying hearing ranges.

@@ -1,0 +1,5 @@
+Audio amplifier specifications~Audio engineering~
+||||||
+Audio system measurements
+||||||
+Audio system measurements are a means of quantifying system performance. These measurements are made for several purposes. Designers take measurements so that they can specify the performance of a piece of equipment. Maintenance engineers make them to ensure equipment is still working to specification, or to ensure that the cumulative defects of an audio path are within limits considered acceptable. Audio system measurements often accommodate psychoacoustic principles to measure the system in a way that relates to human hearing.

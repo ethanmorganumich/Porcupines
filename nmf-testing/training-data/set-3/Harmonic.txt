@@ -1,0 +1,70 @@
+Acoustics~Guitar performance techniques~Sound~String instruments~Telecommunications~
+||||||
+Harmonic
+||||||
+A harmonic is a wave with a frequency that is a positive integer multiple of the fundamental frequency, the frequency of the original periodic signal, such as a sinusoidal wave. The original signal is also called the 1st harmonic, the other harmonics are known as higher harmonics. As all harmonics are periodic at the fundamental frequency, the sum of harmonics is also periodic at that frequency. The set of harmonics forms a harmonic series.
+The term is employed in various disciplines, including music, physics, acoustics, electronic power transmission, radio technology, and other fields. For example, if the fundamental frequency is 50 Hz, a common AC power supply frequency, the frequencies of the first three higher harmonics are 100 Hz (2nd harmonic), 150 Hz (3rd harmonic), 200 Hz (4th harmonic) and any addition of waves with these frequencies is periodic at 50 Hz.
+
+An nth characteristic mode, for n > 1, will have nodes that are not vibrating. For example, the 3rd characteristic mode will have nodes at 
+  
+    
+      
+        
+          
+            
+              1
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{3}}}
+  L and 
+  
+    
+      
+        
+          
+            
+              2
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {2}{3}}}
+  L, where L is the length of the string. In fact, each nth characteristic mode, for n not a multiple of 3, will not have nodes at these points. These other characteristic modes will be vibrating at the positions 
+  
+    
+      
+        
+          
+            
+              1
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{3}}}
+  L and 
+  
+    
+      
+        
+          
+            
+              2
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {2}{3}}}
+  L. If the player gently touches one of these positions, then these other characteristic modes will be suppressed. The tonal harmonics from these other characteristic modes will then also be suppressed. Consequently, the tonal harmonics from the nth characteristic modes, where n is a multiple of 3, will be made relatively more prominent.
+In music, harmonics are used on string instruments and wind instruments as a way of producing sound on the instrument, particularly to play higher notes and, with strings, obtain notes that have a unique sound quality or "tone colour". On strings, bowed harmonics have a "glassy", pure tone. On stringed instruments, harmonics are played by touching (but not fully pressing down the string) at an exact point on the string while sounding the string (plucking, bowing, etc.); this allows the harmonic to sound, a pitch which is always higher than the fundamental frequency of the string.
+

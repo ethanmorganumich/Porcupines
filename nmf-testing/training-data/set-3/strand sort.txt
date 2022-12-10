@@ -1,0 +1,5 @@
+Sorting algorithms~
+||||||
+Strand sort
+||||||
+Strand sort is a recursive sorting algorithm that sorts items of a list into increasing order. It has O(n2) worst time complexity which occurs when the input list is reverse sorted. It has a best case time complexity of O(n) which occurs when the input is a list that is already sorted.The algorithm first moves the first element of a list into a sub-list. It then compares the last element in the sub-list to each subsequent element in the original list. Once there is an element in the original list that is greater than the last element in the sub-list, the element is removed from the original list and added to the sub-list. This process continues until the last element in the sub-list is compared to the remaining elements in the original list. The sub-list is then merged into a new list. Repeat this process and merge all sub-lists until all elements are sorted. This algorithm is called strand sort because there are strands of sorted elements within the unsorted elements that are removed one at a time. This algorithm is also used in J Sort for fewer than 40 elements.

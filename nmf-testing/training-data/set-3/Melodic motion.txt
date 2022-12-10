@@ -1,0 +1,17 @@
+Melodic motion~Music theory stubs~
+||||||
+Melodic motion
+||||||
+Melodic motion is the quality of movement of a melody, including nearness or farness of successive pitches or notes in a melody. This may be described as conjunct or disjunct, stepwise, skipwise or no movement, respectively. See also contrapuntal motion. In a conjunct melodic motion, the melodic phrase moves in a stepwise fashion; that is the subsequent notes move up or down a semitone or tone, but no greater. In a disjunct melodic motion, the melodic phrase leaps upwards or downwards; this movement is greater than a whole tone. 
+In popular Western music, a melodic leap of disjunct motion is often present in the chorus of a song, to distinguish it from the verses and captivate the audience.
+Bruno Nettl describes various types of melodic movement or contour (Nettl 1956, 51–53):
+
+Ascending: Upwards melodic movement
+Descending: Downwards melodic movement (prevalent in the New World and Australian music)
+Undulating: Equal movement in both directions, using approximately the same intervals for ascent and descent (prevalent in Old World culture music)
+Pendulum: Extreme undulation that covers a large range and uses large intervals is called pendulum-type melodic movement
+Tile, terrace, or cascading: a number of descending phrases in which each phrase begins on a higher pitch than the last ended (prevalent in the North American Plain Indians music)
+Arc: The melody rises and falls in roughly equal amounts, the curve ascending gradually to a climax and then dropping off (prevalent among Navaho Indians and North American Indian music)
+Rise: may be considered a musical form, a contrasting section of higher pitch, a "musical plateau".Other examples include:
+
+Double tonic: smaller pendular motion in one directionThese all may be modal frames or parts of modal frames.

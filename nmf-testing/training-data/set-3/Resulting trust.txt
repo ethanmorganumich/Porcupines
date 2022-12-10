@@ -1,0 +1,6 @@
+Equity (law)~Wills and trusts~
+||||||
+Resulting trust
+||||||
+A resulting trust is an implied trust that comes into existence by operation of law, where property is transferred to someone who pays nothing for it; and then is implied to have held the property for benefit of another person. The trust property is said to  "result" or jump back to the transferor (implied settlor). In this instance, the word 'result' means "in the result, remains with", or something similar to "revert" except that in the result the beneficial interest is held on trust for the settlor. Not all trusts whose beneficiary is also the settlor can be called resulting trusts. In common law systems, the resulting trust refers to a subset of trusts which have such outcome; express trusts which stipulate that the settlor is to be the beneficiary are not normally considered resulting trusts. Another understanding of resulting trusts could be an equitable instrument used to rectify and reverse unjust enrichment.
+The beneficial interest results in the settlor, or if the settlor has died the property forms part of the settlor's estate (intestacy). It remains with the person and the case of "Vandervell v Inland Reveneue Commissioners" [1967]  shows that only the beneficial interest disappears but not the beneficiary interest.

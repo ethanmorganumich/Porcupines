@@ -1,0 +1,5 @@
+Financial economics~
+||||||
+Solvency
+||||||
+Solvency, in finance or business, is the degree to which the current assets of an individual or entity exceed the current liabilities of that individual or entity. Solvency can also be described as the ability of a corporation to meet its long-term fixed expenses and to accomplish long-term expansion and growth. This is best measured using the net liquid balance (NLB) formula. In this formula, solvency is calculated by adding cash and cash equivalents to short-term investments, then subtracting notes payable. There exist cryptographic schemes for both proofs of liabilities and assets, especially in the blockchain space.

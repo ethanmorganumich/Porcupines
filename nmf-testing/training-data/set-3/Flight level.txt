@@ -1,0 +1,6 @@
+Air traffic control~Altitudes in aviation~
+||||||
+Flight level
+||||||
+In aviation and aviation meteorology, a flight level (FL) is an aircraft's altitude at standard air pressure, expressed in hundreds of feet. The air pressure is computed assuming an International Standard Atmosphere pressure of 1013.25 hPa (29.92 inHg) at sea level, and therefore is not necessarily the same as the aircraft's actual altitude, either above sea level or above ground level.
+

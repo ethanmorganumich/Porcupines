@@ -1,0 +1,5 @@
+Business law~Legal terminology~Property law~
+||||||
+Perfection (law)
+||||||
+In law, perfection relates to the additional steps required to be taken in relation to a security interest in order to make it effective against third parties or to retain its effectiveness in the event of default by the grantor of the security interest.  Generally speaking, once a security interest is effectively created, it gives certain rights to the holder of the security and imposes duties on the party who grants that security.  However, in many legal systems, additional steps --- perfection of the security interest --- are required to enforce the security against third parties such as a liquidator.

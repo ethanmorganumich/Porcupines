@@ -1,0 +1,5 @@
+1988 software~Domain-specific programming languages~Freeware~Interactive fiction~Text adventure game engines~Video game development software~
+||||||
+TADS
+||||||
+Text Adventure Development System (TADS) is a prototype-based domain-specific programming language and set of standard libraries for creating interactive fiction (IF) games.

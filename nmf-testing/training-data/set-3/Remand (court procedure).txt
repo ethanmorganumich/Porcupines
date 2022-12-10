@@ -1,0 +1,7 @@
+American legal terminology~Appellate review~Criminal law~Legal procedure~
+||||||
+Remand (court procedure)
+||||||
+Remand is when higher courts send cases back to lower courts for further action. 
+In the law of the United States, appellate courts remand cases to district courts for actions such as a new trial. Federal appellate courts, including the Supreme Court, have the power to "remand [a] cause [sic] and ... require such further proceedings to be had as may be just under the circumstances." This includes the power to make summary "grant, vacate and remand" (GVR) orders.Appellate courts remand cases whose outcome they are unable to finally determine. For example, cases may be remanded when the appellate court decides that the trial judge committed a procedural error, excluded admissible evidence, or ruled improperly on a motion.
+In common law jurisdictions, remand refers to the adjournment (continuance) of criminal proceedings, when the accused is either remanded in custody or on bail. Appellate courts are said to remit matters to lower courts for further consideration.

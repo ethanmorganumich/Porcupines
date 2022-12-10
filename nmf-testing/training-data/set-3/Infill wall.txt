@@ -1,0 +1,8 @@
+Structural engineering~
+||||||
+Infill wall
+||||||
+The infill wall is the supported wall that closes the perimeter of a building constructed with a three-dimensional framework structure (generally made of steel or reinforced concrete). Therefore, the structural frame ensures the bearing function, whereas the infill wall serves to separate inner and outer space, filling up the boxes of the outer frames. The infill wall has the unique static function to bear its own weight. The infill wall is an external vertical opaque type of closure. With respect to other categories of wall, the infill wall differs from the partition that serves to separate two interior spaces, yet also non-load bearing, and from the load bearing wall. The latter performs the same functions of the infill wall, hygro-thermically and acoustically, but performs static functions too.
+The use of masonry infill walls, and to some extent veneer walls, especially in reinforced concrete frame structures, is common in many countries. In fact, the use of masonry infill walls offers an economical and durable solution. They are easy to build, attractive for architecture and have a very efficient cost-performance.
+Today, masonry enclosures and partition walls are mainly made of clay units, but also aggregate concrete units (dense and lightweight aggregate) and autoclaved aerated concrete units are used. More recently, industry is also trying to introduce wood concrete blocks. Partition walls, made with both vertically and horizontally perforated clay blocks, represent two-thirds of the corresponding market.
+

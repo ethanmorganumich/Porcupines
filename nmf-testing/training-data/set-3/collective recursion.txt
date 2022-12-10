@@ -1,0 +1,7 @@
+Algorithms and data structures~Lists of computer terms~Mathematics-related lists~
+||||||
+List of terms relating to algorithms and data structures
+||||||
+The NIST Dictionary of Algorithms and Data Structures is a reference work maintained by the U.S. National Institute of Standards and Technology. It defines a large number of terms relating to algorithms and data structures. For algorithms and data structures not necessarily mentioned here, see list of algorithms and list of data structures.
+This list of terms was originally derived from the index of that document, and is in the public domain, as it was compiled by a Federal Government employee as part of a Federal Government work. Some of the terms defined are:
+

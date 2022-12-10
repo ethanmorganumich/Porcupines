@@ -1,0 +1,5 @@
+Internet search engines~Search engine software~
+||||||
+Q-go
+||||||
+Q-go was a privately owned international company that specializes in semantic search SaaS, based on Natural Language Processing technology. The technology provides relevant answers to users in response to queries on a company's internet website or corporate intranet, formulated in natural sentences or keyword input alike. It integrates automatic statistical reporting of user query behavior for businesses that want to monitor what kinds of questions their customers are asking. This is in order to adjust content to provide the appropriate information for customers and to reduce the load on traditional customer service ports of call, such as call centers and answers by email. RightNow Technologies acquired Q-go for $34 million on January 18, 2011. Rightnow was subsequently acquired by Oracle Corporation.

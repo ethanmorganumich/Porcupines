@@ -1,0 +1,6 @@
+Flynn's taxonomy~Parallel computing~
+||||||
+Single program, multiple data
+||||||
+In computing, single program, multiple data (SPMD) is a technique employed to achieve parallelism; it is a subcategory of MIMD. Tasks are split up and run simultaneously on multiple processors with different input in order to obtain results faster. SPMD is the most common style of parallel programming.  It is also a prerequisite for research concepts such as active messages and distributed shared memory.
+

@@ -1,0 +1,5 @@
+Knitting methods for shaping~
+||||||
+Gauge (knitting)
+||||||
+In knitting, the word gauge is used both in hand knitting and machine knitting; the latter, technical abbreviation GG, refers to "Knitting Machines" fineness size. In both cases, the term refers to the number of stitches per inch, not the size of the finished garment. In both cases, the gauge is measured by counting the number of stitches (in hand knitting) or the number of needles (on a knitting machine bed) over several inches then dividing by the number of inches in the width of the sample.

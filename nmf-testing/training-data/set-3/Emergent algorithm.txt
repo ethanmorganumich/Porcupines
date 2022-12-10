@@ -1,0 +1,9 @@
+Algorithms~Chaos theory stubs~Emergence~Heuristic algorithms~
+||||||
+Emergent algorithm
+||||||
+An emergent algorithm is an algorithm that exhibits emergent behavior.  In essence an emergent algorithm implements a set of simple building block behaviors that when combined exhibit more complex behaviors.  One example of this is the implementation of fuzzy motion controllers used to adapt robot movement in response to environmental obstacles.An emergent algorithm has the following characteristics:
+it achieves predictable global effects
+it does not require global visibility
+it does not assume any kind of centralized control
+it is self-stabilizingOther examples of emergent algorithms and models include cellular automata, artificial neural networks and swarm intelligence systems (ant colony optimization, bees algorithm, etc.).

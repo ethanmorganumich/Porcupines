@@ -1,0 +1,12 @@
+Design of experiments~Random number generation~
+||||||
+Randomization
+||||||
+Randomization is the process of making something random. Randomization is not haphazard; instead, a random process is a sequence of random variables describing a process whose outcomes do not follow a deterministic pattern, but follow an evolution described by probability distributions. For example, a random sample of individuals from a population refers to a sample where every individual has a known probability of being sampled. This would be contrasted with nonprobability sampling where arbitrary individuals are selected.
+In various contexts, randomization may involve:
+
+generating a random permutation of a sequence (such as when shuffling cards);
+selecting a random sample of a population (important in statistical sampling);
+allocating experimental units via random assignment to a treatment or control condition;
+generating random numbers (random number generation); or
+transforming a data stream (such as when using a scrambler in telecommunications).

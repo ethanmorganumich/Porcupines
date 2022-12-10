@@ -1,0 +1,7 @@
+Optical filters~Stage lighting~Thin-film optics~
+||||||
+Dichroic filter
+||||||
+A dichroic filter, thin-film filter, or interference filter is a color filter used to selectively pass light of a small range of colors while reflecting other colors. By comparison, dichroic mirrors and dichroic reflectors tend to be characterized by the colors of light that they reflect, rather than the colors they pass.
+Dichroic filters can filter light from a white light source to produce light that is perceived by humans to be highly saturated in color. Such filters are popular in architectural and theatrical applications.
+Dichroic reflectors known as cold mirrors are commonly used behind a light source to reflect visible light forward while allowing the invisible infrared light to pass out of the rear of the fixture.  Such an arrangement allows intense illumination with less heating of the illuminated object.  Many quartz-halogen lamps have an integrated dichroic reflector for this purpose, being originally designed for use in slide projectors to avoid melting the slides, but now widely used for interior home and commercial lighting. This improves whiteness by removing excess red; however, it poses a serious fire hazard if used in recessed or enclosed luminaires by allowing infrared radiation into those luminaires. For these applications non-cool-beam (ALU or Silverback) lamps must be used.

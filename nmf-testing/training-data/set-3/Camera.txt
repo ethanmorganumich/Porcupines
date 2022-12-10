@@ -1,0 +1,7 @@
+Cameras~Optical devices~Photography equipment~
+||||||
+Camera
+||||||
+A camera is an optical instrument that can capture an image. Most cameras can capture 2D images, with some more advanced models being able to capture 3D images. At a basic level, most cameras consist of sealed boxes (the camera body), with a small hole (the aperture) that allows light to pass through in order to capture an image on a light-sensitive surface (usually a digital sensor or photographic film). Cameras have various mechanisms to control how the light falls onto the light-sensitive surface. Lenses focus the light entering the camera, and the aperture can be narrowed or widened. A shutter mechanism determines the amount of time the photosensitive surface is exposed to the light.
+The still image camera is the main instrument in the art of photography. Captured images may be reproduced later as part of the process of photography, digital imaging, or photographic printing. Similar artistic fields in the moving-image camera domain are film, videography, and cinematography.
+The word camera comes from camera obscura, the Latin name of the original device for projecting a 2D image onto a flat surface (literally translated to "dark chamber"). The modern photographic camera evolved from the camera obscura. The first permanent photograph was made in 1825 by Joseph Nicéphore Niépce.

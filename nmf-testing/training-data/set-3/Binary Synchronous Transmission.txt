@@ -1,0 +1,6 @@
+IBM computer hardware~Link protocols~
+||||||
+Binary Synchronous Communications
+||||||
+Binary Synchronous Communication (BSC or Bisync) is an IBM character-oriented, half-duplex link protocol, announced in 1967 after the introduction of System/360.  It replaced the  synchronous transmit-receive (STR) protocol used with second generation computers. The intent was that common link management rules could be used with three different character encodings for messages. Six-bit Transcode looked backwards to older systems; USASCII with 128 characters and EBCDIC with 256 characters looked forward.  Transcode disappeared very quickly but the EBCDIC and USASCII dialects of Bisync continued in use.
+At one time Bisync was the most widely used communications protocol and is still in limited use in 2013.

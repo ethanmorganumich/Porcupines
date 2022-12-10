@@ -1,0 +1,6 @@
+Telecommunications stubs~Teletraffic~
+||||||
+Performance measurement period
+||||||
+In telecommunication, performance measurement period is the period during which performance parameters are measured.  
+A performance measurement period is determined by required confidence limits and may vary as a function of the observed parameter values. User time is divided into consecutive performance measurement periods to enable measurement of user information transfer reliability.

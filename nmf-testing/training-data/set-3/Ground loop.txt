@@ -1,0 +1,6 @@
+Electrical circuits~Electromagnetic compatibility~
+||||||
+Ground loop (electricity)
+||||||
+In an electrical system, a ground loop or earth loop occurs when two points of a circuit are intended to have the same ground reference potential but instead have a different potential between them. This is typically caused when enough current is flowing in the connection between the two ground points to produce a voltage drop and cause two points to be at different potentials. Current may be produced in a circular ground connection (ground loop) by electromagnetic induction.
+Ground loops are a major cause of noise, hum, and interference in audio, video, and computer systems.  Wiring practices that protect against ground loops include ensuring that all vulnerable signal circuits are referenced to one point as ground.  The use of differential signaling can provide rejection of ground-induced interference.  Removal of safety ground connections to equipment in an effort to eliminate ground loops also eliminates the protection the safety ground connection is intended to provide.

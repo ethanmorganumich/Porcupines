@@ -1,0 +1,6 @@
+Assistive technology~Deafness~High-definition television~Subtitling~Television terminology~Transcription (linguistics)~
+||||||
+Closed captioning
+||||||
+Closed captioning (CC) and subtitling are both processes of displaying text on a television, video screen, or other visual display to provide additional or interpretive information. Both are typically used as a transcription of the audio portion of a program as it occurs (either verbatim or in edited form), sometimes including descriptions of non-speech elements. Other uses have included providing a textual alternative language translation of a presentation's primary audio language that is usually burned-in (or "open") to the video and unselectable.
+HTML5 defines subtitles as a "transcription or translation of the dialogue when sound is available but not understood" by the viewer (for example, dialogue in a foreign language) and captions as a "transcription or translation of the dialogue, sound effects, relevant musical cues, and other relevant audio information when sound is unavailable or not clearly audible" (for example, when audio is muted or the viewer is deaf or hard of hearing).

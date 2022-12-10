@@ -1,0 +1,7 @@
+Computer access control~Password authentication~
+||||||
+One-time password
+||||||
+A one-time password (OTP), also known as a one-time PIN, one-time authorization code (OTAC) or dynamic password, is a password that is valid for only one login session or transaction, on a computer system or other digital device. OTPs avoid several shortcomings that are associated with traditional (static) password-based authentication; a number of implementations also incorporate two-factor authentication by ensuring that the one-time password requires access to something a person has (such as a small keyring fob device with the OTP calculator built into it, or a smartcard or specific cellphone) as well as something a person knows (such as a PIN).
+OTP generation algorithms typically make use of pseudorandomness or randomness to generate a shared key or seed, and cryptographic hash functions, which can be used to derive a value but are hard to reverse and therefore difficult for an attacker to obtain the data that was used for the hash. This is necessary because otherwise, it would be easy to predict future OTPs by observing previous ones.
+OTPs have been discussed as a possible replacement for, as well as an enhancer to, traditional passwords. On the downside, OTPs can be intercepted or rerouted, and hard tokens can get lost, damaged, or stolen. Many systems that use OTPs do not securely implement them, and attackers can still learn the password through phishing attacks to impersonate the authorized user.

@@ -1,0 +1,5 @@
+General equilibrium theory~New Keynesian economics~New classical macroeconomics~
+||||||
+Dynamic stochastic general equilibrium
+||||||
+Dynamic stochastic general equilibrium modeling (abbreviated as DSGE, or DGE, or sometimes SDGE) is a macroeconomic method which is often employed by monetary and fiscal authorities for policy analysis, explaining historical time-series data, as well as future forecasting purposes. DSGE econometric modelling applies general equilibrium theory and microeconomic principles in a tractable manner to postulate economic phenomena, such as economic growth and business cycles, as well as policy effects and market shocks.

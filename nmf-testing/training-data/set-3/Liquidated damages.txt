@@ -1,0 +1,7 @@
+Contract law~Facilities engineering~Judicial remedies~
+||||||
+Liquidated damages
+||||||
+Liquidated damages, also referred to as liquidated and ascertained damages (LADs), are damages whose amount the parties designate during the formation of a contract for the injured party to collect as compensation upon a specific breach (e.g., late performance). This is most applicable where the damages are intangible, such as a failure by the contractor on a public project to fulfill minority business subcontracting quotas.
+An average of the likely costs which may be incurred in dealing with a breach may be used. Authority for the proposition that averaging is the appropriate approach may be taken from the case of English Hop Growers v Dering, 2 KB 174, CA (1928).When damages are not predetermined/assessed in advance, then the amount recoverable is said to be "at large" (to be agreed or determined by a court or tribunal in the event of breach).
+The purpose of a liquidated damages clause is to increase certainty and avoid the legal costs of determining actual damages later if the contract is breached. Thus, they are most appropriate when (a) the parties can agree in advance on reasonable compensation for breach, but (b) the court would have a difficult time determining fair compensation at the time of breach. Under the common law, liquidated damages may not be set so high that they are penalty clauses rather than fair compensation.

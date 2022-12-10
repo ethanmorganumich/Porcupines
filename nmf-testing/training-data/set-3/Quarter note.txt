@@ -1,0 +1,6 @@
+Note values~
+||||||
+Quarter note
+||||||
+A quarter note (American) or crotchet ( KROTCH-it)"Collins Dictionary". (British) is a musical note played for one quarter of the duration of a whole note (or semibreve). Quarter notes are notated with a filled-in oval note head and a straight, flagless stem. The stem usually points upwards if it is below the middle line of the staff, and downwards if it is on or above the middle line. An upward stem is placed on the right side of the notehead, a downward stem is placed on the left (see image). The Unicode symbol is U+2669 (♩).
+A quarter rest (or crotchet rest) denotes a silence of the same duration as a quarter note. It typically appears as the symbol , or occasionally, as the older symbol .

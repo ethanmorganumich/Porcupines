@@ -1,0 +1,7 @@
+Jurisdiction~
+||||||
+Supplemental jurisdiction
+||||||
+Supplemental jurisdiction, also sometimes known as ancillary jurisdiction or pendent jurisdiction, is the authority of United States federal courts to hear additional claims substantially related to the original claim even though the court would lack the subject-matter jurisdiction to hear the additional claims independently.  28 U.S.C. § 1367 is a codification of the Supreme Court's rulings on ancillary jurisdiction (Owen Equipment & Erection Co. v. Kroger, 437 U.S. 365 (1978)) and pendent jurisdiction (United Mine Workers of America v. Gibbs, 383 U.S. 715 (1966)) and a superseding of the Court's treatment of pendent party jurisdiction (Finley v. United States, 490 U.S. 545 (1989)).
+Historically there was a distinction between pendent jurisdiction and ancillary jurisdiction. But, under the ruling in Exxon, that distinction is no longer meaningful.  Supplemental jurisdiction refers to the various ways a federal court may hear either: state law claims, claims from parties who lack the amount in controversy requirement of diversity jurisdiction, when defendants are joined in claims, or when multiple plaintiffs are joined in claims, like in class action suits.
+

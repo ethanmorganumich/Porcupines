@@ -1,0 +1,5 @@
+Aerodynamics~
+||||||
+Dutch roll
+||||||
+Dutch roll is a type of aircraft motion consisting of an out-of-phase combination of "tail-wagging" (yaw) and rocking from side to side (roll). This yaw-roll coupling is one of the basic flight dynamic modes (others include phugoid, short period, and spiral divergence). This motion is normally well damped in most light aircraft, though some aircraft with well-damped Dutch roll modes can experience a degradation in damping as airspeed decreases and altitude increases. Dutch roll stability can be artificially increased by the installation of a yaw damper. Wings placed well above the center of gravity, sweepback (swept wings) and dihedral wings tend to increase the roll restoring force, and therefore increase the Dutch roll tendencies; this is why high-winged aircraft often are slightly anhedral, and transport-category swept-wing aircraft are equipped with yaw dampers. A similar phenomenon can happen in a trailer pulled by a car.

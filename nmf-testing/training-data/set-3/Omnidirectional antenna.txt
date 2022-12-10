@@ -1,0 +1,6 @@
+Antennas (radio)~Radio frequency antenna types~
+||||||
+Omnidirectional antenna
+||||||
+In radio communication, an omnidirectional antenna is a class of antenna which radiates equal radio power in all directions perpendicular to an axis (azimuthal directions), with power varying with angle to the axis (elevation angle), declining to zero on the axis.  When graphed in three dimensions (see graph) this radiation pattern is often described as doughnut-shaped.  Note that this is different from an isotropic antenna, which radiates equal power in all directions, having a spherical radiation pattern.  Omnidirectional antennas oriented vertically are widely used for nondirectional antennas on the surface of the Earth because they radiate equally in all horizontal directions, while the power radiated drops off with elevation angle so little radio energy is aimed into the sky or down toward the earth and wasted.  Omnidirectional antennas are widely used for radio broadcasting antennas, and in mobile devices that use radio such as cell phones, FM radios, walkie-talkies, wireless computer networks, cordless phones, GPS,  as well as for base stations that communicate with mobile radios, such as police and taxi dispatchers and aircraft communications.
+

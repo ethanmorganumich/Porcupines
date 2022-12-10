@@ -1,0 +1,6 @@
+Evidence law~Legal terminology stubs~
+||||||
+Incontrovertible evidence
+||||||
+Incontrovertible evidence, or conclusive evidence, is a colloquial term for evidence introduced to prove a fact that is supposed to be so conclusive that there can be no other truth to the matter; evidence so strong it overpowers contrary evidence, directing a fact-finder to a specific and certain conclusion. For example, a DNA test is conclusive of parenthood, a CCTV camera footage of a crime taking place is conclusive, as is a contract showing an agreement.
+A "conclusive evidence" clause may be included in a contract of guarantee, having the effect of showing that, in the absence of manifest error, the guarantor is liable to deliver on their guarantee when their obligation is triggered. Conclusive evidence clauses are interpreted strictly by the courts, with any ambiguity being resolved in favour of the guarantor.

@@ -1,0 +1,7 @@
+Poetry stubs~Stanzaic form~
+||||||
+Verse paragraph
+||||||
+Verse paragraphs are stanzas with no regular number of lines or groups of lines that make up units of sense. They are usually separated by blank lines. It stands for a group of lines in a poem that form a rhetorical unit similar to that of a prose paragraph.
+Milton's Paradise Lost and Wordsworth's The Prelude consist of verse paragraphs.
+Verse paragraphs are frequently used in blank verse and in free verse.

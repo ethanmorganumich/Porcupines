@@ -1,0 +1,7 @@
+Telephony signals~Teletraffic~
+||||||
+One-way trunk
+||||||
+In telecommunication, a one-way trunk is a trunk between two switching centers, over which traffic may be originated from one preassigned location only.  
+The traffic may consist of two-way communications; the expression "one way" refers only to the origin of the demand for a connection. At the originating end, the one-way trunk is known as an "outgoing trunk" ; at the other end, it is known as an "incoming trunk". 
+See also: Telephone signaling interface

@@ -1,0 +1,5 @@
+Freeware~Giving~Software licenses~
+||||||
+Freeware
+||||||
+Freeware is software, most often proprietary, that is distributed at no monetary cost to the end user. There is no agreed-upon set of rights, license, or EULA that defines freeware unambiguously; every publisher defines its own rules for the freeware it offers. For instance, modification, redistribution by third parties, and reverse engineering are permitted by some publishers but prohibited by others. Unlike with free and open-source software, which are also often distributed free of charge, the source code for freeware is typically not made available. Freeware may be intended to benefit its producer by, for example, encouraging sales of a more capable version, as in the freemium and shareware business models.

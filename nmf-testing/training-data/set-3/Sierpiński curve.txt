@@ -1,0 +1,164 @@
+Fractal curves~L-systems~Science and technology in Poland~
+||||||
+Sierpiński curve
+||||||
+Sierpiński curves are a recursively defined sequence of continuous closed plane fractal curves discovered by Wacław Sierpiński, which in the limit 
+  
+    
+      
+        n
+        →
+        ∞
+      
+    
+    {\displaystyle n\to \infty }
+   completely fill the unit square: thus their limit curve, also called the Sierpiński curve, is an example of a space-filling curve.
+Because the Sierpiński curve is space-filling, its Hausdorff dimension (in the limit 
+  
+    
+      
+        n
+        →
+        ∞
+      
+    
+    {\displaystyle n\to \infty }
+  ) is 
+  
+    
+      
+        2
+      
+    
+    {\displaystyle 2}
+  . 
+The Euclidean length of the 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  th iteration curve 
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+      
+    
+    {\displaystyle S_{n}}
+   is
+
+  
+    
+      
+        
+          l
+          
+            n
+          
+        
+        =
+        
+          
+            2
+            3
+          
+        
+        (
+        1
+        +
+        
+          
+            2
+          
+        
+        )
+        
+          2
+          
+            n
+          
+        
+        −
+        
+          
+            1
+            3
+          
+        
+        (
+        2
+        −
+        
+          
+            2
+          
+        
+        )
+        
+          
+            1
+            
+              2
+              
+                n
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle l_{n}={2 \over 3}(1+{\sqrt {2}})2^{n}-{1 \over 3}(2-{\sqrt {2}}){1 \over 2^{n}},}
+  i.e., it grows exponentially with 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   beyond any limit, whereas the limit for 
+  
+    
+      
+        n
+        →
+        ∞
+      
+    
+    {\displaystyle n\to \infty }
+   of the area enclosed by 
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+      
+    
+    {\displaystyle S_{n}}
+   is 
+  
+    
+      
+        5
+        
+          /
+        
+        12
+        
+      
+    
+    {\displaystyle 5/12\,}
+   that of the square (in Euclidean metric).

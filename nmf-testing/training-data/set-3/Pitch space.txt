@@ -1,0 +1,6 @@
+Pitch space~
+||||||
+Pitch space
+||||||
+In music theory, pitch spaces model relationships between pitches.  These models typically use distance to model the degree of relatedness, with closely related pitches placed near one another, and less closely related pitches placed farther apart.  Depending on the complexity of the relationships under consideration, the models may be  multidimensional. Models of pitch space are often graphs, groups, lattices, or geometrical figures such as helixes. Pitch spaces distinguish octave-related pitches.  When octave-related pitches are not distinguished, we have instead pitch class spaces, which represent relationships between pitch classes.  (Some of these models are discussed in the entry on modulatory space, though readers should be advised that the term "modulatory space" is not a standard music-theoretical term.)  Chordal spaces model relationships between chords.
+

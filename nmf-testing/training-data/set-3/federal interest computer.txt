@@ -1,0 +1,9 @@
+Computer law~Computer network security~United States federal criminal legislation~
+||||||
+Protected computer
+||||||
+Protected computers is a term used in Title 18, Section 1030 of the United States Code, (the Computer Fraud and Abuse Act) which prohibits a number of different kinds of conduct, generally involving unauthorized access to, or damage to the data stored on, "protected computers".  The statute, as amended by the National Information Infrastructure Protection Act of 1996, defines "protected computers" (formerly known as "federal interest computers") as:
+
+a computer—(A) exclusively for the use of a financial institution or the United States Government, or, in the case of a computer not exclusively for such use, used by or for a financial institution or the United States Government and the conduct constituting the offense affects that use by or for the financial institution or the Government; or
+(B) which is used in interstate or foreign commerce or communication, including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States.
+The law prohibits unauthorized obtaining of "information from any protected computer if the conduct involved an interstate or foreign communication," and makes it a felony to intentionally transmit malware to a protected computer if more than $5000 in damage (such as to the integrity of data) were to result.

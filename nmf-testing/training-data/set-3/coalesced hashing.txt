@@ -1,0 +1,5 @@
+Hashing~
+||||||
+Coalesced hashing
+||||||
+Coalesced hashing, also called coalesced chaining, is a strategy of collision resolution in a hash table that forms a hybrid of separate chaining and open addressing.

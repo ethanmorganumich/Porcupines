@@ -1,0 +1,5 @@
+Data compression~Film and video technology~Temporal rates~
+||||||
+Frame rate
+||||||
+Frame rate (expressed in frames per second or FPS) is the frequency (rate) at which consecutive images (frames) are captured or displayed. The term applies equally to film and video cameras, computer graphics, and motion capture systems. Frame rate may also be called the frame frequency, and be expressed in hertz.  Frame rate in electronic camera specifications may refer to the maximal possible rate, where, in practice, other settings (such as exposure time) may reduce the frequency to a lower number.

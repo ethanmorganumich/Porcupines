@@ -1,0 +1,7 @@
+Acoustics stubs~Music theory stubs~Pitch (music)~
+||||||
+Treble (sound)
+||||||
+Treble describes tones of high frequency or high pitch, ranging from 6 kHz to 20 kHz, comprising the higher end of the human hearing range. In music, this corresponds to high notes. The treble clef is often used to notate such notes. Treble sound is the counterpart to bass sound. Examples of treble sounds include soprano voices, flute tones, and piccolos.
+The term treble derives from the Latin triplum, used in 13th century motets to indicate the third and highest range.
+The treble control is used in sound reproduction to change the volume of treble notes relative to those of the middle and bass frequency ranges.

@@ -1,0 +1,7 @@
+Audiology~Auditory system~Hearing~Sound~
+||||||
+Hearing
+||||||
+Hearing, or auditory perception, is the ability to perceive sounds through an organ, such as an ear, by detecting vibrations as periodic changes in the pressure of a surrounding medium. The academic field concerned with hearing is auditory science.
+Sound may be heard through solid, liquid, or gaseous matter. It is one of the traditional five senses. Partial or total inability to hear is called hearing loss.
+In humans and other vertebrates, hearing is performed primarily by the auditory system: mechanical waves, known as vibrations, are detected by the ear and transduced into nerve impulses that are perceived by the brain (primarily in the temporal lobe). Like touch, audition requires sensitivity to the movement of molecules in the world outside the organism. Both hearing and touch are types of mechanosensation.

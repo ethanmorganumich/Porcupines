@@ -1,0 +1,18 @@
+Case law reporters~Legal citation~Legal research~
+||||||
+Case citation
+||||||
+Case citation is a system used by legal professionals to identify past court case decisions, either in series of books called reporters or law reports, or in a neutral style that identifies a decision regardless of where it is reported. Case citations are formatted differently in different jurisdictions, but generally contain the same key information.
+A legal citation is a "reference to a legal precedent or authority, such as a case, statute, or treatise, that either substantiates or contradicts a given position." Where cases are published on paper, the citation usually contains the following information:
+
+Court that issued the decision
+Report title
+Volume number
+Page, section, or paragraph number
+Publication yearIn some report series, for example in England, Australia and some in Canada, volumes are not numbered independently of the year: thus the year and volume number (usually no greater than 4) are required to identify which book of the series has the case reported within its covers. In such citations, it is usual in these jurisdictions to apply square brackets "[year]" to the year (which may not be the year that the case was decided: for example, a case decided in December 2001 may have been reported in 2002).
+The Internet brought with it the opportunity for courts to publish their decisions on websites and most published court decisions now appear in that way. They can be found through many national and other websites, such as WorldLII and AfricanLII, that are operated by members of the Free Access to Law Movement.
+The resulting flood of non-paginated information has led to numbering of paragraphs and the adoption of a medium-neutral citation system. This usually contains the following information:
+
+Year of decision
+Abbreviated title of the court
+Decision number (not the court file number)Rather than utilizing page numbers for pinpoint references, which would depend upon particular printers and browsers, pinpoint quotations refer to paragraph numbers.

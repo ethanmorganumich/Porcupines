@@ -1,0 +1,5 @@
+Modes (music)~Music theory stubs~
+||||||
+Distance model
+||||||
+In music a distance model is the alternation of two different intervals to create a non-diatonic musical mode such as the 1:3 distance model, the alternation of semitones and minor thirds: C-E♭-E-G-A♭-B-C.  This scale is also an example of polymodal chromaticism as it includes both the tonic and dominant as well as "'two of the most typical degrees from both major and minor' (E and B, E♭ and A♭, respectively) ([Kárpáti 1975] p.132)".The most common distance model is the 1:2, also known as the octatonic scale (set type 8-28), followed by 1:3 and 1:5, also known as set type 4-9, which is a subset of the 1:2 model. Set type 4-9 has also been referred to as a "Z-Cell."

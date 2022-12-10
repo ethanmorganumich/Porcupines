@@ -1,0 +1,7 @@
+Voice leading~
+||||||
+Common tone (chord)
+||||||
+In music, a common tone is a pitch class that is a member of, or common to (shared by) two or more chords or sets. Typically, it refers to a note shared between two chords in a chord progression. According to H.E. Woodruff:
+Any tone contained in two successive chords is a common tone. Chords written upon two consecutive degrees of the [diatonic] scale can have no tones in common. All other chords [in the diatonic scale] have common tones. Common tones are also called connecting tones, and in part-writing, are to be retained in the same voice. Chords which are four or five degrees apart have one common tone. Chords which are three or six degrees apart have two common tones. Chords which are one or seven degrees apart have no tone in common. (Woodruff 1899, p. 61)
+The example below shows the seven diatonic triads of C major. The common tones between the tonic triad and the other six triads are highlighted in blue. As Woodruff describes, the tonic triad shares no common tones with either II and VII (consecutive to I), one common tone with IV and V (four and five degrees from I) each, and two common tones with III and VI (three and six degrees from I) each.

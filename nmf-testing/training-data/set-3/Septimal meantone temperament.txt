@@ -1,0 +1,8 @@
+Linear temperaments~
+||||||
+Septimal meantone temperament
+||||||
+In music, septimal meantone temperament, also called standard septimal meantone or simply septimal meantone, refers to the tempering of 7-limit musical intervals by a meantone temperament tuning in the range from fifths flattened by the amount of fifths for 12 equal temperament to those as flat as 19 equal temperament, with 31 equal temperament being a more or less optimal tuning for both the 5- and 7-limits. Meantone temperament represents a frequency ratio of approximately 5 by means of four fifths, so that the major third, for instance C–E, is obtained from two tones in succession. Septimal meantone represents the frequency ratio of 56 (7 × 23) by ten fifths, so that the interval 7:4 is reached by five successive tones. Hence C–A♯, not C–B♭, represents a 7:4 interval in septimal meantone.
+
+A♯+++ ≈ B♭C — G — D — A+ — E+ — B+ — F♯++ — C♯++ — G♯++ — D♯++ — A♯+++
+C — ≈G — ≈D — ≈A+ — ≈E+ — ≈B+ — ≈F♯++ — ≈C♯++ — ≈G♯++ — ≈D♯++ — =B♭The meantone tuning with pure 5:4 intervals (quarter-comma meantone) has a fifth of size 696.58 cents Play . Similarly, the tuning with pure 7:4 intervals has a fifth of size 696.88 cents Play . 31 equal temperament has a fifth of size 696.77 cents Play , which does excellently for both of them, having the harmonic seventh only 1.1 cent lower, and the major third 1.2 cent higher than pure (while the fifth is 5.2 cents lower than pure). However, the difference is so small that it is mainly academic.

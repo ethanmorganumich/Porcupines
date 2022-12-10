@@ -1,0 +1,7 @@
+Musical set theory~Pitch space~
+||||||
+Pitch class space
+||||||
+In music theory, pitch-class space is the circular space  representing all the notes (pitch classes) in a musical octave.  
+In this space, there is no distinction between tones that are separated by an integral number of octaves.  For example, C4, C5, and C6, though different pitches, are represented by the same point in pitch class space.
+Since pitch-class space is a circle, we return to our starting point by taking a series of steps in the same direction: beginning with C, we can move "upward" in pitch-class space, through the pitch classes C♯, D, D♯, E, F, F♯, G, G♯, A, A♯, and B, returning finally to C. By contrast, pitch space is a linear space: the more steps we take in a single direction, the further we get from our starting point.

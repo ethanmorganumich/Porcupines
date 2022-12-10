@@ -1,0 +1,8 @@
+Radio communications~Radio communications stubs~
+||||||
+Reradiation
+||||||
+In telecommunication, the term reradiation has the following meanings:
+
+Electromagnetic radiation, at the same or different wavelengths, i.e., frequencies, of energy received from an incident wave.
+Undesirable radiation of signals locally generated in a radio receiver.  This type of radiation might cause interference or reveal the location of the device.Near-field effects of an AM antenna may extend out two miles (3 km) or more. Cellular and microwave towers within this radius can reflect the Medium Wave AM signal out at a phase which cancels the main Medium Wave AM signal.  This process results in an interfering signal called reradiation. This article incorporates public domain material from Federal Standard 1037C. General Services Administration. (in support of MIL-STD-188).

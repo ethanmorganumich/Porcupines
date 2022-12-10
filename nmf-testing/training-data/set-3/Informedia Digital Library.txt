@@ -1,0 +1,7 @@
+Carnegie Mellon University~Information science~Internet search engines~
+||||||
+Informedia Digital Library
+||||||
+The Informedia Digital Library is an ongoing research program at Carnegie Mellon University to build search engines and information visualization technology for  many types of media.The program has carried out research on Spoken Document Retrieval, Video Information Retrieval, Video Segmentation, face recognition, and Cross-language information retrieval.
+The Lycos search engine was an early product of the Informedia Digital Library Project.
+The project is led by Howard Wactlar. Researchers on the project have included: Michael Mauldin, Alex Hauptmann, Michael Christel, Michael Witbrock, Raj Reddy, Takeo Kanade and Scott Stevens.

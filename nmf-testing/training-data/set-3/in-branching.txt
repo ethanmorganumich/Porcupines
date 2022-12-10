@@ -1,0 +1,36 @@
+Nuclear physics~Particle physics~Particle physics stubs~Radioactivity~Ratios~
+||||||
+Branching fraction
+||||||
+In particle physics and nuclear physics, the branching fraction (or branching ratio) for a decay is the fraction of particles which decay by an individual decay mode or with respect to the total number of particles which decay. It applies to either the radioactive decay of atoms or the decay of elementary particles. It is equal to the ratio of the partial decay constant to the overall decay constant. Sometimes a partial half-life is given, but this term is misleading; due to competing modes it is not true that half of the particles will decay through a particular decay mode after its partial half-life. The partial half-life is merely an alternate way to specify the partial decay constant λ, the two being related through:
+
+  
+    
+      
+        
+          t
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        =
+        
+          
+            
+              ln
+              ⁡
+              2
+            
+            λ
+          
+        
+        .
+      
+    
+    {\displaystyle t_{1/2}={\frac {\ln 2}{\lambda }}.}
+  For example, for spontaneous decays of 132Cs, 98.1% are ε (electron capture) or β+ (positron) decays, and 1.9% are β− (electron) decays. The partial decay constants can be calculated from the branching fraction and the half-life of 132Cs (6.479 d), they are: 0.10 d−1 (ε + β+) and 0.0020 d−1 (β−). The partial half-lives are 6.60 d (ε + β+) and 341 d (β−). Here the problem with the term partial half-life is evident: after (341+6.60) days almost all the nuclei will have decayed, not only half as one may initially think.
+Isotopes with significant branching of decay modes include copper-64, arsenic-74, rhodium-102, indium-112, iodine-126 and holmium-164.

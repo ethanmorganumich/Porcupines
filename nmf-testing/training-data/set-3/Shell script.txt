@@ -1,0 +1,7 @@
+Scripting languages~
+||||||
+Shell script
+||||||
+A shell script is a computer program designed to be run by the Unix shell, a command-line interpreter. The various dialects of shell scripts are considered to be scripting languages. Typical operations performed by shell scripts include file manipulation, program execution, and printing text. A script which sets up the environment, runs the program, and does any necessary cleanup or logging, is called a wrapper.
+The term is also used more generally to mean the automated mode of running an operating system shell;  each operating system uses a particular name for these functions including batch files (MSDos-Win95 stream, OS/2), command procedures (VMS), and shell scripts (Windows NT stream and third-party derivatives like 4NT—article is at cmd.exe), and mainframe operating systems are associated with a number of terms.
+Shells commonly present in Unix and Unix-like systems include the Korn shell, the Bourne shell, and GNU Bash. While a Unix operating system may have a different default shell, such as Zsh on macOS, these shells are typically present for backwards compatibility.

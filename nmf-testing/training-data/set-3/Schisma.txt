@@ -1,0 +1,70 @@
+5-limit tuning and intervals~Commas (music)~
+||||||
+Schisma
+||||||
+In music, the schisma (also spelled skhisma) is the interval between a Pythagorean comma (531441:524288) and a syntonic comma (81:80) and equals 5(38)⁄215 or 32805:32768 = 1.00113, which is 1.9537 cents (Play ). It may also be defined as:
+
+the difference between 8 justly tuned perfect fifths plus a justly tuned major third and 5 octaves;
+the difference between major limma and Pythagorean limma;
+the difference between the syntonic comma and the diaschisma.Schisma is a Greek word meaning a split (see schism) whose musical sense was introduced by Boethius at the beginning of the 6th century in the 3rd book of his 'De institutione musica'. Boethius was also the first to define diaschisma. 
+Andreas Werckmeister defined the grad as the twelfth root of the Pythagorean comma, or equivalently the difference between the justly tuned fifth (3/2) and the equally tempered fifth of 700 cents (27/12). This value, 1.955 cents, may be approximated by the ratio 886:885. This interval is also sometimes called a schisma.
+Curiously, 
+  
+    
+      
+        
+          2
+          
+            1
+            
+              /
+            
+            12
+          
+        
+        ×
+        
+          5
+          
+            1
+            
+              /
+            
+            7
+          
+        
+      
+    
+    {\displaystyle 2^{1/12}\times 5^{1/7}}
+   appears very close to 4:3, the just perfect fourth. This is because the difference between a grad and a schisma is so small. So, a rational intonation version of equal temperament may be realized by flattening the fifth by a schisma rather than a grad, a fact first noted by Johann Kirnberger, a pupil of Bach. Twelve of these Kirnberger fifths of 16384:10935  exceed seven octaves, and therefore fail to close, by the tiny interval of 
+  
+    
+      
+        
+          2
+          
+            161
+          
+        
+        ×
+        
+          3
+          
+            −
+            84
+          
+        
+        ×
+        
+          5
+          
+            −
+            12
+          
+        
+      
+    
+    {\displaystyle 2^{161}\times 3^{-84}\times 5^{-12}}
+  , the atom of Kirnberger of 0.01536 cents.
+Tempering out the schisma leads to schismatic temperament.
+As used by Descartes, a schisma added to a perfect fourth = 27:20 (519.55 cents), a schisma subtracted from a perfect fifth = 40:27 (680.45 cents), and a major sixth plus a schisma = 27:16 (= 81:48 = 905.87 cents). By this definition is a "schisma" is what is known as the syntonic comma (81:80).

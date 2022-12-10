@@ -1,0 +1,7 @@
+1995 software~DOS variants~IA-32 operating systems~Microsoft Windows~Products and services discontinued in 2001~Products introduced in 1995~Windows 95~
+||||||
+Windows 95
+||||||
+Windows 95 is a consumer-oriented operating system developed by Microsoft as part of its Windows 9x family of operating systems. The first operating system in the 9x family, it is the successor to Windows 3.1x, and was released to manufacturing on July 14, 1995, and generally to retail on August 24, 1995, almost three months after the release of Windows NT 3.51. Windows 95 merged Microsoft's formerly separate MS-DOS and Microsoft Windows products, and featured significant improvements over its predecessor, most notably in the graphical user interface (GUI) and in its simplified "plug-and-play" features. There were also major changes made to the core components of the operating system, such as moving from a mainly cooperatively multitasked 16-bit architecture to a 32-bit preemptive multitasking architecture, at least when running only 32-bit protected mode applications.
+Accompanied by an extensive marketing campaign, Windows 95 introduced numerous functions and features that were featured in later Windows versions, and continue in modern variations to this day, such as the taskbar, notification area, and the "Start" button.
+Three years after its introduction, Windows 95 was followed by Windows 98. Microsoft ended mainstream support for Windows 95 on December 31, 2000. Like Windows NT 3.51, Windows 95 received only one year of extended support, ending on December 31, 2001.

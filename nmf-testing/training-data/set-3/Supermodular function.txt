@@ -1,0 +1,169 @@
+Generalized convexity~Optimization of ordered sets~Order theory~Supermodular functions~
+||||||
+Supermodular function
+||||||
+In mathematics, a function
+
+  
+    
+      
+        f
+        :
+        
+          
+            R
+          
+          
+            k
+          
+        
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f\colon \mathbb {R} ^{k}\to \mathbb {R} }
+  is supermodular if
+
+  
+    
+      
+        f
+        (
+        x
+        ↑
+        y
+        )
+        +
+        f
+        (
+        x
+        ↓
+        y
+        )
+        ≥
+        f
+        (
+        x
+        )
+        +
+        f
+        (
+        y
+        )
+      
+    
+    {\displaystyle f(x\uparrow y)+f(x\downarrow y)\geq f(x)+f(y)}
+  for all 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , 
+  
+    
+      
+        y
+        ∈
+        
+          
+            R
+          
+          
+            k
+          
+        
+      
+    
+    {\displaystyle y\in \mathbb {R} ^{k}}
+  , where 
+  
+    
+      
+        x
+        ↑
+        y
+      
+    
+    {\displaystyle x\uparrow y}
+   denotes the componentwise maximum and 
+  
+    
+      
+        x
+        ↓
+        y
+      
+    
+    {\displaystyle x\downarrow y}
+   the componentwise minimum of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  .
+If −f is supermodular then f is called submodular, and if the inequality is changed to an equality the function is modular.
+If f is twice continuously differentiable, then supermodularity is equivalent to the condition
+
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              f
+            
+            
+              ∂
+              
+                z
+                
+                  i
+                
+              
+              
+              ∂
+              
+                z
+                
+                  j
+                
+              
+            
+          
+        
+        ≥
+        0
+        
+          
+             for all 
+          
+        
+        i
+        ≠
+        j
+        .
+      
+    
+    {\displaystyle {\frac {\partial ^{2}f}{\partial z_{i}\,\partial z_{j}}}\geq 0{\mbox{ for all }}i\neq j.}

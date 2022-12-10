@@ -1,0 +1,5 @@
+Economics and finance stubs~Mergers and acquisitions~
+||||||
+Merger simulation
+||||||
+Merger simulation is a commonly used technique when analyzing potential welfare costs and benefits of mergers between firms. Merger simulation models differ with respect to assumed form of competition that best describes the market (e.g. differentiated Bertrand competition, Cournot competition, auction models, etc.) as well as the structure of the chosen demand system (e.g. linear or log-linear demand, logit, almost ideal demand system (AIDS), etc.)

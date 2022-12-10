@@ -1,0 +1,5 @@
+Computational complexity theory~Types of functions~
+||||||
+Constructible function
+||||||
+In complexity theory, a time-constructible function is a function f from natural numbers to natural numbers with the property that f(n) can be constructed from n by a Turing machine in the time of order f(n). The purpose of such a definition is to exclude functions that do not provide an upper bound on the runtime of some Turing machine.

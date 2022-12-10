@@ -1,0 +1,5 @@
+Aerodynamics~Aerospace engineering~Aircraft wing components~Aircraft wing design~
+||||||
+Leading-edge extension
+||||||
+A leading-edge extension (LEX) is a small extension to an aircraft wing surface, forward of the leading edge. The primary reason for adding an extension is to improve the airflow at high angles of attack and low airspeeds, to improve handling and delay the stall. A dog tooth can also improve airflow and reduce drag at higher speeds.

@@ -1,0 +1,7 @@
+Multivariable calculus~Scalar physical quantities~
+||||||
+Scalar field
+||||||
+In mathematics and physics, a scalar field is a function associating a single number to every point in a space – possibly physical space. The scalar may either be a pure mathematical number (dimensionless) or a scalar physical quantity (with units).
+In a physical context, scalar fields are required to be independent of the choice of reference frame, meaning that any two observers using the same units will agree on the value of the scalar field at the same absolute point in space (or spacetime) regardless of their respective points of origin.  Examples used in physics include the temperature distribution throughout space, the pressure distribution in a fluid, and spin-zero quantum fields, such as the Higgs field.  These fields are the subject of scalar field theory.
+

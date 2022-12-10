@@ -1,0 +1,14 @@
+Hemitonic scales~Heptatonic scales~Musical scales with augmented seconds~Tritonic scales~
+||||||
+Hungarian minor scale
+||||||
+The Hungarian minor scale, double harmonic minor scale, or Gypsy minor scale is a type of combined musical scale. It is the fourth mode of the double harmonic scale. It is the same as the harmonic minor scale, except that it has a raised fourth scale degree to introduce an additional gap, or augmented second. It is a symmetrical scale with a slightly ambiguous tonal centre, due to the many half steps.
+Its step pattern is W, H, +, H, H, +, H, where W indicates a whole step, H indicates a half step, and + indicates an augmented second (three half steps, enharmonically equivalent to a minor third but functionally distinct). While in intervallic terms, it would be described as: 1 2 ♭3 ♯4 5 ♭6 7.
+The scale contains two augmented seconds, one in each tetrachord. It also contains an augmented fourth between the first and fourth degree.
+This scale (and its modes like the double harmonic scale) is the one perfectly balanced seven-note subset of the equally tempered chromatic scale: when its pitches are represented as points in a circle whose full circumference represents an octave, their average position (or "centre of mass") is the centre of the circle.
+Other examples include the Dorian mode of major and fifth mode of melodic minor. 
+The axis of balance for the Hungarian minor passes through the fifth and the flat nine, which is not included in the pitch set.The scale may be used with minor or m+7 chords. See: chord-scale system. Chords that may be derived from the B Hungarian minor scale are Bm(maj7), C#7♭5, Dmaj7#5, E#6sus2b5, F#maj7, Gmaj7, G7, A#m6 and more.
+This scale is obtainable from the double harmonic scale by starting from the fourth of that scale, so the C Hungarian minor scale is equivalent to the G double harmonic scale.In Indian classical Carnatic music, Hungarian minor scale corresponds to Simhendramadhyamam, while the Gypsy variant corresponds to Shanmukhapriya.
+This scale is sometimes also referred to as "Gypsy Run", or alternatively "Egyptian Minor Scale", as mentioned by Miles Davis who describes it in his autobiography as "something that I'd learned at Juilliard".
+
+An alternative (and less common) version is the asymmetric Aeolian ♯4 scale, the only difference with the Hungarian minor scale being that the 7th degree of the scale is not raised. This form of the scale can also be used in the fourth mode and would then be referred to as the Neapolitan scale.

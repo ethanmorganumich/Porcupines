@@ -1,0 +1,8 @@
+Geometric algorithms~Geometric graphs~Planar graphs~
+||||||
+Planar straight-line graph
+||||||
+In computational geometry and geometric graph theory, a planar straight-line graph, in short PSLG, (or straight-line plane graph, or plane straight-line graph) is a term used for an embedding of a planar graph in the plane such that its edges are mapped into straight-line segments. Fáry's theorem (1948) states that every planar graph has this kind of embedding.
+In computational geometry, PSLGs have often been called planar subdivisions, with an assumption or assertion that subdivisions are polygonal rather than having curved boundaries.
+PSLGs may serve as representations of various maps, e.g., geographical maps in geographical information systems.Special cases of PSLGs are triangulations (polygon triangulation, point-set triangulation). Point-set triangulations are maximal PSLGs in the sense that it is impossible to add straight edges to them while keeping the graph planar. Triangulations have numerous applications in various areas.
+PSLGs may be seen as a special kind of Euclidean graphs. However, in discussions involving Euclidean graphs, the primary interest is their metric properties, i.e., distances between vertices, while for PSLGs the primary interest is the topological properties. For some graphs, such as Delaunay triangulations, both  metric and topological properties are of importance.

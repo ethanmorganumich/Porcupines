@@ -1,0 +1,6 @@
+Abstract data types~
+||||||
+Pile (abstract data type)
+||||||
+In computer science, a pile is an abstract data type for storing data in a loosely ordered way. There are two different usages of the term; one refers to an ordered double-ended queue, the other to an improved heap.
+

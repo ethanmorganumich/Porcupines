@@ -1,0 +1,5 @@
+Telecommunications equipment~Telecommunications stubs~Videotelephony~
+||||||
+Video teleconferencing unit
+||||||
+A video teleconferencing unit (VTU) is a piece of electrical equipment that performs videoconferencing functions, such as the coding and decoding of audio and video signals and multiplexing of video, audio, data, and control signals, and that usually does not include Input/Output (I/O) devices, cryptographic devices, network interface equipment, network connections, or the communications network to which the unit is connected.

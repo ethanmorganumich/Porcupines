@@ -1,0 +1,5 @@
+Causal inference~Validity (statistics)~
+||||||
+Internal validity
+||||||
+Internal validity is the extent to which a piece of evidence supports a claim about cause and effect, within the context of a particular study. It is one of the most important properties of scientific studies and is an important concept in reasoning about evidence more generally. Internal validity is determined by how well a study can rule out alternative explanations for its findings (usually, sources of systematic error or 'bias'). It contrasts with external validity, the extent to which results can justify conclusions about other contexts (that is, the extent to which results can be generalized).

@@ -1,0 +1,7 @@
+Covert listening devices~Espionage devices~Espionage techniques~Law enforcement equipment~Surveillance~
+||||||
+Covert listening device
+||||||
+A covert listening device, more commonly known as a bug or a wire, is usually a combination of a miniature radio transmitter with a microphone. The use of bugs, called bugging, or wiretapping is a common technique in surveillance, espionage and police investigations.
+Self-contained electronic covert listening devices came into common use with intelligence agencies in the 1950s, when technology allowed for a suitable transmitter to be built into a relatively small package. By 1956, the US Central Intelligence Agency was designing and building "Surveillance Transmitters" that employed transistors, which greatly reduced the size and power consumption. An all solid-state device had low enough power needs that it could be operated by small batteries, which revolutionized the business of covert listening.
+A bug does not have to be a device specifically designed for the purpose of eavesdropping. For instance, with the right equipment, it is possible to remotely activate the microphone of cellular phones, even when a call is not being made, to listen to conversations in the vicinity of the phone.

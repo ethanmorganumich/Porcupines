@@ -1,0 +1,19 @@
+Demand~Elasticity (economics)~Pricing~
+||||||
+Price elasticity of demand
+||||||
+A good's price elasticity of demand (
+  
+    
+      
+        
+          E
+          
+            d
+          
+        
+      
+    
+    {\displaystyle E_{d}}
+  , PED) is a measure of how sensitive the quantity demanded is to its price. When the price rises, quantity demanded falls for almost any good, but it falls more for some than for others. The price elasticity gives the percentage change in quantity demanded when there is a one percent increase in price, holding everything else constant. If the elasticity is −2, that means a one percent price rise leads to a two percent decline in quantity demanded. Other elasticities measure how the quantity demanded changes with other variables (e.g. the income elasticity of demand for consumer income changes).Price elasticities are negative except in special cases. If a good is said to have an elasticity of 2, it almost always means that the good has an elasticity of −2 according to the formal definition. The phrase "more elastic" means that a good's elasticity has greater magnitude, ignoring the sign. Veblen and Giffen goods are two classes of goods which have positive elasticity, rare exceptions to the law of demand. Demand for a good is said to be inelastic when the elasticity is less than one in absolute value: that is, changes in price have a relatively small effect on the quantity demanded. Demand for a good is said to be elastic when the elasticity is greater than one. A good with an elasticity of −2 has elastic demand because quantity falls twice as much as the price increase; an elasticity of −0.5  has inelastic demand because the quantity response is half the price increase.At an elasticity of 0 consumption would not change at all, in spite of any price increases. 
+Revenue is maximised when price is set so that the elasticity is exactly one. The good's elasticity can be used to predict the incidence (or "burden") of a tax on that good. Various research methods are used to determine price elasticity, including test markets, analysis of historical sales data and conjoint analysis.

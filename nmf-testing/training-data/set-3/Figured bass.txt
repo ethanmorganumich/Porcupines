@@ -1,0 +1,7 @@
+Accompaniment~Bass (sound)~Musical notation~Musical terminology~Tonality~
+||||||
+Figured bass
+||||||
+Figured bass is musical notation in which numerals and symbols appear above or below (or next to) a bass note. The numerals and symbols (often accidentals) indicate intervals, chords, and non-chord tones that a musician playing piano, harpsichord, organ, or lute (or other instruments capable of playing chords) should play in relation to the bass note. Figured bass is closely associated with basso continuo: a historically improvised accompaniment used in almost all genres of music in the Baroque period of Classical music (c. 1600–1750), though rarely in modern music. Figured bass is also known as thoroughbass.
+Other systems for denoting or representing chords include plain staff notation, used in classical music; Roman numerals, commonly used in harmonic analysis; chord letters, sometimes used in modern musicology; the Nashville Number System; and various chord names and symbols used in jazz and popular music (e.g., C Major or simply C; D minor, Dm, or D−; G7, etc.).
+

@@ -1,0 +1,7 @@
+1936 introductions~Computability theory~Mathematical problems~Theory of computation~Undecidable problems~
+||||||
+Halting problem
+||||||
+In computability theory, the halting problem is the problem of determining, from a description of an arbitrary computer program and an input, whether the program will finish running, or continue to run forever. Alan Turing proved in 1936 that a general algorithm to solve the halting problem for all possible program–input pairs cannot exist.
+For any program f that might determine whether programs halt, a "pathological" program g, called with some input, can pass its own source and its input to f and then specifically do the opposite of what f predicts g will do. No f can exist that handles this case. A key part of the proof is a mathematical definition of a computer and program, which is known as a Turing machine; the halting problem is undecidable over Turing machines. It is one of the first cases of decision problems proven to be unsolvable. This proof is significant to practical computing efforts, defining a class of applications which no programming invention can possibly perform perfectly.
+Jack Copeland attributes the introduction of the term halting problem to the work of Martin Davis in the 1950s.

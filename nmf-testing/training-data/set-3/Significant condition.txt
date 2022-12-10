@@ -1,0 +1,6 @@
+Data transmission~Temporal rates~
+||||||
+Symbol rate
+||||||
+In a digitally modulated signal or a line code, symbol rate, modulation rate or baud rate is the number of symbol changes, waveform changes, or signaling events across the transmission medium per unit of time. The symbol rate is measured in baud (Bd) or "symbols per second". In the case of a line code, the symbol rate is the pulse rate in pulses per second. Each symbol can represent or convey one or several bits of data. The symbol rate is related to the gross bit rate, expressed in "bits per second".
+

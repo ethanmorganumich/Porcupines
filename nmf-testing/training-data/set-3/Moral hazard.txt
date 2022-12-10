@@ -1,0 +1,6 @@
+Anti-patterns~Asymmetric information~Ethically disputed business practices~Financial risk~Insurance~Market failure~United States housing bubble~
+||||||
+Moral hazard
+||||||
+In economics, a moral hazard is a situation where an economic actor has an incentive to increase its exposure to risk because it does not bear the full costs of that risk. For example, when a corporation is insured, it may take on higher risk knowing that its insurance will pay the associated costs. A moral hazard may occur where the actions of the risk-taking party change to the detriment of the cost-bearing party after a financial transaction has taken place.
+Moral hazard can occur under a type of information asymmetry where the risk-taking party to a transaction knows more about its intentions than the party paying the consequences of the risk and has a tendency or incentive to take on too much risk from the perspective of the party with less information. One example is a principal–agent problem, where one party, called an agent, acts on behalf of another party, called the principal. If the agent has more information about his or her actions or intentions than the principal then the agent may have an incentive to act too riskily (from the viewpoint of the principal) if the interests of the agent and the principal are not aligned.

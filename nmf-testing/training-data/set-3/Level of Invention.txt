@@ -1,0 +1,10 @@
+Creativity Management~Engineering concepts~Standards and measurement stubs~TRIZ~
+||||||
+Level of invention
+||||||
+Level of invention (or degree of inventiveness, or level of solution, or rank of solution, or rank of invention) is a relative degree of changes to the previous system (or solution) in the result of solution of inventive problem (one containing a contradiction). Term was defined and introduced by TRIZ author G. S. Altshuller.
+After initially reviewing 200,000 patent abstracts, Altshuller selected 40,000 as representatives of high level inventive solutions. The remainder involved direct improvements easily recognized within the specialty of the system.
+Altshuller separated the patents' different degrees of inventiveness into five levels:
+
+Level 1 – Routine design problems solved by methods well known within the specialty. Usually no invention needed.example: use of coal for writingLevel 2 – Minor improvements to an existing system using methods known within the industry.example: graphite pencil (wrapped coal stick)Level 3 – Fundamental improvement to an existing system using methods known outside the industry.example: ink pen (ink instead of coal)Level 4 – A new generation of a system that entails a new principle for performing the system's primary functions. Solutions are found more often in science than technology.example: printer (another whole system for writing)Level 5 – A rare scientific discovery or pioneering invention of an essentially new system.example: electronic pen&paper (see Anoto)These levels of invention are applied to solutions rather than problems requiring a system of solution.
+Also level of invention and the potential for innovation in any nation, geographical area or economic activity is as measurement in the concept of innovative capacity originally introduced by Prof. Suarez-Villa in 1990.

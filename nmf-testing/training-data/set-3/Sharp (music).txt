@@ -1,0 +1,9 @@
+Musical notation~Pitch (music)~
+||||||
+Sharp (music)
+||||||
+In music, sharp, dièse (from French), or diesis (from Greek) means, "higher in pitch". More specifically, in musical notation, sharp means "higher in pitch by one semitone (half step)". Sharp is the opposite of flat, which is a lowering of pitch.
+A sharp symbol, ♯, is used in key signatures or as an accidental. For instance, the music below has a key signature with three sharps (indicating either A major or F♯ minor, the relative minor) and the note, A♯, has a sharp accidental.
+
+Under twelve-tone equal temperament, B♯, for instance, sounds the same as, or is enharmonically equivalent to, C natural (C♮), and E♯ is enharmonically equivalent to F♮. In other tuning systems, such enharmonic equivalences in general do not exist. To allow extended just intonation, composer Ben Johnston uses a sharp to indicate a note is raised 70.6 cents (ratio 25:24), or a flat to indicate a note is lowered 70.6 cents.In intonation, sharp can also mean "slightly higher in pitch" (by some unspecified amount). If two simultaneous notes are slightly out-of-tune, the higher-pitched one (assuming the lower one is properly pitched) is "sharp" with respect to the other. Furthermore, the verb sharpen means to raise the pitch of a note, typically by a small musical interval.
+

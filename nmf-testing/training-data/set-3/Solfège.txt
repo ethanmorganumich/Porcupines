@@ -1,0 +1,7 @@
+Constructed languages~Musical notation~
+||||||
+Solfège
+||||||
+In music, solfège (, French: [sɔlfɛʒ]) or solfeggio (; Italian: [solˈfeddʒo]), also called sol-fa, solfa, solfeo, among many names, is a music education method used to teach aural skills, pitch and sight-reading of Western music. Solfège is a form of solmization, though the two terms are sometimes used interchangeably.
+Syllables are assigned to the notes of the scale and enable the musician to audiate, or mentally hear, the pitches of a piece of music being seen for the first time and then to sing them aloud. Through the Renaissance (and much later in some shapenote publications) various interlocking 4, 5 and 6-note systems were employed to cover the octave. The tonic sol-fa method popularized the seven syllables commonly used in English-speaking countries: do (or doh in tonic sol-fa), re, mi, fa, so(l), la, and ti (or si) (see below).
+There are two current ways of applying solfège: 1) fixed do, where the syllables are always tied to specific pitches (e.g. "do" is always "C-natural") and 2) movable do, where the syllables are assigned to scale degrees, with "do" always the first degree of the major scale.

@@ -1,0 +1,5 @@
+Geometrical optics~Science of photography~
+||||||
+Depth of focus
+||||||
+Depth of focus is a lens optics concept that measures the tolerance of placement of the image plane (the film plane in a camera) in relation to the lens. In a camera, depth of focus indicates the tolerance of the film's displacement within the camera and is therefore sometimes referred to as "lens-to-film tolerance".

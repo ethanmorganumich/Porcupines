@@ -1,0 +1,7 @@
+Algorithms~Parallel computing~
+||||||
+Pointer jumping
+||||||
+Pointer jumping or path doubling is a design technique for parallel algorithms that operate on pointer structures, such as linked lists and directed graphs. Pointer jumping allows an algorithm to follow paths with a time complexity that is logarithmic with respect to the length of the longest path. It does this by "jumping" to the end of the path computed by neighbors.
+The basic operation of pointer jumping is to replace each neighbor in a pointer structure with its neighbor's neighbor. In each step of the algorithm, this replacement is done for all nodes in the data structure, which can be done independently in parallel. In the next step when a neighbor's neighbor is followed, the neighbor's path already followed in the previous step is added to the node's followed path in a single step. Thus, each step effectively doubles the distance traversed by the explored paths.
+Pointer jumping is best understood by looking at simple examples such as list ranking and root finding.

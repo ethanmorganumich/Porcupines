@@ -1,0 +1,8 @@
+Communication circuits~Network protocols~Packets (information technology)~Telephone services~
+||||||
+Virtual circuit
+||||||
+A virtual circuit (VC) is a means of transporting data over a data network, based on packet switching and in which a connection is established within the network between two endpoints. The network, rather than having a fixed data rate reservation per connection, like in circuit switching, takes advantage of the satistical multiplexing on its transmission links (an intrinsic feature of packet switching, well suited to data traffic)).  In addition, VCs standardized by the CCITT in 1976 impose per-connection flow controls at all user-to-network and network-to-network interfaces. They thus eliminate the need for the network to lose user packets in heavily loaded network zones, an intrinsic feature of datagram betworks for their congestion control. 
+Before a connection or virtual circuit may be used, it must be established between two or more nodes or software applications by means of call setup. After that, a bit stream or byte stream may be delivered between the nodes; hence, a virtual circuit protocol allows higher-level protocols to avoid dealing with the division of data into Protocol data units.
+Many virtual circuit protocols, but not all, provide reliable communication service through the use of data retransmissions invoked by error detection and automatic repeat request (ARQ).
+An alternative to virtual-circuit networks are datagram networks.

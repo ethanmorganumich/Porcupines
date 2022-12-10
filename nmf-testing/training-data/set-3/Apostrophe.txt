@@ -1,0 +1,8 @@
+English orthography~Hebrew diacritics~Latin-script diacritics~Punctuation~
+||||||
+Apostrophe
+||||||
+The apostrophe (' or ’) is a punctuation mark, and sometimes a diacritical mark, in languages that use the Latin alphabet and some other alphabets. In English, the apostrophe is used for two basic purposes:
+
+The marking of the omission of one or more letters, e.g. the contraction of "do not" to "don't".
+The marking of possessive case of nouns (as in "the eagle's feathers", "in one month's time", "at your parents'‌ [home]").The word "apostrophe" comes ultimately from Greek ἡ ἀπόστροφος [προσῳδία] (hē apóstrophos [prosōidía], '[the accent of] turning away or elision'), through Latin and French.For use in computer systems, Unicode has code points for three different forms of apostrophe.

@@ -1,0 +1,9 @@
+20th-century inventions~Domestic robots~Lawn mowers~Technology in society~
+||||||
+Robotic lawn mower
+||||||
+A robotic lawn mower is an autonomous robot used to cut lawn grass.  A typical robotic lawn mower (in particular earlier generation models) requires the user to set up a border wire around the lawn that defines the area to be mowed. The robot uses this wire to locate the boundary of the area to be trimmed and in some cases to locate a recharging dock. Robotic mowers are capable of maintaining up to 30,000 m2 (320,000 sq ft) of grass.
+Robotic lawn mowers are increasingly sophisticated, are self-docking and some contain rain sensors if necessary, nearly eliminating human interaction. Robotic lawn mowers represented the second largest category of domestic robots used by the end of 2005.
+In 2012, the growth of robotic lawn mower sales was 15 times that of the traditional styles. 
+With the emergence of smart phones some robotic mowers have integrated features within custom apps to adjust settings or scheduled mowing times and frequency, as well as manually control the mower with a digital joystick.Modern robotic lawn mowers can contain specialized sensors, allowing them to automatically mow around obstacles or even go to sleep when it starts to rain.The vast majority of robotic lawn mowers tackle the task utilizing a "random" mowing system. Basically the machine bounces around on the lawn until it hits the boundary wire limiting the working area, then changes heading until it hits the wire again. Depending on the lawn size, this might take a very long time, so the machine must more or less be in continuous operations. One exception is the Bosch robotic lawn mower "Indego" which creates a map of the users garden and then tackles the task in a systematic manner, similar to the more modern robotic vacuum cleaners.
+

@@ -1,0 +1,6 @@
+Business and economics portal~Mathematical optimization~Optimal decisions~Utility~
+||||||
+Utility maximization problem
+||||||
+Utility maximization was first developed by utilitarian philosophers Jeremy Bentham and John Stuart Mill. In microeconomics, the utility maximization problem is the problem consumers face: "How should I spend my money in order to maximize my utility?" It is a type of optimal decision problem. It consists of choosing how much of each available good or service to consume, taking into account a constraint on total spending (income), the prices of the goods and their preferences.
+Utility maximization is an important concept in consumer theory as it shows how consumers decide to allocate their income. Because consumers are rational, they seek to extract the most benefit for themselves. However, due to bounded rationality and other biases, consumers sometimes pick bundles that do not necessarily maximize their utility. The utility maximization bundle of the consumer is also not set and can change over time depending on their individual preferences of goods, price changes and increases or decreases in income.

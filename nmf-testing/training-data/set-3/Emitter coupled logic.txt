@@ -1,0 +1,9 @@
+Logic families~
+||||||
+Emitter-coupled logic
+||||||
+In electronics, emitter-coupled logic (ECL) is a high-speed integrated circuit bipolar transistor logic family. ECL uses an overdriven bipolar junction transistor (BJT) differential amplifier with single-ended input and limited emitter current to avoid the saturated (fully on) region of operation and its slow turn-off behavior.
+As the current is steered between two legs of an emitter-coupled pair, ECL is sometimes called current-steering logic (CSL),current-mode logic (CML)
+or current-switch emitter-follower (CSEF) logic.In ECL, the transistors are never in saturation, the input/output voltages have a small swing (0.8 V), the input impedance is high and the output impedance is low. As a result, the transistors change states quickly, gate delays are low, and the fanout capability is high. In addition, the essentially constant current draw of the differential amplifiers minimises delays and glitches due to supply-line inductance and capacitance, and the complementary outputs decrease the propagation time of the whole circuit by reducing inverter count.
+ECL's major disadvantage is that each gate continuously draws current, which means that it requires (and dissipates) significantly more power than those of other logic families, especially when quiescent.
+The equivalent of emitter-coupled logic made from FETs is called source-coupled logic (SCFL).A variation of ECL in which all signal paths and gate inputs are differential is known as differential current switch (DCS) logic.

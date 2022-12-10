@@ -1,0 +1,8 @@
+Electrical breakdown~Electrical safety~Electrostatics~Plasma physics~
+||||||
+Electrostatic discharge
+||||||
+Electrostatic discharge (ESD) is a sudden and momentary flow of electric current between two electrically charged objects caused by contact, an electrical short or dielectric breakdown. A buildup of static electricity can be caused by tribocharging or by electrostatic induction. The ESD occurs when differently-charged objects are brought close together or when the dielectric between them breaks down, often creating a visible spark.
+ESD can create spectacular electric sparks (lightning, with the accompanying sound of thunder, is a large-scale ESD event), but also less dramatic forms which may be neither seen nor heard, yet still be large enough to cause damage to sensitive electronic devices. Electric sparks require a field strength above approximately 40 kV/cm in air, as notably occurs in lightning strikes. Other forms of ESD include corona discharge from sharp electrodes and brush discharge from blunt electrodes.
+ESD can cause harmful effects of importance in industry, including explosions in gas, fuel vapor and coal dust, as well as failure of solid state electronics components such as integrated circuits.  These can suffer permanent damage when subjected to high voltages.  Electronics manufacturers therefore establish electrostatic protective areas free of static, using measures to prevent charging, such as avoiding highly charging materials and measures to remove static such as grounding human workers, providing antistatic devices, and controlling humidity.
+ESD simulators may be used to test electronic devices, for example with a human body model or a charged device model.

@@ -1,0 +1,14 @@
+Major intervals~Seconds (music)~
+||||||
+Major second
+||||||
+In Western music theory, a major second (sometimes also called whole tone or a whole step)  is a second spanning two semitones (Play ). A second is a musical interval encompassing two adjacent staff positions (see Interval number for more details). For example, the interval from C to D is a major second, as the note D lies two semitones above C, and the two notes are notated on adjacent staff positions. Diminished, minor and augmented seconds are notated on adjacent staff positions as well, but consist of a different number of semitones (zero, one, and three).
+
+The intervals from the tonic (keynote) in an upward direction to the second, to the third, to the sixth, and to the seventh scale degrees (of a major scale are called major.
+The major second is the interval that occurs between the first and second degrees of a major scale, the tonic and the supertonic. On a musical keyboard, a major second is the interval between two keys separated by one key, counting white and black keys alike. On a guitar string, it is the interval separated by two frets. In moveable-do solfège, it is the interval between do and re. It is considered a melodic step, as opposed to larger intervals called skips.
+Intervals composed of two semitones, such as the major second and the diminished third, are also called tones, whole tones, or whole steps.
+In just intonation, major seconds can occur in at least two different frequency ratios:
+9:8 (about 203.9 cents) and 10:9 (about 182.4 cents). The largest (9:8) ones are called major tones or greater tones, the smallest (10:9) are called minor tones or lesser tones. Their size differs by exactly one syntonic comma (81:80, or about 21.5 cents).
+Some equal temperaments, such as 15-ET and 22-ET, also distinguish between a greater and a lesser tone.
+The major second was historically considered one of the most dissonant intervals of the diatonic scale, although much 20th-century music saw it reimagined as a consonance. It is common in many different musical systems, including Arabic music, Turkish music and music of the Balkans, among others.  It occurs in both diatonic and pentatonic scales.
+Listen to a major second in equal temperament . Here, middle C is followed by D, which is a tone 200 cents sharper than C, and then by both tones together.

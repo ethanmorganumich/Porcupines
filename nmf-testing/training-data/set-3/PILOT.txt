@@ -1,0 +1,7 @@
+Educational programming languages~IEEE standards~
+||||||
+PILOT
+||||||
+Programmed Inquiry, Learning, or Teaching (PILOT) is a simple high-level programming language developed in the 1960s.
+Like its younger sibling LOGO, it was an early foray into the technology of computer-assisted instruction.
+PILOT is an imperative language similar in structure to BASIC and FORTRAN in its basic layout and structure. Its keywords are single characters, T for "type" to print text, or A for "accept", to input values from the user.

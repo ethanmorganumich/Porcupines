@@ -1,0 +1,5 @@
+Network management~
+||||||
+Network management
+||||||
+Network management is the process of administering and managing computer networks. Services provided by this discipline include fault analysis, performance management, provisioning of networks and maintaining quality of service. Network management software is used by network administrators to help perform these functions.

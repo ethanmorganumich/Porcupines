@@ -1,0 +1,7 @@
+Music theory stubs~Musical notation~
+||||||
+A due
+||||||
+A due [a dˈduːe] in Italian or à deux [a dø] in French is a musical direction meaning "for two". Most often seen in its abbreviated form a2, the marking signifies that on a staff that normally carries parts for two players, both players are to play the single part in unison. It is generally seen in scores and parts where two players or sections of the same instrument share a staff. The instruction a2 indicates that both players or sections should play the notes indicated, while primo and secondo (often abbreviated to 1. and 2. or Io and IIo) indicate that only a single player or section should play while the other remains tacet.
+Increasingly larger groups of players can also be indicated in a similar manner, for instance "a3" for three players ("a tre" in Italian, "à trois" in French), "a4" for four players ("a quattro" in Italian, "à quatre" in French), and so on.
+For orchestral strings, playing in unison is usually assumed, but if returning to unison from a divisi passage, "unison" (or "unis.") is traditionally used to indicate this. If returning from a solo string passage (in which only a single string player in a section is performing), "tutti" is used to indicate that the whole ensemble should play once again.

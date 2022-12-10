@@ -1,0 +1,5 @@
+Aggregation websites~Internet search engines~Metasearch engines~
+||||||
+Search aggregator
+||||||
+A search aggregator is a type of metasearch engine which gathers results from multiple search engines simultaneously, typically through RSS search results.  It combines user specified search feeds (parameterized RSS feeds which return search results) to give the user the same level of control over content as a general aggregator.Soon after the introduction of RSS, sites began publicising their search results in parameterized RSS feeds.  Search aggregators are an increasingly popular way to take advantage of the power of multiple search engines with a flexibility not seen in traditional metasearch engines.  To the end user, a search aggregator may appear to be just a customizable search engine and the use of RSS may be completely hidden.  However, the presence of RSS is directly responsible for the existence of search aggregators and a critical component in the behind-the-scenes technology.

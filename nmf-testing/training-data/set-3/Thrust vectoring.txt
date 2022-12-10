@@ -1,0 +1,9 @@
+Airship technology~Jet engines~
+||||||
+Thrust vectoring
+||||||
+Thrust vectoring, also known as thrust vector control (TVC), is the ability of an aircraft, rocket, or other vehicle to manipulate the direction of the thrust from its engine(s) or motor(s) to control the attitude or angular velocity of the vehicle.
+In rocketry and ballistic missiles that fly outside the atmosphere, aerodynamic control surfaces are ineffective, so thrust vectoring is the primary means of attitude control. Exhaust vanes and gimbaled engines were used in the 1930s by Robert
+Goddard.
+For aircraft, the method was originally envisaged to provide upward vertical thrust as a means to give aircraft vertical (VTOL) or short (STOL) takeoff and landing ability. Subsequently, it was realized that using vectored thrust in combat situations enabled aircraft to perform various maneuvers not available to conventional-engined planes. To perform turns, aircraft that use no thrust vectoring must rely on aerodynamic control surfaces only, such as ailerons or elevator; aircraft with vectoring must still use control surfaces, but to a lesser extent.
+In missile literature originating from Russian sources, thrust vectoring is often referred to as gas-dynamic steering or gas-dynamic control.

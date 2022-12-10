@@ -1,0 +1,10 @@
+Internet search engines~Internet terminology~Search engine optimization~
+||||||
+Search engine results page
+||||||
+Search Engine Results Pages (SERP) are the pages displayed by search engines in response to a query by a user. The main component of the SERP is the listing of results that are returned by the search engine in response to a keyword query.
+The results are of two general types :
+
+organic search: retrieved by the search engine's algorithm
+sponsored search: advertisements.The results are normally ranked by relevance to the query. Each result displayed on the SERP normally includes a title, a link that points to the actual page on the Web, and a short description showing where the keywords have matched content within the page for organic results. For sponsored results, the advertiser chooses what to display.
+Due to the huge number of items that are available or related to the query, there are usually several pages in response to a single search query as the search engine or the user's preferences restrict viewing to a subset of results per page. Each succeeding page will tend to have lower ranking or lower relevancy results. Just like the world of traditional print media and its advertising, this enables competitive pricing for page real estate, but is complicated by the dynamics of consumer expectations and intent— unlike static print media where the content and the advertising on every page is the same all of the time for all viewers, despite such hard copy being localized to some degree, usually geographic, like state, metro-area, city, or neighbourhood, search engine results can vary based on individual factors such as browsing habits.

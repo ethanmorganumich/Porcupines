@@ -1,0 +1,119 @@
+Goods (economics)~Utility function types~
+||||||
+Complementary good
+||||||
+In economics, a complementary good is a good whose appeal increases with the popularity of its complement. Technically, it displays a negative cross elasticity of demand and that demand for it increases when the price of another good decreases. If 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is a complement to 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  , an increase in the price of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   will result in a negative movement along the demand curve of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and cause the demand curve for 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   to shift inward; less of each good will be demanded. Conversely, a decrease in the price of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   will result in a positive movement along the demand curve of 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and cause the demand curve of 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   to shift outward; more of each good will be demanded. This is in contrast to a substitute good, whose demand decreases when its substitute's price decreases.When two goods are complements, they experience joint demand - the demand of one good is linked to the demand for another good. Therefore, if a higher quantity is demanded of one good, a higher quantity will also be demanded of the other, and vice versa. For example, the demand for razor blades may depend on the number of razors in use; this is why razors have sometimes been sold as loss leaders, to increase demand for the associated blades. Another example is that sometimes a toothbrush is packaged free with toothpaste. The toothbrush is a complement to the toothpaste; the cost of producing a toothbrush may be higher than toothpaste, but its sales depends on the demand of toothpaste.
+All non-complementary goods can be considered substitutes. If 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   and 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   are rough complements in an everyday sense, then consumers are willing to pay more for each marginal unit of good 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   as they accumulate more 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  . The opposite is true for substitutes: the consumer is willing to pay less for each marginal unit of good "
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  " as it accumulates more of good "
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  ".
+Complementarity may be driven by psychological processes in which the consumption of one good (e.g., cola) stimulates demand for its complements (e.g., a cheeseburger). Consumption of a food or beverage activates a goal to consume its complements: foods that consumers believe would taste better together. Drinking cola increases consumers' willingness to pay for a cheeseburger. This effect appears to be contingent on consumer perceptions of these relationships rather than their sensory properties.

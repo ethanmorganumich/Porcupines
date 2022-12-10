@@ -1,0 +1,12 @@
+Matrices~
+||||||
+Matrix (mathematics)
+||||||
+In mathematics, a matrix (plural matrices) is a rectangular array or table of numbers, symbols, or expressions, arranged in rows and columns, which is used to represent a mathematical object or a property of such an object.
+For example, 
+
+is a matrix with two rows and three columns. This is often referred to as a "two by three matrix", a "2×3-matrix", or a matrix of dimension 2×3.
+Without further specifications, matrices represent linear maps, and allow explicit computations in linear algebra. Therefore, the study of matrices is a large part of linear algebra, and most properties and operations of abstract linear algebra can be expressed in terms of matrices. For example, matrix multiplication represents composition of linear maps.
+Not all matrices are related to linear algebra. This is, in particular, the case in graph theory, of incidence matrices, and adjacency matrices. This article focuses on matrices related to linear algebra, and, unless otherwise specified, all matrices represent linear maps or may be viewed as such.
+Square matrices, matrices with the same number of rows and columns, play a major role in matrix theory. Square matrices of a given dimension form a noncommutative ring, which is one of the most common examples of a noncommutative ring. The determinant of a square matrix is a number associated to the matrix, which is fundamental for the study of a square matrix; for example, a square matrix is invertible if and only if it has a nonzero determinant, and the eigenvalues of a square matrix are the roots of a polynomial determinant.
+In geometry, matrices are widely used for specifying and representing geometric transformations (for example rotations) and coordinate changes. In numerical analysis, many computational problems are solved by reducing them to a matrix computation, and this often involves computing with matrices of huge dimension. Matrices are used in most areas of mathematics and most scientific fields, either directly, or through their use in geometry and numerical analysis.

@@ -1,0 +1,5 @@
+2000s neologisms~Dark web~Internet search engines~Internet terminology~
+||||||
+Deep web
+||||||
+The deep web, invisible web, or hidden web are parts of the World Wide Web whose contents are not indexed by standard web search-engine programs. This is in contrast to the "surface web", which is accessible to anyone using the Internet. Computer-scientist Michael K. Bergman is credited with inventing the term in 2001 as a search-indexing term.Deep web sites can be accessed by a direct URL or IP address, but may require entering a password or other security information to access actual content. Such sites have uses such as web mail, online banking, cloud storage, restricted-access social-media pages and profiles, some web forums and code language that require registration for viewing content. It also includes paywalled services such as video on demand and some online magazines and newspapers.

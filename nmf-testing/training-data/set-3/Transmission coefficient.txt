@@ -1,0 +1,6 @@
+Fiber-optic communications~Geometrical optics~Physical optics~Quantum mechanics~
+||||||
+Transmission coefficient
+||||||
+The transmission coefficient is used in physics and electrical engineering when wave propagation in a medium containing discontinuities is considered. A transmission coefficient describes the amplitude, intensity, or total power of a transmitted wave relative to an incident wave.
+

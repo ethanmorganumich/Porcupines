@@ -1,0 +1,5 @@
+Law enforcement databases in the United States~Sex offender registration~United States Department of Justice~
+||||||
+National Incident-Based Reporting System
+||||||
+National Incident-Based Reporting System (NIBRS) is an incident-based reporting system used by law enforcement agencies in the United States for collecting and reporting data on crimes. Local, state and federal agencies generate NIBRS data from their records management systems. Data is collected on every incident and arrest in the Group A offense category. These Group A offenses are 52 offenses grouped in 23 crime categories. Specific facts about these offenses are gathered and reported to NIBRS. In addition to the Group A offenses, 10 Group B offenses are reported with only the arrest information.

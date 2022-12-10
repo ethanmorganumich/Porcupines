@@ -1,0 +1,7 @@
+Foreign exchange market~Monetary policy~
+||||||
+Devaluation
+||||||
+In macroeconomics and modern monetary policy, a devaluation is an official lowering of the value of a country's currency within a fixed exchange-rate system, in which a monetary authority formally sets a lower exchange rate of the national currency in relation to a foreign reference currency or currency basket. The opposite of devaluation, a change in the exchange rate making the domestic currency more expensive, is called a revaluation. A monetary authority (e.g., a central bank) maintains a fixed value of its currency by being ready to buy or sell foreign currency with the domestic currency at a stated rate; a devaluation is an indication that the monetary authority will buy and sell foreign currency at a lower rate.
+However, under a floating exchange rate system (in which exchange rates are determined by market forces acting on the foreign exchange market, and not by government or central bank policy actions), a decrease in a currency's value relative to other major currency benchmarks is instead called depreciation; likewise, an increase in the currency's value is called appreciation.
+Related but distinct concepts include inflation, which is a market-determined decline in the value of the currency in terms of goods and services (related to its purchasing power).  Altering the face value of a currency without reducing its exchange rate is a redenomination, not a devaluation or revaluation.

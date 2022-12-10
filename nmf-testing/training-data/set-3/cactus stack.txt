@@ -1,0 +1,6 @@
+Continuations~Metaphors referring to spaghetti~Trees (data structures)~
+||||||
+Parent pointer tree
+||||||
+In computer science, an in-tree or parent pointer tree is an N-ary tree data structure in which each node has a pointer to its parent node, but no pointers to child nodes. When used to implement a set of stacks, the structure is called a spaghetti stack, cactus stack or sahuaro stack (after the sahuaro, a kind of cactus). Parent pointer trees are also used as disjoint-set data structures.
+The structure can be regarded as a set of singly linked lists that share part of their structure, in particular, their tails. From any node, one can traverse to ancestors of the node, but not to any other node.

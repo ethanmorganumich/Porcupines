@@ -1,0 +1,6 @@
+Anti-competitive practices~Conjectures~Monopoly (economics)~Pricing~
+||||||
+Coase conjecture
+||||||
+The Coase conjecture, developed first by Ronald Coase, is an argument in  monopoly theory. The conjecture sets up a situation in which a monopolist sells a durable good to a market where resale is impossible and faces consumers who have different valuations. The conjecture proposes that a monopolist that does not know individuals' valuations will have to sell its product at a low price if the monopolist tries to separate consumers by offering different prices in different periods.  This is because the monopoly is, in effect, in price competition with itself over several periods and the consumer with the highest valuation, if he is patient enough, can simply wait for the lowest price.  Thus the monopolist will have to offer a competitive price in the first period which will be low.  The conjecture holds only when there is an infinite time horizon, as otherwise a possible action for the monopolist would be to announce a very high price until the second to last period, and then sell at the static monopoly price in the last period. The monopolist could avoid this problem by committing to a stable linear pricing strategy or adopting other business strategies.
+

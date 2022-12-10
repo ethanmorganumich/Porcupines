@@ -1,0 +1,6 @@
+Calculus~Mathematical analysis~Mathematical optimization~Superlatives~
+||||||
+Maxima and minima
+||||||
+In mathematical analysis, the maxima and minima (the respective plurals of maximum and minimum) of a function, known collectively as extrema (the plural of extremum), are the largest and smallest value of the function, either within a given range (the local or relative extrema), or on the entire domain (the global or absolute extrema). Pierre de Fermat was one of the first mathematicians to propose a general technique, adequality, for finding the maxima and minima of functions.
+As defined in set theory, the maximum and minimum of a set are the greatest and least elements in the set, respectively. Unbounded infinite sets, such as the set of real numbers, have no minimum or maximum.

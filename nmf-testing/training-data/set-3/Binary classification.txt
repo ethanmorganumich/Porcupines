@@ -1,0 +1,9 @@
+Machine learning~Statistical classification~
+||||||
+Binary classification
+||||||
+Binary classification is the task of classifying the elements of a set into two groups (each called class) on the basis of a classification rule. Typical binary classification problems include:
+
+Medical testing to determine if a patient has certain disease or not;
+Quality control in industry, deciding whether a specification has been met;
+In information retrieval, deciding whether a page should be in the result set of a search or not.Binary classification is dichotomization applied to a practical situation. In many practical binary classification problems, the two groups are not symmetric, and rather than overall accuracy, the relative proportion of different types of errors is of interest. For example, in medical testing, detecting a disease when it is not present (a false positive) is considered differently from not detecting a disease when it is present (a false negative).

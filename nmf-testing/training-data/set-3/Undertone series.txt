@@ -1,0 +1,6 @@
+Acoustics~Musical tuning~
+||||||
+Undertone series
+||||||
+In music, the undertone series or subharmonic series is a sequence of notes that results from inverting the intervals of the overtone series. While overtones naturally occur with the physical production of music on instruments, undertones must be produced in unusual ways. While the overtone series is based upon arithmetic multiplication of frequencies, resulting in a harmonic series, the undertone series is based on arithmetic division.
+

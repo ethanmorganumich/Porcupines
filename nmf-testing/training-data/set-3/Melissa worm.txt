@@ -1,0 +1,5 @@
+Hacking in the 1990s~Macro viruses~
+||||||
+Melissa (computer virus)
+||||||
+The Melissa virus is a mass-mailing macro virus released on or around March 26, 1999. It targets Microsoft Word and Outlook-based systems and created considerable network traffic. The virus infects computers via email; the email is titled "Important Message From," followed by the current username. Upon clicking the message, the body reads, "Here's that document you asked for. Don't show anyone else ;)." Attached is a Word document titled "list.doc," containing a list of pornographic sites and accompanying logins for each. It then mass-mails itself to the first fifty people in the user's contact list and disables multiple safeguard features on Microsoft Word and Microsoft Outlook.

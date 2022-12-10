@@ -1,0 +1,6 @@
+Fixed points (mathematics)~Integer sequences~Permutations~
+||||||
+Derangement
+||||||
+In combinatorial mathematics, a derangement is a permutation of the elements of a set, such that no element appears in its original position. In other words, a derangement is a permutation that has no fixed points.
+The number of derangements of a set of size n is known as the subfactorial of n or the n-th derangement number or n-th de Montmort number.  Notations for subfactorials in common use include !n, Dn, dn, or n¡.For n > 0, the subfactorial !n equals the nearest integer to n!/e, where n! denotes the factorial of n and e is Euler's number.The problem of counting derangements was first considered by Pierre Raymond de Montmort in 1708; he solved it in 1713, as did Nicholas Bernoulli at about the same time.

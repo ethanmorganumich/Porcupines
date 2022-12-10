@@ -1,0 +1,7 @@
+Electronic design~Electronics concepts~Filter theory~
+||||||
+Impedance matching
+||||||
+In electronics, impedance matching is the practice of designing or adjusting the input impedance or output impedance of an electrical device for a desired value.  Often, the desired value is selected to maximize power transfer or minimize signal reflection. For example, impedance matching typically is used to improve power transfer from a radio transmitter via the interconnecting transmission line to the antenna. Signals on a transmission line will be transmitted without reflections if the transmission line is terminated with a matching impedance. 
+Techniques of impedance matching include transformers, adjustable networks of lumped resistance, capacitance and inductance, or properly proportioned transmission lines. Practical impedance-matching devices will generally provide best results over a specified frequency band. 
+The concept of impedance matching is widespread in electrical engineering, but is relevant in other applications in which a form of energy, not necessarily electrical, is transferred between a source and a load, such as in acoustics or optics.

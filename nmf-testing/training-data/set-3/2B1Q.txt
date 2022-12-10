@@ -1,0 +1,8 @@
+Integrated Services Digital Network~Line codes~Telecommunications stubs~
+||||||
+2B1Q
+||||||
+Two-binary, one-quaternary (2B1Q) is a line code used in the U interface of the Integrated Services Digital Network (ISDN) Basic Rate Interface (BRI) and the high-bit-rate digital subscriber line (HDSL). 2B1Q is a four-level pulse-amplitude modulation (PAM-4) scheme without redundancy, mapping two bits (2B) into one quaternary symbol (1Q). A competing encoding technique in the ISDN basic rate U interface, mainly used in Europe, is 4B3T.
+To minimize error propagation, bit pairs (dibits) are assigned to voltage levels according to a Gray code, as follows:
+
+If the voltage is misread as an adjacent level, this causes only a 1-bit error in the decoded data. 2B1Q code is not DC-balanced. Symbol rate is half of data rate.

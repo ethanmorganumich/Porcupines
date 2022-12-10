@@ -1,0 +1,16 @@
+Hemitonic scales~Heptatonic scales~Jazz terminology~Musical terminology~Tritonic scales~
+||||||
+Altered scale
+||||||
+In jazz, the altered scale, altered dominant scale, Palamidian Scale, or Super Locrian scale is a seven-note scale that is a dominant scale where all non-essential tones have been altered. This means that it comprises the three irreducibly essential tones that define a dominant seventh chord, which are root, major third, and minor seventh and that all other chord tones have been altered. These are:
+
+the fifth is altered to a ♭5 and a ♯5
+the ninth is altered to a ♭9 and a ♯9
+the eleventh is altered to a ♯11 (equivalent to a ♭5)
+the thirteenth is altered to a ♭13 (equivalent to a ♯5)The altered forms of some of the non-essential tones coincide (augmented eleventh with diminished fifth and augmented fifth with minor thirteenth) meaning those scale degrees are enharmonically identical and have multiple potential spellings. The natural forms of the non-essential tones are not present in the scale. This means it lacks a major ninth, a perfect eleventh, a perfect fifth, and a major thirteenth. 
+This is written below in musical notation with the essential chord tones coloured black and the non-essential altered chord tones coloured red.
+
+The altered scale is made by the sequence: 
+
+Half, Whole, Half, Whole, Whole, Whole, WholeThe abbreviation "alt" (for "altered") used in chord symbols enhances readability by reducing the number of characters otherwise needed to define the chord and avoids the confusion of multiple equivalent complex names. For example, "C7alt" supplants "C7♯5♭9♯9♯11", "C7−5+5−9+9", "Caug7−9+9+11", etc.
+This scale has existed for a long time as the 7th mode of melodic minor.

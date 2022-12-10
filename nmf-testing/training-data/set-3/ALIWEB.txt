@@ -1,0 +1,8 @@
+History of the Internet~Internet properties established in 1994~Internet search engines~
+||||||
+ALIWEB
+||||||
+ALIWEB (Archie-Like Indexing for the Web) is considered the first Web search engine, as its predecessors were either built with different purposes (the Wanderer, Gopher) or were only indexers (Archie, Veronica and Jughead).
+First announced in November 1993 by developer Martijn Koster while working at Nexor, and presented in May 1994 at the First International Conference on the World Wide Web at CERN in Geneva, ALIWEB preceded WebCrawler by several months.ALIWEB allowed users to submit the locations of index files on their sites which enabled the search engine to include webpages and add user-written page descriptions and keywords. This empowered webmasters to define the terms that would lead users to their pages, and also avoided setting bots (e.g. the Wanderer, JumpStation) which used up bandwidth. As relatively few people submitted their sites, ALIWEB was not very widely used.
+Martijn Koster, who was also instrumental in the creation of the Robots Exclusion Standard, detailed the background and objectives of ALIWEB with an overview of its functions and framework in the paper he presented at CERN.Koster is not associated with a commercial website posing as ALIWEB.
+

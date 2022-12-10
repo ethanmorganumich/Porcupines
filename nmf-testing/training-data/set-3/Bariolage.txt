@@ -1,0 +1,14 @@
+String performance techniques~
+||||||
+Bariolage
+||||||
+The bowed string instrument musical technique bariolage (French for '"multi-colored"' or, since the word is a noun rather than an adjective, "odd mixture of colours", from the verb barioler, "to streak with several colors") involves "the alternation of notes on adjacent strings, one of which is usually open", exploiting "the individual timbre of the various strings." This may involve quick alternation between a static note and changing notes that form a melody either above or below the static note. The static note is usually an open string note, which creates a highly resonant sound. "Bariolage" is a nineteenth-century term for an eighteenth-century violin technique (requiring flexibility in the wrist and forearm), the mechanics of which are not discussed by nineteenth-century writers. The usual bowing technique required, which also may be used separately from bariolage, is called ondulé in French or ondeggiando In Italian. However, it may also be executed with separate bow strokes. In bluegrass fiddling the technique is known as "cross-fingering". Perhaps looking back on what he considered an earlier, less advanced time, one pedagogue explains that
+
+The name bariolage is given to the kind of passage which presents the appearance of disorder and oddness, in that the notes are not played in succession on the same string where one would expect this or when the notes e2, a1, d1, are played not on the same string but alternately with one stopped finger and the open string, or else finally when the open string is played in a position where a stopped note would normally be required.
+
+Joseph Haydn used this effect in the minuet of his Symphony No. 28, in the finale of the "Farewell" Symphony, No. 45, and throughout the finale of his String Quartet Op. 50, No. 6. The "croaking" or "gurgling" unison bariolage passages on D and A gives this quartet its nickname of The Frog.
+In the following example, from a violin sonata by Handel, the second measure is to be played with bariolage. The repeated A is played on the open A string, alternating with Fs and Es fingered on the adjacent D string.
+The notes on the D string (E and F natural) would be fingered as normal (first finger and low second), but the fingerings given above the second measure would be [2040 1040 2040 1040], indicating the switch (bariolage) from open A string to the stopped fourth finger on the D string, also playing the note A.
+
+Another well-known example of bariolage is in Bach's Preludio to the E major Partita No. 3 for solo violin, where three strings are involved in the maneuver (one open string and two fingered notes).
+In the nineteenth century, notable examples of its use are found in Brahms's works. Brahms used this device in the String Sextet in G Major (where it occurs at the very beginning in the viola) and in the Third Violin Sonata, Op. 108.

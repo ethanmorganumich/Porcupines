@@ -1,0 +1,9 @@
+Musical notation~
+||||||
+Staff (music)
+||||||
+In Western musical notation, the staff (US and UK) or stave (UK) (plural: staffs or staves) is a set of five horizontal lines and four spaces that each represent a different musical pitch or in the case of a percussion staff, different percussion instruments. Appropriate music symbols, depending on the intended effect, are placed on the staff according to their corresponding pitch or function. Musical notes are placed by pitch, percussion notes are placed by instrument, and rests and other symbols are placed by convention.
+The absolute pitch of each line of a non-percussive staff is indicated by the placement of a clef symbol at the appropriate vertical position on the left-hand side of the staff (possibly modified by conventions for specific instruments). For example, the treble clef, also known as the G clef, is placed on the second line (counting upward), fixing that line as the pitch first G above "middle C".
+The lines and spaces are numbered from bottom to top; the bottom line is the first line and the top line is the fifth line.
+The musical staff is analogous to a mathematical graph of pitch with respect to time. Pitches of notes are given by their vertical position on the staff and notes are played from left to right. Unlike a graph, however, the number of semitones represented by a vertical step from a line to an adjacent space depends on the key, and the exact timing of the beginning of each note is not directly proportional to its horizontal position; rather, exact timing is encoded by the musical symbol chosen for each note in addition to the tempo.
+A time signature to the right of the clef indicates the relationship between timing counts and note symbols, while bar lines group notes on the staff into measures.

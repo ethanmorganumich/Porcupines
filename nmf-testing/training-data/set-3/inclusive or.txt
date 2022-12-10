@@ -1,0 +1,67 @@
+Formal semantics (natural language)~Logical connectives~Semantics~
+||||||
+Logical disjunction
+||||||
+In logic, disjunction is a logical connective typically notated as 
+  
+    
+      
+        ∨
+      
+    
+    {\displaystyle \lor }
+   and read aloud as "or". For instance, the English language sentence "it is raining or it is snowing" can be represented in logic using the disjunctive formula 
+  
+    
+      
+        R
+        ∨
+        S
+      
+    
+    {\displaystyle R\lor S}
+  , assuming that 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   abbreviates "it is raining" and 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   abbreviates "it is snowing".
+In classical logic, disjunction is given a truth functional semantics according to which a formula 
+  
+    
+      
+        ϕ
+        ∨
+        ψ
+      
+    
+    {\displaystyle \phi \lor \psi }
+   is true unless both 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   and 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   are false. Because this semantics allows a disjunctive formula to be true when both of its disjuncts are true, it is an inclusive interpretation of disjunction, in contrast with exclusive disjunction. Classical proof theoretical treatments are often given in terms of rules such as disjunction introduction and disjunction elimination. Disjunction has also been given numerous non-classical treatments, motivated by problems including Aristotle's sea battle argument, Heisenberg's uncertainty principle, as well the numerous mismatches between classical disjunction and its nearest equivalents in natural languages.
+

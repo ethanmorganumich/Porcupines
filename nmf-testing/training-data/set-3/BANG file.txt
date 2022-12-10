@@ -1,0 +1,6 @@
+Algorithms and data structures stubs~Arrays~Computer files~
+||||||
+BANG file
+||||||
+A BANG file[1](balanced and nested grid file) is a point access method which divides space into a nonperiodic grid. Each spatial dimension is divided by a linear hash. Cells may intersect, and points may be distributed between them.
+

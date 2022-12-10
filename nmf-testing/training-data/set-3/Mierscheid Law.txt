@@ -1,0 +1,8 @@
+1983 introductions~Political science~Voting theory~West Germany~
+||||||
+Mierscheid law
+||||||
+The Mierscheid law is a satirical forecast hypothesis based on a spurious relationship, published in the German magazine Vorwärts on 14 July 1983 and attributed to the fictitious politician Jakob Maria Mierscheid. It forecasts the Social Democratic Party of Germany (SPD)'s share of the popular vote based on the size of crude steel production in Western Germany:
+The Vote share of the SPD equals the Index of the crude steel production in the western federal states – measured in millions of tonnes – in the year of the federal election.
+There is a special rule for early elections. One then has to take the arithmetic mean of the regular and early year of election.
+The last corroboration of the law was in the 2002 election, where the West German crude steel production was 38.6 million tonnes, and the vote share of the SPD 38.5%. For the early election in 2005 the vote share was 38.4%, with a mean crude steel value of 40.0 million tonnes.  Over the last ten elections, the two values were within two units nine times, and within one unit seven times.

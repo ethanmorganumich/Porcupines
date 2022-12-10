@@ -1,0 +1,8 @@
+Computer jargon~Programming language design~Programming language syntax~Source code~
+||||||
+Syntactic sugar
+||||||
+In computer science, syntactic sugar is syntax within a programming language that is designed to make things easier to read or to express. It makes the language "sweeter" for human use: things can be expressed more clearly, more concisely, or in an alternative style that some may prefer. Syntactic sugar is usually a shorthand for a common operation that could also be expressed in an alternate, more verbose, form: The programmer has a choice of whether to use the shorter form or the longer form, but will usually use the shorter form since it is shorter and easier to type and read.
+For example, many programming languages provide special syntax for referencing and updating array elements. Abstractly, an array reference is a procedure of two arguments: an array and a subscript vector, which could be expressed as get_array(Array, vector(i,j)). Instead, many languages provide syntax such as Array[i,j]. Similarly an array element update is a procedure consisting of three arguments, for example set_array(Array, vector(i,j), value), but many languages also provide syntax such as Array[i,j] = value.
+A construct in a language is syntactic sugar if it can be removed from the language without any effect on what the language can do: functionality and expressive power will remain the same.
+Language processors, including compilers and static analyzers, often expand sugared constructs into their more verbose equivalents before processing, a process sometimes called "desugaring".

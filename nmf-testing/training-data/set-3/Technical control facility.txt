@@ -1,0 +1,5 @@
+Telecommunications infrastructure~Telecommunications stubs~Telecommunications systems~
+||||||
+Technical control facility
+||||||
+In telecommunication, a technical control facility (TCF) is a telecommunications facility, or a designated and specially configured part thereof, that (a) contains the equipment necessary for ensuring fast, reliable, and secure exchange of information, (b) typically includes distribution frames and associated panels, jacks, and switches and monitoring, test, conditioning, and orderwire equipment, and (c) allows telecommunications systems control personnel to exercise operational control of communications paths and facilities, make quality analyses of communications and communications channels, monitor operations and maintenance functions, recognize and correct deteriorating conditions, restore disrupted communications, provide requested on-call circuits, and take or direct such actions as may be required and practical to provide effective telecommunications services.

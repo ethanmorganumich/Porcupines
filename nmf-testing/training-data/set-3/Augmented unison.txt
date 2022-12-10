@@ -1,0 +1,5 @@
+Augmented intervals~Unisons~
+||||||
+Augmented unison
+||||||
+In modern Western tonal music theory an augmented unison or augmented prime is the interval between two notes on the same staff position, or denoted by the same note letter, whose alterations cause them, in ordinary equal temperament, to be one semitone apart. In other words, it is a unison where one note has been altered by a half-step, such as B♭ and B♮ or C♮ and C♯. The interval is often described as a chromatic semitone. The term, in its French form unisson superflu, appears to have been coined by Jean-Philippe Rameau in 1722, who also called this interval a minor semitone (semiton mineur). Historically, this interval, like the tritone, is described as being "mi contra fa", and therefore is the "diabolus in musica" (the Devil in music). In 12-tone equal temperament, it is the enharmonic equivalent of a diatonic semitone or minor second, although in other tunings the diatonic semitone is a different interval.

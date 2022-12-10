@@ -1,0 +1,5 @@
+IOS software~IOS-based software made by Apple Inc.~MacOS-only software made by Apple Inc.~Video editing software~Video editing software for macOS~
+||||||
+IMovie
+||||||
+iMovie (known at times as iMovie HD) is a preinstalled video editing application developed by Apple Inc. for macOS, iOS, and iPadOS devices.It was originally released in 1999 as a Mac OS 8 application bundled with the first FireWire-enabled consumer Mac model, the iMac DV. Since version 3, iMovie has been a macOS-only application included with the iLife suite of Mac applications. iMovie was included for free with the purchase of a new Mac or iOS device in late 2013 and has been free to all users since early 2017.Apple positions its iMovie video editor for the consumer market. For the professional market, Apple provides another product, Final Cut Pro.

@@ -1,0 +1,7 @@
+Electrical safety~Electrical wiring~NFPA Standards~Safety codes~
+||||||
+National Electrical Code
+||||||
+The National Electrical Code (NEC), or NFPA 70, is a regionally adoptable standard for the safe installation of electrical wiring and equipment in the United States. It is part of the National Fire Code series published by the National Fire Protection Association (NFPA), a private trade association. Despite the use of the term "national", it is not a federal law. It is typically adopted by states and municipalities in an effort to standardize their enforcement of safe electrical practices. In some cases, the NEC is amended, altered and may even be rejected in lieu of regional regulations as voted on by local governing bodies. 
+The "authority having jurisdiction" inspects for compliance with these standards.The NEC should not be confused with the National Electrical Safety Code (NESC) published by the Institute of Electrical and Electronics Engineers (IEEE). The NESC is used for electric power and communication utility systems including overhead lines, underground lines and power substations.
+

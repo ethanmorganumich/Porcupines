@@ -1,0 +1,5 @@
+Law stubs~Legal documents~
+||||||
+Subordination agreement
+||||||
+A subordination agreement is a legal document used to make the claim of one party junior to (or inferior to) a claim in favor of another.  It is generally used to grant first lien status to a lienholder who would otherwise be secondary to another party, with the approval of the party that would otherwise have first lien.  Typically a subordination arises when there are two existing mortgages, a first mortgage and a second mortgage, and the mortgagor intends to refinance the first mortgage.  If the holder of the second mortgage does not subordinate the lien of its mortgage to the new mortgage, the new lender will not refinance the first mortgage.  However, the second mortgage holder does not want to release its mortgage and re-file, due to additional costs and priority problems, so it will subordinate its lien to the lien of the replacement mortgage.

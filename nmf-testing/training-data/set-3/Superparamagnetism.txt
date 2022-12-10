@@ -1,0 +1,5 @@
+Magnetic ordering~Statistical mechanics~
+||||||
+Superparamagnetism
+||||||
+Superparamagnetism is a form of magnetism which appears in small ferromagnetic or ferrimagnetic nanoparticles. In sufficiently small nanoparticles, magnetization can randomly flip direction under the influence of temperature. The typical time between two flips is called the Néel relaxation time. In the absence of an external magnetic field, when the time used to measure the magnetization of the nanoparticles is much longer than the Néel relaxation time, their magnetization appears to be in average zero; they are said to be in the superparamagnetic state. In this state, an external magnetic field is able to magnetize the nanoparticles, similarly to a paramagnet. However, their magnetic susceptibility is much larger than that of paramagnets.

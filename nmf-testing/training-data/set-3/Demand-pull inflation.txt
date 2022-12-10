@@ -1,0 +1,5 @@
+Demand~Inflation~
+||||||
+Demand-pull inflation
+||||||
+Demand-pull inflation is asserted to arise when aggregate demand in an economy is more than aggregate supply. It involves inflation rising as real gross domestic product rises and unemployment falls, as the economy moves along the Phillips curve. This is commonly described as "too much money chasing too few goods". More accurately, it should be described as involving "too much money spent chasing too few goods", since only money that is spent on goods and services can cause inflation. This would not be expected to happen, unless the economy is already at a full employment level. It is the opposite of cost-push inflation.

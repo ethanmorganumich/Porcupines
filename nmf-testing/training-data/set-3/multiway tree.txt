@@ -1,0 +1,5 @@
+Trees (data structures)~
+||||||
+Rose tree
+||||||
+In computing, a rose tree is a term for the value of a tree data structure with a variable and unbounded number of branches per node. The term is mostly used in the functional programming community, e.g., in the context of the Bird–Meertens formalism. Apart from the multi-branching property, the most essential characteristic of rose trees is the coincidence of bisimilarity with identity: two distinct rose trees are never bisimilar.

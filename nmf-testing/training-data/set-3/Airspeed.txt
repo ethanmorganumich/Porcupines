@@ -1,0 +1,11 @@
+Aerodynamics~Airspeed~
+||||||
+Airspeed
+||||||
+In aviation, airspeed is the speed of an aircraft relative to the air. Among the common conventions for qualifying airspeed are: 
+Indicated airspeed ("IAS"), what is read on an airspeed gauge connected to a Pitot-static system;
+Calibrated airspeed ("CAS"), indicated airspeed adjusted for pitot system position and installation error;
+Equivalent airspeed ("EAS"), calibrated airspeed adjusted for compressibility effects;
+True airspeed ("TAS"), equivalent airspeed adjusted for air density, and is also the speed of the aircraft through the air in which it is flying.Calibrated airspeed is typically within a few knots of indicated airspeed, while equivalent airspeed decreases slightly from CAS as aircraft altitude increases or at high speeds.
+With EAS constant, true airspeed increases as aircraft altitude increases. This is because air density decreases with higher altitude.
+The measurement and indication of airspeed is ordinarily accomplished on board an aircraft by an airspeed indicator ("ASI") connected to a pitot-static system. The pitot-static system comprises one or more pitot probes (or tubes) facing the on-coming air flow to measure pitot pressure (also called stagnation, total or ram pressure) and one or more static ports to measure the static pressure in the air flow. These two pressures are compared by the ASI to give an IAS reading.

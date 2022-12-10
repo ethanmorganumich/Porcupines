@@ -1,0 +1,6 @@
+Computer-aided design~
+||||||
+Boundary representation
+||||||
+In solid modeling and computer-aided design, boundary representation (often abbreviated B-rep or BREP) is a method for representing a 3D shape by defining the limits of its volume.  A solid is represented as a collection of connected surface elements, which define the boundary between interior and exterior points.
+

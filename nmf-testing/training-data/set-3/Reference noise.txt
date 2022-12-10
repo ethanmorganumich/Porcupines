@@ -1,0 +1,7 @@
+Communication circuits~Noise (electronics)~Telecommunications stubs~Telecommunications techniques~
+||||||
+Reference noise
+||||||
+In telecommunication, reference noise is the magnitude of circuit noise chosen as a reference for measurement.  
+Many different levels with a number of different weightings are in current use, and care must be taken to ensure that the proper parameters are stated. 
+Specific ones include: dBa, dBa(F1A), dBa(HA1), dBa0, dBm, dBm(psoph), dBm0, dBrn, dBrnC, dBrnC0, dBrn(f1-f2), dBrn(144-line), dBx.

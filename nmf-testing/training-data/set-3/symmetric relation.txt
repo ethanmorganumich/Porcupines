@@ -1,0 +1,54 @@
+Binary relations~Symmetric relations~
+||||||
+Symmetric relation
+||||||
+A symmetric relation is a type of binary relation. An example is the relation "is equal to", because if a = b is true then b = a is also true. Formally, a binary relation R over a set X is symmetric if:
+
+  
+    
+      
+        ∀
+        a
+        ,
+        b
+        ∈
+        X
+        (
+        a
+        R
+        b
+        ⇔
+        b
+        R
+        a
+        )
+        ,
+      
+    
+    {\displaystyle \forall a,b\in X(aRb\Leftrightarrow bRa),}
+  where the notation 
+  
+    
+      
+        a
+        R
+        b
+      
+    
+    {\displaystyle aRb}
+   means that 
+  
+    
+      
+        (
+        a
+        ,
+        b
+        )
+        ∈
+        R
+      
+    
+    {\displaystyle (a,b)\in R}
+  .
+If RT represents the converse of R, then R is symmetric if and only if R = RT.Symmetry, along with reflexivity and transitivity, are the three defining properties of an equivalence relation.

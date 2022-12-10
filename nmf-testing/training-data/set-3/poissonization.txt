@@ -1,0 +1,5 @@
+Point processes~
+||||||
+Determinantal point process
+||||||
+In mathematics, a determinantal point process is a stochastic point process, the probability distribution of which is characterized as a determinant of some function. Such processes arise as important tools in random matrix theory, combinatorics, physics, and wireless network modeling.

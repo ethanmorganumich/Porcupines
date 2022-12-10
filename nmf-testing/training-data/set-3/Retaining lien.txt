@@ -1,0 +1,9 @@
+Business law~Common law legal terminology~Liens~Property law~Property law legal terminology~
+||||||
+Lien
+||||||
+A lien ( or ) is a form of security interest granted over an item of property to secure the payment of a debt or performance of some other obligation. The owner of the property, who grants the lien, is referred to as the lienee and the person who has the benefit of the lien is referred to as the lienor or lien holder.
+The etymological root is Anglo-French lien, loyen "bond", "restraint", from Latin ligamen, from ligare "to bind".
+In the United States, the term lien generally refers to a wide range of encumbrances and would include other forms of mortgage or charge.  In the US, a lien characteristically refers to nonpossessory security interests (see generally: Security interest § Types).
+In other common-law countries, the term lien refers to a very specific type of security interest, being a passive right to retain (but not sell) property until the debt or other obligation is discharged.  In contrast to the usage of the term in the US, in other countries it refers to a purely possessory form of security interest; indeed, when possession of the property is lost, the lien is released.  However, common-law countries also recognize a slightly anomalous form of security interest called an "equitable lien" which arises in certain rare instances.
+Despite their differences in terminology and application, there are a number of similarities between liens in the US and elsewhere in the common-law world.

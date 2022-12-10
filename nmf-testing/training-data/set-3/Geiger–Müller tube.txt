@@ -1,0 +1,6 @@
+Electrical breakdown~Ionising radiation detectors~Measuring instruments~Particle detectors~
+||||||
+Geiger–Müller tube
+||||||
+The Geiger–Müller tube or G–M tube is the sensing element of the Geiger counter instrument used for the detection of ionizing radiation. It is named after Hans Geiger, who invented the principle in 1908, and Walther Müller, who collaborated with Geiger in developing the technique further in 1928 to produce a practical tube that could detect a number of different radiation types.It is a gaseous ionization detector and uses the Townsend avalanche phenomenon to produce an easily detectable electronic pulse from as little as a single ionizing event due to a radiation particle. It is used for the detection of gamma radiation, X-rays, and alpha and beta particles. It can also be adapted to detect neutrons. The tube operates in the "Geiger" region of ion pair generation. This is shown on the accompanying plot for gaseous detectors showing ion current against applied voltage.
+While it is a robust and inexpensive detector, the G–M is unable to measure high radiation rates efficiently, has a finite life in high radiation areas and cannot measure incident radiation energy, so no spectral information can be generated and there is no discrimination between radiation types; such as between alpha and beta particles.

@@ -1,0 +1,6 @@
+1984 non-fiction books~1996 non-fiction books~Computer programming books~Computer science books~Creative Commons-licensed books~Lisp (programming language)~Massachusetts Institute of Technology~Scheme (programming language)~
+||||||
+Structure and Interpretation of Computer Programs
+||||||
+Structure and Interpretation of Computer Programs (SICP) is a computer science textbook by Massachusetts Institute of Technology professors Harold Abelson and Gerald Jay Sussman with Julie Sussman. It is known as the "Wizard Book" in hacker culture. It teaches fundamental principles of computer programming, including recursion, abstraction, modularity, and programming language design and implementation.
+MIT Press published the first edition in 1984, and the second edition in 1996. It was formerly used as the textbook for MIT's introductory course in computer science. SICP focuses on discovering general patterns for solving specific problems, and building software systems that make use of those patterns.MIT Press published the JavaScript edition in 2022.

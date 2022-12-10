@@ -1,0 +1,13 @@
+Diatonic functions~Scale degrees~
+||||||
+Subdominant
+||||||
+In music, the subdominant is the fourth tonal degree () of the diatonic scale. It is so called because it is the same distance below the tonic as the dominant is above the tonic – in other words, the tonic is the dominant of the subdominant. It also happens to be the note one step below the dominant. In the movable do solfège system, the subdominant note is sung as fa.
+The triad built on the subdominant note is called the subdominant chord. In Roman numeral analysis, the subdominant chord is typically symbolized by the Roman numeral "IV" in a major key, indicating that the chord is a major triad. In a minor key, it is symbolized by "iv", indicating that the chord is a minor triad.
+
+In very much conventionally tonal music, harmonic analysis will reveal a broad prevalence of the primary (often triadic) harmonies: tonic, dominant, and subdominant (i.e., I and its chief auxiliaries a 5th removed), and especially the first two of these.
+These chords may also appear as seventh chords: in major, as IVM7, or in minor as iv7 or sometimes IV7:
+
+A cadential subdominant chord followed by a tonic chord produces the so-called plagal cadence.
+As with other chords which often precede the dominant, subdominant chords typically have predominant function. In Riemannian theory, it is considered to balance the dominant around the tonic (being as far below the tonic as the dominant is above).
+The term subdominant may also refer to a relationship of musical keys. For example, relative to the key of C major, the key of F major is the subdominant. Music which modulates (changes key) often modulates to the subdominant when the leading tone is lowered by half step to the subtonic (B to B♭ in the key of C). Modulation to the subdominant key often creates a sense of musical relaxation, as opposed to modulation to the dominant (fifth note of the scale), which increases tension.

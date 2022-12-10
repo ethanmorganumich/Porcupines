@@ -1,0 +1,7 @@
+Antennas (radio)~Broadcast engineering~
+||||||
+Skew (antenna)
+||||||
+Skew is a term used in antenna engineering. It is a technique to improve the horizontal radiation pattern of a high power transmitter station.
+In a high power VHF or UHF station, usually the antenna system is constructed to broadcast to four directions each separated 90° from each other. So the directivity of the antenna system resembles a four leaf clover. While settlements within the main lobe receive enough energy, the energy received by the settlements between the main lobes may be 6 dB less. 
+One popular method to solve the problem is to skew the antenna panels symmetrically around the central axis of the mast. Usually a skew of λ/4 gives the desired almost-uniform horizontal radiation pattern. But in cases where more than one RF signal is applied to antenna system (via combiner), the improvement in the horizontal radiation pattern may be inadequate for some signals.

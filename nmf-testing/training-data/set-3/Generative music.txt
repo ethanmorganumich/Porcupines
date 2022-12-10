@@ -1,0 +1,6 @@
+Computer music software~
+||||||
+Generative music
+||||||
+Generative music is a term popularized by Brian Eno to describe music that is ever-different and changing, and that is created by a system.
+

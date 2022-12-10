@@ -1,0 +1,7 @@
+64-bit computers~Computer-related introductions in 2001~Instruction set architectures~Intel microprocessors~Very long instruction word computing~
+||||||
+IA-64
+||||||
+IA-64 (Intel Itanium architecture) is the instruction set architecture (ISA) of the Itanium family of 64-bit Intel microprocessors. The basic ISA specification originated at Hewlett-Packard (HP), and was subsequently implemented by Intel in collaboration with HP. The first Itanium processor, codenamed Merced, was released in 2001.
+The Itanium architecture is based on explicit instruction-level parallelism, in which the compiler decides which instructions to execute in parallel. This contrasts with superscalar architectures, which depend on the processor to manage instruction dependencies at runtime. In all Itanium models, up to and including Tukwila, cores execute up to six instructions per clock cycle.
+In 2008, Itanium was the fourth-most deployed microprocessor architecture for enterprise-class systems, behind x86-64, Power ISA, and SPARC.

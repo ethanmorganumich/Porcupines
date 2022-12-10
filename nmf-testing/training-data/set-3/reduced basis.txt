@@ -1,0 +1,144 @@
+Computational number theory~Lattice points~Theory of cryptography~
+||||||
+Lenstra–Lenstra–Lovász lattice basis reduction algorithm
+||||||
+The Lenstra–Lenstra–Lovász (LLL) lattice basis reduction algorithm is a polynomial time lattice reduction algorithm invented by Arjen Lenstra, Hendrik Lenstra and László Lovász in 1982. Given a basis 
+  
+    
+      
+        
+          B
+        
+        =
+        {
+        
+          
+            b
+          
+          
+            1
+          
+        
+        ,
+        
+          
+            b
+          
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          
+            b
+          
+          
+            d
+          
+        
+        }
+      
+    
+    {\displaystyle \mathbf {B} =\{\mathbf {b} _{1},\mathbf {b} _{2},\dots ,\mathbf {b} _{d}\}}
+   with n-dimensional integer coordinates, for a lattice L (a discrete subgroup of  Rn) with 
+  
+    
+      
+        d
+        ≤
+        n
+      
+    
+    {\displaystyle d\leq n}
+  , the LLL algorithm calculates an LLL-reduced (short, nearly orthogonal) lattice basis in time  where 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   is the largest length of 
+  
+    
+      
+        
+          
+            b
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \mathbf {b} _{i}}
+   under the Euclidean norm, that is, 
+  
+    
+      
+        B
+        =
+        max
+        
+          (
+          
+            ‖
+            
+              
+                b
+              
+              
+                1
+              
+            
+            
+              ‖
+              
+                2
+              
+            
+            ,
+            ‖
+            
+              
+                b
+              
+              
+                2
+              
+            
+            
+              ‖
+              
+                2
+              
+            
+            ,
+            …
+            ,
+            ‖
+            
+              
+                b
+              
+              
+                d
+              
+            
+            
+              ‖
+              
+                2
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle B=\max \left(\|\mathbf {b} _{1}\|_{2},\|\mathbf {b} _{2}\|_{2},\dots ,\|\mathbf {b} _{d}\|_{2}\right)}
+  .The original applications were to give polynomial-time algorithms for factorizing polynomials with rational coefficients, for finding simultaneous rational approximations to real numbers, and for solving the integer linear programming problem in fixed dimensions.

@@ -1,0 +1,6 @@
+Film and video technology~Television terminology~
+||||||
+Telecine
+||||||
+Telecine ( or ) is the process of transferring film into video and is performed in a color suite. The term is also used to refer to the equipment used in the post-production process.
+Telecine enables a motion picture, captured originally on film stock, to be viewed with standard video equipment, such as television sets, video cassette recorders (VCR), DVD, Blu-ray Disc or computers. Initially, this allowed television broadcasters to produce programs using film, usually 16mm stock, but transmit them in the same format, and quality, as other forms of television production. Furthermore, telecine allows film producers, television producers and film distributors working in the film industry to release their productions on video and allows producers to use video production equipment to complete their filmmaking projects. Within the film industry, it is also referred to as a TK, because TC is already used to designate timecode. Motion picture film scanners are similar to telecines.

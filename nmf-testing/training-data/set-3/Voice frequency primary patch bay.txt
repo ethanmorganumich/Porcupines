@@ -1,0 +1,6 @@
+Telecommunications equipment~Telecommunications stubs~
+||||||
+Voice frequency primary patch bay
+||||||
+In telecommunication, a voice frequency primary patch bay (VF) is a patching facility that provides the first appearance of local-user VF circuits in the technical control facility (TCF).  
+The VF primary patch bay provides patching, monitoring, and testing for all VF circuits. Signals will have various levels and signaling schemes depending on the user terminal equipment.

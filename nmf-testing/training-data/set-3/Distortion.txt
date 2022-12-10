@@ -1,0 +1,7 @@
+Audio amplifier specifications~Audio effects~Cartography~Effects units~Geometrical optics~
+||||||
+Distortion
+||||||
+In signal processing, distortion is the alteration of the original shape (or other characteristic) of a signal.  In communications and electronics it means the alteration of the waveform of an information-bearing signal, such as an audio signal representing sound or a video signal representing images, in an electronic device or communication channel.
+Distortion is usually unwanted, and so engineers strive to eliminate or minimize it. In some situations, however, distortion may be desirable.  For example, in noise reduction systems like the Dolby system, an audio signal is deliberately distorted in ways that emphasize aspects of the signal that are subject to electrical noise, then it is symmetrically "undistorted" after passing through a noisy communication channel, reducing the noise in the received signal.  Distortion is also used as a musical effect, particularly with electric guitars.
+The addition of noise or other outside signals (hum, interference) is not considered distortion, though the effects of quantization distortion are sometimes included in noise. Quality measures that reflect both noise and distortion include the signal-to-noise and distortion (SINAD) ratio and total harmonic distortion plus noise (THD+N).

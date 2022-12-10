@@ -1,0 +1,9 @@
+Noise (electronics)~Telecommunication theory~Telecommunications stubs~
+||||||
+Received noise power
+||||||
+In telecommunications, received noise power is a measure of noise in a receiver. For example, the received noise power might be:
+
+The calculated or measured noise power, within the bandwidth being used, at the receive end of a circuit, channel, link, or system.
+The absolute power of the noise measured or calculated at a receive point. The related bandwidth and the noise weighting must also be specified.
+The value of noise power, from all sources, measured at the line terminals of a telephone set's receiver.' Either flat weighting or some other specific amplitude-frequency characteristic or noise weighting characteristic must be associated with the measurement. This article incorporates public domain material from Federal Standard 1037C. General Services Administration. (in support of MIL-STD-188).

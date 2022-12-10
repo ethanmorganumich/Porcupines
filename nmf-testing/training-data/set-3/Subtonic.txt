@@ -1,0 +1,7 @@
+Diatonic functions~Scale degrees~
+||||||
+Subtonic
+||||||
+In music, the subtonic is the degree of a musical scale which is a whole step below the tonic note. In a major key, it is a lowered, or flattened, seventh scale degree (♭). It appears as the seventh scale degree in the natural minor and descending melodic minor scales but not in the major scale. In major keys, the subtonic sometimes appears in borrowed chords. In the movable do solfège system, the subtonic note is sung as te (or ta).
+The subtonic can be contrasted with the leading note, which is a half step below the tonic. The distinction between leading note and subtonic has been made by theorists since at least the second quarter of the 20th century. Before that, the term subtonic often referred to the leading tone triad, for example.The word subtonic is also used as an English translation of subtonium, the Latin term used in Gregorian chant theory for the similar usage of a tone one whole step below the mode final in the Dorian, Phrygian, and Mixolydian modes.
+

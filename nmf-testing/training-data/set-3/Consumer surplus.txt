@@ -1,0 +1,8 @@
+Microeconomics~Welfare economics~
+||||||
+Economic surplus
+||||||
+In mainstream economics, economic surplus, also known as total welfare or total social welfare or Marshallian surplus (after Alfred Marshall), is either of two related quantities: 
+
+Consumer surplus, or consumers' surplus, is the monetary gain obtained by consumers because they are able to purchase a product for a price that is less than the highest price that they would be willing to pay.
+Producer surplus, or producers' surplus, is the amount that producers benefit by selling at a market price that is higher than the least that they would be willing to sell for; this is roughly equal to profit (since producers are not normally willing to sell at a loss and are normally indifferent to selling at a break-even price).

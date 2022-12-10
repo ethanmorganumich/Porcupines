@@ -1,0 +1,101 @@
+Linear programming~Optimization algorithms and methods~Software patent law~
+||||||
+Karmarkar's algorithm
+||||||
+Karmarkar's algorithm is an algorithm introduced by Narendra Karmarkar in 1984 for solving linear programming problems. It was the first reasonably efficient algorithm that solves these problems in polynomial time. The ellipsoid method is also polynomial time but proved to be inefficient in practice.
+Denoting 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   as the number of variables and 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   as the number of bits of input to the algorithm, Karmarkar's algorithm requires 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            3.5
+          
+        
+        L
+        )
+      
+    
+    {\displaystyle O(n^{3.5}L)}
+   operations on 
+  
+    
+      
+        O
+        (
+        L
+        )
+      
+    
+    {\displaystyle O(L)}
+   digit numbers, as compared to 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            6
+          
+        
+        L
+        )
+      
+    
+    {\displaystyle O(n^{6}L)}
+   such operations for the ellipsoid algorithm. The runtime of Karmarkar's algorithm is thus 
+
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            3.5
+          
+        
+        
+          L
+          
+            2
+          
+        
+        ⋅
+        log
+        ⁡
+        L
+        ⋅
+        log
+        ⁡
+        log
+        ⁡
+        L
+        )
+      
+    
+    {\displaystyle O(n^{3.5}L^{2}\cdot \log L\cdot \log \log L)}
+  using FFT-based multiplication (see Big O notation).
+Karmarkar's algorithm falls within the class of interior point methods: the current guess for the solution does not follow the boundary of the feasible set as in the simplex method, but it moves through the interior of the feasible region, improving the approximation of the optimal solution by a definite fraction with every iteration, and converging to an optimal solution with rational data.

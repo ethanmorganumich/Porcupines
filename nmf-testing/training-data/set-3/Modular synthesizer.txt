@@ -1,0 +1,5 @@
+Modular synthesizers~
+||||||
+Modular synthesizer
+||||||
+Modular synthesizers are synthesizers composed of separate modules for different functions. The modules can be connected together by the user to create a patch. The outputs from the modules may include audio signals, analog control voltages, or digital signals for logic or timing conditions. Typical modules are voltage-controlled oscillators, voltage-controlled filters, voltage-controlled amplifiers and envelope generators.

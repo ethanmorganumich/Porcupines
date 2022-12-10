@@ -1,0 +1,11 @@
+ALGOL 60 dialect~Algol programming language family~Computer-related introductions in 1958~Procedural programming languages~Programming languages created in 1958~Structured programming languages~Systems programming languages~
+||||||
+ALGOL
+||||||
+ALGOL (; short for "Algorithmic Language") is a family of imperative computer programming languages originally developed in 1958. ALGOL heavily influenced many other languages and was the standard method for algorithm description used by the Association for Computing Machinery (ACM) in textbooks and academic sources for more than thirty years.In the sense that the syntax of most modern languages is "Algol-like", it was arguably more influential than three other high-level programming languages among which it was roughly contemporary: FORTRAN, Lisp, and COBOL. It was designed to avoid some of the perceived problems with FORTRAN and eventually gave rise to many other programming languages, including PL/I, Simula, BCPL, B, Pascal, and C.
+ALGOL introduced code blocks and the begin...end pairs for delimiting them. It was also the first language implementing nested function definitions with lexical scope. Moreover, it was the first programming language which gave detailed attention to formal language definition and through the Algol 60 Report introduced Backus–Naur form, a principal formal grammar notation for language design.
+There were three major specifications, named after the years they were first published:
+
+ALGOL 58 – originally proposed to be called IAL, for International Algebraic Language.
+ALGOL 60 – first implemented as X1 ALGOL 60 in 1961. Revised 1963.
+ALGOL 68 – introduced new elements including flexible arrays, slices, parallelism, operator identification. Revised 1973.ALGOL 68 is substantially different from ALGOL 60 and was not well received, so in general "Algol" means ALGOL 60 and its dialects.

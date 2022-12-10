@@ -1,0 +1,7 @@
+Switches~
+||||||
+DIP switch
+||||||
+A DIP switch is a manual electric switch that is packaged with others in a group in a standard dual in-line package (DIP). The term may refer to each individual switch, or to the unit as a whole. This type of switch is designed to be used on a printed circuit board along with other electronic components and is commonly used to customize the behavior of an electronic device for specific situations.
+DIP switches are an alternative to jumper blocks. Their main advantages are that they are quicker to change and there are no parts to lose.
+

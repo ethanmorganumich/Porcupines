@@ -1,0 +1,6 @@
+Music OCR software~Musical notation~
+||||||
+Optical music recognition
+||||||
+Optical music recognition (OMR) is a field of research that investigates how to computationally read musical notation in documents. The goal of OMR is to teach the computer to read and interpret sheet music and produce a machine-readable version of the written music score. Once captured digitally, the music can be saved in commonly used file formats, e.g. MIDI (for playback) and MusicXML (for page layout).
+In the past it has, misleadingly, also been called "music optical character recognition". Due to significant differences, this term should no longer be used.

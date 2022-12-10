@@ -1,0 +1,5 @@
+Behavioural sciences~Computational science~Internet search engines~
+||||||
+Future Orientation Index
+||||||
+The Future Orientation Index was introduced by Tobias Preis, Helen Susannah Moat, H. Eugene Stanley and Steven Bishop using Google Trends to demonstrate that Google users from countries with a higher per capita GDP are more likely to search for information about the future than information about the past. The findings suggest there may be a link between online behaviour and real-world economic indicators. The authors of the study examined Google query logs made by Google users in 45 different countries in 2010 and calculated the ratio of the volume of searches for the coming year (‘2011’) to the volume of searches for the previous year (‘2009’).

@@ -1,0 +1,13 @@
+Electronic circuits~Signal processing filter~
+||||||
+Electronic filter
+||||||
+Electronic filters are a type of signal processing filter in the form of electrical circuits.  This article covers those filters consisting of lumped electronic components, as opposed to distributed-element filters.  That is, using components and interconnections that, in analysis, can be considered to exist at a single point.  These components can be in discrete packages or part of an integrated circuit.
+Electronic filters remove unwanted frequency components from the applied signal, enhance wanted ones, or both. They can be:
+
+passive or active
+analog or digital
+high-pass, low-pass, band-pass, band-stop (band-rejection; notch), or all-pass.
+discrete-time (sampled) or continuous-time
+linear or non-linear
+infinite impulse response (IIR type) or finite impulse response (FIR type)The most common types of electronic filters are linear filters, regardless of other aspects of their design. See the article on linear filters for details on their design and analysis.

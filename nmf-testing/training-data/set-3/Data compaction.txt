@@ -1,0 +1,7 @@
+Computing stubs~Data compression~Telecommunications techniques~
+||||||
+Data compaction
+||||||
+In telecommunication, data compaction is the reduction of the number of data elements, bandwidth, cost, and time for the generation, transmission, and storage of data without loss of information by eliminating unnecessary redundancy, removing irrelevancy, or using special coding. 
+Examples of data compaction methods are the use of fixed-tolerance bands, variable-tolerance bands, slope-keypoints, sample changes, curve patterns, curve fitting, variable-precision coding, frequency analysis, and probability analysis. 
+Simply squeezing noncompacted data into a smaller space, for example by increasing packing density by transferring images from newsprint to microfilm or by transferring data on punched cards onto magnetic tape, is not data compaction.

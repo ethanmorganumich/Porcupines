@@ -1,0 +1,5 @@
+Crystals~Industrial processes~Liquid-solid separation~Methods of crystal growth~Semiconductor growth~
+||||||
+Zone melting
+||||||
+Zone melting (or zone refining, or floating-zone method, or floating-zone technique) is a group of similar methods of purifying crystals, in which a narrow region of a crystal is melted, and this molten zone is moved along the crystal. The molten region melts impure solid at its forward edge and leaves a wake of purer material solidified behind it as it moves through the ingot. The impurities concentrate in the melt, and are moved to one end of the ingot.  Zone refining was invented by John Desmond Bernal and further developed by William G. Pfann in Bell Labs as a method to prepare high purity materials, mainly semiconductors, for manufacturing transistors. Its first commercial use was in germanium, refined to one atom of impurity per ten billion, but the process can be extended to virtually any solute–solvent system having an appreciable concentration difference between solid and liquid phases at equilibrium.  This process is also known as the float zone process, particularly in semiconductor materials processing.

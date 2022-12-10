@@ -1,0 +1,5 @@
+Frequency-domain analysis~Noise (electronics)~Oscillators~Telecommunication theory~
+||||||
+Phase noise
+||||||
+In signal processing, phase noise is the frequency-domain representation of random fluctuations in the phase of a waveform, corresponding to time-domain deviations from perfect periodicity (jitter).  Generally speaking, radio-frequency engineers speak of the phase noise of an oscillator, whereas digital-system engineers work with the jitter of a clock.

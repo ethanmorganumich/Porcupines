@@ -1,0 +1,6 @@
+Arrays~
+||||||
+Sorted array
+||||||
+A sorted array is an array data structure in which each element is sorted in numerical, alphabetical, or some other order, and placed at equally spaced addresses in computer memory. It is typically used in computer science to implement static lookup tables to hold multiple values which have the same data type. Sorting an array is useful in organising data in ordered form and recovering them rapidly.
+

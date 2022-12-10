@@ -1,0 +1,8 @@
+Chromaticism~Diatonic functions~Dominant chords~Secondary chords~
+||||||
+Secondary chord
+||||||
+A secondary chord is an analytical label for a specific harmonic device that is prevalent in the tonal idiom of Western music beginning in the common practice period: the use of diatonic functions for tonicization.
+Secondary chords are a type of altered or borrowed chord, chords that are not part of the music piece's key. They are the most common sort of altered chord in tonal music. Secondary chords are referred to by the function they have and the key or chord in which they function. Conventionally, they are written with the notation "function/key". Thus, the most common secondary chord, the dominant of the dominant, is written "V/V" and read as "five of five" or "the dominant of the dominant". The major or minor triad on any diatonic scale degree may have any secondary function applied to it; secondary functions may even be applied to diminished triads in some special circumstances.
+Secondary chords were not used until the Baroque period and are found more frequently and freely in the Classical period, even more so in the Romantic period. Composers began to use them less frequently with the breakdown of conventional harmony in modern classical music—but secondary dominants are a cornerstone of popular music and jazz in the 20th century.
+

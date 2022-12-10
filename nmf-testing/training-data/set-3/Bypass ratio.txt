@@ -1,0 +1,9 @@
+Engineering ratios~Jet engines~
+||||||
+Bypass ratio
+||||||
+The bypass ratio (BPR) of a turbofan engine is the ratio between the mass flow rate of the bypass stream to the mass flow rate entering the core. A 10:1 bypass ratio, for example, means that 10 kg of air passes through the bypass duct for every 1 kg of air passing through the core.
+Turbofan engines are usually described in terms of BPR, which together with engine pressure ratio, turbine inlet temperature and fan pressure ratio are important design parameters. In addition, BPR is quoted for turboprop and unducted fan installations because their high propulsive efficiency gives them the overall efficiency characteristics of very high bypass turbofans. This allows them to be shown together with turbofans on plots which show trends of reducing specific fuel consumption (SFC) with increasing BPR. BPR is also quoted for lift fan installations where the fan airflow is remote from the engine and doesn't physically touch the engine core.
+Bypass provides a lower fuel consumption for the same thrust, measured as thrust specific fuel consumption (grams/second fuel per unit of thrust in kN using SI units). Lower fuel consumption that comes with high bypass ratios applies to turboprops, using a propeller rather than a ducted fan. High bypass designs are the dominant type for commercial passenger aircraft and both civilian and military jet transports.
+Business jets use medium BPR engines.Combat aircraft use engines with low bypass ratios to compromise between fuel economy and the requirements of combat: high power-to-weight ratios, supersonic performance, and the ability to use afterburners.
+

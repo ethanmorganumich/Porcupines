@@ -1,0 +1,5 @@
+Continuous distributions~
+||||||
+Multimodal distribution
+||||||
+In statistics, a multimodal distribution is a probability distribution with more than one mode.  These appear as distinct peaks (local maxima) in the probability density function, as shown in Figures 1 and 2. Categorical, continuous, and discrete data can all form multimodal distributions. Among univariate analyses, multimodal distributions are commonly  bimodal.

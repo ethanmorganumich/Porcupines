@@ -1,0 +1,6 @@
+Aviation meteorology~Aviation publications~Earth sciences data formats~
+||||||
+METAR
+||||||
+METAR is a format for reporting weather information. A METAR weather report is predominantly used by aircraft pilots, and by meteorologists, who use aggregated METAR information to assist in weather forecasting.
+Raw METAR is the most common format in the world for the transmission of observational weather data. It is highly standardized through the International Civil Aviation Organization (ICAO), which allows it to be understood throughout most of the world.

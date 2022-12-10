@@ -1,0 +1,6 @@
+Data mining and machine learning software~Facial recognition software~Internet search engines~
+||||||
+Picollator
+||||||
+Picollator is an Internet search engine that performs searches for web sites and multimedia by visual query (image) or text, or a combination of visual query and text. Picollator recognizes objects in the image, obtains their relevance to the text and vice versa, and searches in accordance with all information provided.
+

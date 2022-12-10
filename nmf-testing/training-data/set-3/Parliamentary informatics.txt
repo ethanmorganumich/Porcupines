@@ -1,0 +1,12 @@
+Government in Canada~Politics of Canada~Politics of New Zealand~Politics of the United Kingdom~Subfields of political science~
+||||||
+Parliamentary informatics
+||||||
+Parliamentary informatics is the application of information technology to the documentation of legislative activity. The principal areas of concern are the provision, in a form conveniently readable to humans or machines, of information and statistics about:
+
+individual legislators
+particular legislative proposals
+votes thereon
+text of legislationParliamentary informatics is carried on both by officials of legislatures and by private for-profit and non-profit actors, with motivations ranging from the administration of parliaments to lobbying and facilitating democratic discourse.
+The division of activities between official and unofficial activity differs widely between polities, even within a single country. There exists substantial overlap with disciplines such as psephology and, as far as the text of successfully enacted legislation is concerned, legal informatics in general.
+The use of parliamentary informatics is also a rapidly growing trend in parliamentary monitoring. In a September 2011, joint report from the National Democratic Institute and World Bank Institute, a survey of parliamentary monitoring organisations (PMOs) found that parliamentary informatics are used by approximately 40 percent of PMOs worldwide. The report states, "These tools can automatically aggregate and organize information from parliamentary websites and other information sources, generate visualizations (such as political finance maps), and create new platforms for citizens to interact with MPs or participate in parliamentary monitoring and policy analysis."

@@ -1,0 +1,5 @@
+Contract law~
+||||||
+Requirements contract
+||||||
+A requirements contract is a contract in which one party agrees to supply as much of a good or service as is required by the other party, and in exchange the other party expressly or implicitly promises that it will obtain its goods or services exclusively from the first party. For example, a grocery store might enter into a contract with the farmer who grows oranges under which the farmer would supply the grocery store with as many oranges as the store could sell. The farmer could sue for breach of contract if the store were thereafter to purchase oranges for this purpose from any other party. The converse of this situation is an output contract, in which one buyer agrees to purchase however much of a good or service the seller is able to produce.

@@ -1,0 +1,5 @@
+Cold War military computer systems of the United States~Equipment of the United States Air Force~United States nuclear command and control~
+||||||
+IBM 473L Command and Control System
+||||||
+The IBM 473L Command and Control System (473L System, 473L colloq.) was a USAF Cold War "Big L" Support System with computer equipment at The Pentagon and, in Pennsylvania, the Alternate National Military Command Center nuclear bunker. Each 473L site included a Data Processing Subsystem (DPSS), Integrated Console Subsystem (ICSS), Large Panel Display Subsystem, and Data Communications Subsystem (Automatic Digital Network interface: "AUTODIN Data Terminal Bay").  The "System 473L" was an "on-line, real-time information processing system designed to facilitate effective management of USAF resources, particularly during emergency situations" e.g., for: "situation monitoring, resource monitoring, plan evaluation, plan generation and modification, and operations monitoring".  In 1967, the 473L System was used during the "HIGH HEELS 67" exercise "to test the whole spectrum of command in a strategic crisis".: 430 

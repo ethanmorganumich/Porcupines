@@ -1,0 +1,6 @@
+Human-based computation~Internet search engines~Software stubs~
+||||||
+Human search engine
+||||||
+A human search engine was a search engine that used human participation to filter the search results and assist users in clarifying their search request. The goal is to provide users with a limited number of relevant results, as opposed to traditional search engines that often return many results that may or may not be relevant.
+Examples of defunct human search engines include ApexKB, ChaCha, Mahalo.com, NowNow (from Amazon.com) and Sproose.

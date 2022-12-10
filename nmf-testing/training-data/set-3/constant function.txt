@@ -1,0 +1,5 @@
+Elementary mathematics~Elementary special functions~Polynomial functions~
+||||||
+Constant function
+||||||
+In mathematics, a constant function is a function whose (output) value is the same for every input value. For example, the function y(x) = 4 is a constant function because the value of y(x) is 4 regardless of the input value x (see image).

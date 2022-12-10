@@ -1,0 +1,5 @@
+Physics stubs~Radio electronics~
+||||||
+Radio-frequency induction
+||||||
+For the common use of RF induction process of heating a metal object by electromagnetic induction, see induction heatingRadio-frequency induction or RF induction is the use of a radio frequency magnetic field to transfer energy by means of electromagnetic induction in the near field. A radio-frequency alternating current is passed through a coil of wire that acts as the transmitter, and a second coil or conducting object, magnetically coupled to the first coil, acts as the receiver.

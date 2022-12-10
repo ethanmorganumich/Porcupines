@@ -1,0 +1,7 @@
+Musical notes~Octaves~Perfect intervals~Superparticular intervals~
+||||||
+Octave
+||||||
+In music, an octave (Latin: octavus: eighth) or perfect octave (sometimes called the diapason) is the interval between one musical pitch and another with double its frequency. The octave relationship is a natural phenomenon that has been referred to as the "basic miracle of music," the use of which is "common in most musical systems." The interval between the first and second harmonics of the harmonic series is an octave.
+In Western music notation, notes separated by an octave (or multiple octaves) have the same name and are of the same pitch class.
+To emphasize that it is one of the perfect intervals (including unison, perfect fourth, and perfect fifth), the octave is designated P8. Other interval qualities are also possible, though rare. The octave above or below an indicated note is sometimes abbreviated 8a or 8va (Italian: all'ottava), 8va bassa (Italian: all'ottava bassa, sometimes also 8vb), or simply 8 for the octave in the direction indicated by placing this mark above or below the staff.

@@ -1,0 +1,5 @@
+Airport lighting~
+||||||
+Pilot-controlled lighting
+||||||
+Pilot-controlled lighting (PCL), also known as aircraft radio control of aerodrome lighting (ARCAL) or pilot-activated lighting (PAL), is a system that allows aircraft pilots to control the lighting of an airport or airfield's approach lights, runway edge lights, and taxiways via radio.

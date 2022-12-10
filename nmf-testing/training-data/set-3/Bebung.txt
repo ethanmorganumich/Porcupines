@@ -1,0 +1,8 @@
+Musical techniques~Ornamentation~
+||||||
+Bebung
+||||||
+Bebung (German: a trembling; [ˈbeːbʊŋ]) is a type of vibrato executed on the clavichord.
+When a clavichord key is pressed, a small metal tangent strikes a string and remains in contact with it for as long as the key is held down. By applying a rocking pressure up and down the key with the finger, a performer can slightly alter the tension of the string itself, producing the vibrato quality known as bebung. While the vibrato on fretless string instruments such as the violin typically oscillates in pitch both above and below the nominal note, clavichord bebung can only produce pitches above the note.
+
+Sheet music does not often explicitly indicate Bebung. Composers assumed that, like other ornaments, performers would apply bebung at their discretion. Where sheet music does indicate bebung, it appears as a series of dots above or below a note, with the number of dots indicating the number of finger movements. For example: Carl Philipp Emanuel Bach called the vibrato "Bebung", however other composers like Johann Mattheson had described the term earlier on. C.P.E Bach often used Bebung in his music, and says it was one of the reasons why the clavichord was superior to the recent pianoforte. In 1789, Daniel Gottlob Türk added the Bebung definition to the pianoforte, yet instead of the rocking-pressure, it is restating the tone/note by continuously and gently pressuring it. While, Alexander Agricola used it in vocal works.

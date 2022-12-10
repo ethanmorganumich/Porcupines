@@ -1,0 +1,6 @@
+Audiovisual connectors~Electrical connectors~RF connectors~
+||||||
+RCA connector
+||||||
+The RCA connector is a type of electrical connector commonly used to carry audio and video signals.  The name RCA derives from the company Radio Corporation of America, which introduced the design in the 1930s.  The connectors male plug and female jack are called RCA plug and RCA jack.
+It is also called RCA phono connector or phono connector. The word phono in phono connector is an abbreviation of the word phonograph, because this connector was originally created to allow the connection of a phonograph turntable to a radio receiver. RCA jacks are often used in phono inputs, a set of input jacks usually located on the rear panel of a preamp, mixer or amplifier, especially on early radio sets, to which a phonograph or turntable is attached.

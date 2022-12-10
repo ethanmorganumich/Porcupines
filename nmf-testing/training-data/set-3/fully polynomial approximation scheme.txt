@@ -1,0 +1,27 @@
+Approximation algorithms~Complexity classes~
+||||||
+Fully polynomial-time approximation scheme
+||||||
+A fully polynomial-time approximation scheme (FPTAS) is an algorithm for finding approximate solutions to function problems, especially optimization problems.  An FPTAS takes as input an instance of the problem and a parameter ε > 0. It returns as output a value is at least 
+  
+    
+      
+        1
+        −
+        ϵ
+      
+    
+    {\displaystyle 1-\epsilon }
+   times the correct value, and at most 
+  
+    
+      
+        1
+        +
+        ϵ
+      
+    
+    {\displaystyle 1+\epsilon }
+   times the correct value.
+In the context of optimization problems, the correct value is understood to be the value of the optimal solution, and it is often implied that an FPTAS should produce a valid solution (and not just the value of the solution). Returning a value and finding a solution with that value are equivalent assuming that the problem possesses self reducibility.
+Importantly, the run-time of an FPTAS is polynomial in the problem size and in 1/ε. This is in contrast to a general polynomial-time approximation scheme (PTAS). The run-time of a general PTAS is polynomial in the problem size for each specific ε, but might be exponential in 1/ε.The term FPTAS may also be used to refer to the class of problems that have an FPTAS.  FPTAS is a subset of PTAS, and unless P = NP, it is a strict subset.

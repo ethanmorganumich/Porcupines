@@ -1,0 +1,8 @@
+Computability theory~Formal languages~Recursion~Theory of computation~
+||||||
+Recursive language
+||||||
+In mathematics, logic and computer science, a formal language (a set of finite sequences of symbols taken from a fixed alphabet) is called recursive if it is a recursive subset of the set of all possible finite sequences over the alphabet of the language. Equivalently, a formal language is recursive if there exists a total Turing machine (a Turing machine that halts for every given input) that, when given a finite sequence of symbols as input, accepts it if it belongs to the language and rejects it otherwise. Recursive languages are also called decidable.
+The concept of decidability may be extended to other models of computation. For example, one may speak of languages decidable on a non-deterministic Turing machine.  Therefore, whenever an ambiguity is possible, the synonym used for "recursive language" is Turing-decidable language, rather than simply decidable.
+The class of all recursive languages is often called R, although this name is also used for the class RP.
+This type of language was not defined in the Chomsky hierarchy of (Chomsky 1959). All recursive languages are also recursively enumerable. All regular, context-free and context-sensitive languages are recursive.

@@ -1,0 +1,6 @@
+Agricultural economics~Drought-tolerant plants~Plant physiology~Water conservation~
+||||||
+Drought tolerance
+||||||
+Drought tolerance is the ability to which a plant maintains its biomass production during arid or drought conditions. Some plants are naturally adapted to dry conditions, surviving with protection mechanisms such as desiccation tolerance, detoxification, or repair of xylem embolism. Other plants, specifically crops like corn, wheat, and rice, have become increasingly tolerant to drought with new varieties created via genetic engineering.The plants behind drought tolerance are complex and involve many pathways which allows plants to respond to specific sets of conditions at any given time. Some of these interactions include stomatal conductance, carotenoid degradation and anthocyanin accumulation, the intervention of osmoprotectants (such as sucrose, glycine, and proline), ROS-scavenging enzymes. The molecular control of drought tolerance is also very complex and is influenced other factors such as environment and the developmental stage of the plant. This control consists mainly of transcriptional factors, such as dehydration-responsive element-binding protein (DREB), abscisic acid (ABA)-responsive element-binding factor (AREB), and NAM (no apical meristem).
+

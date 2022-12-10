@@ -1,0 +1,6 @@
+Online sorts~Sorting algorithms~
+||||||
+Tree sort
+||||||
+A tree sort is a sort algorithm that builds a binary search tree from the elements to be sorted, and then traverses the tree (in-order) so that the elements come out in sorted order. Its typical use is sorting elements online: after each insertion, the set of elements seen so far is available in sorted order.
+Tree sort can be used as a one-time sort, but it is equivalent to quicksort as both recursively partition the elements based on a pivot, and since quicksort is in-place and has lower overhead, tree sort has few advantages over quicksort. It has better worst case complexity when a self-balancing tree is used, but even more overhead.

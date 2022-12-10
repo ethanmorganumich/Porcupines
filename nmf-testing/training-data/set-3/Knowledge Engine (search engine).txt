@@ -1,0 +1,5 @@
+Internet properties established in 2016~Internet search engines~Wikimedia Foundation~
+||||||
+Knowledge Engine (search engine)
+||||||
+Knowledge Engine (KE) was a search engine project initiated in 2015 by the Wikimedia Foundation (WMF) to locate and display verifiable and trustworthy information from public-information sources in a way that was less reliant on traditional search engines. It aimed to allow readers to stay on Wikipedia.org and other Wikipedia-related projects when looking for additional information rather than returning to proprietary search engines. Its goal was to protect user privacy, to be open and transparent about how a piece of information originates, and to allow access to related metadata.The development of the project idea was controversial internally, and was not pursued after 2016. Related ideas were applied to the internal cross-wiki search engine for Wikimedia projects.

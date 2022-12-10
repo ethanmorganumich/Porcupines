@@ -1,0 +1,20 @@
+Distance~Metric geometry~Spherical curves~Spherical trigonometry~
+||||||
+Great-circle distance
+||||||
+The great-circle distance, orthodromic distance, or spherical distance is the distance along a great circle.
+It is the shortest distance between two points on the surface of a sphere, measured along the surface of the sphere (as opposed to a straight line through the sphere's interior). The distance between two points in Euclidean space is the length of a straight line between them, but on the sphere there are no straight lines. In spaces with curvature, straight lines are replaced by geodesics. Geodesics on the sphere are circles on the sphere whose centers coincide with the center of the sphere, and are called 'great circles'.
+The determination of the great-circle distance is part of the more general problem of great-circle navigation, which also computes the azimuths at the end points and intermediate way-points.
+Through any two points on a sphere that are not antipodal points (directly opposite each other), there is a unique great circle. The two points separate the great circle into two arcs. The length of the shorter arc is the great-circle distance between the points. A great circle endowed with such a distance is called a Riemannian circle in Riemannian geometry.
+Between antipodal points, there are infinitely many great circles, and all great circle arcs between antipodal points have a length of half the circumference of the circle, or 
+  
+    
+      
+        π
+        r
+      
+    
+    {\displaystyle \pi r}
+  , where r is the radius of the sphere.
+The Earth is nearly spherical, so great-circle distance formulas give the distance between points on the surface of the Earth correct to within about 0.5%.The vertex is the highest-latitude point on a great circle.
+

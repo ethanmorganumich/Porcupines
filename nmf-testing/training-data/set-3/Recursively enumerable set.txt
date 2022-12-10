@@ -1,0 +1,23 @@
+Computability theory~Theory of computation~
+||||||
+Computably enumerable set
+||||||
+In computability theory, a set S of natural numbers is called computably enumerable (c.e.), recursively enumerable (r.e.), semidecidable, partially decidable, listable, provable or Turing-recognizable if:
+
+There is an algorithm such that the set of input numbers for which the algorithm halts is exactly S.Or, equivalently,
+
+There is an algorithm that enumerates the members of S.  That means that its output is simply a list of all the members of S:  s1, s2, s3, ... .  If S is infinite, this algorithm will run forever.The first condition suggests why the term semidecidable is sometimes used. More precisely, if a number is in the set, one can decide this by running the algorithm, but if the number is not in the set, the algorithm runs forever, and no information is returned. A set that is "completely decidable" is a computable set.  The second condition suggests why computably enumerable is used. The abbreviations c.e. and r.e. are often used, even in print, instead of the full phrase.
+In computational complexity theory, the complexity class containing all computably enumerable sets is RE. In recursion theory, the lattice of c.e. sets under inclusion is denoted 
+  
+    
+      
+        
+          
+            E
+          
+        
+      
+    
+    {\displaystyle {\mathcal {E}}}
+  .
+

@@ -1,0 +1,5 @@
+Architectural element stubs~Domes~
+||||||
+Triodetic dome
+||||||
+Triodetic dome is a partial dome structure that is similar but different from geodesic dome in that it is not a full sphere.

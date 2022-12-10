@@ -1,0 +1,7 @@
+Computer network stubs~Packets (information technology)~
+||||||
+Packet-switching node
+||||||
+A packet-switching node is a node in a packet-switching network that contains data switches and equipment for controlling, formatting, transmitting, routing, and receiving data packets.  
+Note:  In the Defense Data Network (DDN), a packet-switching node is usually configured to support up to thirty-two X.25 56 kbit/s host connections, as many as six 56 kbit/s interswitch trunk (IST) lines to other packet-switching nodes, and at least one Terminal Access Controller (TAC).
+ This article incorporates public domain material from Federal Standard 1037C. General Services Administration. (in support of MIL-STD-188).

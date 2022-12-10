@@ -1,0 +1,9 @@
+Analysis of algorithms~Computational complexity theory~
+||||||
+Best, worst and average case
+||||||
+In computer science, best, worst, and average cases of a given algorithm express what the resource usage is at least, at most and on average, respectively. Usually the resource being considered is running time, i.e. time complexity, but could also be memory or some other resource.
+Best case is the function which performs the minimum number of steps on input data of n elements. Worst case is the function which performs the maximum number of steps on input data of size n. Average case is the function which performs an average number of steps on input data of n elements.
+In real-time computing, the worst-case execution time is often of particular concern since it is important to know how much time might be needed in the worst case to guarantee that the algorithm will always finish on time.
+Average performance and worst-case performance are the most used in algorithm analysis. Less widely found is best-case performance, but it does have uses: for example, where the best cases of individual tasks are known, they can be used to improve the accuracy of an overall worst-case analysis.  Computer scientists use probabilistic analysis techniques, especially expected value, to determine expected running times.
+The terms are used in other contexts; for example the worst- and best-case outcome of an epidemic, worst-case temperature to which an electronic circuit element is exposed, etc. Where components of specified tolerance are used, devices must be designed to work properly with the worst-case combination of tolerances and external conditions.

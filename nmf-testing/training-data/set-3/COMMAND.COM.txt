@@ -1,0 +1,8 @@
+Command shells~DOS command shells~DOS files~External DOS commands~MSX-DOS~Scripting languages~Windows command shells~Windows commands~Windows files~
+||||||
+COMMAND.COM
+||||||
+COMMAND.COM is the default command-line interpreter for MS-DOS, Windows 95, Windows 98 and Windows Me. In the case of DOS, it is the default user interface as well. It has an additional role as the usual first program run after boot (init process), hence being responsible for setting up the system by running the AUTOEXEC.BAT configuration file, and being the ancestor of all processes.
+COMMAND.COM's successor on OS/2 and Windows NT systems is cmd.exe, although COMMAND.COM is available in virtual DOS machines on IA-32 versions of those operating systems as well.
+The COMMAND.COM filename was also used by Disk Control Program (DCP), an MS-DOS derivative by the former East German VEB Robotron.The compatible command processor under FreeDOS is sometimes also named FreeCom.
+COMMAND.COM is a DOS program. Programs launched from COMMAND.COM are DOS programs that use the DOS API to communicate with the disk operating system.

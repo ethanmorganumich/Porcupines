@@ -1,0 +1,7 @@
+Contract law~Legal terminology stubs~Property law~
+||||||
+Condition precedent
+||||||
+A condition precedent is an event or state of affairs that is required before something else will occur. In contract law, a condition precedent is an event which must occur, unless its non-occurrence is excused, before performance under a contract becomes due, i.e., before any contractual duty exists.In estate and trust law, it is a provision in a will or trust that prevents the vesting of a gift or bequest until something occurs or fails to occur, e.g. the attainment of a certain age or the predecease of another person. For comparison, a condition subsequent brings a duty to an end whereas a condition precedent initiates a duty.
+In computing, a while loop sets the truth of a statement as a condition precedent for the execution of a given subroutine or other code segment.  By contrast, a do while loop provides for the action's ongoing execution unless a given condition is determined to be false, i.e., provides for that action's execution subject to defeasance by the condition's falsity, which falsity (i.e., the truth of the condition's negation) is set as a condition subsequent.
+

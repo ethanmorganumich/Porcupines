@@ -1,0 +1,8 @@
+Anonymity~Telephony signals~
+||||||
+Automatic number identification
+||||||
+Automatic number identification (ANI) is a feature of a telecommunications network for automatically determining the origination telephone number on toll calls for billing purposes. Automatic number identification was originally created by the American Telephone and Telegraph Company (AT&T) for long distance service in the Bell System, eliminating the need for telephone operators to manually record calls.
+Modern ANI has two components: information digits, which identify the class of service, and the calling party billing telephone number.
+The term is also used to describe the functions of two-way radio selective calling that identify the transmitting user.
+ANI is distinct from newer caller ID services, such as call display, which are solely for informing a subscriber.

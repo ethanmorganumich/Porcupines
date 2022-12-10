@@ -1,0 +1,5 @@
+Radio transmission power~
+||||||
+Peak envelope power
+||||||
+Peak envelope power (PEP) is the average power over a single RF cycle at the crest of the modulation. This is an FCC definition. PEP is normally considered the occasional or continuously repeating crest of the modulation envelope under normal operating conditions. The United States Federal Communications Commission uses PEP to set maximum power standards for radio transmitters.

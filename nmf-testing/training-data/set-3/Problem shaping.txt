@@ -1,0 +1,7 @@
+Problem solving~Science stubs~
+||||||
+Problem shaping
+||||||
+Problem shaping means revising a question so that the solution process can begin or continue.  
+It is part of the larger problem process that includes problem finding and problem solving. Problem shaping (or problem framing) often involves the application of critical thinking.
+Algorithmic approach to technical problems reformulation was introduced by G. S. Altshuller in ARIZ.

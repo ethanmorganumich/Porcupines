@@ -1,0 +1,7 @@
+Cinematography~Filmmaking stubs~Lighting~Photographic techniques~
+||||||
+Background light
+||||||
+A background light is used to illuminate the background area of a set. The background light will also provide separation between the subject and the background. Many lighting setups follow a three-point lighting or four-point lighting setup. Four-point lighting is the same as three-point lighting with the addition of a background light.   In a four-point lighting, the background light is placed last and is usually placed directly behind the subject and pointed at the background. By adding a background light to a set, filmmakers can add a sense of depth to shots.
+In film, the background light is usually of lower intensity. More than one light could be used to light uniformly a background or alternatively to highlight points of interest.
+In video and television, the background light is usually of similar intensity to the key light because video cameras are less capable of handling high-contrast ratios. In order to provide much needed separation between subject and background, the background light will have a color filter, blue for example, which will make the foreground pop up.

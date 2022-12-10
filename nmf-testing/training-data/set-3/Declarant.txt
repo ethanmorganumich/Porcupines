@@ -1,0 +1,7 @@
+Common law legal terminology~Evidence law~Legal terminology stubs~
+||||||
+Declarant
+||||||
+A declarant, generally speaking, is anyone who composes and signs a statement or declaration alleging that the information he has given therein is true. This differs from an affiant, as in the case of an affidavit the facts therein are sworn to before a notary public or other official, whereas a declaration is usually made by one person for the use of another.
+Uttering a statement or declaration which is proven to be false is a crime in many jurisdictions, though usually a separate offence from perjury.
+The word declarant, when discussing the hearsay rule and its exceptions, refers to the person who makes an out-of-court statement.  For example, if John is on the witness stand and says "Mary said that she was afraid." Mary is the declarant, not John.  This concept is important in understanding many applications of the hearsay rule and its exceptions.

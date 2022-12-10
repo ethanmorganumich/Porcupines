@@ -1,0 +1,5 @@
+Radio frequency propagation~
+||||||
+Skip zone
+||||||
+A skip zone, also called a silent zone or zone of silence, is a region where a radio transmission can not be received. The zone is located between regions both closer and farther from the transmitter where reception is possible.

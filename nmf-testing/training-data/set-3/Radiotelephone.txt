@@ -1,0 +1,6 @@
+Maritime communication~Mobile telecommunications~Telephony equipment~Wireless communication systems~
+||||||
+Radiotelephone
+||||||
+A radiotelephone (or radiophone), abbreviated RT, is a radio communication system for conducting a conversation; radiotelephony means telephony by radio. It is in contrast to radiotelegraphy, which is radio transmission of telegrams (messages), or television, transmission of moving pictures and sound.  The term is related to radio broadcasting, which transmit audio one way to listeners. Radiotelephony refers specifically to two-way radio systems for bidirectional person-to-person voice communication between separated users, such as CB radio or marine radio.  In spite of the name, radiotelephony systems are not necessarily connected to or have anything to do with the telephone network, and in some radio services, including GMRS, interconnection is prohibited.
+

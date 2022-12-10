@@ -1,0 +1,15 @@
+Chords~Post-tonal music theory~
+||||||
+Polychord
+||||||
+In music and music theory, a polychord consists of two or more chords, one on top of the other. In shorthand they are written with the top chord above a line and the bottom chord below, for example F upon C: F/C.
+The use of polychords may suggest bitonality or polytonality. Harmonic parallelism may suggest bichords.
+Examples may be found in Igor Stravinsky's Petrushka, p. 15, and Rite of Spring, "Dance of the Adolescents" (1921)  (see Petrushka chord).
+
+In the polychords in the image above, the first might suggest a thirteenth chord, the second may suggest a D minor ninth chord with upper extensions, but the octave separation of the 3rd makes the suggestion of two independent triads a minor ninth apart even more likely, and the fourth is a split-third chord.Extended chords contain more than one triad, and so can be regarded as a type of polychord:
+
+For example G7♯11♭9 (G–B–D–F–A♭–C♯) is formed from G major (G–B–D) and D♭ major (D♭–F–A♭), or D♭/G. (C♯ ≡ D♭)
+The Lydian augmented scale, "has a polychord sound built in," created by superimposing the Caug and the E (Play ) and/or F♯dim (Play ) triads that exist in the scale, this being, "a very common practice for most bop and post-bop players [such as McCoy Tyner]."Examples of extended chords include the Elektra chord.
+
+When one or both of the chords in a polychord are not "chords" in some exclusive sense according to some preferred chord theory or other, polychords devolves into chordioid technique.
+

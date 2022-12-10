@@ -1,0 +1,8 @@
+Convex optimization~Linear programming~P-complete problems~Real algebraic geometry~
+||||||
+Semidefinite programming
+||||||
+Semidefinite programming (SDP) is a subfield of convex optimization concerned with the optimization of a linear objective function (a user-specified function that the user wants to minimize or maximize)
+over the intersection of the cone of positive semidefinite matrices with an affine space, i.e., a spectrahedron.
+Semidefinite programming is a relatively new field of optimization which is of growing interest for several reasons. Many practical problems in operations research and combinatorial optimization can be modeled or approximated as semidefinite programming problems. In automatic control theory, SDPs are used in the context of linear matrix inequalities.  SDPs are in fact a special case of cone programming and can be efficiently solved by interior point methods.
+All linear programs and (convex) quadratic programs can be expressed as SDPs, and via hierarchies of SDPs the solutions of polynomial optimization problems can be approximated.  Semidefinite programming has been used in the optimization of complex systems. In recent years, some quantum query complexity problems have been formulated in terms of semidefinite programs.

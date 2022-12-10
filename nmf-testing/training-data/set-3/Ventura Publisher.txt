@@ -1,0 +1,5 @@
+1986 software~Corel software~Desktop publishing software~Desktop publishing software for Windows~GEM software~
+||||||
+Corel Ventura
+||||||
+Ventura Publisher was the first popular desktop publishing package for IBM PC compatible computers running the GEM extension to the DOS operating system. The software was originally developed by Ventura Software, a small software company founded by John Meyer, Don Heiskell, and Lee Jay Lorenzen, all of whom met while working at Digital Research. It ran under an included run-time copy of Digital Research's GEM.

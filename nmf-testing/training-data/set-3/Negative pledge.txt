@@ -1,0 +1,8 @@
+Contract clauses~Contract law~
+||||||
+Negative pledge
+||||||
+Negative pledge is a provision in a contract which prohibits a party to the contract from creating any security interests over certain property specified in the provision.
+Negative pledges often appear in security documents, where they operate to prohibit the person who is granting the security interest from creating any other security interests over the same property, which might compete with (or rank pari passu with) the security of the first secured creditor under the security document in which the negative pledge appears.
+In Australia, negative pledge lending took off after a substantial deal by Pioneer Concrete in 1978.  It was a new way of lending, which allowed the banks to lend to corporations, something previously the domain of life insurers.
+Negative pledge clauses are almost universal in modern unsecured commercial loan documents. The purpose is to ensure that a borrower, having taken out an unsecured loan, cannot subsequently take out another loan with a different lender, securing the subsequent loan on the specified assets. If the borrower could do this, the original lender would be disadvantaged because the subsequent lender would have first call on the assets in an event of default.

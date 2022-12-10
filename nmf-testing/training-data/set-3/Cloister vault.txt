@@ -1,0 +1,7 @@
+Arches and vaults~
+||||||
+Cloister vault
+||||||
+In architecture, a cloister vault (also called a pavilion vault) is a vault with four concave surfaces (patches of cylinders) meeting at a point above the center of the vault.
+It can be thought of as formed by two barrel vaults that cross at right angles to each other: the open space within the vault is the intersection of the space within the two barrel vaults, and the solid material that surrounds the vault is the union of the solid material surrounding the two barrel vaults.
+In this way it differs from a groin vault, which is also formed from two barrel vaults but in the opposite way: in a groin vault, the space is the union of the spaces of two barrel vaults, and the solid material is the intersection.A cloister vault is a square domical vault, a kind of vault with a polygonal cross-section. Domical vaults can have other polygons as cross-sections (especially octagons) rather than being limited to squares.

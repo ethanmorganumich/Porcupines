@@ -1,0 +1,8 @@
+Electrical connectors~Mesoscopic physics~Nanoelectronics~Nanowire~
+||||||
+Nanowire
+||||||
+A nanowire is a nanostructure in the form of a wire with the diameter of the order of a nanometre (10−9 metres). More generally, nanowires can be defined as structures that have a thickness or diameter constrained to tens of nanometers or less and an unconstrained length. At these scales, quantum mechanical effects are important—which coined the term "quantum wires".
+Many different types of nanowires exist, including superconducting (e.g. YBCO), metallic (e.g. Ni, Pt, Au, Ag), semiconducting (e.g. silicon nanowires (SiNWs), InP, GaN) and insulating (e.g. SiO2, TiO2).
+Molecular nanowires are composed of repeating molecular units either organic (e.g. DNA) or inorganic (e.g. Mo6S9−xIx).
+

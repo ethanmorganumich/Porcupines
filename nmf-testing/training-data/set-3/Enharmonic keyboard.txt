@@ -1,0 +1,5 @@
+Musical keyboard layouts~Musical tuning~
+||||||
+Enharmonic keyboard
+||||||
+An enharmonic keyboard is a musical keyboard, where enharmonically equivalent notes do not have identical pitches. A conventional keyboard has, for instance, only one key and pitch for C♯ and D♭, but an enharmonic keyboard would have two different keys and pitches for these notes. Traditionally, such keyboards use black split keys to express both notes, but diatonic white keys may also be split.As an important device to compose, play and study enharmonic music, enharmonic keyboards are capable of producing microtones and have separate keys for at least some pairs of not equal pitches that must be enharmonically equal in conventional keyboard instruments.

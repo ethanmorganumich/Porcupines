@@ -1,0 +1,7 @@
+Corporate law~Legal terminology~Resolutions (law)~Shareholders~United Kingdom law stubs~
+||||||
+Ordinary resolution
+||||||
+In business or commercial law in certain common law jurisdictions, an ordinary resolution is a resolution passed by the shareholders of a company by a simple or bare majority (for example more than 50% of the vote) either at a convened meeting of shareholders or by circulating a resolution for signature. A special resolution by comparison requires a greater vote threshold, which varies in different jurisdictions.
+An ordinary resolution is the most common method by which a corporate entity conducts its business or the board of directors seeks shareholder approval of its actions.
+The prevailing legislation applying to companies in the relevant jurisdiction will usually prescribe certain activities which must be approved by special resolution or alternatively which cannot be approved by ordinary resolution (for example altering the company's constitutional documents, reducing the share capital or dissolving the company). In addition, in certain circumstances a company may wish to amend its constitution to increase the threshold to provide that a special resolution needs to be passed prior to the company engaging in other matters which may ordinarily approved by simple majority, purely as a matter of internal organisational control.

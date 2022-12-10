@@ -1,0 +1,5 @@
+History of economic thought~Marxian economics~Marxist theory~
+||||||
+Transformation problem
+||||||
+In 20th-century discussions of Karl Marx's economics, the transformation problem is the problem of finding a general rule by which to transform the "values" of commodities (based on their socially necessary labour content, according to his labour theory of value) into the "competitive prices" of the marketplace. This problem was first introduced by Marx in chapter 9 of the draft of volume 3 of Capital, where he also sketched a solution. The essential difficulty was this: given that Marx derived profit, in the form of surplus value, from direct labour inputs, and that the ratio of direct labour input to capital input varied widely between commodities, how could he reconcile this with a tendency toward an average rate of profit on all capital invested among industries, if such a tendency (as predicted by Marx and Ricardo) exists?

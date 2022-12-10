@@ -1,0 +1,53 @@
+Formal languages~String (computer science)~
+||||||
+Substring
+||||||
+In formal language theory and computer science, a substring is a contiguous sequence of characters within a string. For instance, "the best of" is a substring of "It was the best of times". In contrast, "Itwastimes" is a subsequence of "It was the best of times", but not a substring.
+Prefixes and suffixes are special cases of substrings. A prefix of a string 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is a substring of 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   that occurs at the beginning of 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  ; likewise, a suffix of a string 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is a substring that occurs at the end of 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  .
+The substrings of the string "apple" would be:
+"a", "ap", "app", "appl", "apple",
+"p", "pp", "ppl", "pple",
+"pl", "ple",
+"l", "le"
+"e", "" 
+(note the empty string at the end).

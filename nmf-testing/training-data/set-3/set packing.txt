@@ -1,0 +1,152 @@
+Combinatorics~NP-complete problems~
+||||||
+Set packing
+||||||
+Set packing is a classical NP-complete problem in computational complexity theory and combinatorics, and was one of Karp's 21 NP-complete problems.
+Suppose one has a finite set S and a list of subsets of S. Then, the set packing problem asks if some k subsets in the list are pairwise disjoint (in other words, no two of them share an element).
+More formally, given a universe 
+  
+    
+      
+        
+          
+            U
+          
+        
+      
+    
+    {\displaystyle {\mathcal {U}}}
+   and a family 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {S}}}
+   of subsets of 
+  
+    
+      
+        
+          
+            U
+          
+        
+      
+    
+    {\displaystyle {\mathcal {U}}}
+  ,
+a packing is a subfamily 
+  
+    
+      
+        
+          
+            C
+          
+        
+        ⊆
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}\subseteq {\mathcal {S}}}
+   of sets such that all sets in 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   are pairwise disjoint. The size of the packing is 
+  
+    
+      
+        
+          |
+        
+        
+          
+            C
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle |{\mathcal {C}}|}
+  . In the set packing decision problem, the input is a pair 
+  
+    
+      
+        (
+        
+          
+            U
+          
+        
+        ,
+        
+          
+            S
+          
+        
+        )
+      
+    
+    {\displaystyle ({\mathcal {U}},{\mathcal {S}})}
+   and an integer 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  ; the question is whether
+there is a set packing of size 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   or more. In the set packing optimization problem, the input is a pair 
+  
+    
+      
+        (
+        
+          
+            U
+          
+        
+        ,
+        
+          
+            S
+          
+        
+        )
+      
+    
+    {\displaystyle ({\mathcal {U}},{\mathcal {S}})}
+  , and the task is to find a set packing that uses the most sets. 
+The problem is clearly in NP since, given k subsets, we can easily verify that they are pairwise disjoint in polynomial time.
+The optimization version of the problem, maximum set packing, asks for the maximum number of pairwise disjoint sets in the list. It is a maximization problem that can be formulated naturally as an integer linear program, belonging to the class of packing problems.
+

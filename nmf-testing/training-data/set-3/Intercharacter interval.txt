@@ -1,0 +1,6 @@
+Telecommunications stubs~Telecommunications techniques~
+||||||
+Intercharacter interval
+||||||
+In telecommunications, the intercharacter interval is the time interval between the end of the stop signal of one character and the beginning of the start signal of the next character of an asynchronous transmission.  
+The intercharacter interval may be of any duration. The signal sense of the intercharacter interval is always the same as the sense of the stop element, i.e., "1" or "mark."

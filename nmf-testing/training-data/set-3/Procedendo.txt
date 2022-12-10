@@ -1,0 +1,10 @@
+Prerogative writs~
+||||||
+Procedendo
+||||||
+In common-law jurisprudence, procedendo is one of the prerogative writs. It is a writ that sends a case from an appellate court to a lower court with an order to proceed to judgment. 
+
+The writ of procedendo is merely an order from a court of superior jurisdiction to one of inferior jurisdiction to proceed to judgment. It does not in any case attempt to control the inferior court as to what that judgment should be.
+The writ of procedendo ad judicium was the earliest remedy for the refusal or neglect of justice on the part of the courts. It was an original writ, issuing out of chancery to the judges of any subordinate court, commanding them in the king's name to proceed to judgment, but without specifying any particular judgment. In case of disobedience or of neglect on the part of the judges to whom it was addressed, or refusal by them to act, they were liable to punishment for contempt.
+Inherently, the most important limitation on this jurisdiction is that the writ of mandamus is not a proper remedy to control or direct the decisions of inferior courts in matters wherein they have judicial cognizance and discretion. In other words, so far as the writ affects the action of inferior courts, its use is not to be extended to compel the rendition of a particular judgment, in accordance with the views of a higher court.It corresponds to certiorari, except that certiorari is a higher court's order to a lower court to send the record of a case to it for appellate review. In Canada, the writ of certiorari is a discretionary remedy sought in a superior court to quash the decision of the lower court. It is distinct from an appeal in that it, in general, is used to correct an error in jurisdiction rather than a legal error which could be corrected on appeal.
+In the Federal Court System in the United States, this process is now known as remand.

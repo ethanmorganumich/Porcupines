@@ -1,0 +1,5 @@
+Columns and entablature~Concrete buildings and structures~Reinforced concrete~Structural system~
+||||||
+Reinforced concrete column
+||||||
+A reinforced concrete column  is a structural member designed to carry compressive loads, composed of concrete with an embedded steel frame to provide reinforcement.  For design purposes, the columns are separated into two categories: short columns and slender columns.

@@ -1,0 +1,5 @@
+Development economics~Economics models~Human migration~
+||||||
+Harris–Todaro model
+||||||
+The Harris–Todaro model, named after John R. Harris and Michael Todaro, is an economic model developed in 1970 and used in development economics and welfare economics to explain some of the issues concerning rural-urban migration. The main assumption of the model is that the migration decision is based on expected income differentials between rural and urban areas rather than just wage differentials. This implies that rural-urban migration in a context of high urban unemployment can be economically rational if expected urban income exceeds expected rural income.

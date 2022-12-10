@@ -1,0 +1,102 @@
+Analysis of algorithms~Computational complexity theory~Computational resources~Time~
+||||||
+Time complexity
+||||||
+In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm. Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm, supposing that each elementary operation takes a fixed amount of time to perform. Thus, the amount of time taken and the number of elementary operations performed by the algorithm are taken to be related by a constant factor.
+Since an algorithm's running time may vary among different inputs of the same size, one commonly considers the worst-case time complexity, which is the maximum amount of time required for inputs of a given size. Less common, and usually specified explicitly, is the average-case complexity, which is the average of the time taken on inputs of a given size (this makes sense because there are only a finite number of possible inputs of a given size). In both cases, the time complexity is generally expressed as a function of the size of the input.: 226  Since this function is generally difficult to compute exactly, and the running time for small inputs is usually not consequential, one commonly focuses on the behavior of the complexity when the input size increases—that is, the asymptotic behavior of the complexity. Therefore, the time complexity is commonly expressed using big O notation, typically 
+  
+    
+      
+        O
+        (
+        n
+        )
+      
+    
+    {\displaystyle O(n)}
+  , 
+  
+    
+      
+        O
+        (
+        n
+        log
+        ⁡
+        n
+        )
+      
+    
+    {\displaystyle O(n\log n)}
+  , 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            α
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{\alpha })}
+  , 
+  
+    
+      
+        O
+        (
+        
+          2
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle O(2^{n})}
+  , etc., where n is the size in units of bits needed to represent the input.
+Algorithmic complexities are classified according to the type of function appearing in the big O notation. For example, an algorithm with time complexity 
+  
+    
+      
+        O
+        (
+        n
+        )
+      
+    
+    {\displaystyle O(n)}
+   is a linear time algorithm and an algorithm with time complexity 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            α
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{\alpha })}
+   for some constant 
+  
+    
+      
+        α
+        >
+        1
+      
+    
+    {\displaystyle \alpha >1}
+   is a polynomial time algorithm.
+

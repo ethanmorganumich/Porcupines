@@ -1,0 +1,5 @@
+Dynamic programming~Pattern matching~String matching algorithms~
+||||||
+Approximate string matching
+||||||
+In computer science, approximate string matching (often colloquially referred to as fuzzy string searching) is the technique of finding  strings that match a pattern approximately (rather than exactly). The problem of approximate string matching is typically divided into two sub-problems: finding approximate substring matches inside a given string and finding dictionary strings that match the pattern approximately.

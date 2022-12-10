@@ -1,0 +1,5 @@
+Encodings~Film and video technology~Timecodes~
+||||||
+Timecode
+||||||
+A timecode (alternatively, time code) is a sequence of numeric codes generated at regular intervals by a timing synchronization system. Timecode is used in video production, show control and other applications which require temporal coordination or logging of recording or actions.

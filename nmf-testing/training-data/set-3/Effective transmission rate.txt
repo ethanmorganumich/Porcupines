@@ -1,0 +1,8 @@
+Data transmission~Telecommunications stubs~Temporal rates~Units of information~
+||||||
+Effective transmission rate
+||||||
+In telecommunications, effective transmission rate (average rate of transmission, effective speed of transmission) is the rate at which information is processed by a transmission facility. 
+
+The effective transmission rate is calculated as (a) the measured number of units of data, such as bits, characters, blocks, or frames, transmitted during a significant measurement time interval divided by (b) the measurement time interval.
+The effective transmission rate is usually expressed as a number of units of data per unit time, such as bits per second or characters per second.

@@ -1,0 +1,7 @@
+Amateur radio~Military radio systems~Quantized radio modulation modes~Wireless communication systems~
+||||||
+Radioteletype
+||||||
+Radioteletype (RTTY) is a telecommunications system consisting originally of two or more electromechanical teleprinters in different locations connected by radio rather than a wired link. Radioteletype evolved from earlier landline teleprinter operations that began in the mid-1800s. The US Navy Department successfully tested printing telegraphy between an airplane and ground radio station in 1922. Later that year, the Radio Corporation of America successfully tested printing telegraphy via their Chatham, Massachusetts, radio station to the R.M.S. Majestic. Commercial RTTY systems were in active service between San Francisco and Honolulu as early as April 1932 and between San Francisco and New York City by 1934. The US military used radioteletype in the 1930s and expanded this usage during World War II. From the 1980s, teleprinters were replaced by personal computers (PCs) running software to emulate teleprinters.
+The term radioteletype is used to describe both the original radioteletype system, sometimes described as "Baudot", as well as the entire family of systems connecting two or more teleprinters or PCs using software to emulate teleprinters, over radio, regardless of alphabet, link system or modulation.
+In some applications, notably military and government, radioteletype is known by the acronym RATT (Radio Automatic Teletype).

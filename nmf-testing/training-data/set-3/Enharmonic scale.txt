@@ -1,0 +1,18 @@
+Musical scales~Musical tuning~
+||||||
+Enharmonic scale
+||||||
+In music theory, an enharmonic scale is "an [imaginary] gradual progression by quarter tones" or any "[musical] scale proceeding by quarter tones". The enharmonic scale uses dieses (divisions) nonexistent on most keyboards, since modern standard keyboards have only half-tone dieses.
+More broadly, an enharmonic scale is a scale in which (using standard notation) there is no exact equivalence between a sharpened note and the flattened note it is enharmonically related to, such as in the quarter tone scale. As an example, F♯ and G♭ are equivalent in a chromatic scale (the same sound is spelled differently), but they are different sounds in an enharmonic scale. See: musical tuning.
+Musical keyboards which distinguish between enharmonic notes are called by some modern scholars enharmonic keyboards. (The enharmonic genus, a tetrachord with roots in early Greek music, is only loosely related to enharmonic scales.)
+
+Consider a scale constructed through Pythagorean tuning.  A Pythagorean scale can be constructed "upwards" by wrapping a chain of perfect fifths around an octave, but it can also be constructed "downwards" by wrapping a chain of perfect fourths around the same octave.  By juxtaposing these two slightly different scales, it is possible to create an enharmonic scale.
+The following Pythagorean scale is enharmonic:
+
+In the above scale the following pairs of notes are said to be enharmonic:
+
+C♯ and D♭
+D♯ and E♭
+F♯ and G♭
+G♯ and A♭
+A♯ and B♭In this example, natural notes are sharpened by multiplying its frequency ratio by 256:243 (called a limma), and a natural note is flattened by multiplying its ratio by 243:256.  A pair of enharmonic notes are separated by a Pythagorean comma, which is equal to 531441:524288 (about 23.46 cents).

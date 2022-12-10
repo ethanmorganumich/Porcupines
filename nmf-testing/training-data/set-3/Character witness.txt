@@ -1,0 +1,9 @@
+Evidence law~
+||||||
+Character evidence
+||||||
+Character evidence is a term used in the law of evidence to describe any testimony or document submitted for the purpose of proving that a person acted in a particular way on a particular occasion based on the character or disposition of that person. In the United States, Federal Rule of Evidence 404 maps out its permissible and prohibited uses in trials.  Three factors typically determine the admissibility of character evidence: 
+
+the purpose the character evidence is being used for
+the form in which the character evidence is offered
+the type of proceeding (civil or criminal) in which the character evidence is offered

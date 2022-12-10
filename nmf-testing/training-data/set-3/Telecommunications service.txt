@@ -1,0 +1,7 @@
+Telecommunication services~Telecommunications~Telecommunications stubs~
+||||||
+Telecommunications service
+||||||
+In telecommunication, a telecommunications service is a service provided by a telecommunications provider, or a specified set of user-information transfer capabilities provided to a group of users by a telecommunications system.
+The telecommunications service user is responsible for the information content of the message. The telecommunications service provider has the responsibility for the acceptance, transmission, and delivery of the message.For purposes of regulation by the Federal Communications Commission under the U.S. Communications Act of 1934 and Telecommunications Act of 1996, the definition of telecommunications service is "the offering of telecommunications for a fee directly to the public, or to such classes of users as to be effectively available directly to the public, regardless of the facilities used."  Telecommunications, in turn, is defined as "the transmission, between or among points specified by the user, of information of the user’s choosing, without change in the form or content of the information as sent and received."
+

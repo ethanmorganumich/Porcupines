@@ -1,0 +1,5 @@
+1995 software~Gopher clients~MacOS web browsers~Software based on WebKit~The Omni Group~
+||||||
+OmniWeb
+||||||
+OmniWeb is a discontinued web browser that was developed and marketed by The Omni Group exclusively for Apple's macOS operating system. Though a stable version is no longer maintained, it is still available as a free download and unstable versions are still being released.

@@ -1,0 +1,7 @@
+Formal sections in music analysis~Sonatas~
+||||||
+Recapitulation (music)
+||||||
+In music theory, the recapitulation is one of the sections of a movement written in sonata form.  The recapitulation occurs after the movement's development section, and typically presents once more the musical themes from the movement's exposition.  This material is most often recapitulated in the tonic key of the movement, in such a way that it reaffirms that key as the movement's home key.
+In some sonata form movements, the recapitulation presents a straightforward image of the movement's exposition.  However, many sonata form movements, even early examples, depart from this simple procedure.  Devices used by composers include incorporating a secondary development section, or varying the character of the original material, or rearranging its order, or adding new material, or omitting material altogether, or overlaying material that was kept separate in the exposition.
+The composer of a sonata form movement may disguise the start of the recapitulation as an extension of the development section. Conversely, the composer may write a "false recapitulation", which gives the listener the idea that the recapitulation has begun, but proves on further listening to be an extension of the development section.

@@ -1,0 +1,8 @@
+Musical terminology~Nonchord tones~
+||||||
+Nonchord tone
+||||||
+A nonchord tone (NCT), nonharmonic tone, or embellishing tone is a note in a piece of music or song that is not part of the implied or expressed chord set out by the harmonic framework. In contrast, a chord tone is a note that is a part of the functional chord (see: factor (chord)). Non-chord tones are most often discussed in the context of the common practice period of classical music, but they can be used in the analysis of other types of tonal music as well, such as Western popular music.
+Nonchord tones are often categorized as accented non-chord tones and unaccented non-chord tones depending on whether the dissonance occurs on an accented or unaccented beat (or part of a beat).
+Over time, some musical styles assimilated chord types outside of the common-practice style. In these chords, tones that might normally be considered nonchord tones are viewed as chord tones, such as the seventh of a minor seventh chord. For example, in 1940s-era bebop jazz, an F♯ played with a C 7 chord would be considered a chord tone if the chord were analyzed as C7(♯11). In European classical music, "[t]he greater use of dissonance from period to period as a result of the dialectic of linear/vertical forces led to gradual normalization of ninth, eleventh, and thirteenth chords [in analysis and theory]; each additional non-chord tone above the foundational triad became frozen into the chordal mass."
+

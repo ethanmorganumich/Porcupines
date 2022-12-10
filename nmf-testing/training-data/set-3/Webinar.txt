@@ -1,0 +1,6 @@
+Educational technology~Teleconferencing~Web conferencing~
+||||||
+Web conferencing
+||||||
+Web conferencing is used as an umbrella term for various types of online conferencing and collaborative services including webinars (web seminars), webcasts, and web meetings. Sometimes it may be used also in the more narrow sense of the peer-level web meeting context, in an attempt to disambiguate it from the other types known as collaborative sessions. The terminology related to these technologies is exact and agreed relying on the standards for web conferencing but specific organizations practices in usage exist to provide also term usage reference.
+In general, web conferencing is made possible by Internet technologies, particularly on TCP/IP connections. Services may allow real-time point-to-point communications as well as multicast communications from one sender to many receivers. It offers data streams of text-based messages, voice and video chat to be shared simultaneously, across geographically dispersed locations. Applications for web conferencing include meetings, training events, lectures, or presentations from a web-connected computer to other web-connected computers.

@@ -1,0 +1,5 @@
+Consumer theory~Marginal concepts~
+||||||
+Marginal rate of substitution
+||||||
+In economics, the marginal rate of substitution (MRS) is the rate at which a consumer can give up some amount of one good in exchange for another good while maintaining the same level of utility.  At equilibrium consumption levels (assuming no externalities), marginal rates of substitution are identical. The marginal rate of substitution is one of the three factors from marginal productivity, the others being marginal rates of transformation and marginal productivity of a factor.

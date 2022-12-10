@@ -1,0 +1,6 @@
+Articulations (music)~Italian words and phrases~Rhythm and meter~
+||||||
+Tenuto
+||||||
+In musical notation, tenuto (Italian, past participle of tenere, "to hold"), denoted as a horizontal bar adjacent to a note, is a direction for the performer to hold or sustain a note for its full length.Its precise interpretation can be somewhat contextual in practice, especially when combined with dynamic directions affecting loudness. In that case, it can mean either accent the note in question by holding it to its full length (or longer, with slight rubato), or play the note slightly louder. In other words, the tenuto mark may alter the length of a note at the same time a dynamic mark adjusts its volume. Either way, the tenuto marking indicates that a note should receive some degree of emphasis.Tenuto is one of the earliest directions to appear in music notation. Notker of St. Gall (c. 840–912) discusses the use of the letter t in plainsong notation as meaning trahere vel tenere debere in one of his letters.
+The mark's meaning may also be affected when it appears in conjunction with other durational articulations. When it appears with a staccato dot, it means non legato or detached.

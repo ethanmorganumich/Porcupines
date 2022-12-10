@@ -1,0 +1,6 @@
+Asset~Derivatives (finance)~Financial markets~
+||||||
+Financial instrument
+||||||
+Financial instruments are monetary contracts between parties. They can be created, traded, modified and settled. They can be cash (currency), evidence of an ownership interest in an entity or a contractual right to receive or deliver in the form of currency (forex); debt (bonds, loans); equity (shares); or  derivatives (options, futures, forwards).
+International Accounting Standards IAS 32 and 39 define a financial instrument as "any contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity".Financial instruments may be categorized by "asset class" depending on whether they are equity-based (reflecting ownership of the issuing entity) or debt-based (reflecting a loan the investor has made to the issuing entity). If the instrument is debt it can be further categorized into short-term (less than one year) or long-term. Foreign exchange instruments and transactions are neither debt- nor equity-based and belong in their own category.

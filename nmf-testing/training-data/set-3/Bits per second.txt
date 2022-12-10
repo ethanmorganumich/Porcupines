@@ -1,0 +1,6 @@
+Data compression~Data transmission~Temporal rates~
+||||||
+Bit rate
+||||||
+In telecommunications and computing, bit rate (bitrate or as a variable R) is the number of bits that are conveyed or processed per unit of time.The bit rate is expressed in the unit bit per second (symbol: bit/s), often in conjunction with an SI prefix such as kilo (1 kbit/s = 1,000 bit/s), mega (1 Mbit/s = 1,000 kbit/s), giga (1 Gbit/s = 1,000 Mbit/s) or tera (1 Tbit/s = 1,000 Gbit/s). The non-standard abbreviation bps is often used to replace the standard symbol bit/s, so that, for example, 1 Mbps is used to mean one million bits per second.
+In most computing and digital communication environments, one byte per second (symbol: B/s) corresponds to 8 bit/s.

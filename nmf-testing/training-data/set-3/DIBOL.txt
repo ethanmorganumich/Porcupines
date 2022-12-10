@@ -1,0 +1,8 @@
+Digital Equipment Corporation~OpenVMS software~Procedural programming languages~Programming languages~Programming languages created in 1970~
+||||||
+DIBOL
+||||||
+DIBOL or Digital's Business Oriented Language is a general-purpose, procedural, imperative programming language, designed for use in Management Information Systems (MIS) software development.
+It has a syntax similar to FORTRAN and BASIC, along with BCD arithmetic. It shares the COBOL program structure of separate data and procedure divisions. Unlike Fortran's numeric labels (for GOTO), DIBOL's were alphanumeric;
+ the language supported a counterpart to computed goto.
+

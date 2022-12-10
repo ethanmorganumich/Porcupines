@@ -1,0 +1,5 @@
+Aircraft wing design~Engineering ratios~Wing configurations~
+||||||
+Aspect ratio (aeronautics)
+||||||
+In aeronautics, the aspect ratio of a wing is the ratio of its span to its mean chord. It is equal to the square of the wingspan divided by the wing area. Thus, a long, narrow wing has a high aspect ratio, whereas a short, wide wing has a low aspect ratio.Aspect ratio and other features of the planform are often used to predict the aerodynamic efficiency of a wing because the lift-to-drag ratio increases with aspect ratio, improving the fuel economy in powered airplanes and the gliding angle of sailplanes.

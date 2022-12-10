@@ -1,0 +1,6 @@
+Computer science stubs~Foreign trade of the Soviet Union~Norsk Data minicomputers~Norway–Soviet Union relations~
+||||||
+28-bit computing
+||||||
+In computer architecture, 28-bit integers, memory addresses, or other data units are those that are  28 bits  wide.  Also, 28-bit central processing unit (CPU) and arithmetic logic unit (ALU) architectures are those that are based on registers, address buses, or data buses of that size.
+The only significant 28-bit computer was the Norsk Data ND-505, which was essentially a 32-bit machine with four wires in its address bus removed. The reason for scaling down was to be able to sell it to Eastern Bloc countries, avoiding the then CoCom embargo on 32-bit machines.

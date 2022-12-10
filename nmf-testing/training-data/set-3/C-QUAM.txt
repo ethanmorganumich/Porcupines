@@ -1,0 +1,6 @@
+1977 in radio~Broadcast engineering~Motorola~Radio technology~Standards of the United States~Stereophonic sound~Telecommunications-related introductions in 1977~
+||||||
+C-QUAM
+||||||
+C-QUAM (Compatible QUadrature Amplitude Modulation) is the method of AM stereo broadcasting used in Canada, the United States and most other countries. It was invented in 1977 by Norman Parker, Francis Hilbert, and Yoshio Sakaie, and published in an IEEE journal.
+Using circuitry developed by Motorola, C-QUAM uses quadrature amplitude modulation (QAM) to encode the stereo separation signal. This extra signal is then stripped down in such a way that it is compatible with the envelope detector of older receivers, hence the name C-QUAM for Compatible. A 25 Hz pilot tone is added to trigger receivers; unlike its counterpart in FM radio, this carrier is not necessary for the reconstruction of the original audio sources.

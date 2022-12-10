@@ -1,0 +1,7 @@
+Hexachords~Music theory stubs~
+||||||
+Diatonic hexachord
+||||||
+The diatonic, Guidonian, or major hexachord (6-32) is a hexachord consisting of six consecutive pitches from the diatonic scale that are also a consecutive segment of the circle of fifths: F C G D A E = C D E F G A = "do-re-mi-fa-sol-la".
+It is the thirty-second hexachord as ordered by Forte number, and its complement is the diatonic hexachord at the tritone. If the circle of fifths transformation is applied to the diatonic hexachord the chromatic hexachord results. It is source set C.
+Hugo Riemann points out that the hexachord consists of three overlapping (diatonic) tetrachords: Lydian, Phrygian, and Dorian; as well as two overlapping pentatonic scales (which are major pentatonic and mixolydian pentatonic). Richard Crocker made the case that, in the words of Stefano Mengozzi, "the Guidonian hexachord was the most important diatonic unit for practical musicians from the Carolingian era to the seventeenth century".More generally diatonic hexachord may refer to any hexachordal subset of the diatonic septad (7-35): 6-Z25, 6-Z26, 6-32, or 6-33. The minor hexachord is 6-33 (0 2 3 5 7 9 = C D E♭ F G A).

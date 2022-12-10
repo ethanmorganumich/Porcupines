@@ -1,0 +1,5 @@
+Telegraphy~
+||||||
+Polarential telegraph system
+||||||
+A polarential telegraph system is a direct-current telegraph system employing polar transmission in one direction and a form of differential duplex transmission in the other.Two types of polarential systems, known as types A and B, are in use. In half-duplex operation of a type A polarential system, the direct-current balance is independent of line resistance. In half-duplex operation of a type B polarential system, the direct current is substantially independent of the line leakage. Type A is better for cable loops where leakage is negligible but resistance varies with temperature. Type B is considered better for open wire where variable line leakage is frequent.

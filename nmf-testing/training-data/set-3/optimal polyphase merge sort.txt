@@ -1,0 +1,5 @@
+Comparison sorts~Online sorts~Sorting algorithms~
+||||||
+Polyphase merge sort
+||||||
+A polyphase merge sort is a variation of a bottom-up merge sort that sorts a list using an initial uneven distribution of sub-lists (runs), primarily used for external sorting, and is more efficient than an ordinary merge sort when there are fewer than eight external working files (such as a tape drive or a file on a hard drive). A polyphase merge sort is not a stable sort.

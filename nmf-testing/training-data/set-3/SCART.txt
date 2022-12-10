@@ -1,0 +1,8 @@
+Analog display connectors~Analog video connectors~Audiovisual connectors~Audiovisual introductions in 1977~Film and video technology~French inventions~High-definition television~
+||||||
+SCART
+||||||
+SCART (also known as Péritel or Péritélévision, especially in France, 21-pin EuroSCART in marketing by Sharp in Asia, Euroconector in Spain, EuroAV or EXT, or EIA Multiport in the United States, as an EIA interface) is a French-originated standard and associated 21-pin connector for connecting audio-visual (AV) equipment. The name SCART comes from Syndicat des Constructeurs d'Appareils Radiorécepteurs et Téléviseurs, "Radio and Television Receiver Manufacturers' Association", the French organisation that created the connector in the mid-1970s. The related European standard EN 50049 has then been refined and published in 1978 by CENELEC, calling it péritelevision, but it is commonly called by the abbreviation péritel in French.
+The signals carried by SCART include both composite and RGB (with composite synchronisation) video, stereo audio input/output and digital signalling. The standard was extended at the end of the 1980s to support the new S-Video signals. A TV can be woken from standby mode and automatically switch to the appropriate AV channel when the SCART attached device is switched on. SCART was also used for high definition signals such as 720p, 1080i, 1080p with YPbPr connection by some manufacturers, but this usage is scarce due to the advent of HDMI.
+In Europe, SCART was the most common method of connecting AV equipment and was a standard connector for such devices; it was far less common elsewhere.
+The official standard for SCART is CENELEC document number EN 50049–1. SCART is sometimes referred to as the IEC 933-1 standard.

@@ -1,0 +1,8 @@
+Chord factors~Music theory stubs~
+||||||
+Fifth (chord)
+||||||
+In music, the fifth factor of a chord is the note or pitch that is the fifth scale degree, counting the root or tonal center. When the fifth is the bass note, or lowest note, of the expressed chord, the chord is in second inversion Play .
+Conventionally, the fifth is second in importance to the root, with the fifth being perfect in all primary triads (I, IV, V and i, iv, v). In jazz chords and theory however, the fifth is often omitted, or assumed, in preference for the chord quality determining third and chord extensions and additions.
+The fifth in a major and minor chord is perfect (G♮ in C). When the fifth of a major chord is raised it is an augmented chord (G♯ in C) Play . When the fifth of a minor chord is lowered it is a diminished chord (G♭ in C) Play .
+The open fifth and power chord consists of only the root, fifth and their octave doublings.

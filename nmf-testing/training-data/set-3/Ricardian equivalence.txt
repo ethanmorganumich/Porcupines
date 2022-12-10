@@ -1,0 +1,5 @@
+Public economics~
+||||||
+Ricardian equivalence
+||||||
+The Ricardian equivalence proposition (also known as the Ricardo–de Viti–Barro equivalence theorem) is an economic hypothesis holding that consumers are forward-looking and so internalize the government's budget constraint when making their consumption decisions. This leads to the result that, for a given pattern of government spending, the method of financing such spending does not affect agents' consumption decisions, and thus, it does not change aggregate demand.

@@ -1,0 +1,5 @@
+Continuous mappings~Fractal curves~
+||||||
+Peano curve
+||||||
+In geometry, the Peano curve is the first example of a space-filling curve to be discovered, by Giuseppe Peano in 1890. Peano's curve is a surjective, continuous function from the unit interval onto the unit square, however it is not injective. Peano was motivated by an earlier result of Georg Cantor that these two sets have the same cardinality. Because of this example, some authors use the phrase "Peano curve" to refer more generally to any space-filling curve.

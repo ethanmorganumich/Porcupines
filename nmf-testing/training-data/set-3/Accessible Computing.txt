@@ -1,0 +1,11 @@
+Computer accessibility~
+||||||
+Computer accessibility
+||||||
+Computer accessibility (also known as accessible computing) refers to the accessibility of a computer system to all people, regardless of disability type or severity of impairment. The term accessibility is most often used in reference to specialized hardware or software, or a combination of both, designed to enable the use of a computer by a person with a disability or impairment. Computer accessibility often has direct positive effects on people with disabilities.
+Accessibility features are meant to make the use of technology less challenging for those with disabilities. Common accessibility features include text-to-speech, closed-captioning, and keyboard shortcuts. More specific technologies that need additional hardware may be referred to as assistive technology.There are many disabilities or impairments that can be a barrier to effective computer use. These impairments, which can be acquired from disease, trauma, or maybe congenital, include but are not limited to:
+
+Cognitive impairments (head injury, autism, developmental disabilities) and learning disabilities, (such as dyslexia, dyscalculia, or ADHD).
+Visual impairment, such as low-vision, complete or partial blindness, and color blindness.
+Hearing-related disabilities (deafness), including deafness, being hard of hearing, or hyperacusis.
+Motor or dexterity impairment such as paralysis, cerebral palsy, dyspraxia, carpal tunnel syndrome, and repetitive strain injury.A topic closely linked to computer accessibility is web accessibility. Similar to computer accessibility, web accessibility is the practice of making the use of the World Wide Web easier for individuals with disabilities.Accessibility is often abbreviated as the numeronym a11y, where the number 11 refers to the number of letters omitted.  This parallels the abbreviations of internationalization and localization as i18n and l10n, respectively.  Moreover, a11y is also listed on the USPTO Supplemental Register under Accessibility Now, Inc.

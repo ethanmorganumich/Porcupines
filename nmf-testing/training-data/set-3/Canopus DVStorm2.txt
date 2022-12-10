@@ -1,0 +1,7 @@
+Companies based in Kobe~Graphics hardware companies~Information technology company stubs~Technicolor SA~
+||||||
+Canopus Corporation
+||||||
+Canopus Co., Ltd. was a manufacturer of video editing cards and video editing software. The company's focus shifted from enthusiast video cards to other areas of video hardware and software after the release of their Spectra line of products. Some of their previous competitors included Matrox and Pinnacle Systems. In 2005  Thomson Multimedia acquired Canopus to bolster their Grass Valley broadcasting and network product line.When 3dfx's Voodoo series of PC-gaming-oriented 3D graphics cards became popular in the mid-1990s, Canopus produced the Pure3D, a Voodoo graphics processor-based graphics card with 6 MB of memory instead of the standard 4 MB. When the Voodoo 2 was released, the Canopus Pure3D II was praised for the fact that their cards were shorter than competitors' Voodoo 2 cards.  Canopus had a reputation for driver optimization that gave a performance advantage over other cards. They were the cards of choice for Maximum PC's 1998 Dream Machine.
+Canopus also released a version of the nVidia TNT that offered a unique internal cable that connected the TNT card to the Voodoo2 based Pure3D II—as opposed to the standard connection with an external cable.
+The Canopus DVStorm2 was a realtime video editing card that Canopus discontinued in early 2005. Canopus is also known for EDIUS, non-linear video editing software, and a transcoder application called ProCoder.

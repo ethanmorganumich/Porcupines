@@ -1,0 +1,6 @@
+Asymmetric information~Game theory~
+||||||
+Signalling (economics)
+||||||
+In contract theory, signalling (or signaling; see spelling differences) is the idea that one party (the agent) credibly conveys some information about itself to another party (the principal).
+Although signalling theory was initially developed by Michael Spence based on observed knowledge gaps between organisations and prospective employees, its intuitive nature led it to be adapted to many other domains, such as Human Resource Management, business, and financial markets.In Spence's job-market signaling model, (potential) employees send a signal about their ability level to the employer by acquiring education credentials. The informational value of the credential comes from the fact that the employer believes the credential is positively correlated with having the greater ability and difficulty for low ability employees to obtain. Thus the credential enables the employer to reliably distinguish low ability workers from high ability workers. The concept of signaling is also applicable in competitive altruistic interaction, where the capacity of the receiving party is limited.

@@ -1,0 +1,6 @@
+Electromagnetic compatibility~Electromagnetic radiation~Magnetoencephalography~Radio electronics~
+||||||
+Electromagnetic shielding
+||||||
+In electrical engineering, electromagnetic shielding is the practice of reducing or blocking the electromagnetic field (EMF) in a space with barriers made of conductive or magnetic materials. It is typically applied to enclosures, for isolating electrical devices from their surroundings, and to cables to isolate wires from the environment through which the cable runs (see Shielded cable). Electromagnetic shielding that blocks radio frequency (RF) electromagnetic radiation is also known as RF shielding.
+EMF shielding serves to minimize electromagnetic interference. The shielding can reduce the coupling of radio waves, electromagnetic fields, and electrostatic fields. A conductive enclosure used to block electrostatic fields is also known as a Faraday cage. The amount of reduction depends very much upon the material used, its thickness, the size of the shielded volume and the frequency of the fields of interest and the size, shape and orientation of holes in a shield to an incident electromagnetic field.

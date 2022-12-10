@@ -1,0 +1,13 @@
+Ballots~Elections~
+||||||
+Provisional ballot
+||||||
+In elections in the United States, a provisional ballot (called an affidavit ballot in New York) is used to record a vote when there are questions about a given voter's eligibility that must be resolved before the vote can count. The federal Help America Vote Act of 2002 guarantees that, in most states, the voter can cast a provisional ballot if the voter states that they are entitled to vote.Some of the most common reasons to cast a provisional ballot include:
+
+The voter's name does not appear on the electoral roll for the given precinct (polling place), because the voter is not registered to vote or is registered to vote elsewhere
+The voter's eligibility cannot be established or has been challenged
+The voter lacks a photo identification document (in jurisdictions that require one)
+The voter requested to vote by absentee ballot but claims to have not received, or not cast, the absentee ballot
+The voter's registration contains inaccurate or outdated information such as the wrong address or a misspelled name
+In a closed primary (limited to members of a political party), the voter's party registration is listed incorrectlyWhether a provisional ballot is counted is contingent upon the verification of that voter's eligibility, which may involve local election officials reviewing government records or asking the voter for more information, such as a photo identification not presented at the polling place or proof of residence. Each state may set its own timing rules for when these issues must be resolved. Provisional ballots therefore cannot usually be counted until after the day of the election.
+

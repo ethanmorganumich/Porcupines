@@ -1,0 +1,5 @@
+Air cargo terminals~Freight transport~Transport stubs~
+||||||
+Freight terminal
+||||||
+A freight terminal is a processing node for freight. They may include airports, seaports, container ports, goods stations, railroad terminals and trucking terminals. As most freight terminals are located at ports, many cargo containers can be seen around the area.

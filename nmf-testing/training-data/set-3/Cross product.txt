@@ -1,0 +1,33 @@
+Analytic geometry~Bilinear maps~Operations on vectors~
+||||||
+Cross product
+||||||
+In mathematics, the cross product or vector product (occasionally directed area product, to emphasize its geometric significance) is a binary operation on two vectors in a three-dimensional oriented  Euclidean vector space (named here 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  ), and is denoted by the symbol 
+  
+    
+      
+        ×
+      
+    
+    {\displaystyle \times }
+  . Given two linearly independent vectors a and b, the cross product, a × b (read "a cross b"), is a vector that is perpendicular to both a and b, and thus normal to the plane containing them. It has many applications in mathematics, physics, engineering, and computer programming. It should not be confused with the dot product (projection product).
+If two vectors have the same direction or have the exact opposite direction from each other (that is, they are not linearly independent), or if either one has zero length, then their cross product is zero. More generally, the magnitude of the product equals the area of a parallelogram with the vectors for sides; in particular, the magnitude of the product of two perpendicular vectors is the product of their lengths.
+The cross product is anticommutative (that is, a × b = − b × a) and is distributive over addition (that is, a × (b + c) = a × b + a × c). The space 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   together with the cross product is an algebra over the real numbers, which is neither commutative nor associative, but is a Lie algebra with the cross product being the Lie bracket.
+Like the dot product, it depends on the metric of Euclidean space, but unlike the dot product, it also depends on a choice of orientation (or "handedness") of the space (it's why an oriented space is needed). In connection with the cross product, the exterior product of vectors can be used in arbitrary dimensions (with a bivector or 2-form result) and is independent of the orientation of the space.
+The product can be generalized in various ways, using the orientation and metric structure just as for the traditional 3-dimensional cross product, one can, in n dimensions, take the product of n − 1 vectors to produce a vector perpendicular to all of them. But if the product is limited to non-trivial binary products with vector results, it exists only in three and seven dimensions. The cross-product in seven dimensions has undesirable properties (e.g. it fails to satisfy the Jacobi identity), however, so it is not used in mathematical physics to represent quantities such as multi-dimensional space-time. (See § Generalizations, below, for other dimensions.)

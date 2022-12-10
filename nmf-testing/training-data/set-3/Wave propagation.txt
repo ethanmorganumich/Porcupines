@@ -1,0 +1,7 @@
+Wave mechanics~
+||||||
+Wave propagation
+||||||
+Wave propagation is any of the ways in which waves travel. Single wave propagation can be calculated by 2nd order wave equation (standing wavefield) or 1st order one-way wave equation.
+With respect to the direction of the oscillation relative to the propagation direction, we can distinguish between longitudinal wave and transverse waves.
+For electromagnetic waves, propagation may occur in a vacuum as well as in the material medium. Other wave types cannot propagate through a vacuum and need a transmission medium to exist.

@@ -1,0 +1,6 @@
+Music theory stubs~Musical tuning~
+||||||
+Augmented tuning
+||||||
+An augmented tuning is  a musical tuning system for musical instruments that is associated with augmented triads, that is a root note, a major third, and an augmented fifth. The augmented fifth is constructed by stacking the major third with another major third. Consequently, all of the intervals are major thirds.
+Augmented tunings are used for stringed instruments, especially guitars, and for wind instruments. For guitars, augmented tunings are called major thirds tunings.

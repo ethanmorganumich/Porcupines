@@ -1,0 +1,10 @@
+Matching (graph theory)~
+||||||
+Perfect matching
+||||||
+In graph theory, a perfect matching in a graph is a matching that covers every vertex of the graph. More formally, given a graph G = (V, E), a perfect matching in G is a subset M of edge set E, such that every vertex in the vertex set V is adjacent to exactly one edge in M.
+A perfect matching is also called a 1-factor; see Graph factorization for an explanation of this term. In some literature, the term complete matching is used. 
+Every perfect matching is a maximum-cardinality matching, but the opposite is not true. For example, consider the following graphs:
+In graph (b) there is a perfect matching (of size 3) since all 6 vertices are matched; in graphs (a) and (c) there is a maximum-cardinality matching (of size 2) which is not perfect, since some vertices are unmatched.
+A perfect matching is also a minimum-size edge cover. If there is a perfect matching, then both the matching number and the edge cover number equal  |V| / 2. 
+A perfect matching can only occur when the graph has an even number of vertices. A near-perfect matching is one in which exactly one vertex is unmatched.  This can only occur when the graph has an odd number of vertices, and such a matching must be maximum. In the above figure, part (c) shows a near-perfect matching. If, for every vertex in a graph, there is a near-perfect matching that omits only that vertex, the graph is also called factor-critical.

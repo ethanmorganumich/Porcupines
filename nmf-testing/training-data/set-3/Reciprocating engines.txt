@@ -1,0 +1,5 @@
+Engine technology~Piston engines~
+||||||
+Reciprocating engine
+||||||
+A reciprocating engine, also often known as a piston engine, is typically a heat engine that uses one or more reciprocating pistons to convert high temperature and high pressure into a rotating motion. This article describes the common features of all types. The main types are: the internal combustion engine, used extensively in motor vehicles; the steam engine, the mainstay of the Industrial Revolution; and the Stirling engine for niche applications. Internal combustion engines are further classified in two ways: either a spark-ignition (SI) engine, where the spark plug initiates the combustion; or a compression-ignition (CI) engine, where the air within the cylinder is compressed, thus heating it, so that the heated air ignites fuel that is injected then or earlier.

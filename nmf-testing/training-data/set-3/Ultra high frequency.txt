@@ -1,0 +1,6 @@
+Radio spectrum~Television technology~Wireless~
+||||||
+Ultra high frequency
+||||||
+Ultra high frequency (UHF) is the ITU designation for radio frequencies in the range between 300 megahertz (MHz) and 3 gigahertz (GHz), also known as the decimetre band as the wavelengths range from one meter to one tenth of a meter (one decimeter). Radio waves with frequencies above the UHF band fall into the super-high frequency (SHF) or microwave frequency range. Lower frequency signals fall into the VHF (very high frequency) or lower bands.  UHF radio waves propagate mainly by line of sight; they are blocked by hills and large buildings although the transmission through building walls is strong enough for indoor reception. They are used for television broadcasting, cell phones, satellite communication including GPS, personal radio services including Wi-Fi and Bluetooth, walkie-talkies, cordless phones, satellite phones, and numerous other applications.
+The IEEE defines the UHF radar band as frequencies between 300 MHz and 1 GHz. Two other IEEE radar bands overlap the ITU UHF band: the L band between 1 and 2 GHz and the S band between 2 and 4 GHz.

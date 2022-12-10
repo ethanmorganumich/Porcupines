@@ -1,0 +1,9 @@
+Science and law~United States evidence law~
+||||||
+Daubert standard
+||||||
+In United States federal law, the Daubert standard is a rule of evidence regarding the admissibility of expert witness testimony. A party may raise a Daubert motion, a special motion in limine raised before or during trial, to exclude the presentation of unqualified evidence to the jury. The Daubert trilogy are the three United States Supreme Court cases that articulated the Daubert standard:
+
+Daubert v. Merrell Dow Pharmaceuticals, Inc. (1993), which held that Rule 702 of the Federal Rules of Evidence did not incorporate the Frye standard as a basis for assessing the admissibility of scientific expert testimony, but that the rule incorporated a flexible reliability standard instead;
+General Electric Co. v. Joiner (1997), which held that a district court judge may exclude expert testimony when there are gaps between the evidence relied on by an expert and that person's conclusion, and that an abuse-of-discretion standard of review is the proper standard for appellate courts to use in reviewing a trial court's decision of whether it should admit expert testimony;
+Kumho Tire Co. v. Carmichael (1999), which held that the judge's gatekeeping function identified in Daubert applies to all expert testimony, including that which is non-scientific.Important appellate-level opinions that clarify the standard include Judge Alex Kozinski's opinion in Daubert on remand (Daubert v. Merrell Dow Pharmaceuticals, Inc., 43 F.3d 1311 (9th Cir. 1995)), and Judge Edward Becker's opinion in In re Paoli R.R. Yard PCB Litig., 35 F.3d 717 (3d Cir. 1994).

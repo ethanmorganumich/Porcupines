@@ -1,0 +1,23 @@
+3 (number)~Analytic geometry~Euclidean solid geometry~Multi-dimensional geometry~Three-dimensional coordinate systems~
+||||||
+Three-dimensional space
+||||||
+Three-dimensional space (also: 3D space, 3-space or, rarely, tri-dimensional space) is a geometric setting in which three values (called parameters) are required to determine the position of an element (i.e., point). This is the informal meaning of the term dimension.
+In mathematics, a tuple of n numbers can be understood as the Cartesian coordinates of a location in a n-dimensional Euclidean space. The set of these n-tuples is commonly denoted 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {R} ^{n},}
+   and can be identified to the n-dimensional Euclidean space.
+When n = 3, this space is called three-dimensional Euclidean space (or simply Euclidean space when the context is clear). It serves as a model of the physical universe (when relativity theory is not considered), in which all known matter exists. While this space remains the most compelling and useful way to model the world as it is experienced, it is only one example of a large variety of spaces in three dimensions called 3-manifolds. In this classical example, when the three values refer to measurements in different directions (coordinates), any three directions can be chosen, provided that vectors in these directions do not all lie in the same 2-space (plane). Furthermore, in this case, these three values can be labeled by any combination of three chosen from the terms width/breadth, height/depth, and length.

@@ -1,0 +1,5 @@
+1992 software~Cross-platform free software~Curses (programming library)~Free software programmed in C~Free web browsers~Gopher clients~MacOS web browsers~OS/2 web browsers~OpenVMS software~POSIX web browsers~Portable software~RISC OS web browsers~Software that uses S-Lang~Text-based web browsers~University of Kansas~Web browsers for AmigaOS~Web browsers for DOS~
+||||||
+Lynx (web browser)
+||||||
+Lynx is a customizable text-based web browser for use on cursor-addressable character cell terminals. As of 2022, it is the oldest web browser still being maintained, having started in 1992.

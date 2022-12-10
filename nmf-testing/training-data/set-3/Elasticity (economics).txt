@@ -1,0 +1,5 @@
+Elasticity (economics)~Microeconomics~
+||||||
+Elasticity (economics)
+||||||
+In economics, elasticity measures the percentage change of one economic variable in response to a percentage change in another. If the price elasticity of the demand of something is -2, a 10% increase in price causes the demand quantity to fall by 20%.

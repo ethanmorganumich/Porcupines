@@ -1,0 +1,7 @@
+Musical notation~
+||||||
+Repeat sign
+||||||
+In music, a repeat sign is a sign that indicates a section should be repeated. If the piece has one repeat sign alone, then that means to repeat from the beginning, and then continue on (or stop, if the sign appears at the end of the piece). A corresponding sign facing the other way indicates where the repeat is to begin. These are similar to the instructions da capo and dal segno.
+Repeat. Wiederholungszeichen (Ger.) A sign that a movement or part of a movement is to be twice performed. That which is to be repeated is generally included within the sign of two or four dots in the spaces...When the performer does not, on repeating, go so far as the last dot-sign, but finishes at a previous cadence, it is usual to write over the repeat, Da Capo, placing a pause and fine over the chord at which the performer is to stop. If the signs of the repeat do not coincide with a well-defined portion of a movement the sign 𝄋 is sometimes added.
+

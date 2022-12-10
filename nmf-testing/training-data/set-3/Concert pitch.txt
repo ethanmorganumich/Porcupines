@@ -1,0 +1,6 @@
+Pitch (music)~
+||||||
+Concert pitch
+||||||
+Concert pitch is the pitch reference to which a group of musical instruments are tuned for a performance. Concert pitch may vary from ensemble to ensemble, and has varied widely over music history. The most common modern tuning standard uses 440 Hz for A above middle C as a reference note, with other notes being set relative to it. In the literature this is also called international standard pitch.
+The term "concert pitch" is also used to distinguish between the "written" (or "nominal"), and "sounding" (or "real") notes of a transposing instrument, i.e. concert pitch may refer to the sounding pitch on a non-transposing instrument. Music for transposing instruments is transposed into different keys from that of non-transposing instruments. For example, playing a written C on a B♭ clarinet or trumpet produces a non-transposing instrument's B♭. This pitch is referred to as "concert B♭".

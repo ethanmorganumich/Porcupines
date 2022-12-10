@@ -1,0 +1,52 @@
+Geometric inequalities~Linear algebra~Metric geometry~Theorems in geometry~
+||||||
+Triangle inequality
+||||||
+In mathematics, the triangle inequality states that for any triangle, the sum of the lengths of any two sides must be greater than or equal to the length of the remaining side. This statement permits the inclusion of degenerate triangles, but some authors, especially those writing about elementary geometry, will exclude this possibility, thus leaving out the possibility of equality. If x, y, and z are the lengths of the sides of the triangle, with no side being greater than z, then the triangle inequality states that
+
+  
+    
+      
+        z
+        ≤
+        x
+        +
+        y
+        ,
+      
+    
+    {\displaystyle z\leq x+y,}
+  with equality only in the degenerate case of a triangle with zero area.
+In Euclidean geometry and some other geometries, the triangle inequality is a theorem about distances, and it is written using vectors and vector lengths (norms):
+
+  
+    
+      
+        ‖
+        
+          x
+        
+        +
+        
+          y
+        
+        ‖
+        ≤
+        ‖
+        
+          x
+        
+        ‖
+        +
+        ‖
+        
+          y
+        
+        ‖
+        ,
+      
+    
+    {\displaystyle \|\mathbf {x} +\mathbf {y} \|\leq \|\mathbf {x} \|+\|\mathbf {y} \|,}
+  where the length z of the third side has been replaced by the vector sum x + y. When x and y are real numbers, they can be viewed as vectors in R1, and the triangle inequality expresses a relationship between absolute values.
+In Euclidean geometry, for right triangles the triangle inequality is a consequence of the Pythagorean theorem, and for general triangles, a consequence of the law of cosines, although it may be proven without these theorems. The inequality can be viewed intuitively in either R2 or R3. The figure at the right shows three examples beginning with clear inequality (top) and approaching equality (bottom). In the Euclidean case, equality occurs only if the triangle has a 180° angle and two 0° angles, making the three vertices collinear, as shown in the bottom example. Thus, in Euclidean geometry, the shortest distance between two points is a straight line.
+In spherical geometry, the shortest distance between two points is an arc of a great circle, but the triangle inequality holds provided the restriction is made that the distance between two points on a sphere is the length of a minor spherical line segment (that is, one with central angle in [0, π]) with those endpoints.The triangle inequality is a defining property of norms and measures of distance. This property must be established as a theorem for any function proposed for such purposes for each particular space: for example, spaces such as the real numbers, Euclidean spaces, the Lp spaces (p ≥ 1), and inner product spaces.

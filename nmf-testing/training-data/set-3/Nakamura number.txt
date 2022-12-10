@@ -1,0 +1,63 @@
+Cooperative games~Economics theorems~Social choice theory~Voting theory~
+||||||
+Nakamura number
+||||||
+In cooperative game theory and social choice theory, the Nakamura number measures the degree of rationality
+of preference aggregation rules (collective decision rules), such as voting rules.
+It is an indicator of the extent to which an aggregation rule can yield well-defined choices.
+
+If the number of alternatives (candidates; options) to choose from is less than this number, then the rule in question will identify "best" alternatives without any problem.In contrast,
+
+if the number of alternatives is greater than or equal to this number, the rule will fail to identify "best" alternatives for some pattern of voting (i.e., for some profile (tuple) of individual preferences), because a voting paradox will arise (a cycle generated such as alternative 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   socially preferred to alternative 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  , 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   to 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  , and 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   to 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  ).The larger the Nakamura number a rule has, the greater the number of alternatives the rule can rationally deal with.
+For example, since (except in the case of four individuals (voters)) the Nakamura number of majority rule is three,
+the rule can deal with up to two alternatives rationally (without causing a paradox).
+The number is named after Kenjiro Nakamura (1947–1979), a Japanese game theorist who proved the above fact
+that the rationality of collective choice critically depends on the number of alternatives.

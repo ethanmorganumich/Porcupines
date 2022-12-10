@@ -1,0 +1,10 @@
+Musical set theory~
+||||||
+Similarity relation (music)
+||||||
+In music, a similarity relation or pitch-class similarity is a comparison between sets of the same cardinality (two sets containing the same number of pitch classes), based upon shared pitch class and/or interval class content.
+Allen Forte originally designated four types:  Rp (maximal similarity with respect to pitch class), R0 (minimal similarity), R1 (first order maximal similarity), and R2 (second order maximal similarity). In Rp one pitch class is different, in R0 all are different, and in R1 and R2 four interval classes are the same.
+Rp is defined for sets S1 and S2 of cardinal number n and S3 of cardinal number n-1 as:
+Rp(S1,S2) iff (S3 ⊂ S1, S3 ⊂ S2)Meaning that S1 and S2 each have all the pitch-classes of S3 (transposed or inverted), plus one.
+
+[T]he pc similarity relation Rp is not especially significant when taken alone, since by that measure a given set may be similar to many others. When Rp is combined with the [interval-class] similarity measures, however, a considerable reduction is effected.

@@ -1,0 +1,8 @@
+Distributed element circuits~Electronic design~Signal cables~Telecommunications engineering~Transmission lines~
+||||||
+Reflections of signals on conducting lines
+||||||
+A signal travelling along an electrical transmission line will be partly, or wholly, reflected back in the opposite direction when the travelling signal encounters a discontinuity in the characteristic impedance of the line, or if the far end of the line is not terminated in its characteristic impedance. This can happen, for instance, if two lengths of dissimilar transmission lines are joined together.
+This article is about signal reflections on electrically conducting lines. Such lines are loosely referred to as copper lines, and indeed, in telecommunications are generally made from copper, but other metals are used, notably aluminium in power lines. Although this article is limited to describing reflections on conducting lines, this is essentially the same phenomenon as optical reflections in fibre-optic lines and microwave reflections in waveguides.
+Reflections cause several undesirable effects, including modifying frequency responses, causing overload power in transmitters and overvoltages on power lines. However, the reflection phenomenon can also be made use of in such devices as stubs and impedance transformers.  The special cases of open circuit and short circuit lines are of particular relevance to stubs.
+Reflections cause standing waves to be set up on the line.  Conversely, standing waves are an indication that reflections are present.  There is a relationship between the measures of reflection coefficient and standing wave ratio.

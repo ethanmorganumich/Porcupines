@@ -1,0 +1,7 @@
+2005 software~Internet search engines~Open formats~Web syndication formats~XML~
+||||||
+OpenSearch
+||||||
+OpenSearch is a collection of technologies that allow the publishing of search results in a format suitable for syndication and aggregation. Introduced in 2005, it is a way for websites and search engines to publish search results in a standard and accessible format.
+OpenSearch was developed by Amazon.com subsidiary A9 and the first version, OpenSearch 1.0, was unveiled by Jeff Bezos at the O'Reilly Emerging Technology Conference on 15 March 2005. Draft versions of OpenSearch 1.1 were released during September and December 2005. The OpenSearch specification is licensed by A9 under the Creative Commons Attribution-ShareAlike 2.5 License.
+

@@ -1,0 +1,5 @@
+Architectural communication~Architecture~Crafts~Scale modeling~
+||||||
+Architectural model
+||||||
+An architectural model is a type of scale model made to study aspects of an architectural design or to communicate design intent. They can be made from a variety of materials such as paper, plaster, plastic, resin, wood, glass and metal. They can be constructed using traditional handcraft techniques and tools, or newer technologies such as Stereolithography, Fused Deposition Modelling and Selective Laser Sintering.

@@ -1,0 +1,34 @@
+Drag (physics)~
+||||||
+Lift-induced drag
+||||||
+In aerodynamics, lift-induced drag, induced drag, vortex drag, or sometimes drag due to lift, is an aerodynamic drag force that occurs whenever a moving object redirects the airflow coming at it. This drag force occurs in airplanes due to wings or a lifting body redirecting air to cause lift and also in cars with airfoil wings that redirect air to cause a downforce. It is symbolized as 
+  
+    
+      
+        
+          D
+          
+            i
+          
+        
+      
+    
+    {\textstyle D_{\text{i}}}
+  , and the lift-induced drag coefficient as 
+  
+    
+      
+        
+          C
+          
+            D
+            ,
+            i
+          
+        
+      
+    
+    {\textstyle C_{D,i}}
+  .
+For a constant amount of lift, induced drag can be reduced by increasing airspeed. A counter-intuitive effect of this is that, up to the speed-for-minimum-drag, aircraft need less power to fly faster. Induced drag is also reduced when the wingspan is higher, or for wings with wingtip devices.

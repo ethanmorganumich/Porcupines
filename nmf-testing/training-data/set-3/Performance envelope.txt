@@ -1,0 +1,7 @@
+Aerospace engineering~Aircraft performance~Aircraft wing design~
+||||||
+Flight envelope
+||||||
+In aerodynamics, the flight envelope, service envelope, or performance envelope of an aircraft or spacecraft refers to the capabilities of a design in terms of airspeed and load factor or atmospheric density, often simplified to altitude. The term is somewhat loosely applied, and can also refer to other measurements such as maneuverability. When a plane is pushed, for instance by diving it at high speeds, it is said to be flown "outside the envelope", something considered rather dangerous.
+Flight envelope is one of a number of related terms that are all used in a similar fashion. It is perhaps the most common term because it is the oldest, first being used in the early days of test flying. It is closely related to more modern terms known as extra power and a doghouse plot which are different ways of describing a flight envelope. In addition, the term has been widened in scope outside the field of engineering, to refer to the strict limits in which an event will take place or more generally to the predictable behavior of a given phenomenon or situation, and hence, its "flight envelope".
+

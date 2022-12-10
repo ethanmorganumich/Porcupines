@@ -1,0 +1,7 @@
+Massachusetts Institute of Technology software~Open Group standards~Remote desktop~Software using the MIT license~Unix windowing system-related software~X Window System~
+||||||
+X Window System
+||||||
+The X Window System (X11, or simply X) is a windowing system for bitmap displays, common on Unix-like operating systems.
+X provides the basic framework for a GUI environment: drawing and moving windows on the display device and interacting with a mouse and keyboard. X does not mandate the user interface – this is handled by individual programs. As such, the visual styling of X-based environments varies greatly; different programs may present radically different interfaces.
+X originated as part of Project Athena at Massachusetts Institute of Technology (MIT) in 1984. The X protocol has been at version 11 (hence "X11") since September 1987. The X.Org Foundation leads the X project, with the current reference implementation, X.Org Server, available as free and open-source software under the MIT License and similar permissive licenses.

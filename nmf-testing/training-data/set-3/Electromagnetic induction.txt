@@ -1,0 +1,7 @@
+Electrodynamics~Maxwell's equations~Michael Faraday~Physical phenomena~
+||||||
+Electromagnetic induction
+||||||
+Electromagnetic or magnetic induction is the production of an electromotive force (emf) across an electrical conductor in a changing magnetic field.
+Michael Faraday is generally credited with the discovery of induction in 1831, and James Clerk Maxwell mathematically described it as Faraday's law of induction. Lenz's law describes the direction of the induced field. Faraday's law was later generalized to become the Maxwell–Faraday equation, one of the four Maxwell equations in his theory of electromagnetism.
+Electromagnetic induction has found many applications, including electrical components such as inductors and transformers, and devices such as electric motors and generators.

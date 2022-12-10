@@ -1,0 +1,29 @@
+Euclid~Number theoretic algorithms~
+||||||
+Extended Euclidean algorithm
+||||||
+In arithmetic and computer programming, the extended Euclidean algorithm is an extension to the Euclidean algorithm, and computes, in addition to the greatest common divisor (gcd) of integers a and b, also  the coefficients of Bézout's identity, which are integers x and y such that
+
+  
+    
+      
+        a
+        x
+        +
+        b
+        y
+        =
+        gcd
+        (
+        a
+        ,
+        b
+        )
+        .
+      
+    
+    {\displaystyle ax+by=\gcd(a,b).}
+  This is a certifying algorithm, because the gcd is the only number that can simultaneously satisfy this equation and divide the inputs.
+It allows one to compute also, with almost no extra cost, the quotients of a and b by their greatest common divisor.
+Extended Euclidean algorithm also refers to a very similar algorithm for computing the polynomial greatest common divisor and the coefficients of Bézout's identity of two univariate polynomials.
+The extended Euclidean algorithm is particularly useful when a and b are coprime. With that provision, x is the modular multiplicative inverse of a modulo b, and y is the modular multiplicative inverse of b modulo a. Similarly, the polynomial extended Euclidean algorithm allows one to compute the multiplicative inverse in algebraic field extensions and, in particular in finite fields of non prime order. It follows that both extended Euclidean algorithms are widely used in cryptography. In particular, the computation of the modular multiplicative inverse is an essential step in the derivation of key-pairs in the RSA public-key encryption method.

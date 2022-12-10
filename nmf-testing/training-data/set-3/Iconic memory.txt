@@ -1,0 +1,6 @@
+Memory~
+||||||
+Iconic memory
+||||||
+Iconic memory is the visual sensory memory register pertaining to the visual domain and a fast-decaying store of visual information. It is a component of the visual memory system which also includes visual short-term memory (VSTM) and long-term memory (LTM). Iconic memory is described as a very brief (<1 second), pre-categorical, high capacity memory store. It contributes to VSTM by providing a coherent representation of our entire visual perception for a very brief period of time. Iconic memory assists in accounting for phenomena such as change blindness and continuity of experience during saccades. Iconic memory is no longer thought of as a single entity but instead, is composed of at least two distinctive components.  Classic experiments including Sperling's partial report paradigm as well as modern techniques continue to provide insight into the nature of this SM store.
+

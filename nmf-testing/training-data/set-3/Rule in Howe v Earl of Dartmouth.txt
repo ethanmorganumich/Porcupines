@@ -1,0 +1,9 @@
+1802 in British law~1802 in case law~Common law rules~Court of Chancery cases~English trusts case law~Wills and trusts in the United Kingdom~
+||||||
+Howe v Earl of Dartmouth
+||||||
+Howe v Earl of Dartmouth (1802) 7 Ves 137 is an English trusts law case. It laid down the rule of equity in relation to the duties of a trustee in relation to a trust fund where there are successive interests in relation to the trust fund, and seeks to strike a fair balance between the rights of the life tenant and the remainderman.  It is one of a number of highly technical common law rules which causes considerable angst where wills and trusts have not been professionally prepared.
+The general rule in relation to any trust fund is that the life tenant is entitled to all of the income, and the remainderman then takes all of the capital on the death of the life tenant.  Under the rule in Howe v Earl of Dartmouth there may be duty to convert and reinvest authorised investments in the trust fund to maintain fairness between the life tenant and the remainderman.There are two limbs to the rule:
+
+investment; and
+apportionment.

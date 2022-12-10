@@ -1,0 +1,9 @@
+Set index articles~
+||||||
+Modulation index
+||||||
+The modulation index (or modulation depth) of a modulation scheme describes by how much the modulated variable of the carrier signal varies around its unmodulated level. It is defined differently in each modulation scheme.
+
+Amplitude modulation index
+Frequency modulation index
+Phase modulation index

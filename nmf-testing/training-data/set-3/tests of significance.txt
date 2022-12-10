@@ -1,0 +1,6 @@
+Design of experiments~Logic and statistics~Mathematical and quantitative methods (economics)~Statistical hypothesis testing~
+||||||
+Statistical hypothesis testing
+||||||
+A statistical hypothesis test is a method of statistical inference used to decide whether the data at hand sufficiently support a particular hypothesis.
+Hypothesis testing allows us to make probabilistic statements about population parameters.

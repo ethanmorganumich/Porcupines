@@ -1,0 +1,7 @@
+Memory~
+||||||
+Interference theory
+||||||
+The interference theory is a theory regarding human memory. Interference occurs in learning. The notion is that memory encoded in long-term memory (LTM) are forgotten and cannot be retrieved into short-term memory (STM) because either memory could interfere with the other. There is an immense number of encoded memories within the storage of LTM. The challenge for memory retrieval is recalling the specific memory and working in the temporary workspace provided in STM. Retaining information regarding the relevant time of encoding memories into LTM influences interference strength. 
+There are two types of interference effects: proactive and retroactive interference.
+

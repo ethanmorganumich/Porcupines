@@ -1,0 +1,7 @@
+User interface techniques~
+||||||
+Direct manipulation interface
+||||||
+In computer science,  human–computer interaction, and interaction design, direct manipulation is an approach to interfaces which involves continuous representation of objects of interest together with rapid, reversible, and incremental actions and feedback. As opposed to other interaction styles, for example, the command language, the intention of direct manipulation is to allow a user to manipulate objects presented to them, using actions that correspond at least loosely to manipulation of physical objects.  An example of direct manipulation is resizing a graphical shape, such as a rectangle, by dragging its corners or edges with a mouse.
+Having real-world metaphors for objects and actions can make it easier for a user to learn and use an interface (some might say that the interface is more natural or intuitive), and rapid, incremental feedback allows a user to make fewer errors and complete tasks in less time, because they can see the results of an action before completing the action, thus evaluating the output and compensating for mistakes.
+The term was introduced by Ben Shneiderman in 1982 within the context of office applications and the desktop metaphor. Individuals in academia and computer scientists doing research on future user interfaces often put as much or even more stress on tactile control and feedback, or sonic control and feedback than on the visual feedback given by most GUIs. As a result, the term  has been more widespread in these environments.

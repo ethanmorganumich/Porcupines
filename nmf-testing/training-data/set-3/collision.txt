@@ -1,0 +1,18 @@
+Collision~Mechanics~
+||||||
+Collision
+||||||
+In physics, a collision is any event in which two or more bodies exert forces on each other in a relatively short time. Although the most common use of the word collision refers to incidents in which two or more objects collide with great force, the scientific use of the term implies nothing about the magnitude of the force.Some examples of physical interactions that scientists would consider collisions are the following:
+
+When an insect lands on a plant's leaf, its legs are said to collide with the leaf.
+When a cat strides across a lawn, each contact that its paws make with the ground is considered a collision, as well as each brush of its fur against a blade of grass.
+When a boxer throws a punch, their fist is said to collide with the opponents  body.
+When an astronomical object merges with a black hole, they are considered to collide.Some colloquial uses of the word collision are the following:
+
+A traffic collision involves at least one automobile.
+A mid-air collision occurs between airplanes.
+A ship collision accurately involves at least two moving maritime vessels hitting each other; the related term, allision, describes when a moving ship strikes a stationary object (often, but not always, another ship).In physics, collisions can be classified by the change in the total kinetic energy of the system before and after the collision:
+
+If most or all of the total kinetic energy is lost (dissipated as heat, sound, etc. or absorbed by the objects themselves), the collision is said to be inelastic; such collisions involve objects coming to a full stop. An example of such a collision is a car crash, as cars crumple inward when crashing, rather than bouncing off of each other. This is by design, for the safety of the occupants and bystanders should a crash occur - the frame of the car absorbs the energy of the crash instead.
+If most of the kinetic energy is conserved (i.e. the objects continue moving afterwards), the collision is said to be elastic. An example of this is a baseball bat hitting a baseball - the kinetic energy of the bat is transferred to the ball, greatly increasing the ball's velocity. The sound of the bat hitting the ball represents the loss of energy.
+And if all of the total kinetic energy is conserved (i.e. no energy is released as sound, heat, etc.), the collision is said to be perfectly elastic. Such a system is an idealization and cannot occur in reality, due to the second law of thermodynamics.

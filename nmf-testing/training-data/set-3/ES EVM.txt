@@ -1,0 +1,5 @@
+Comecon~IBM System/360 mainframe line~Science and technology in Belarus~Soviet computer systems~
+||||||
+ES EVM
+||||||
+The ES EVM (Russian: Единая система электронных вычислительных машин (ЕС ЭВМ), romanized: Yedinaya sistema electronnykh vytchislitel'nykh mashin (ES EVM), "Unified System of Electronic Computers"), or YeS EVM, also known in English literature as the Unified System or Ryad (Russian: Ряд, "Series"), is a series of mainframe computers generally compatible with IBM's System/360 and System/370 mainframes, built in the Comecon countries under the initiative of the Soviet Union between 1968 and 1998. More than 15,000 of the ES EVM mainframes were produced in total.

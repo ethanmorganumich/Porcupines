@@ -1,0 +1,56 @@
+Number theoretic algorithms~
+||||||
+Integer relation algorithm
+||||||
+An integer relation between a set of real numbers x1, x2, ..., xn is a set of integers a1, a2, ..., an, not all 0, such that
+
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+        
+          x
+          
+            1
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        
+          x
+          
+            2
+          
+        
+        +
+        ⋯
+        +
+        
+          a
+          
+            n
+          
+        
+        
+          x
+          
+            n
+          
+        
+        =
+        0.
+        
+      
+    
+    {\displaystyle a_{1}x_{1}+a_{2}x_{2}+\cdots +a_{n}x_{n}=0.\,}
+  An integer relation algorithm is an algorithm for finding integer relations. Specifically, given a set of real numbers known to a given precision, an integer relation algorithm will either find an integer relation between them, or will determine that no integer relation exists with coefficients whose magnitudes are less than a certain upper bound.

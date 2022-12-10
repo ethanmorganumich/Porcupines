@@ -1,0 +1,8 @@
+Communication circuits~Telecommunications stubs~
+||||||
+Interposition trunk
+||||||
+In telecommunication, the term interposition trunk has the following meanings: 
+1.  A single direct communication channel, e.g., voice-frequency circuit, between two positions of a large switchboard to facilitate the interconnection of other circuits appearing at the respective switchboard positions. 
+2.  Within a technical control facility, a single direct transmission circuit, between positions in a testboard or patch bay, which circuit facilitates testing or patching between the respective positions. 
+ This article incorporates public domain material from Federal Standard 1037C. General Services Administration. (in support of MIL-STD-188).

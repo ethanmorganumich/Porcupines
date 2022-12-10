@@ -1,0 +1,7 @@
+Aircraft engine stubs~Jet engines~
+||||||
+Flame holder
+||||||
+A flame holder is a component of a jet engine designed to help maintain continual combustion. In a scramjet engine the residence time of the fuel is very low and complete penetration of the fuel into the flow will not occur. To avoid these conditions flame holders are used.All continuous-combustion jet engines require a flame holder. A flame holder creates a low-speed eddy in the engine to prevent the flame from being blown out. The design of the flame holder is an issue of balance between a stable eddy and drag.
+The simplest design, often used in amateur projects, is the can-type flame holder, which consists of a can covered in small holes.  Much more effective is the H-gutter flame holder, which is shaped like a letter H with a curve facing and opposing the flow of air. Even more effective, however, is the V-gutter flame holder, which is shaped like a V with the point in the direction facing the flow of air. Some studies have suggested that adding a small amount of base bleed to a V-gutter helps reduce drag without reducing effectiveness. The most effective of the flame holders are the step type flame holder and the strut type flame holder.
+The first mathematical model of a flame holder was proposed in 1953.

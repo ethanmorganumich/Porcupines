@@ -1,0 +1,5 @@
+Information retrieval genres~Internet search engines~Multimedia~Multimodal interaction~
+||||||
+Multimodal search
+||||||
+Multimodal search is a type of search that uses different methods to get relevant results. They can use any kind of search, search by keyword, search by concept, search by example, etc.

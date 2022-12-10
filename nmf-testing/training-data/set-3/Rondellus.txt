@@ -1,0 +1,12 @@
+Music theory stubs~Musical techniques~
+||||||
+Rondellus
+||||||
+In music rondellus is the formalized interchange of parts or voices according to a scheme, often used in English conducti and frequently in English motets of the late thirteenth and early fourteenth centuries, but never used for an entire piece (Caldwell 1992, p. 47). For example:
+
+A B C  D E F
+C A B  F D E
+B C A  E F D
+
+where the italicized letters represent music with text and the other letters are melismatic (Caldwell 1992, p. 47).
+

@@ -1,0 +1,154 @@
+Non-SI metric units~Radio astronomy~Units of measurement~Units of measurement in astronomy~
+||||||
+Jansky
+||||||
+The jansky (symbol Jy, plural janskys) is a non-SI unit of spectral flux density, or spectral irradiance, used especially in radio astronomy. It is equivalent to 10−26 watts per square metre per hertz.
+The flux density or monochromatic flux, S, of a source is the integral of the spectral radiance, B, over the source solid angle:
+
+  
+    
+      
+        S
+        =
+        
+          ∬
+          
+            source
+          
+        
+        B
+        (
+        θ
+        ,
+        ϕ
+        )
+        
+        
+          d
+        
+        Ω
+        .
+      
+    
+    {\displaystyle S=\iint \limits _{\text{source}}B(\theta ,\phi )\,\mathrm {d} \Omega .}
+  The unit is named after pioneering US radio astronomer Karl Guthe Jansky and is defined as
+
+  
+    
+      
+        1
+         
+        
+          J
+          y
+        
+        =
+        
+          10
+          
+            −
+            26
+          
+        
+         
+        
+          W
+        
+        
+          ⋅
+        
+        
+          
+            m
+            
+              −
+              2
+            
+          
+        
+        
+          ⋅
+        
+        
+          H
+          
+            z
+            
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle 1~\mathrm {Jy} =10^{-26}~\mathrm {W} {\cdot }\mathrm {m^{-2}} {\cdot }\mathrm {Hz^{-1}} }
+   (SI)
+
+  
+    
+      
+        1
+         
+        
+          J
+          y
+        
+        =
+        
+          10
+          
+            −
+            23
+          
+        
+         
+        
+          e
+          r
+          g
+        
+        
+          ⋅
+        
+        
+          
+            s
+            
+              −
+              1
+            
+          
+        
+        
+          ⋅
+        
+        
+          c
+          
+            m
+            
+              −
+              2
+            
+          
+        
+        
+          ⋅
+        
+        
+          H
+          
+            z
+            
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle 1~\mathrm {Jy} =10^{-23}~\mathrm {erg} {\cdot }\mathrm {s^{-1}} {\cdot }\mathrm {cm^{-2}} {\cdot }\mathrm {Hz^{-1}} }
+   (cgs).Since the jansky is obtained by integrating over the whole source solid angle, it is most simply used to describe point sources; for example, the Third Cambridge Catalogue of Radio Sources (3C) reports results in janskys.
+
+For extended sources, the surface brightness is often described with units of janskys per solid angle; for example, far-infrared (FIR) maps from the IRAS satellite are in megajanskys per steradian (MJy⋅sr−1).
+Although extended sources at all wavelengths can be reported with these units, for radio-frequency maps, extended sources have traditionally been described in terms of a brightness temperature; for example the Haslam et al. 408 MHz all-sky continuum survey is reported in terms of a brightness temperature in kelvin.

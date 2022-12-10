@@ -1,0 +1,5 @@
+Electronic oscillators~
+||||||
+Vackář oscillator
+||||||
+A Vackář oscillator is a wide range variable frequency oscillator (VFO) which has a near constant output amplitude over its frequency range.  It is similar to a Colpitts oscillator or a Clapp oscillator, but those designs do not have a constant output amplitude when tuned.

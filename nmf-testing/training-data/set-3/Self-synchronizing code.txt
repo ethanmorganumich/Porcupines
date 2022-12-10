@@ -1,0 +1,7 @@
+Line codes~Synchronization~Telecommunications stubs~
+||||||
+Self-synchronizing code
+||||||
+In coding theory, especially in telecommunications, a self-synchronizing code is a uniquely decodable code in which the symbol stream formed by a portion of one code word, or by the overlapped portion of any two adjacent code words, is not a valid code word. Put another way, a set of strings (called "code words") over an alphabet is called a self-synchronizing code if for each string obtained by concatenating two code words, the substring starting at the second symbol and ending at the second-last symbol does not contain any code word as substring. Every self-synchronizing code is a prefix code, but not all prefix codes are self-synchronizing.
+Other terms for self-synchronizing code are synchronized code or, ambiguously, comma-free code. A self-synchronizing code permits the proper framing of transmitted code words provided that no uncorrected errors occur in the symbol stream; external synchronization is not required. Self-synchronizing codes also allow recovery from uncorrected errors in the stream; with most prefix codes, an uncorrected error in a single bit may propagate errors further in the stream and make the subsequent data corrupted.
+Importance of self-synchronizing codes is not limited to data transmission. Self-synchronization also facilitates some cases of data recovery, for example of a digitally encoded text.

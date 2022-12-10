@@ -1,0 +1,6 @@
+Academic programming languages~Educational programming languages~Functional languages~Haskell programming language family~Literate programming~Pattern matching programming languages~Programming languages created in 1990~Statically typed programming languages~
+||||||
+Haskell
+||||||
+Haskell () is a general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation. Designed for teaching, research and industrial applications, Haskell has pioneered a number of programming language features such as type classes, which enable type-safe operator overloading, and monadic IO. Haskell's main implementation is the Glasgow Haskell Compiler (GHC). It is named after logician Haskell Curry.Haskell's semantics are historically based on those of the Miranda programming language, which served to focus the efforts of the initial Haskell working group. The last formal specification of the language was made in July 2010, while the development of GHC continues to expand Haskell via language extensions.
+Haskell is used in academia and industry. As of May 2021, Haskell was the 28th most popular programming language by Google searches for tutorials,  and made up less than 1% of active users on the GitHub source code repository.

@@ -1,0 +1,7 @@
+Aircraft instruments~Avionics~Gliding technology~Measuring instruments~
+||||||
+Variometer
+||||||
+In aviation, a variometer – also known as a rate of climb and descent indicator (RCDI), rate-of-climb indicator, vertical speed indicator (VSI), or vertical velocity indicator (VVI) – is one of the flight instruments in an aircraft used to inform the pilot of the rate of descent or climb.  It can be calibrated in metres per second, feet per minute (1 ft/min = 0.00508 m/s) or knots (1 kn ≈ 0.514 m/s), depending on country and type of aircraft.  It is typically connected to the aircraft's external static pressure source.
+In powered flight, the pilot makes frequent use of the VSI to ascertain that level flight is being maintained, especially during turning maneuvers. In gliding, the instrument is used almost continuously during normal flight, often with an audible output, to inform the pilot of rising or sinking air. It is usual for gliders to be equipped with more than one type of variometer. The simpler type does not need an external source of power and can therefore be relied upon to function regardless of whether a battery or power source has been fitted. The electronic type with audio needs a power source to be operative during the flight. The instrument is of little interest during launching and landing, with the exception of aerotow, where the pilot will usually want to avoid releasing in sink.
+

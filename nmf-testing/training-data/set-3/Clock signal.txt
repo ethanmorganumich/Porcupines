@@ -1,0 +1,6 @@
+Clock signal~Synchronization~
+||||||
+Clock signal
+||||||
+In electronics and especially synchronous digital circuits, a clock signal (historically also known as logic beat) oscillates between a high and a low state and is used like a metronome to coordinate actions of digital circuits.
+A clock signal is produced by a clock generator. Although more complex arrangements are used, the most common clock signal is in the form of a square wave with a 50% duty cycle, usually with a fixed, constant frequency. Circuits using the clock signal for synchronization may become active at either the rising edge, falling edge, or, in the case of double data rate, both in the rising and in the falling edges of the clock cycle.

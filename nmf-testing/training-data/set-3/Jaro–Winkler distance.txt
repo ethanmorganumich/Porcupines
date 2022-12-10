@@ -1,0 +1,24 @@
+String metrics~
+||||||
+Jaro–Winkler distance
+||||||
+In computer science and statistics, the Jaro–Winkler distance is a string metric measuring an edit distance between two sequences. It is a variant proposed in 1990 by William E. Winkler of the Jaro distance metric (1989, Matthew A. Jaro).
+The Jaro–Winkler distance uses a prefix scale 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   which gives more favourable ratings to strings that match from the beginning for a set prefix length 
+  
+    
+      
+        ℓ
+      
+    
+    {\displaystyle \ell }
+  .
+The higher the Jaro–Winkler distance for two strings is, the less similar the strings are. The score is normalized such that 0 means an exact match and 1 means there is no similarity. The original paper actually defined the metric in terms of similarity, so the distance is defined as the inversion of that value (distance = 1 − similarity).
+Although often referred to as a distance metric, the Jaro–Winkler distance is not a metric in the mathematical sense of that term because it does not obey the triangle inequality.

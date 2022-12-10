@@ -1,0 +1,6 @@
+Aerodynamics~
+||||||
+Relaxed stability
+||||||
+In aviation, relaxed stability refers to an aircraft with low or negative stability.An aircraft with negative stability will have a tendency to change its pitch and bank angles spontaneously. An aircraft with negative stability cannot be trimmed to maintain a certain attitude, and will, when disturbed in pitch or roll, continue to pitch or roll in the direction of the disturbance at an ever-increasing rate.
+This can be contrasted with the behaviour of an aircraft with positive stability, which can be trimmed to fly at a certain attitude, which it will continue to maintain in the absence of control input, and, if perturbed, will oscillate in simple harmonic motion on a decreasing scale around, and eventually return to, the trimmed attitude. A positively stable aircraft will also resist any bank movement. A Cessna 152 is an example of a stable aircraft. Similarly, an aircraft with neutral stability will not return to its original attitude without control input, but will continue to roll or pitch at a steady (neither increasing nor decreasing) rate.

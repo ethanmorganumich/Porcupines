@@ -1,0 +1,8 @@
+Line codes~
+||||||
+Non-return-to-zero
+||||||
+In telecommunication, a non-return-to-zero (NRZ) line code is a binary code in which ones are represented by one significant condition, usually a positive voltage, while zeros are represented by some other significant condition, usually a negative voltage, with no other neutral or rest condition. 
+For a given data signaling rate, i.e., bit rate, the NRZ code requires only half the baseband bandwidth required by the Manchester code (the passband bandwidth is the same).  The pulses in NRZ have more energy than a return-to-zero (RZ) code, which also has an additional rest state beside the conditions for ones and zeros.  
+When used to represent data in an asynchronous communication scheme, the absence of a neutral state requires other mechanisms for bit synchronization when a separate clock signal is not available. Since NRZ is not inherently a self-clocking signal, some additional synchronization technique must be used for avoiding bit slips; examples of such techniques are a run-length-limited constraint and a parallel synchronization signal.
+

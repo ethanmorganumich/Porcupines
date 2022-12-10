@@ -1,0 +1,5 @@
+Artificial intelligence~Educational psychology~Educational software~
+||||||
+Cognitive tutor
+||||||
+A cognitive tutor is a particular kind of intelligent tutoring system that utilizes a cognitive model to provide feedback to students as they are working through problems. This feedback will immediately inform students of the correctness, or incorrectness, of their actions in the tutor interface; however, cognitive tutors also have the ability to provide context-sensitive hints and instruction to guide students towards reasonable next steps.

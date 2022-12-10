@@ -1,0 +1,5 @@
+1991 software~Graphics software~Image viewers~MacOS APIs~MacOS media players~Macintosh media players~Multimedia frameworks~QuickTime~Software development kits~Windows media players~
+||||||
+QuickTime
+||||||
+QuickTime is an extensible multimedia framework developed by Apple Inc., capable of handling various formats of digital video, picture, sound, panoramic images, and interactivity. Created in 1991, the latest Mac version, QuickTime X, is available for Mac OS X Snow Leopard up to macOS Mojave. Apple ceased support for the Windows version of QuickTime in 2016, and ceased support for QuickTime 7 on macOS in 2018.As of Mac OS X Lion, the underlying media framework for QuickTime, QTKit, was deprecated in favor of a newer graphics framework, AVFoundation, and completely discontinued as of macOS Catalina.

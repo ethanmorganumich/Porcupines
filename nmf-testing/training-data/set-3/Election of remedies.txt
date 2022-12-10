@@ -1,0 +1,6 @@
+Civil procedure~Judicial remedies~Legal terminology stubs~
+||||||
+Election of remedies
+||||||
+In the law of civil procedure, election of remedies is the situation in which a winning party in a lawsuit must choose the means by which its injury will be remedied. For example, if a court finds that the plaintiff's painting was stolen by the defendant, then the plaintiff has two possible routes to restore the loss. The plaintiff can elect to either receive monetary damages equal to the entire value of the painting, or the plaintiff can ask the court to order the return of the stolen property (plus some minor amount of compensation for the suffering caused by its deprivation). However, the plaintiff cannot have both, and must therefore make an election of one or the other.
+Under the old common law of England, a party had to make an election of remedies at the time that the complaint was filed. Most jurisdictions have since abandoned that requirement. Plaintiffs generally may now file initial pleadings that seek alternative means of relief, and need not make the election of remedies until a judgment is rendered as to the liability of the defendant.

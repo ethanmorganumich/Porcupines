@@ -1,0 +1,9 @@
+Height~
+||||||
+Height
+||||||
+Height is  measure of vertical distance, either vertical extent (how "tall" something or someone is) or vertical position (how "high" a point is).
+For example, "The height of that building is 50 m" or "The height of an airplane in-flight is about 10,000 m".
+For example, "Christopher Columbus is 5 foot 2 inches in vertical height."
+When the term is used to describe vertical position (of, e.g., an airplane) from sea level, height is more often called altitude.
+Furthermore, if the point is attached to the Earth (e.g., a mountain peak), then altitude (height above sea level) is called elevation.In a two-dimensional Cartesian space, height is measured along the vertical axis (y) between a specific point and another that does not have the same y-value. If both points happen to have the same y-value, then their relative height is zero. In the case of three-dimensional space, height is measured along the vertical z axis, describing a distance from (or "above") the x-y plane.

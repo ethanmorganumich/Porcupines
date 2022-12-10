@@ -1,0 +1,6 @@
+Graphical user interfaces~History of computing~History of human–computer interaction~
+||||||
+History of the graphical user interface
+||||||
+The history of the graphical user interface, understood as the use of graphic icons and a pointing device to control a computer, covers a five-decade span of incremental refinements, built on some constant core principles. Several vendors have created their own windowing systems based on independent code, but with basic elements in common that define the WIMP "window, icon, menu and pointing device" paradigm.
+There have been important technological achievements, and enhancements to the general interaction in small steps over previous systems. There have been a few significant breakthroughs in terms of use, but the same organizational metaphors and interaction idioms are still in use.  Desktop computers are often controlled by computer mice and/or keyboards while laptops often have a pointing stick or touchpad, and smartphones and tablet computers have a touchscreen.  The influence of game computers and joystick operation has been omitted.

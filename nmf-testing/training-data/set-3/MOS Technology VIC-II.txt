@@ -1,0 +1,7 @@
+Commodore 64~Computer display standards~Graphics chips~MOS Technology integrated circuits~
+||||||
+MOS Technology VIC-II
+||||||
+The VIC-II (Video Interface Chip II), specifically known as the MOS Technology 6567/8562/8564 (NTSC versions), 6569/8565/8566 (PAL), is the microchip tasked with generating Y/C video signals (combined to composite video in the RF modulator) and DRAM refresh signals in the Commodore 64 and C128 home computers.
+Succeeding MOS's original VIC (used in the VIC-20), the VIC-II was one of the two chips mainly responsible for the C64's success (the other chip being the 6581 SID).
+

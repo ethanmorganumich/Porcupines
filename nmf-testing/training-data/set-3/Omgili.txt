@@ -1,0 +1,7 @@
+Internet search engines~
+||||||
+Omgili
+||||||
+Omgili (an acronym for "oh my god I love it") was a vertical search engine that focuses on "many to many" user generated content platforms, such as, forums, discussion groups, answer boards and others.
+The crawler based, vertical search engine, scanned millions of online discussions worldwide in over 100,000 boards and forums,  and was able to differentiate between discussion entities, such as, title, topic, answer and post date. 
+Users could use Omgili to find consumer opinions, debates, discussions, personal experiences, answers and solutions. The crawler behind Omgili (named Omgilibot) is still operational and is the technology behind Webz.io (formally Webhose.io).

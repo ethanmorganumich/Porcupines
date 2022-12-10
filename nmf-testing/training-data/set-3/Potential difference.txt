@@ -1,0 +1,16 @@
+Electrical systems~Electromagnetism~Physical quantities~Voltage~
+||||||
+Voltage
+||||||
+Voltage, also known as electric pressure, electric tension, or (electric) potential difference, is the difference in electric potential between two points. In a static electric field, it corresponds to the work needed per unit of charge to move a test charge between the two points. In the International System of Units, the derived unit for voltage is named volt.: 166  In SI units, work per unit charge is expressed as joules per coulomb, where 1 volt = 1 joule (of work) per 1 coulomb (of charge). The old SI definition for volt used power and current; starting in 1990, the quantum Hall and Josephson effect were used, and recently (2019) fundamental physical constants have been introduced for the definition of all SI units and derived units.: 177f, 197f  Voltage difference is denoted symbolically by 
+  
+    
+      
+        Δ
+        V
+      
+    
+    {\displaystyle \Delta V}
+  , simplified V, especially in English-speaking countries, or by U internationally, for instance in the context of Ohm's or Kirchhoff's circuit laws.
+The voltage between points can be caused by the build-up of electric charge (e.g., a capacitor), and from an electromotive force (e.g., electromagnetic induction in generator, inductors, and transformers). On a macroscopic scale, a potential difference can be caused by electrochemical processes (e.g., cells and batteries), the pressure-induced piezoelectric effect, and the thermoelectric effect.
+A voltmeter can be used to measure the voltage between two points in a system. Often a common reference potential such as the ground of the system is used as one of the points. A voltage can represent either a source of energy or the loss, dissipation, or storage of energy.

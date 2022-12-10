@@ -1,0 +1,6 @@
+Electronics stubs~Timekeeping~
+||||||
+Long-term stability
+||||||
+In electronics, the long-term stability of an oscillator is the degree of uniformity of frequency over time, when the frequency is measured under identical environmental conditions, such as supply voltage, load, and temperature. Long-term frequency changes are caused by changes in the oscillator elements that determine frequency, such as crystal drift, inductance changes, and capacitance changes. 
+ This article incorporates public domain material from Federal Standard 1037C. General Services Administration. (in support of MIL-STD-188).

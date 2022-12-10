@@ -1,0 +1,5 @@
+Information retrieval techniques~Internet search engines~Internet terminology~Personalized search~
+||||||
+Personalized search
+||||||
+Personalized search refers to web search experiences that are tailored specifically to an individual's interests by incorporating information about the individual beyond the specific query provided. There are two general approaches to personalizing search results, involving modifying the user's query and re-ranking search results.

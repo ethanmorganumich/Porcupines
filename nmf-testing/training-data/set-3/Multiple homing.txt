@@ -1,0 +1,7 @@
+Communication circuits~Military terminology~
+||||||
+Multiple homing
+||||||
+In telecommunication, the term multiple homing has the following meanings:
+telephone systems, the connection of a terminal facility so that it can be served by one or several switching centers. Multiple homing may use a single directory number.
+In telephone systems, the connection of a terminal facility to more than one switching center by separate access lines. Separate directory numbers are applicable to each switching center accessed.In military, such as Missiles and loitering munitions, it is ability of a single weapon system or projectile to select, focus and simultaneously engage multiple targets.

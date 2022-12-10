@@ -1,0 +1,7 @@
+Radio modulation modes~
+||||||
+Amplitude modulation
+||||||
+Amplitude modulation (AM) is a  modulation technique used in electronic communication, most commonly for transmitting messages with a radio wave. In amplitude modulation, the amplitude (signal strength) of the wave is varied in proportion to that of the message signal, such as an audio signal. This technique contrasts with angle modulation, in which either the frequency of the carrier wave is varied, as in frequency modulation, or its phase, as in phase modulation.
+AM was the earliest modulation method used for transmitting audio in radio broadcasting. It was developed during the first quarter of the 20th century beginning with Roberto Landell de Moura and Reginald Fessenden's radiotelephone experiments in 1900. This original form of AM is sometimes called double-sideband amplitude modulation (DSBAM), because the standard method produces sidebands on either side of the carrier frequency. Single-sideband modulation uses bandpass filters to eliminate one of the sidebands and possibly the carrier signal, which improves the ratio of message power to total transmission power, reduces power handling requirements of line repeaters, and permits better bandwidth utilization of the transmission medium.
+AM remains in use in many forms of communication in addition to AM broadcasting: shortwave radio, amateur radio, two-way radios, VHF aircraft radio, citizens band radio, and in computer modems in the form of QAM.

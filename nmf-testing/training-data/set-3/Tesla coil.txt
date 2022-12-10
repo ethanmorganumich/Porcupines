@@ -1,0 +1,6 @@
+1891 introductions~19th-century inventions~Electric transformers~Electrical breakdown~Inventions by Nikola Tesla~Power supplies~
+||||||
+Tesla coil
+||||||
+A Tesla coil is an electrical resonant transformer circuit designed by inventor Nikola Tesla in 1891. It is used to produce high-voltage, low-current, high-frequency alternating-current electricity. Tesla experimented with a number of different configurations consisting of two, or sometimes three, coupled resonant electric circuits.
+Tesla used these circuits to conduct innovative experiments in electrical lighting, phosphorescence, X-ray generation, high-frequency alternating current phenomena, electrotherapy, and the transmission of electrical energy without wires. Tesla coil circuits were used commercially in spark-gap radio transmitters for wireless telegraphy until the 1920s, and in medical equipment such as electrotherapy and violet ray devices. Today, their main usage is for entertainment and educational displays, although small coils are still used as leak detectors for high-vacuum systems.Originally, Tesla coils used fixed spark gaps or rotary spark gaps to provide intermittent excitation of the resonant circuit; more recently, electronic devices are used to provide the switching action required.

@@ -1,0 +1,6 @@
+Composer tributes (classical music)~Cryptography~Motifs (music)~Musical composition~Musical techniques~
+||||||
+Musical cryptogram
+||||||
+A musical cryptogram is a cryptogrammatic sequence of musical symbols, a sequence which can be taken to refer to an extra-musical text by some 'logical' relationship, usually between note names and letters. The most common and best known examples result from composers using ciphered versions of their own or their friends' names as themes or motifs in their compositions. Much rarer is the use of music notation to encode messages for reasons of espionage or personal security called steganography.
+Because of the multitudinous ways in which notes and letters can be related, detecting hidden ciphers and proving accurate decipherment is difficult.

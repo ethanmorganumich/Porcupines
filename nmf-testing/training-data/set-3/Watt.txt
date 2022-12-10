@@ -1,0 +1,6 @@
+James Watt~SI derived units~Units of power~
+||||||
+Watt
+||||||
+The watt (symbol: W) is the unit of power or radiant flux in the International System of Units (SI), equal to 1 joule per second or 1 kg⋅m2⋅s−3. It is used to quantify the rate of energy transfer. The watt is named after James Watt (1736–1819), an 18th-century Scottish inventor, mechanical engineer, and chemist who improved the Newcomen engine with his own steam engine in 1776. Watt's invention was fundamental for the Industrial Revolution.
+

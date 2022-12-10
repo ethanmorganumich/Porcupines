@@ -1,0 +1,15 @@
+Educational assessment and evaluation~
+||||||
+Dynamic assessment
+||||||
+Dynamic assessment is a kind of interactive assessment used in education and the helping professions. Dynamic assessment is a product of the research conducted by developmental psychologist Lev Vygotsky. It identifies
+
+Constructs that a student has mastered (the Zone of Actual Development)
+Constructs that a student is currently able to understand or tasks a student can do with scaffolding (the Zone of Proximal Development).
+Constructs that a student cannot do at allThe dynamic assessment procedure accounts is highly interactive and process-oriented It has become popular among educators, psychologists, and speech and language pathologists. It is an alternative to the wide range of mastery-based measurements, although the cost has historically been prohibitive for wide-scale adoption.
+To give a concrete example, consider an assessment asking children asked to solve a problem involving the area of a circle:
+
+A child who has not encountered the concept of an area or of multiplication yet will not be able to solve the problem, with or without scaffolds and support. (no development)
+A child who, for example, understands the underlying concepts involved, but has not seen or has forgotten the equation A=πr² may be able to solve the problem with the help of a formula sheet, of a similar worked example, or of an illustration showing how to compute this area. (ZPD)
+A child who is able to solve the problem, but made a mistake and couldn't independently catch the error might be able to solve the problem if the error is pointed out, or if they are at least aware they made an error. (ZPD)
+A child who has mastered this concept will be able to solve this problem unaided. (ZAD/mastery)Traditional assessment would identify the last child as solving the problem correctly, while the children with mistakes or no answers would receive no credit. A dynamic assessment would place the children in three different categories: those who cannot solve the problem, those who can with help, and those who can independently. Vygotsky's theory is that a measurement of the outer limit of the ZPD is a more accurate measure of children's development than a measure of the outer limit of the ZAD, since concepts in the ZPD move into the ZAD within a few years.

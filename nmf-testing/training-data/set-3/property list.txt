@@ -1,0 +1,8 @@
+Data serialization formats~DragonFly BSD~GNUstep~MacOS~NeXT~NetBSD~
+||||||
+Property list
+||||||
+In the macOS, iOS, NeXTSTEP, and GNUstep programming frameworks, property list files are files that store serialized objects.  Property list files use the filename extension .plist, and thus are often referred to as p-list files. 
+Property list files are often used to store a user's settings.  They are also used to store information about bundles and applications, a task served by the resource fork in the old Mac OS.
+Property lists are also used for localization strings for development. These files use the .strings or .stringsdict extensions. The former is a "reduced" old-style plist containing only one dictionary without the braces (see propertyListFromStringsFileFormat), while the latter is a fully-fledged plist. Xcode also uses a .pbxproj extension for old-style plists used as project files. 
+

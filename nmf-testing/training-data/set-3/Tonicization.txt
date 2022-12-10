@@ -1,0 +1,5 @@
+Diatonic functions~Musical techniques~
+||||||
+Tonicization
+||||||
+In music, tonicization is the treatment of a pitch other than the overall tonic (the "home note" of a piece) as a temporary tonic in a composition. In Western music that is tonal, the piece is heard by the listener as being in a certain key. A tonic chord has a dominant chord; in the key of C major, the tonic chord is C major and the dominant chord is G major or G dominant seventh. The dominant chord, especially if it is a dominant seventh, is heard by Western composers and listeners familiar with music as resolving (or "leading") to the tonic, due to the use of the leading note in the dominant chord. A tonicized chord is a chord other than the tonic chord to which a dominant or dominant seventh chord progresses. When a dominant chord or dominant seventh chord is used before a chord other than the tonic, this dominant or dominant seventh chord is called a secondary dominant. When a chord is tonicized, this makes this non-tonic chord sound temporarily like a tonic chord.

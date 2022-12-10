@@ -1,0 +1,7 @@
+Electric arcs~Electrical breakdown~Gas-filled tubes~Switching tubes~
+||||||
+Spark gap
+||||||
+A spark gap consists of an arrangement of two conducting electrodes separated by a gap usually filled with a gas such as air, designed to allow an electric spark to pass between the conductors.   When the potential difference between the conductors exceeds the breakdown voltage of the gas within the gap, a spark forms, ionizing the gas and drastically reducing its electrical resistance.  An electric current then flows until the path of ionized gas is broken or the current reduces below a minimum value called the "holding current".  This usually happens when the voltage drops, but in some cases occurs when the heated gas rises, stretching out and then breaking the filament of ionized gas.  Usually, the action of ionizing the gas is violent and disruptive, often leading to sound (ranging from a snap for a spark plug to thunder for a lightning discharge), light and heat.
+Spark gaps were used historically in early electrical equipment, such as spark gap radio transmitters, electrostatic machines, and X-ray machines.  Their most widespread use today is in spark plugs to ignite the fuel in internal combustion engines, but they are also used in lightning arresters and other devices to protect electrical equipment from high-voltage transients.
+

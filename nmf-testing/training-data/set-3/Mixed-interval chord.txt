@@ -1,0 +1,7 @@
+Chords~Music theory stubs~Post-tonal music theory~
+||||||
+Mixed-interval chord
+||||||
+In music a mixed-interval chord is a chord not characterized by one consistent interval. Chords characterized by one consistent interval, or primarily but with alterations, are equal-interval chords. Mixed interval chords "lend themselves particularly" to atonal music since they tend to be dissonant.
+
+Equal-interval chords are often of indeterminate root and mixed-interval chords are also often best characterized by their interval content. "Equal-interval chords are often altered to make them 'impure' as in the case of quartal and quintal chords with tritones, chords based on seconds with varying intervals between the seconds."

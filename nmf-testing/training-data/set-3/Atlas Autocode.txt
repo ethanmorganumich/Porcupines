@@ -1,0 +1,6 @@
+Ferranti~History of computing in the United Kingdom~Structured programming languages~
+||||||
+Atlas Autocode
+||||||
+Atlas Autocode (AA) is a programming language developed around 1965 at the University of Manchester. A variant of the language ALGOL, it was developed by Tony Brooker and Derrick Morris for the Atlas computer. 
+The word Autocode was basically an early term for programming language. Different autocodes could vary greatly.

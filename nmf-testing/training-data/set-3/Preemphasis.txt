@@ -1,0 +1,7 @@
+Broadcast engineering~Signal processing~
+||||||
+Emphasis (telecommunications)
+||||||
+Typically, prior to some process, such as transmission over cable, or recording to phonograph record or tape, the input frequency range most susceptible to noise is boosted. This is referred to as "pre-emphasis" – before the process the signal will undergo. Later, when the signal is received, or retrieved from recording, the reverse transformation is applied ("de-emphasis") so that the output accurately reproduces the original input. Any noise added by transmission or record/playback, to the frequency range previously boosted, is now attenuated in the de-emphasis stage.
+The high-frequency signal components are emphasized to produce a more equal modulation index for the transmitted frequency spectrum, and therefore a better signal-to-noise ratio for the entire frequency range.
+Emphasis is commonly used in FM broadcasting (preemphasis improvement) and vinyl (e.g. LP) records.

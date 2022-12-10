@@ -1,0 +1,5 @@
+Aircraft engines~Aviation stubs~Engineering ratios~
+||||||
+Engine pressure ratio
+||||||
+The engine pressure ratio (EPR) is the total pressure ratio across a jet engine, measured as the ratio of the total pressure at the exit of the propelling nozzle divided by the total pressure at the entry to the compressor.Jet engines use either EPR or compressor/fan RPM as an indicator of thrust. When EPR is used, the pressures are measured in front of the compressor and behind the turbine.

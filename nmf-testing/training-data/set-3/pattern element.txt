@@ -1,0 +1,8 @@
+Conditional constructs~Functional programming~Pattern matching~
+||||||
+Pattern matching
+||||||
+In computer science, pattern matching is the act of checking a given sequence of tokens for the presence of the constituents of some pattern. In contrast to pattern recognition, the match usually has to be exact: "either it will or will not be a  match."  The patterns generally have the form of either sequences or tree structures. Uses of pattern matching include outputting the locations (if any) of a pattern within a token sequence, to output some component of the matched pattern, and to substitute the matching pattern with some other token sequence (i.e., search and replace).
+Sequence patterns (e.g., a text string) are often described using regular expressions and matched using techniques such as backtracking.
+Tree patterns are used in some programming languages as a general tool to process data based on its structure, e.g. C#, F#, Haskell, ML, Python, Ruby, Rust, Scala, Swift and the symbolic mathematics language Mathematica have special syntax for expressing tree patterns and a language construct for conditional execution and value retrieval based on it.
+Often it is possible to give alternative patterns that are tried one by one, which yields a powerful conditional programming construct.  Pattern matching sometimes includes support for guards.

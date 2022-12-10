@@ -1,0 +1,8 @@
+Arbitrage~Financial markets~Thought experiments~
+||||||
+Arbitrage
+||||||
+In economics and finance, arbitrage (, UK also ) is the practice of taking advantage of a difference in prices in two or more markets; striking a combination of matching deals to capitalise on the difference, the profit being the difference between the market prices at which the unit is traded. When used by academics, an arbitrage is a transaction that involves no negative cash flow at any probabilistic or temporal state and a positive cash flow in at least one state; in simple terms, it is the possibility of a risk-free profit after transaction costs. For example, an arbitrage opportunity is present when there is the possibility to instantaneously buy something for a low price and sell it for a higher price.
+In principle and in academic use, an arbitrage is risk-free; in common use, as in statistical arbitrage, it may refer to expected profit, though losses may occur, and in practice, there are always risks in arbitrage, some minor (such as fluctuation of prices decreasing profit margins), some major (such as devaluation of a currency or derivative). In academic use, an arbitrage involves taking advantage of differences in price of a single asset or identical cash-flows; in common use, it is also used to refer to differences between similar assets (relative value or convergence trades), as in merger arbitrage.
+The term is mainly applied to trading in financial instruments, such as bonds, stocks, derivatives, commodities, and currencies. People who engage in arbitrage are called arbitrageurs (). 
+Arbitrage has the effect of causing prices of the same or very similar assets in different markets to converge.

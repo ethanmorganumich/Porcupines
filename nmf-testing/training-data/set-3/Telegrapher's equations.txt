@@ -1,0 +1,6 @@
+Distributed element circuits~Hyperbolic partial differential equations~Transmission lines~
+||||||
+Telegrapher's equations
+||||||
+The telegrapher's equations (or just telegraph equations) are a pair of coupled, linear partial differential equations that describe the voltage and current on an electrical transmission line with distance and time. The equations come from Oliver Heaviside who developed the transmission line model starting with an August 1876 paper, On the Extra Current.: 66–67  The model demonstrates that the electromagnetic waves can be reflected on the wire, and that wave patterns can form along the line.
+The theory applies to transmission lines of all frequencies including direct current and high-frequency. Originally developed to describe telegraph wires, the theory can also be applied to radio frequency conductors, audio frequency (such as telephone lines), low frequency (such as power lines), and pulses of direct current. It can also be used to electrically model wire radio antennas as truncated single-conductor transmission lines.: 7–10 : 232 

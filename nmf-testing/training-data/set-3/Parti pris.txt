@@ -1,0 +1,5 @@
+Architectural terminology~
+||||||
+Parti (architecture)
+||||||
+In architecture, a parti is an organizing thought or decision behind an architect's design, presented in the form of a parti diagram, parti sketch, or a simple statement. The term comes from 15th century French, in which "parti pris" meant "decision taken."The development of the parti frequently precedes the development of plan, section, and elevation diagrams.

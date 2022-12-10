@@ -1,0 +1,5 @@
+Formal sections in music analysis~
+||||||
+Sentence (music)
+||||||
+In Western music theory, the term sentence is analogous to the way the term is used in linguistics, in that it usually refers to a complete, somewhat self-contained statement. Usually a sentence refers to musical spans towards the lower end of the durational scale; i.e. melodic or thematic entities well below the level of 'movement' or 'section', but above the level of 'motif' or 'measure'. The term is usually encountered in discussions of thematic construction. In the last fifty years, an increasing number of theorists such as William Caplin have used the term to refer to a specific theme-type involving repetition and development.

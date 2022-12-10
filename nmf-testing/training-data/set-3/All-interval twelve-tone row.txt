@@ -1,0 +1,6 @@
+Chords~Music theory stubs~Twelve-tone technique~
+||||||
+All-interval twelve-tone row
+||||||
+In music, an all-interval twelve-tone row, series, or chord, is a twelve-tone tone row arranged so that it contains one instance of each interval within the octave, 1 through 11 (an ordering of every interval, 0 through 11, that contains each (ordered) pitch-interval class, 0 through 11). A "twelve-note spatial set made up of the eleven intervals [between consecutive pitches]." There are 1,928 distinct all-interval twelve-tone rows. These sets may be ordered in time or in register. "Distinct" in this context means in transpositionally and rotationally normal form (yielding 3856 such series), and disregarding inversionally related forms.
+These 1,928 tone rows have been independently rediscovered several times, their first computation probably was by Andre Riotte in 1961, see.Since the sum of numbers 1 through 11 equals 66, an all-interval row must contain a tritone between its first and last notes, as well as in their middle.

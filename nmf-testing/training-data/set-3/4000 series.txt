@@ -1,0 +1,6 @@
+Digital electronics~Integrated circuits~
+||||||
+4000-series integrated circuits
+||||||
+The 4000 series is a CMOS logic family of integrated circuits (ICs) first introduced in 1968 by RCA. It had a supply voltage range of 5V to 20V, which is much wider than any contemporary logic family.
+Almost all IC manufacturers active during this initial era fabricated models for this series. Its naming convention is still in use today.

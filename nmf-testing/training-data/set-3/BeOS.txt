@@ -1,0 +1,7 @@
+BeOS~Discontinued operating systems~Object-oriented operating systems~PowerPC operating systems~X86 operating systems~
+||||||
+BeOS
+||||||
+BeOS is an operating system for personal computers first developed by Be Inc. in 1990. It was first written to run on BeBox hardware.
+BeOS was positioned as a multimedia platform that  could be used by a substantial population of desktop users and a competitor to Classic Mac OS and Microsoft Windows. It was ultimately unable to achieve a significant market share, and did not prove commercially viable for Be Inc. The company was acquired by Palm Inc. and today BeOS is mainly used and developed by a small population of enthusiasts.
+The open-source operating system Haiku is an open-source continuation of BeOS concepts. Beta 1 of Haiku was released in September 2018, six years after Alpha 4. Beta 2 of Haiku was released in June 2020, while Beta 3 was released about a year later in July 2021.

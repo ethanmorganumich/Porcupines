@@ -1,0 +1,6 @@
+ITU-T recommendations~Telecommunications stubs~
+||||||
+Remote Operations Service Element protocol
+||||||
+The Remote Operations Service Element (ROSE) is the OSI service interface, specified in ITU-T Recommendation X.219, ISO/IEC International Standard 9072-1, that (a) provides remote operation capabilities, (b) allows interaction between entities in a distributed application, and (c) upon receiving a remote operations service request, allows the receiving entity to attempt the operation and report the results of the attempt to the requesting entity. 
+OSI application protocols such as X.400 and X.500 use the services provided by ROSE. The ROSE protocol itself is defined using the notation of ASN.1.

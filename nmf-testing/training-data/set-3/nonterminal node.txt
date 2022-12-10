@@ -1,0 +1,5 @@
+Generative syntax~Grammar~Linguistic units~Linguistics~Linguistics terminology~Phrases~Syntactic relationships~Syntax~
+||||||
+Node (linguistics)
+||||||
+In formal syntax, a node is a point in a tree diagram or syntactic tree that can be assigned a syntactic category label.

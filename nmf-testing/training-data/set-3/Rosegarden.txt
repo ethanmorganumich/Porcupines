@@ -1,0 +1,7 @@
+Audio editing software that uses Qt~Audio software with JACK support~Digital audio workstation software~Free audio editors~Free audio software~Free music software~Free software programmed in C++~KDE~KDE software~Scorewriters~Scorewriters for Linux~
+||||||
+Rosegarden
+||||||
+Rosegarden is a free software digital audio workstation program developed for Linux with ALSA and Qt4. It acts as an audio and MIDI sequencer, scorewriter and musical composition and editing tool. It is intended to be a free alternative to such applications as Cubase.
+Software synthesizer is available as a plugin, and it is possible to use external MIDI synthesizer, hardware or software (such as FluidSynth or TiMidity++) in order to make any sound from MIDI compositions. Recent versions of Rosegarden support the DSSI software synthesizer plugin interface, and can use some Windows VST plugins through an adapter.
+

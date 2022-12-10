@@ -1,0 +1,70 @@
+Electrical engineering~Energy economics~
+||||||
+Electrical efficiency
+||||||
+The efficiency of a system in electronics and electrical engineering is defined as useful power output divided by the total electrical power consumed (a fractional expression), typically denoted by the Greek small letter eta (η – ήτα).
+
+  
+    
+      
+        
+          E
+          f
+          f
+          i
+          c
+          i
+          e
+          n
+          c
+          y
+        
+        =
+        
+          
+            
+              U
+              s
+              e
+              f
+              u
+              l
+               
+              p
+              o
+              w
+              e
+              r
+               
+              o
+              u
+              t
+              p
+              u
+              t
+            
+            
+              T
+              o
+              t
+              a
+              l
+               
+              p
+              o
+              w
+              e
+              r
+               
+              i
+              n
+              p
+              u
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Efficiency} ={\frac {\mathrm {Useful\ power\ output} }{\mathrm {Total\ power\ input} }}}
+  If energy output and input are expressed in the same units, efficiency is a dimensionless number. Where it is not customary or convenient to represent input and output energy in the same units, efficiency-like quantities have units associated with them.  For example, the heat rate of a fossil fuel power plant may be expressed in BTU per kilowatt-hour. Luminous efficacy of a light source expresses the amount of visible light for a certain amount of power transfer and has the units of lumens per watt.

@@ -1,0 +1,6 @@
+American inventions~Computer connectors~Computer display standards~Computer-related introductions in 1999~Digital display connectors~Film and video technology~High-definition television~Television technology~Television transmission standards~Video signal~
+||||||
+Digital Visual Interface
+||||||
+Digital Visual Interface (DVI) is a video display interface developed by the Digital Display Working Group (DDWG).  The digital interface is used to connect a video source, such as a video display controller, to a display device, such as a computer monitor.  It was developed with the intention of creating an industry standard for the transfer of digital video content.
+This interface is designed to transmit uncompressed digital video and can be configured to support multiple modes such as DVI-A (analog only), DVI-D (digital only) or DVI-I (digital and analog).  Featuring support for analog connections, the DVI specification is compatible with the VGA interface. This compatibility, along with other advantages, led to its widespread acceptance over competing digital display standards Plug and Display (P&D) and Digital Flat Panel (DFP).  Although DVI is predominantly associated with computers, it is sometimes used in other consumer electronics such as television sets and DVD players.

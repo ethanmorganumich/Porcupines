@@ -1,0 +1,6 @@
+Electrical parameters~Electronics concepts~Mesoscopic physics~Noise (electronics)~Poisson point processes~Quantum optics~
+||||||
+Shot noise
+||||||
+Shot noise or Poisson noise is a type of noise which can be modeled by a Poisson process. 
+In electronics shot noise originates from the discrete nature of electric charge. Shot noise also occurs in photon counting in optical devices, where shot noise is associated with the particle nature of light.

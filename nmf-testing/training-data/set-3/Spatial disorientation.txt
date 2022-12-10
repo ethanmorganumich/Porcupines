@@ -1,0 +1,7 @@
+Aviation risks~Proprioception~Vision~
+||||||
+Spatial disorientation
+||||||
+Spatial disorientation results in a person being unable to determine their position or relative motion, commonly occurring during periods of challenging visibility, since vision is the dominant sense for orientation. The auditory system, vestibular system (within the inner ear), and proprioceptive system (sensory receptors located in the skin, muscles, tendons and joints) collectively work to coordinate movement with balance, and can also create illusory nonvisual sensations, resulting in spatial disorientation in the absence of strong visual cues.
+In aviation, spatial disorientation can result in improper perception of the attitude of the aircraft, referring to the motion of the aircraft (whether turning, ascending or descending). For aviators, proper recognition of aircraft attitude is most critical at night or in poor weather, when there is no visible horizon, and spatial disorientation has led to numerous aviation accidents. Spatial disorientation can occur in other situations where visibility is reduced, such as diving operations.
+

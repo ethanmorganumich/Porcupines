@@ -1,0 +1,7 @@
+Acronyms~Free software operating systems~GNU Project~GNU Project software~Mach (kernel)~Microkernel-based operating systems~Unix variants~
+||||||
+GNU
+||||||
+GNU ( (listen)) is an extensive collection of free software (383 packages as of January 2022), which can be used as an operating system or can be used in parts with other operating systems. The use of the completed GNU tools led to the family of operating systems popularly known as Linux. Most of GNU is licensed under the GNU Project's own General Public License (GPL).
+
+GNU is also the project within which the free software concept originated. Richard Stallman, the founder of the project, views GNU as a "technical means to a social end". Relatedly, Lawrence Lessig states in his introduction to the second edition of Stallman's book Free Software, Free Society that in it Stallman has written about "the social aspects of software and how Free Software can create community and social justice".

@@ -1,0 +1,76 @@
+1000 (number)~1913 introductions~Equal temperaments~Intervals (music)~Units of measurement~
+||||||
+Millioctave
+||||||
+The millioctave (moct) is a unit of measurement for musical intervals. As is expected from the prefix milli-, a millioctave is defined as 1/1000 of an octave. From this it follows that one millioctave is equal to the ratio 21/1000, the 1000th root of 2, or approximately 1.0006934 (play ).
+Given two frequencies a and b, the measurement of the interval between them in millioctaves can be calculated by
+
+  
+    
+      
+        n
+        =
+        1000
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        
+          (
+          
+            
+              a
+              b
+            
+          
+          )
+        
+        ≈
+        3322
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          (
+          
+            
+              a
+              b
+            
+          
+          )
+        
+      
+    
+    {\displaystyle n=1000\log _{2}\left({\frac {a}{b}}\right)\approx 3322\log _{10}\left({\frac {a}{b}}\right)}
+  Likewise, if you know a note b and the number n of millioctaves in the interval, then the other note a may be calculated by:
+
+  
+    
+      
+        a
+        =
+        b
+        ×
+        
+          2
+          
+            
+              n
+              1000
+            
+          
+        
+      
+    
+    {\displaystyle a=b\times 2^{\frac {n}{1000}}}
+  Like the more common cent, the millioctave is a linear measure of intervals, and thus the size of intervals can be calculated by adding their millioctave values, instead of multiplication, which is necessary for calculations of frequencies.
+A millioctave is exactly 1.2 cents.
+

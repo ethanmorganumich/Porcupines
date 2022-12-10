@@ -1,0 +1,7 @@
+Chord factors~Ninth chords~
+||||||
+Ninth chord
+||||||
+In music theory, a ninth chord is a chord that encompasses the interval of a ninth when arranged in close position with the root in the bass.
+The ninth chord and its inversions exist today, or at least they can exist. The pupil will easily find examples in the literature [such as Schoenberg's Verklärte Nacht and Strauss's opera Salome]. It is not necessary to set up special laws for its treatment. If one wants to be careful, one will be able to use the laws that pertain to the seventh chords: that is, dissonances resolve by step downward, the root leaps a fourth upward.
+Heinrich Schenker and also Nikolai Rimsky-Korsakov allowed the substitution of the dominant seventh, leading-tone, and leading tone half-diminished seventh chords, rejected the concept of a ninth chord on the basis that only that on the fifth scale degree (V9) was admitted and that inversion was not allowed of the ninth chord.

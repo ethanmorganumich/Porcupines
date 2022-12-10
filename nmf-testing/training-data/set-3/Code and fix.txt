@@ -1,0 +1,6 @@
+Methodology~Software development process~Software engineering~
+||||||
+Software development process
+||||||
+In software engineering, a software development process is a process of dividing software development work into smaller, parallel, or sequential steps or sub-processes to improve design, product management.  It is also known as a software development life cycle (SDLC).  The methodology may include the pre-definition of specific deliverables and artifacts that are created and completed by a project team to develop or maintain an application.Most modern development processes can be vaguely described as agile. Other methodologies include waterfall, prototyping, iterative and incremental development, spiral development, rapid application development, and extreme programming.
+A life-cycle "model" is sometimes considered a more general term for a category of methodologies and a software development "process" a more specific term to refer to a specific process chosen by a specific organization. For example, there are many specific software development processes that fit the spiral life-cycle model. The field is often considered a subset of the systems development life cycle.

@@ -1,0 +1,7 @@
+Diatonic set theory~Major scales~Modes (music)~
+||||||
+Ionian mode
+||||||
+Ionian mode is a musical mode or, in modern usage, a diatonic scale also called the major scale.
+It is the name assigned by Heinrich Glarean in 1547 to his new authentic mode on C (mode 11 in his numbering scheme), which uses the diatonic octave species from C to the C an octave higher, divided at G (as its dominant, reciting tone/reciting note or tenor) into a fourth species of perfect fifth (tone–tone–semitone–tone) plus a third species of perfect fourth (tone–tone–semitone): C D E F G + G A B C. This octave species is essentially the same as the major mode of tonal music.Church music had been explained by theorists as being organised in eight musical modes: the scales on D, E, F, and G in the "greater perfect system" of "musica recta," each with their authentic and plagal counterparts.
+Glarean's twelfth mode was the plagal version of the Ionian mode, called Hypoionian (under Ionian), based on the same relative scale, but with the major third as its tenor, and having a melodic range from a perfect fourth below the tonic, to a perfect fifth above it.

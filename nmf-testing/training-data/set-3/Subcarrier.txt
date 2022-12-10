@@ -1,0 +1,5 @@
+Broadcast engineering~
+||||||
+Subcarrier
+||||||
+A subcarrier is a sideband of a radio frequency carrier wave, which is modulated to send additional information. Examples include the provision of colour in a black and white television system or the provision of stereo in a monophonic radio broadcast. There is no physical difference between a carrier and a subcarrier; the "sub" implies that it has been derived from a carrier, which has been amplitude modulated by a steady signal and has a constant frequency relation to it.

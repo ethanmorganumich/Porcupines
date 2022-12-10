@@ -1,0 +1,7 @@
+Computer-related introductions in 1976~Intel microcontrollers~
+||||||
+Intel MCS-48
+||||||
+The MCS-48 microcontroller series, Intel's first microcontroller, was originally released in 1976. Its first members were 8048, 8035 and 8748. The 8048 is probably the most prominent member of the family. Initially, this family was produced using NMOS (n-type metal–oxide–semiconductor) technology. In the early 1980s, it became available in CMOS technology. It was still manufactured into the 1990s to support older designs that still used it.
+The MCS-48 series has a modified Harvard architecture, with internal or external program ROM and 64–256 bytes of internal (on-chip) RAM. The I/O is mapped into its own address space, separate from programs and data. 
+Though the MCS-48 series was eventually replaced by the very successful MCS-51 series, it remained quite popular even by the year 2000 due to its low cost, wide availability, memory-efficient one-byte instruction set, and mature development tools. Because of this, it is much used in high-volume, cost-sensitive consumer electronics devices such as TV remotes, computer keyboards, and toys.

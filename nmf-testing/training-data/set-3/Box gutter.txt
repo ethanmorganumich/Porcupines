@@ -1,0 +1,5 @@
+Architectural element stubs~Architectural elements~Roofs~
+||||||
+Box gutter
+||||||
+A box gutter, internal gutter, parallel gutter, or trough gutter is a rain gutter on a roof usually rectangular in shape; it may be lined with EPDM rubber, metal, asphalt, or roofing felt, and may be concealed behind a parapet or the eaves, or in a roof valley.Box gutters are essentially placed between parallel surfaces, as in a valley between parallel roofs or at the junction of a roof and a parapet wall. They should not be confused with so-called valley gutters or valley flashings which occur at the non-parallel intersection of roof surfaces, typically at right angled internal corners of pitched roofs. Provision is made in the design of the gutter to have a rain flow to the outlet with a maximum slope of 1:200 and a minimum of 1:400.

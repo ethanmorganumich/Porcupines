@@ -1,0 +1,6 @@
+Optical filters~
+||||||
+Infrared cut-off filter
+||||||
+Infrared cut-off filters, sometimes called IR filters or heat-absorbing filters, are designed to reflect or block near-infrared wavelengths while passing visible light. They are often used in devices with bright incandescent light bulbs (such as slide and overhead projectors) to prevent unwanted heating. There are also filters which are used in solid state (CCD or CMOS) video cameras to block IR due to the high sensitivity of many camera sensors to near-infrared light. These filters typically have a blue hue to them as they also sometimes block some of the light from the longer red wavelengths.
+

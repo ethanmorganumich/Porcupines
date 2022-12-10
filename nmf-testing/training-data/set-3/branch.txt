@@ -1,0 +1,6 @@
+Plant morphology~
+||||||
+Branch
+||||||
+A branch, sometimes called a ramus in botany, is a woody structural member connected to the central trunk of a tree (or sometimes a shrub). Large branches are known as boughs and small branches are known as twigs. The term twig usually refers to a terminus, while bough refers only to branches coming directly from the trunk.
+Due to a broad range of species of trees, branches and twigs can be found in many different shapes and sizes. While branches can be nearly horizontal, vertical, or diagonal, the majority of trees have upwardly diagonal branches. A number of mathematical properties are associated with tree branchings; they are natural examples of fractal patterns in nature, and, as observed by Leonardo da Vinci, their cross-sectional areas closely follow the da Vinci branching rule.

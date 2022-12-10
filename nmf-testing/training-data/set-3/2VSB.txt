@@ -1,0 +1,5 @@
+Radio modulation modes~Telecommunications stubs~
+||||||
+2VSB
+||||||
+In telecommunications, 2VSB is an abbreviation for 2-level vestigial sideband modulation, a transmission method capable of transmitting one bit (21=2) at a time.Other faster but less rugged forms include 4VSB, 8VSB, and 16VSB.

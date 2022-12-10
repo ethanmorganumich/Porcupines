@@ -1,0 +1,6 @@
+Aircraft controls~Aircraft wing components~
+||||||
+Aileron
+||||||
+An aileron (French for "little wing" or "fin") is a hinged flight control surface usually forming part of the trailing edge of each wing of a fixed-wing aircraft. Ailerons are used in pairs to control the aircraft in roll (or movement around the aircraft's longitudinal axis), which normally results in a change in flight path due to the tilting of the lift vector.  Movement around this axis is called 'rolling' or 'banking'.
+Considerable controversy exists over credit for the invention of the aileron. The Wright brothers and Glenn Curtiss fought a years-long legal battle over the Wright patent of 1906, which described a method of wing-warping to achieve lateral control. The brothers prevailed in several court decisions which found that Curtiss's use of ailerons violated the Wright patent. Ultimately, the First World War compelled the U.S. Government to legislate a legal resolution. A much earlier aileron concept was patented in 1868 by British scientist Matthew Piers Watt Boulton, based on his 1864 paper On Aërial Locomotion.

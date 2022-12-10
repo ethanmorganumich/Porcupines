@@ -1,0 +1,6 @@
+Database normalization~
+||||||
+First normal form
+||||||
+First normal form (1NF) is a property of a relation in a relational database. A relation is in first normal form if and only if no attribute domain has relations as elements. Or more informally, that no table column can have tables as values (or no repeating groups). Database normalization is the process of representing a database in terms of relations in standard normal forms, where first normal is a minimal requirement. SQL-92 does not support creating or using table-valued columns, which means that using only the "traditional relational database features" (excluding extensions even if they were later standardized) most relational databases will be in first normal form by necessity. Database systems which do not require first normal form are often called no sql systems. Newer SQL standards like SQL:1999 have started to allow so called non-atomic types, which include composite types. Even newer versions like SQL:2016 allow json.
+

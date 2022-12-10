@@ -1,0 +1,7 @@
+Ethernet standards~
+||||||
+10BASE5
+||||||
+10BASE5 (also known as thick Ethernet or thicknet) was the first commercially available variant of Ethernet. The technology was standardized in 1982 as IEEE 802.3. 10BASE5 uses a thick and stiff coaxial cable up to 500 meters (1,600 ft) in length. Up to 100 stations can be connected to the cable using vampire taps and share a single collision domain with 10 Mbit/s of bandwidth shared among them. The system is difficult to install and maintain.
+10BASE5 was superseded by much cheaper and more convenient alternatives: first by 10BASE2 based on a thinner coaxial cable, and then, once Ethernet over twisted pair was developed, by 10BASE-T and its successors 100BASE-TX and 1000BASE-T. In 2003, the IEEE 802.3 working group deprecated 10BASE5 for new installations.
+

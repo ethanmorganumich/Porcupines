@@ -1,0 +1,5 @@
+Animation techniques~Cinematic techniques~Stop motion~
+||||||
+Go motion
+||||||
+Go motion is a variation of stop motion animation which incorporates motion blur into each frame involving motion. It was co-developed by Industrial Light & Magic and Phil Tippett. Stop motion animation can create a disorienting, and distinctive staccato effect, because the animated object is perfectly sharp in every frame, since each frame of the animation was actually shot when the object was perfectly still. Real moving objects in similar scenes of the same movie will have motion blur, because they moved while the shutter of the camera was open. Filmmakers use a variety of techniques to simulate motion blur, such as moving the model slightly during the exposure of each film frame or using a glass plate smeared with petroleum jelly in front of the camera lens to blur the moving areas.

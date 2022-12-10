@@ -1,0 +1,5 @@
+Quantized radio modulation modes~
+||||||
+PSK31
+||||||
+PSK31 or "Phase Shift Keying, 31 Baud", also BPSK31 and QPSK31, is a popular computer-sound card-generated radioteletype mode, used primarily by amateur radio operators to conduct real-time keyboard-to-keyboard chat, most often using frequencies in the high frequency amateur radio bands (near-shortwave).  PSK31 is distinguished from other digital modes in that it is specifically tuned to have a data rate close to typing speed, and has an extremely narrow bandwidth, allowing many conversations in the same bandwidth as a single voice channel. This narrow bandwidth makes better use of the RF energy in a very narrow space thus allowing relatively low-power equipment (5 watts) to communicate globally using the same skywave propagation used by shortwave radio stations.

@@ -1,0 +1,126 @@
+Graph theory~
+||||||
+Degree (graph theory)
+||||||
+In graph theory, the degree (or valency) of a vertex of a graph is the number of edges that are incident to the vertex; in a multigraph, a loop contributes 2 to a vertex's degree, for the two ends of the edge. The degree of a vertex 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   is denoted 
+  
+    
+      
+        deg
+        ⁡
+        (
+        v
+        )
+      
+    
+    {\displaystyle \deg(v)}
+   or 
+  
+    
+      
+        deg
+        ⁡
+        v
+      
+    
+    {\displaystyle \deg v}
+  . The maximum degree of a graph 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  , denoted by 
+  
+    
+      
+        Δ
+        (
+        G
+        )
+      
+    
+    {\displaystyle \Delta (G)}
+  , and the minimum degree of a graph, denoted by 
+  
+    
+      
+        δ
+        (
+        G
+        )
+      
+    
+    {\displaystyle \delta (G)}
+  , are the maximum and minimum of its vertices' degrees. In the multigraph shown on the right, the maximum degree is 5 and the minimum degree is 0.
+In a regular graph, every vertex has the same degree, and so we can speak of the degree of the graph. A complete graph (denoted 
+  
+    
+      
+        
+          K
+          
+            n
+          
+        
+      
+    
+    {\displaystyle K_{n}}
+  , where 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is the number of vertices in the graph) is a special kind of regular graph where all vertices have the maximum possible degree, 
+  
+    
+      
+        n
+        −
+        1
+      
+    
+    {\displaystyle n-1}
+  .
+In a signed graph, the number of positive edges connected to the vertex 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   is called positive deg
+  
+    
+      
+        (
+        v
+        )
+      
+    
+    {\displaystyle (v)}
+   and the number of connected negative edges is entitled negative deg
+  
+    
+      
+        (
+        v
+        )
+      
+    
+    {\displaystyle (v)}
+  .

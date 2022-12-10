@@ -1,0 +1,6 @@
+Ambiguity~Barriers to critical thinking~Concepts in epistemology~Formal semantics (natural language)~Mathematical notation~Semantics~
+||||||
+Ambiguity
+||||||
+Ambiguity is the type of meaning in which a phrase, statement or resolution is not explicitly defined, making several interpretations plausible. A common aspect of ambiguity is uncertainty. It is thus an attribute of any idea or statement whose intended meaning cannot be definitively resolved according to a rule or process with a finite number of steps. (The ambi- part of the term reflects an idea of "two", as in "two meanings".)
+The concept of ambiguity is generally contrasted with vagueness. In ambiguity, specific and distinct interpretations are permitted (although some may not be immediately obvious), whereas with information that is vague, it is difficult to form any interpretation at the desired level of specificity.

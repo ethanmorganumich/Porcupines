@@ -1,0 +1,6 @@
+Basic concepts in set theory~Families of sets~
+||||||
+Disjoint sets
+||||||
+In mathematics, two sets are said to be disjoint sets if they have no element in common. Equivalently, two disjoint sets are sets whose intersection is the empty set. For example, {1, 2, 3} and {4, 5, 6} are disjoint sets, while {1, 2, 3} and {3, 4, 5} are not disjoint. A collection of two or more sets is called disjoint if any two distinct sets of the collection are disjoint.
+

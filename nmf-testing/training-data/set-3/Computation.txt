@@ -1,0 +1,5 @@
+Computability theory~Theoretical computer science~
+||||||
+Computation
+||||||
+Computation is any type of arithmetic or non-arithmetic calculation that follows a well-defined model (e.g., an algorithm).Mechanical or electronic devices (or, historically, people) that perform computations are known as computers. An especially well-known discipline of the study of computation is computer science.

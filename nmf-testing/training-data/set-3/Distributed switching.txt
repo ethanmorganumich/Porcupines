@@ -1,0 +1,5 @@
+Local loop~Telephone exchanges~
+||||||
+Distributed switching
+||||||
+Distributed switching is an architecture in which multiple processor-controlled switching units are distributed.  There is often a hierarchy of switching elements, with a centralized host switch and with remote switches located close to concentrations of users.

@@ -1,0 +1,9 @@
+United Kingdom company law~
+||||||
+Table A
+||||||
+Table A in UK company law is the old name for the Model Articles or default form of articles of association for companies limited by shares incorporated either in England and Wales or in Scotland before 1 October 2009 where the incorporators do not explicitly choose to use a modified form. Table A was first introduced by the Joint Stock Companies Act 1856 (as 'Table B'), and then under its current name of 'Table A' by the Companies Act 1862.
+The existing form of Table A was introduced in 1985 by the subsidiary legislation passed under the Companies Act 1985, although it has been updated on several occasions since its introduction.
+Although Table A is the most frequently referred to, relating to generic companies limited by shares (the most common form), there are also pro forma constitutional documents for companies limited by guarantee without a share capital (Table C) and unlimited liability companies with a share capital (Table E).
+One advantage of having standard form constitutional documents for the bulk of companies formed within a jurisdiction is that a substantial body of case law has arisen in relation to the forms, which assists legal practitioners when preparing more bespoke forms of constitutional documents for businesses.
+Table A has been replaced for new companies by the simplified and modernised Companies Act 2006 Model Articles which came into force on 1 October 2009. However, it still remains valid for Companies incorporated under the Companies Act 1985 in the form it existed at the time of incorporation of the company. For example, Article 50 regarding the Chairman's casting vote was removed from Table A in 2007. However, if this right existed in a Company's articles due to incorporation before this date it remains valid.

@@ -1,0 +1,7 @@
+Software wars~Source code~Text editor features~
+||||||
+Indentation style
+||||||
+In computer programming, an indentation style is a convention governing the indentation of blocks of code to convey program structure. This article largely addresses the free-form languages, such as C and its descendants, but can be (and often is) applied to most other programming languages (especially those in the curly bracket family), where whitespace is otherwise insignificant. Indentation style is only one aspect of programming style.
+Indentation is not a requirement of most programming languages, where it is used as secondary notation. Rather, indenting helps better convey the structure of a program to human readers. Especially, it is used to clarify the link between control flow constructs such as conditions or loops, and code contained within and outside of them. However, some languages (such as Python and occam) use indentation to determine the structure instead of using braces or keywords; this is termed the off-side rule. In such languages, indentation is meaningful to the compiler or interpreter; it is more than only a clarity or style issue.
+This article uses the term brackets to refer to parentheses, and the term braces to refer to curly brackets.

@@ -1,0 +1,7 @@
+Incoterms~International law legal terminology~International trade law~
+||||||
+FOB (shipping)
+||||||
+FOB (free on board) is a term in international commercial law specifying at what point respective obligations, costs, and risk involved in the delivery of goods shift from the seller to the buyer under the Incoterms standard published by the International Chamber of Commerce. FOB is only used in non-containerized sea freight or inland waterway transport. As with all Incoterms, FOB does not define the point at which ownership of the goods is transferred.
+The term FOB is also used in modern domestic shipping within North America to describe the point at which a seller is no longer responsible for shipping costs.
+Ownership of a cargo is independent of Incoterms, which relate to delivery and risk. In international trade, ownership of the cargo is defined by the contract of sale and the bill of lading or waybill.

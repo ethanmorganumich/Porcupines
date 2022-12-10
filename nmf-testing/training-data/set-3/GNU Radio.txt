@@ -1,0 +1,5 @@
+Amateur radio software for Linux~Amateur radio software for Windows~Amateur radio software for macOS~Free communication software~Free software programmed in Python~GNU Project software~Linux audio video-related software~Software forks~Software that uses Qt~Software-defined radio~
+||||||
+GNU Radio
+||||||
+GNU Radio is a free software development toolkit that provides signal processing blocks to implement software-defined radios and signal-processing systems. It can be used with external RF hardware to create software-defined radios, or without hardware in a simulation-like environment. It is widely used in hobbyist, academic, and commercial environments to support both wireless communications research and real-world radio systems.

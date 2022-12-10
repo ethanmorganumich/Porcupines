@@ -1,0 +1,9 @@
+American news websites~American political websites~Defunct websites~Diplomacy~Internet search engines~
+||||||
+Diplomacy Monitor
+||||||
+Diplomacy Monitor was a free Internet-based tool created in 2003 to monitor diplomacy documents (communiqués, official statements, interview transcripts, etc.) published in various diplomacy-related websites, including official sources from governments (head of state websites, consulates, foreign ministries) all over the world.
+Diplomacy Monitor addressed the emerging Internet-based public diplomacy, whereby the growing number of governments embraces the power of internet to communicate with public worldwide.
+The core of the Monitor was a web crawler which operated on the websites of interest. After the crawler identified documents of potential interest, they were reviewed and processed by the editorial staff and entered into the database.
+Diplomacy Monitor ceased operations in November 2009.
+Since its establishment, Diplomacy Monitor was quickly recognized as a convenient tool for research in international issues. For example, the Monitor is the "editor's choice" for the Intute, an online database network of UK universities. Michigan State University: "If you need to stay up-to-date on the latest in diplomatic news, look no further..."

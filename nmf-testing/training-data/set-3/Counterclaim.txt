@@ -1,0 +1,9 @@
+Civil law (common law)~
+||||||
+Counterclaim
+||||||
+In a court of law, a party's claim is a counterclaim if one party asserts claims in response to the claims of another.  In other words, if a plaintiff initiates a lawsuit and a defendant responds to the lawsuit with claims of their own against the plaintiff, the defendant’s claims are “counterclaims.”
+Examples of counterclaims include: 
+
+After a bank has sued a customer for an unpaid debt, the customer counterclaims (sues back) against the bank for fraud in procuring the debt.  The court will sort out the different claims in one lawsuit (unless the claims are severed).
+Two cars collide. After one person sues for damage to his/her car and personal injuries, the defendant counterclaims for similar property damage and personal injury claims.

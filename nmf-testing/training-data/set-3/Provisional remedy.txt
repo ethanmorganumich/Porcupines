@@ -1,0 +1,9 @@
+Judicial remedies~Legal terminology stubs~
+||||||
+Provisional remedy
+||||||
+The purpose of a provisional remedy is the preservation of the status quo until final disposition of a matter can occur.
+Under United States law, FRCP 64 provides with several types of seizure (e.g. garnishment, replevin, attachment) that a Federal Court may use pursuant to state law. FRCP 65 concerns Temporary Restraining Order (may be made ex parte) and preliminary injunction (requires some hearing).
+In order to establish the constitutionality of a provisional remedy, two cases must be distinguished. The 3-part test established in Matthews determines whether a prejudgment remedy meets the constitutional requirements when Government seeks deprivation on its own initiative. The court must take into consideration the private interest of the party against whom the remedy is sought, the risk of erroneous deprivation as well as the probable value, if any, of addition or substitute safeguards and, the moving party's interest.
+The 3-part test established in Connecticut v. Doehr determines whether a prejudgment remedy meets the constitutional requirements when Government action is applied to a suit between private parties. The due process analysis involves the same requirements as set forth in Matthews.
+The court must also take into account whether there are exigent circumstances, a bond requirement, a judicial assessment, a detailed statement of factual basis, and a prompt post-seizure hearing.

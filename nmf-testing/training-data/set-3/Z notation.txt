@@ -1,0 +1,5 @@
+Computer-related introductions in 1977~Formal specification languages~Oxford University Computing Laboratory~Specification languages~Z notation~
+||||||
+Z notation
+||||||
+The Z notation  is a formal specification language used for describing and modelling computing systems. It is targeted at the clear specification of computer programs and computer-based systems in general.

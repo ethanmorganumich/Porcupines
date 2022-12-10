@@ -1,0 +1,6 @@
+Music cognition~Music psychology~Musical analysis~
+||||||
+Melodic expectation
+||||||
+In music cognition and musical analysis, the study of melodic expectation considers the engagement of the brain's predictive mechanisms in response to music. For example, if the ascending musical partial octave "do-re-mi-fa-sol-la-ti-..." is heard, listeners familiar with Western music will have a strong expectation to hear or provide one more note, "do", to complete the octave.
+Melodic expectation can be considered at the esthesic level, in which case the focus lies on the listener and its response to music. It can be considered at the neutral level, in which case the focus switches to the actual musical content, such as the "printed notes themselves". At the neutral level, the observer may consider logical implications projected onto future elements by past elements or derive statistical observations from information theory.

@@ -1,0 +1,8 @@
+Hearsay~
+||||||
+Hearsay
+||||||
+Hearsay evidence, in a legal forum, is testimony from an under-oath witness who is reciting an out-of-court statement, the content of which is being offered to prove the truth of the matter asserted. In most courts, hearsay evidence is inadmissible (the "hearsay evidence rule") unless an exception to the hearsay rule applies.
+For example, to prove that Tom was in town, a witness testifies, "Susan told me that Tom was in town." Because the witness's evidence relies on an out-of-court statement that Susan made, if Susan is unavailable for cross-examination, the answer is hearsay. A justification for the objection is that the person who made the statement is not in court and thus not available for cross-examination. Note, however, that if the matter at hand is not the truth of the assertion about Tom being in town but the fact that Susan said the specific words, it may be acceptable. For example, it would be acceptable to ask a witness what Susan told them about Tom in a defamation case against Susan. Now the witness is asked about the opposing party's statement that constitutes a verbal act.The hearsay rule does not exclude the evidence if it is an operative fact. Language of commercial offer and acceptance is also admissible over a hearsay exception because the statements have independent legal significance.
+Double hearsay is a hearsay statement that contains another hearsay statement itself. In a court, both layers of hearsay must be found separately admissible. 
+Many jurisdictions that generally disallow hearsay evidence in courts permit the more widespread use of hearsay in non-judicial hearings.

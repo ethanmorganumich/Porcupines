@@ -1,0 +1,50 @@
+Electrical parameters~Electronics concepts~Temporal rates~
+||||||
+Slew rate
+||||||
+In electronics, slew rate is defined as the change of voltage or current, or any other electrical quantity, per unit of time. Expressed in SI units, the unit of measurement is volts/second or amperes/second, but is usually expressed in terms of microseconds (μs) or nanoseconds (ns).
+Electronic circuits may specify minimum or maximum limits on the slew rates for their inputs or outputs, with these limits only valid under some set of given conditions (e.g. output loading). When given for the output of a circuit, such as an amplifier, the slew rate specification guarantees that the speed of the output signal transition will be at least the given minimum, or at most the given maximum. When applied to the input of a circuit, it instead indicates that the external driving circuitry needs to meet those limits in order to guarantee the correct operation of the receiving device. If these limits are violated, some error might occur and correct operation is no longer guaranteed.
+For example, when the input to a digital circuit is driven too slowly, the digital input value registered by the circuit may oscillate between 0 and 1 during the signal transition. In other cases, a maximum slew rate is specified in order to limit the high frequency content present in the signal, thereby preventing such undesirable effects as ringing or radiated EMI.In amplifiers, limitations in slew rate capability can give rise to non-linear effects. For a sinusoidal waveform not to be subject to slew rate limitation, the slew rate capability (in volts per second) at all points in an amplifier must satisfy the following condition:
+
+  
+    
+      
+        
+          S
+          R
+        
+        ≥
+        2
+        π
+        f
+        
+          V
+          
+            
+              p
+              k
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathrm {SR} \geq 2\pi fV_{\mathrm {pk} },}
+  where f is the operating frequency, and 
+  
+    
+      
+        
+          V
+          
+            
+              p
+              k
+            
+          
+        
+      
+    
+    {\displaystyle V_{\mathrm {pk} }}
+   is the peak amplitude of the waveform.
+In mechanics the slew rate is given in dimensions 1/T and is associated with the change in position over time of an object which orbits around the observer.  Slew rate can also be measured in degrees per second.

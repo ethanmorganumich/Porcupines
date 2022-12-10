@@ -1,0 +1,6 @@
+Legal terminology stubs~Money stubs~Negotiable instrument law~
+||||||
+Blank endorsement
+||||||
+Blank endorsement of a financial instrument, such as a cheque, is only a signature, not indicating the payee. The effect of this is that it is payable only to the bearer – legally, it transforms an order instrument ("pay to the order of (the payee)") into a bearer instrument ("pay to the bearer"). It is one of the types of endorsement of a negotiable instrument.
+It is "an endorsement consisting of nothing but a signature and allowing any party in possession of the endorsed item to execute a claim."A blank endorsement is a commonly known and accepted term in the legal and business worlds.This is also called an endorsement in blank or blank endorsement.The prevalent spelling in American English is endorsement; the minority convention, indorsement, is found in older American documents, although the revised Uniform Commercial Code Article on negotiable instruments retains the older spelling.

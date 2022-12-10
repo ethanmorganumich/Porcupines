@@ -1,0 +1,6 @@
+Conceptual modelling~Economics models~
+||||||
+Economic model
+||||||
+In economics, a model is a theoretical construct representing economic processes by a set of variables and a set of logical and/or quantitative relationships between them. The economic model is a simplified, often mathematical, framework designed to illustrate complex processes. Frequently, economic models posit structural parameters. A model may have various exogenous variables, and those variables may change to create various responses by economic variables. Methodological uses of models include investigation, theorizing, and fitting theories to the world.
+

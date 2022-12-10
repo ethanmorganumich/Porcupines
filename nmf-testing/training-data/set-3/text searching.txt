@@ -1,0 +1,7 @@
+String matching algorithms~
+||||||
+String-searching algorithm
+||||||
+In computer science, string-searching algorithms, sometimes called string-matching algorithms, are an important class of string algorithms that try to find a place where one or several strings (also called patterns) are found within a larger string or text.
+A basic example of string searching is when the pattern and the searched text are arrays of elements of an alphabet (finite set) Σ.  Σ may be a human language alphabet, for example, the letters A through Z and other applications may use a binary alphabet (Σ = {0,1}) or a DNA alphabet (Σ = {A,C,G,T}) in bioinformatics.
+In practice, the method of feasible string-search algorithm may be affected by the string encoding. In particular, if a variable-width encoding is in use, then it may be slower to find the Nth character, perhaps requiring time proportional to N. This may significantly slow some search algorithms. One of many possible solutions is to search for the sequence of code units instead, but doing so may produce false matches unless the encoding is specifically designed to avoid it.

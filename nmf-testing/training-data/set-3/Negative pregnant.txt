@@ -1,0 +1,7 @@
+American legal terminology~
+||||||
+Negative pregnant
+||||||
+A negative pregnant (sometimes called a pregnant denial) refers to a denial which implies its affirmative opposite by seeming to deny only a qualification of the allegation and not the allegation itself.  For example, "I deny that I owe the plaintiff five hundred dollars" might imply that the person making the statement owes some other sum of money, and was only denying that they owe that particular amount.  
+A negative pregnant which appears in pleadings will often elicit a request for further and better particulars, or an interrogatory.  In order to avoid a negative pregnant in the above example, one might instead say, "I deny that I owe the plaintiff five hundred dollars, or any other sum of money."
+The issue can also arise in the context of statutory interpretation. For instance, Justice Thurgood Marshall argues in his dissent to EEOC v. Aramco that the presumption against extraterritoriality is rebutted by a negative inference from the alien-exemption provision of Title VII of the Civil Rights Act of 1964, which states that Title VII "shall not apply to an employer with respect to the employment of aliens outside any State." Marshall concludes that "Absent an intention that Title VII apply 'outside any State,' Congress would have had no reason to craft this extraterritorial exemption. And because only discrimination against aliens is exempted, employers remain accountable for discrimination against United States citizens abroad."

@@ -1,0 +1,8 @@
+Telecommunications stubs~Teletraffic~
+||||||
+Connections per circuit hour
+||||||
+In telecommunication, the term connections per circuit hour (CCH) has the following meanings: 
+
+A unit of teletraffic measurement expressed as the number of connections established at a switching point per hour.
+A unit of traffic measurement used to express the rate at which circuits are established at a switch.The magnitude of the CCH is an instantaneous value subject to change as a function of time (i.e. from moment to moment), and is subject to study including load curve and busy hour as other measures of traffic are.

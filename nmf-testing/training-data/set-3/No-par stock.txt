@@ -1,0 +1,8 @@
+Equity securities~Finance stubs~Stock market~
+||||||
+No-par stock
+||||||
+No-par stock is stock issued with no par or face value. In modern practice, par value is an antiquated concept and no-par stock is increasingly common.
+In most jurisdictions, the par value of a stock is the lowest possible price at which a company could issue stock, and amounts equivalent to the aggregate par values of the stock were required to have special treatment as stated capital in accounting. No-par stocks often require the board of directors of a company to determine a stated value when issuing no-par stock to replace the par-determined capital amounts.
+Some U.S. states do not allow corporations incorporated in the state to issue no-par stock. In these states stock's par values are often extremely low relative to the trading value of the shares (e.g., one cent, or fractions of a cent).
+

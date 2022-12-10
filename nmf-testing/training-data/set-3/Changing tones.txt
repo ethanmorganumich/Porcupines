@@ -1,0 +1,5 @@
+Music theory stubs~Nonchord tones~Ornamentation~
+||||||
+Changing tones
+||||||
+In music, changing tones (also called double neighboring tones and neighbor group) consists of two consecutive non-chord tones. The first moves in one direction by a step from a chord tone, then skips by a third in the opposite direction to another non-chord tone, and then finally resolves back to the original chord tone. Changing tones appear to resemble two consecutive neighbor tones; an upper neighbor and a lower neighbor with the chord tone missing from the middle. The changing tone functions as a way to decorate, or embellish, a chord tone and are also used to provide rhythmic interest between common tones.  In rare instances, changing tones can be heard as musical cryptograms, such as the cruciform melody.

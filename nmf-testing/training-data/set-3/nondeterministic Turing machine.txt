@@ -1,0 +1,6 @@
+Turing machine~
+||||||
+Nondeterministic Turing machine
+||||||
+In theoretical computer science, a nondeterministic Turing machine (NTM) is a theoretical model of computation whose governing rules specify more than one possible action when in some given situations. That is, an NTM's next state is not completely determined by its action and the current symbol it sees, unlike a deterministic Turing machine.
+NTMs are sometimes used in thought experiments to examine the abilities and limits of computers. One of the most important open problems in theoretical computer science is the P versus NP problem, which (among other equivalent formulations) concerns the question of how difficult it is to simulate nondeterministic computation with a deterministic computer.

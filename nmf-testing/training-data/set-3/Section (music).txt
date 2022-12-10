@@ -1,0 +1,9 @@
+Auxiliary members~Formal sections in music analysis~
+||||||
+Section (music)
+||||||
+In music, a section is a complete, but not independent, musical idea. Types of sections include the introduction or intro, exposition, development, recapitulation, verse, chorus or refrain, conclusion, coda or outro, fadeout, bridge or interlude. In sectional forms such as binary, the larger unit (form) is built from various smaller clear-cut units (sections) in combination, analogous to stanzas in poetry or somewhat like stacking Lego.
+Some well known songs consist of only one or two sections, for example "Jingle Bells" commonly contains verses ("Dashing through the snow...") and choruses ("Oh, jingle bells..."). It may contain "auxiliary members" such as an introduction and/or outro, especially when accompanied by instruments (the piano starts and then: "Dashing...").
+A section is, "a major structural unit perceived as the result of the coincidence of relatively large numbers of structural phenomena."An episode may also refer to a section. This term is particularly common in analysis of a fugue to designate sections during which a fugue subject is not heard (though it may still draw on motifs from the subject). After the opening exposition, fugues generally follow a plan of alternating thematic statements and episodes.A passage is a musical idea that may or may not be complete or independent. For example, fill, riff, and all sections.
+Musical material is any musical idea, complete or not, independent or not, including motifs.
+

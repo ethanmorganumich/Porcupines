@@ -1,0 +1,6 @@
+Computer programming~Lists of programming languages~
+||||||
+List of programming languages
+||||||
+This is an index to notable programming languages, in current or historical use. Dialects of BASIC, esoteric programming languages, and markup languages are not included.  A programming language does not need to be imperative or Turing-complete, but must be executable and so does not include markups such as HTML or XML, but does include domain-specific languages such as SQL and its dialects.
+

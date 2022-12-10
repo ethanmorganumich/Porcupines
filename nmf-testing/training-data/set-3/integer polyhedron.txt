@@ -1,0 +1,131 @@
+Convex optimization~Geometric algorithms~Linear programming~P-complete problems~
+||||||
+Linear programming
+||||||
+Linear programming (LP), also called linear optimization, is a method to achieve the best outcome (such as maximum profit or lowest cost) in a mathematical model whose requirements are represented by linear relationships. Linear programming is a special case of mathematical programming (also known as mathematical optimization).
+More formally, linear programming is a technique for the optimization of a linear objective function, subject to linear equality and linear inequality constraints. Its feasible region is a convex polytope, which is a set defined as the intersection of finitely many half spaces, each of which is defined by a linear inequality. Its objective function is a real-valued affine (linear) function defined on this polyhedron. A linear programming algorithm finds a point in the polytope where this function has the smallest (or largest) value if such a point exists.
+Linear programs are problems that can be expressed in canonical form as
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                  Find a vector
+                
+              
+              
+              
+                
+                  x
+                
+              
+            
+            
+              
+              
+                
+                  that maximizes
+                
+              
+              
+              
+                
+                  
+                    c
+                  
+                  
+                    T
+                  
+                
+                
+                  x
+                
+              
+            
+            
+              
+              
+                
+                  subject to
+                
+              
+              
+              
+                A
+                
+                  x
+                
+                ≤
+                
+                  b
+                
+              
+            
+            
+              
+              
+                
+                  and
+                
+              
+              
+              
+                
+                  x
+                
+                ≥
+                
+                  0
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&{\text{Find a vector}}&&\mathbf {x} \\&{\text{that maximizes}}&&\mathbf {c} ^{T}\mathbf {x} \\&{\text{subject to}}&&A\mathbf {x} \leq \mathbf {b} \\&{\text{and}}&&\mathbf {x} \geq \mathbf {0} .\end{aligned}}}
+  Here the components of x are the variables to be determined, c and b are given vectors (with 
+  
+    
+      
+        
+          
+            c
+          
+          
+            T
+          
+        
+      
+    
+    {\displaystyle \mathbf {c} ^{T}}
+   indicating that the coefficients of c are used as a single-row matrix for the purpose of forming the matrix product), and A is a given matrix. The function whose value is to be maximized or minimized (
+  
+    
+      
+        
+          x
+        
+        ↦
+        
+          
+            c
+          
+          
+            T
+          
+        
+        
+          x
+        
+      
+    
+    {\displaystyle \mathbf {x} \mapsto \mathbf {c} ^{T}\mathbf {x} }
+   in this case) is called the objective function. The inequalities Ax ≤ b and x ≥ 0 are the constraints which specify a convex polytope over which the objective function is to be optimized. In this context, two vectors are comparable when they have the same dimensions. If every entry in the first is less-than or equal-to the corresponding entry in the second, then it can be said that the first vector is less-than or equal-to the second vector.
+Linear programming can be applied to various fields of study. It is widely used in mathematics and, to a lesser extent, in business, economics, and some engineering problems. Industries that use linear programming models include transportation, energy, telecommunications, and manufacturing. It has proven useful in modeling diverse types of problems in planning, routing, scheduling, assignment, and design.

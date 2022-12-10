@@ -1,0 +1,5 @@
+Information retrieval techniques~Music information retrieval~Music technology~Musicology~
+||||||
+Music alignment
+||||||
+Music can be described and represented in many different ways including sheet music, symbolic representations, and audio recordings. For each of these representations, there may exist different versions that correspond to the same musical work. The general goal of music alignment (sometimes also referred to as music synchronization) is to automatically link the various data streams, thus interrelating the multiple information sets related to a given musical work. More precisely, music alignment is taken to mean a procedure which, for a given position in one representation of a piece of music, determines the corresponding position within another representation. In the figure on the right, such an alignment is visualized by the red bidirectional arrows. Such synchronization results form the basis for novel interfaces that allow users to access, search, and browse musical content in a convenient way.

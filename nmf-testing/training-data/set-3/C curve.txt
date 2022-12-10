@@ -1,0 +1,5 @@
+De Rham curves~
+||||||
+Lévy C curve
+||||||
+In mathematics, the Lévy C curve is a self-similar fractal curve that was first described and whose differentiability properties were analysed by Ernesto Cesàro in 1906 and Georg Faber in 1910, but now bears the name of French mathematician Paul Lévy, who was the first to describe its self-similarity properties as well as to provide a geometrical construction showing it as a representative curve in the same class as the Koch curve. It is a special case of a period-doubling curve, a de Rham curve.

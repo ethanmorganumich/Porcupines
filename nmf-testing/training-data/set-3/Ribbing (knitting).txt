@@ -1,0 +1,12 @@
+Knitted fabrics~Knitting ornaments~Textile techniques~
+||||||
+Ribbing (knitting)
+||||||
+In knitting, ribbing is a pattern in which vertical stripes of stockinette stitch alternate with vertical stripes of reverse stockinette stitch.  These two types of stripes may be separated by other stripes in which knit and purl stitches alternate vertically; such plissé stripes add width and depth to ribbing but not more elasticity.
+The number of knit and purl stripes (wales) are generally equal, although they need not be.  When they are equal, the fabric has no tendency to curl, unlike stockinette stitch.  Such ribbing looks the same on both sides and is useful for garments such as scarves.
+Ribbing is notated by (number of knit stitches) × (number of purl stitches).  Thus, 1×1 ribbing has one knit stitch, followed by one purl stitch, followed by one knit stitch, and so on.
+Ribbing has a strong tendency to contract laterally, forming small pleats in which the purl stitches recede and the knit stitches come forward.  Thus, ribbing is often used for cuffs, sweater hems and, more generally, any edge that should be form-fitting.  The elasticity depends on the number of knit/purl transitions; 1×1 ribbing is more elastic than 2×2 ribbing, etc.
+However, some cable patterns may "pull in" more than ribbing (i.e., have a smaller gauge); in such cases, a ribbed border may flare out instead of contracting.
+Slip stitches may be added to increase the depth of the ribbing, and to accentuate the stitches of certain wales.  For example, the knit stitches can be slipped every other row to double their height and make them come forward.
+Ribs can be decorated with nearly any motif used for a plain knitted fabric, e.g., bobbles, cables, lace, various colors, and so on.
+

@@ -1,0 +1,6 @@
+Economics and finance stubs~Pricing~
+||||||
+Joint product pricing
+||||||
+In microeconomics, joint product pricing is the firm's problem of choosing prices for joint products, which are two or more products produced from the same process or operation, each considered to be of value. Pricing for joint products is more complex than pricing for a single product. To begin with, there are two demand curves. The characteristics of each could be different. Demand for one product could be greater than for the other. Consumers of one product could be more price elastic than consumers of the other (and therefore more sensitive to changes in the product's price).
+To complicate things further, both products, because they are produced jointly, share a common marginal cost curve. There are also complexities in the production function. Their production could be linked in the sense that they are bi-products (referred to as complements in production) or in the sense that they can be produced by the same inputs (referred to as substitutes in production). Further, production of the joint product could be in fixed proportions or in variable proportions.

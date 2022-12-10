@@ -1,0 +1,10 @@
+Compositions in C-sharp minor~Minor scales~Musical keys~
+||||||
+C-sharp minor
+||||||
+C-sharp minor is a minor scale based on C♯, with the pitches C♯, D♯, E, F♯, G♯, A, and B. Its key signature consists of four sharps.
+The C-sharp natural minor scale is:
+
+Changes needed for the melodic and harmonic versions of the scale are written in with accidentals as necessary. The C-sharp harmonic minor and melodic minor scales are:
+
+Its relative major is E major. Its parallel major, C-sharp major, is usually written instead as the enharmonic key of D-flat major, since C-sharp major’s key signature with seven sharps is not normally used. Its enharmonic equivalent, D-flat minor, having eight flats including the B, has a similar problem. Therefore, C-sharp minor is often used as the parallel minor for D-flat major. (The same enharmonic situation occurs with the keys of A-flat major and G-sharp minor.)

@@ -1,0 +1,5 @@
+Trees (data structures)~Trees (graph theory)~
+||||||
+M-ary tree
+||||||
+In graph theory, an m-ary tree (also known as n-ary, k-ary or k-way tree) is a rooted tree in which each node has no more than m children. A binary tree is the special case where m = 2, and a ternary tree is another case with m = 3 that limits its children to three.

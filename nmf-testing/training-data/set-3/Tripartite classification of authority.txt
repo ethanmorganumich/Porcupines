@@ -1,0 +1,10 @@
+Authority~Max Weber~Sociological terminology~
+||||||
+Tripartite classification of authority
+||||||
+Max Weber distinguished three ideal types of legitimate political leadership, domination and authority.  He wrote about these three types of domination in both his essay The Three Types of Legitimate Rule which was published in his masterwork Economy and Society (see Weber 1922/1978:215-216), and in his classic speech "Politics as a Vocation" (see Weber 1919/2015:137-138).
+
+charismatic authority (character, heroism, leadership, religious),
+traditional authority (patriarchs, patrimonialism, feudalism) and
+rational-legal authority (modern law and state, bureaucracy).These three types are ideal types and rarely appear in their pure form.
+According to Weber, authority is power accepted as legitimate by those subjected to it. These three forms of authority are said to appear in an "hierarchical development order". States progress from charismatic authority, to traditional authority, and finally reach the state of rational-legal authority which is characteristic of a modern liberal democracy.

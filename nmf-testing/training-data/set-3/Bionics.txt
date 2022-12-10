@@ -1,0 +1,10 @@
+Bioinspiration~Biological engineering~Bionics~Biotechnology~
+||||||
+Bionics
+||||||
+Bionics or biologically inspired engineering is the application of biological methods and systems found in nature to the study and design of engineering systems and modern technology.The word bionic,  coined by Jack E. Steele in August 1958, is a portmanteau from biology and electronics that was popularized by the 1970s U.S. television series The Six Million Dollar Man and The Bionic Woman, both based upon the novel Cyborg by Martin Caidin. All three stories feature humans given various superhuman powers by their electromechanical implants.
+According to proponents of bionic technology, the transfer of technology between lifeforms and manufactured objects is desirable because evolutionary pressure typically forces living organisms – fauna and flora – to become optimized and efficient. For example, dirt- and water-repellent paint (coating) developed from the observation that practically nothing sticks to the surface of the lotus flower plant (the lotus effect).The term "biomimetic" is preferred for references to chemical reactions,  such as reactions that, in nature, involve biological macromolecules (e.g., enzymes or nucleic acids) whose chemistry can be replicated in vitro using much smaller molecules.
+Examples of bionics in engineering include the hulls of boats imitating the thick skin of dolphins; sonar, radar, and medical ultrasound imaging imitating animal echolocation.
+In the field of computer science, the study of bionics has produced artificial neurons, artificial neural networks and swarm intelligence. Bionics also motivated advancement in Evolutionary computation but took the idea further by simulating evolution in silico and producing well-optimized solutions that had never appeared in nature.
+A 2006 research article estimated that "at present there is only a 12% overlap between biology and technology in terms of the mechanisms used".
+

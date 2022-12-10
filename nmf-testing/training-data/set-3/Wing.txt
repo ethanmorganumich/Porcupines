@@ -1,0 +1,6 @@
+Aerodynamics~Aerospace technologies~Aircraft wing components~Bird anatomy~Bird flight~Insect anatomy~Mammal anatomy~
+||||||
+Wing
+||||||
+A wing is a type of fin that produces lift while moving through air or some other fluid. Accordingly, wings have streamlined cross-sections that are subject to aerodynamic forces and act as airfoils. A wing's aerodynamic efficiency is expressed as its lift-to-drag ratio. The lift a wing generates at a given speed and angle of attack can be one to two orders of magnitude greater than the total drag on the wing. A high lift-to-drag ratio requires a significantly smaller thrust to propel the wings through the air at sufficient lift.
+Lifting structures used in water include various foils, such as hydrofoils. Hydrodynamics is the governing science, rather than aerodynamics. Applications of underwater foils occur in hydroplanes, sailboats and submarines.

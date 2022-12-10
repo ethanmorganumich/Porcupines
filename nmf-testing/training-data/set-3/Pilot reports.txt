@@ -1,0 +1,7 @@
+Aviation meteorology~Aviation publications~Earth sciences data formats~
+||||||
+Pilot report
+||||||
+A pilot report or PIREP is a report of actual flight or ground conditions encountered by an aircraft. Reports commonly include information about atmospheric conditions (like temperature, icing, turbulence) or airport conditions (like runway condition codes or ground equipment failures). This information is usually relayed by radio to the nearest ground station, but other options (e.g. electronic submission) also exist in some regions. The message would then be encoded and relayed to other weather offices and air traffic service units.
+Although the actual form used to record the PIREP may differ from one country to another, the standards and criteria will remain almost the same. At a minimum the PIREP must contain a header, aircraft location, time, flight level, aircraft type and one other field.
+In recent years, a PIREP will also include UA or UUA used to identify the PIREP as routine or urgent.

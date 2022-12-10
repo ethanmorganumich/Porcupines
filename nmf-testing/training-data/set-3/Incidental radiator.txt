@@ -1,0 +1,6 @@
+Electromagnetic compatibility~Radio electronics~
+||||||
+Unintentional radiator
+||||||
+In United States regulatory law, an unintentional radiator is any device that is designed to use radio frequency electrical signals within itself, or sends radio frequency signals over conducting cabling to other equipment, but is not intended to radiate radio frequency energy. An incidental radiator is a device that can generate radio frequency electrical energy even though it is not intentionally designed to do so. Unintentional and incidental radio frequency radiation can interfere with other electronic devices. In the United States, limits on radiated emissions from unintentional and incidental radiators are established by the Federal Communications Commission. Similar regulations have been promulgated by other governments. Reference is usually made in regulations to technical standards established by organizations such as ANSI, IEC and ITU.
+

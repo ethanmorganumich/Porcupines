@@ -1,0 +1,6 @@
+Internet search engines~
+||||||
+KidzSearch
+||||||
+KidzSearch.com is an American visual child-safe search engine and web portal powered by Google Programmable Search Engine with academic autocomplete that emphasizes safety for children. It uses Google's Safe Search technology with additional search term filtering for added safety. Search results are customized by pushing age-appropriate content higher up in their search results. Large thumbnails are provided to make results more visual and easier to understand for children. It has many features, and boasts an online encyclopedia with 200,000 articles powered by MediaWiki. 
+KidzSearch is used in thousands of schools each day, and is visited by some 14 million people a month. KidzSearch was rated by Common Sense Media who compared it to Google. Their main focus is on older elementary and middle school students. They partnered with Safe Search Kids to host their search results and wiki pages. Network security company Untangle integrated KidzSearch into their system when safe browsing is enabled

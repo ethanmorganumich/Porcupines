@@ -1,0 +1,6 @@
+Electrical parameters~Interference~
+||||||
+Adjacent-channel interference
+||||||
+Adjacent-channel interference (ACI) is interference caused by extraneous power from a signal in an adjacent channel. ACI may be caused by inadequate filtering (such as incomplete filtering of unwanted modulation products in FM systems), improper tuning or poor frequency control (in the reference channel, the interfering channel or both).
+ACI is distinguished from crosstalk.

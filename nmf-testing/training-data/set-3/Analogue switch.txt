@@ -1,0 +1,15 @@
+Solid state switches~
+||||||
+Analogue switch
+||||||
+The analogue (or PETR) switch, also called the bilateral switch, is an electronic component that behaves in a similar way to a relay, but has no moving parts.  The switching element is normally a pair of MOSFET transistors, one an N-channel device, the other a P-channel device. The device can conduct analog or digital signals in either direction when on and isolates the switched terminals when off. Analogue switches are usually manufactured as integrated circuits in packages containing multiple switches (typically two, four or eight). These include the 4016 and 4066 from the 4000 series.
+The control input to the device may be a signal that switches between the positive and negative supply voltages, with
+the more positive voltage switching the device on and the more negative switching the device off.  Other circuits
+are designed to communicate through a serial port with a host controller in order to set switches on or off.
+The signal being switched must remain within the bounds of the positive and negative supply rails which are connected to the P-MOS and N-MOS body terminals. The switch generally provides good isolation between the control signal and the input/output signals. They are not used for high voltage switching.
+Important parameters of an analogue switch are:
+
+on-resistance: the resistance when switched on.  This commonly ranges from 5 ohms to a few hundred ohms.
+off-resistance: the resistance when switched off.  This is typically a number of megaohms or gigaohms.
+signal range: the minimum and maximum voltages allowed for the signal to be passed through.  If these are exceeded, the switch may be destroyed by excessive currents.  Older types of switches can even latch up, which means that they continue to conduct excessive currents even after the faulty signal is removed.
+charge injection.  This effect causes the switch to inject a small electric charge into the signal when it switches on, causing a small spike or glitch.  The charge injection is specified in coulombs.Analogue switches are available in both through-hole technology or by surface-mount technology packages.

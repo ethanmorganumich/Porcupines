@@ -1,0 +1,132 @@
+Fiber optics~Optics stubs~
+||||||
+Step-index profile
+||||||
+For an optical fiber, a step-index profile is a refractive index profile characterized by a uniform refractive index within the core and a sharp decrease in refractive index at the core-cladding interface so that the cladding is of a lower refractive index.  The step-index profile corresponds to a power-law index profile with the profile parameter approaching infinity. The step-index profile is used in most single-mode fibers and some multimode fibers.A step-index fiber is characterized by the core and cladding refractive indices n1 and n2 and the core and cladding radii a and b.  Examples of standard core and cladding diameters 2a/2b are 8/125, 50/125, 62.5/125, 85/125, or 100/140 (units of µm).  The fractional refractive-index change  
+  
+    
+      
+        △
+        
+        =
+        
+          
+            
+              
+                n
+                
+                  1
+                
+              
+              −
+              
+                n
+                
+                  2
+                
+              
+            
+            
+              n
+              
+                1
+              
+            
+          
+        
+        ≪
+         
+        1
+      
+    
+    {\displaystyle \triangle \,={\frac {n_{1}-n_{2}}{n_{1}}}\ll \ 1}
+  .  The value of n1 is typically between 1.44 and 1.46, and 
+  
+    
+      
+        △
+      
+    
+    {\displaystyle \triangle }
+   is typically between 0.001 and 0.02.
+Step-index optical fiber is generally made by doping high-purity fused silica glass (SiO2) with different concentrations of materials like titanium, germanium, or boron.
+Modal dispersion in a step index optical fiber is given by
+
+  
+    
+      
+        
+          pulse dispersion
+        
+        =
+        
+          
+            
+              △
+               
+              
+                n
+                
+                  1
+                
+              
+               
+              ℓ
+            
+            c
+          
+        
+        
+        
+      
+    
+    {\displaystyle {\text{pulse dispersion}}={\frac {\triangle \ n_{1}\ \ell }{c}}\,\!}
+  
+where
+
+  
+    
+      
+        △
+        
+        
+      
+    
+    {\displaystyle \triangle \,\!}
+    is the fractional index of refraction
+
+  
+    
+      
+        
+          n
+          
+            1
+          
+        
+        
+        
+      
+    
+    {\displaystyle n_{1}\,\!}
+    is the refractive index of core
+
+  
+    
+      
+        ℓ
+        
+        
+      
+    
+    {\displaystyle \ell \,\!}
+    is the length of the optical fiber under observation
+
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   is the speed of light.

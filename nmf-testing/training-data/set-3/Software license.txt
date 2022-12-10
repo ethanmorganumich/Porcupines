@@ -1,0 +1,6 @@
+Software licenses~Terms of service~
+||||||
+Software license
+||||||
+A software license is a legal instrument (usually by way of contract law, with or without printed material) governing the use or redistribution of software. Under United States copyright law, all software is copyright protected, in both source code and object code forms, unless that software was developed by the United States Government, in which case it cannot be copyrighted. Authors of copyrighted software can donate their software to the public domain, in which case it is also not covered by copyright and, as a result, cannot be licensed.
+A typical software license grants the licensee, typically an end-user, permission to use one or more copies of software in ways where such a use would otherwise potentially constitute copyright infringement of the software owner's exclusive rights under copyright.

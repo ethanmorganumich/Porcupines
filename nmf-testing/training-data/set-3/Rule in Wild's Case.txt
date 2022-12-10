@@ -1,0 +1,9 @@
+1599 in law~Case law stubs~Common law rules~Legal history of England~Real property law~
+||||||
+Rule in Wild's Case
+||||||
+The Rule in Wild's Case is a common law rule of construction dating back to 1599 concerning a particular type of ambiguity in devises (such as grants or bequests) of real property:  If a grantor (O) grants, by deed or will, property to another person (A) with the language "To A and her children", who gets lawful possession of the property?
+The rule resolves this ambiguity as follows:
+
+If A has living children at the time of the grant, A and her children take the property as joint tenants.
+If A does not have living children at the time of the grant, A takes the property in fee tail.This rule has fallen into disuse in those jurisdictions which no longer recognize the fee tail as a legal estate.  Some U.S. states ignore the rule altogether, and interpret such a grant as giving a life estate and creating a remainder in her children.  Section 14.2 of the Restatement (Third) of Property repudiates the Rule in Wild's Case, suggesting that many authorities consider it to be obsolete.

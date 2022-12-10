@@ -1,0 +1,11 @@
+Air traffic control~
+||||||
+Flight information service
+||||||
+A flight information service (FIS) is a form of air traffic service  which is available to any aircraft within a flight information region (FIR), as agreed internationally by ICAO.
+It is defined as information pertinent to the safe and efficient conduct of flight, and includes information on other potentially conflicting traffic, possibly derived from radar, but stopping short of providing positive separation from that traffic.
+Flight Information also includes:
+
+Meteorological information
+Information on aerodromes
+Information on possible hazards to flightFIS shall be provided to all aircraft which are provided with any air traffic control (ATC) service or are otherwise known to air traffic service units. All air traffic service units will provide an FIS to any aircraft, in addition to their other tasks.

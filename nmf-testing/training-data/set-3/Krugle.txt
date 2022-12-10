@@ -1,0 +1,8 @@
+Code search engines~Internet search engines~
+||||||
+Krugle
+||||||
+Krugle delivers continuously updated, federated access to all of the code and technical information in the enterprise.  Krugle search helps an organization pinpoint critical code patterns and application issues - immediately and at massive scale.
+Krugle finished its beta phase and went live on June 14th, 2006.
+On February 17, 2009, it was announced that Aragon Consulting Group would acquire the Krugle assets and focus on the enterprise.
+

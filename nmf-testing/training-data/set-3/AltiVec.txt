@@ -1,0 +1,8 @@
+Cell BE architecture~Power microprocessors~SIMD computing~
+||||||
+AltiVec
+||||||
+AltiVec is a single-precision floating point and integer SIMD instruction set designed and owned by Apple, IBM, and Freescale Semiconductor (formerly Motorola's Semiconductor Products Sector) — the AIM alliance.  It is implemented on versions of the PowerPC processor architecture, including Motorola's G4, IBM's G5 and POWER6 processors, and P.A. Semi's PWRficient PA6T.  AltiVec is a trademark owned solely by Freescale, so the system is also referred to as Velocity Engine by Apple and VMX (Vector Multimedia Extension) by IBM and P.A. Semi.
+While AltiVec refers to an instruction set, the implementations in CPUs produced by IBM and Motorola are separate in terms of logic design. To date, no IBM core has included an AltiVec logic design licensed from Motorola or vice versa.
+AltiVec is a standard part of the Power ISA v.2.03 specification. It was never formally a part of the PowerPC architecture until this specification although it used PowerPC instruction formats and syntax and occupied the opcode space expressly allocated for such 
+purposes.

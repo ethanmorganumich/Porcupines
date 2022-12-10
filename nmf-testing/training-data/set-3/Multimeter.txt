@@ -1,0 +1,7 @@
+Electrical meters~Electrical test equipment~Electronic test equipment~Electronics work tools~Measuring instruments~
+||||||
+Multimeter
+||||||
+A multimeter is a measuring instrument that can measure multiple electrical properties. A typical multimeter can measure voltage, resistance, and current, in which case it is also known as a volt-ohm-milliammeter (VOM), as the unit is equipped with voltmeter, ammeter, and ohmmeter functionality, or volt-ohmmeter for short. Some feature the measurement of additional properties such as temperature and capacitance.
+Analog multimeters use a microammeter with a moving pointer to display readings. Digital multimeters (DMM, DVOM) have numeric displays and have made analog multimeters virtually obsolete as they are cheaper, more precise, and more physically robust than analog multimeters.
+Multimeters vary in size, features, and price. They can be portable handheld devices or highly-precise bench instruments. Cheap multimeters can cost under US$10, while laboratory-grade models with certified calibration can cost over US$5,000.

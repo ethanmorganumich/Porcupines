@@ -1,0 +1,5 @@
+Antennas (radio)~Radio resource management~
+||||||
+Diversity scheme
+||||||
+In telecommunications, a diversity scheme refers to a method for improving the reliability of a message signal by using two or more communication channels with different characteristics. Diversity is mainly used in radio communication and is a common technique for combatting fading and co-channel interference and avoiding error bursts. It is based on the fact that individual channels experience different levels of fading and interference. Multiple versions of the same signal may be transmitted and/or received and combined in the receiver. Alternatively, a redundant forward error correction code may be added and different parts of the message transmitted over different channels. Diversity techniques may exploit the multipath propagation, resulting in a diversity gain, often measured in decibels.

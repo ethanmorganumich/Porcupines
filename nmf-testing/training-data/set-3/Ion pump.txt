@@ -1,0 +1,5 @@
+Vacuum pumps~
+||||||
+Ion pump (physics)
+||||||
+An ion pump (also referred to as a sputter ion pump) is a type of vacuum pump which operates by sputtering a metal getter. Under ideal conditions, ion pumps are capable of reaching pressures as low as 10−11 mbar. An ion pump first ionizes gas within the vessel it is attached to and employs a strong electrical potential, typically 3–7 kV, which accelerates the ions into a solid electrode. Small bits of the electrode are sputtered into the chamber. Gasses are trapped by a combination of chemical reactions with the surface of the highly-reactive sputtered material, and being physically trapped underneath that material.

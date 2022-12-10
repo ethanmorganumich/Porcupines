@@ -1,0 +1,22 @@
+Competition (economics)~Economics models~Non-cooperative games~Oligopoly~
+||||||
+Cournot competition
+||||||
+Cournot competition is an economic model used to describe an industry structure in which companies compete on the amount of output they will produce, which they decide on independently of each other and at the same time. It is named after Antoine Augustin Cournot (1801–1877) who was inspired by observing competition in a spring water duopoly. It has the following features:
+
+There is more than one firm and all firms produce a homogeneous product, i.e. there is no product differentiation;
+Firms do not cooperate, i.e. there is no collusion;
+Firms have market power, i.e. each firm's output decision affects the good's price;
+The number of firms is fixed;
+Firms compete in quantities rather than prices; and
+The firms are economically rational and act strategically, usually seeking to maximize profit given their competitors' decisions.An essential assumption of this model is the "not conjecture" that each firm aims to maximize profits, based on the expectation that its own output decision will not have an effect on the decisions of its rivals.
+Price is a commonly known decreasing function of total output. All firms know 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  , the total number of firms in the market, and take the output of the others as given. The market price is set at a level such that demand equals the total quantity produced by all firms.
+Each firm takes the quantity set by its competitors as a given, evaluates its residual demand, and then behaves as a monopoly.

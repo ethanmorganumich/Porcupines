@@ -1,0 +1,8 @@
+Business cycle theories~New classical macroeconomics~
+||||||
+Real business-cycle theory
+||||||
+Real business-cycle theory (RBC theory) is a class of new classical macroeconomics models in which business-cycle fluctuations are accounted for by real (in contrast to nominal) shocks. Unlike other leading theories of the business cycle, RBC theory sees business cycle fluctuations as the efficient response to exogenous changes in the real economic environment. That is, the level of national output necessarily maximizes expected utility, and governments should therefore concentrate on long-run structural policy changes and not intervene through discretionary fiscal or monetary policy designed to actively smooth out economic short-term fluctuations.
+According to RBC theory, business cycles are therefore "real" in that they do not represent a failure of markets to clear but rather reflect the most efficient possible operation of the economy, given the structure of the economy.
+RBC theory is associated with freshwater economics (the Chicago School of Economics in the neoclassical tradition).
+

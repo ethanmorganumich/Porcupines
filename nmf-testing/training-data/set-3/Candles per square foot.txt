@@ -1,0 +1,7 @@
+Customary units of measurement in the United States~Imperial units~Units of illuminance~
+||||||
+Foot-candle
+||||||
+A foot-candle (sometimes foot candle; abbreviated fc, lm/ft2, or sometimes ft-c) is a non-SI unit of illuminance or light intensity. The foot-candle is defined as one lumen per square foot. This unit is commonly used in lighting layouts in parts of the world where United States customary units are used, mainly the United States. Nearly all of the world uses the corresponding SI derived unit lux, defined as one lumen per square meter.
+The foot-candle is defined as the illuminance of the inside surface of a one-foot-radius sphere with a point source of one candela at its center. Alternatively, it can be defined as the illuminance of one lumen on a one-square foot surface with a uniform distribution. Given the relation between candela and lumen, the two definitions listed are identical, with the second one potentially being easier to relate to in some everyday situations.
+One foot-candle is equal to approximately 10.76 lux. In many practical applications, as when measuring room illumination, it is often not needed to measure illuminance more accurately than ±10%; in these situations it is sufficient to think of one foot-candle as about ten lux.

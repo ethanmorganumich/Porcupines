@@ -1,0 +1,6 @@
+Electromagnetic compatibility~Electronic amplifiers~
+||||||
+Direct coupling
+||||||
+In electronics, direct coupling or DC coupling (also called conductive coupling and galvanic coupling) is the transfer of electrical energy by means of physical contact via a conductive medium, in contrast to inductive coupling and capacitive coupling. It is a way of interconnecting two circuits such that, in addition to transferring the AC signal (or information), the first circuit also provides DC bias to the second.  Thus, DC blocking capacitors are not used or needed to interconnect the circuits. Conductive coupling passes the full spectrum of frequencies including direct current.
+Such coupling may be achieved by a wire, resistor, or common terminal, such as a binding post or metallic bonding.

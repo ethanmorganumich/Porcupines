@@ -1,0 +1,5 @@
+Melody~Musical notation~
+||||||
+Parsons code
+||||||
+The Parsons code, formally named the Parsons code for melodic contours, is a simple notation used to identify a piece of music through melodic motion — movements of the pitch up and down.  Denys Parsons developed this system for his 1975 book The Directory of Tunes and Musical Themes. Representing a melody in this manner makes it easier to index or search for pieces, particularly when the notes' values are unknown. Parsons covered around 15,000 classical, popular and folk pieces in his dictionary. In the process he found out that *UU is the most popular opening contour, used in 23% of all the themes, something that applies to all the genres.The book was also published in Germany in 2002 and reissued by Piatkus in 2008 as the Directory of Classical Themes.An earlier method of classifying and indexing melody was devised by Harold Barlow and Sam Morgenstern in A Dictionary of Musical Themes (1950).

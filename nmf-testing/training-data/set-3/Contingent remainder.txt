@@ -1,0 +1,10 @@
+Common law~Property law~
+||||||
+Remainder (law)
+||||||
+In property law of the United Kingdom and the United States and other common law countries, a remainder is a future interest given to a person (who is referred to as the transferee or remainderman) that is capable of becoming possessory upon the natural end of a prior estate created by the same instrument. Thus, the prior estate must be one that is capable of ending naturally, for example upon the expiration of a term of years or the death of a life tenant. A future interest following a fee simple absolute cannot be a remainder because of the preceding infinite duration.
+For example:
+
+A person, A, conveys (gives) a piece of real property called "Blackacre" "to B for life, and then to C and her heirs".
+B receives a life estate in Blackacre.
+C holds a remainder, which can become possessory when the prior estate naturally terminates (B's death). However, C cannot claim the property during B's lifetime.There are two types of remainders in property law: vested and contingent. A vested remainder is held by a specific person without any conditions ("conditions precedent"); a contingent remainder is one for which the holder has not been identified, or for which a condition precedent must be satisfied.(pp 1018–1019)

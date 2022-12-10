@@ -1,0 +1,78 @@
+Building engineering~Skyscrapers~
+||||||
+Slenderness ratio
+||||||
+In architecture, the slenderness ratio, or simply slenderness, is an aspect ratio, the quotient between the height and the width of a building. 
+In structural engineering, slenderness is used to calculate the propensity of a column to buckle. It is defined as 
+  
+    
+      
+        l
+        
+          /
+        
+        k
+      
+    
+    {\displaystyle l/k}
+   where 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+   is the effective length of the column and 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   is the least radius of gyration, the latter defined by 
+  
+    
+      
+        
+          k
+          
+            2
+          
+        
+        =
+        I
+        
+          /
+        
+        A
+      
+    
+    {\displaystyle k^{2}=I/A}
+   where 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is the area of the cross-section of the column and 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   is the second moment of area of the cross-section. The effective length is calculated from the actual length of the member considering the rotational and relative translational boundary conditions at the ends. Slenderness captures the influence on buckling of all the geometric aspects of the column, namely its length, area, and second moment of area. The influence of the material is represented separately by the material's modulus of elasticity 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  .  
+Structural engineers generally consider a skyscraper as slender if the height:width ratio exceeds 10:1 or 12:1. Slim towers require the adoption of specific measures to counter the high strengths of wind in the vertical cantilever, like including additional structures to endow greater rigidity to the building or diverse types of tuned mass dampers to avoid unwanted swinging.Tall buildings with high slenderness ratio are sometime referred to as pencil towers.

@@ -1,0 +1,6 @@
+Drosophilidae~Insect reproduction~
+||||||
+Metamale
+||||||
+A metamale (or supermale) is a low viability Drosophila fruit fly with a male phenotype in which the ratio of X chromosomes to sets of autosomes (A) is less than 0.5. For example: a fly with one X chromosome and two sets of autosomes is a normal male, a fly with one X chromosome and three sets of autosomes is a metamale.
+American geneticist Calvin Bridges, who discovered the genic balance sex-determination system in Drosophila in 1921, used the terms "superfemale" and "supermale". German-American geneticist Curt Stern proposed the alternate terms "metafemale" and "metamale" in 1959.

@@ -1,0 +1,6 @@
+Contract law~
+||||||
+Default rule
+||||||
+In legal theory, a default rule is a rule of law that can be overridden by a contract, trust, will, or other legally effective agreement.  Contract law, for example, can be divided into two kinds of rules: default rules and mandatory rules.  Whereas the default rules can be modified by agreement of the parties, mandatory rules will be enforced, even if the parties to a contract attempt to override or modify them.  One of the most important debates in contract theory concerns the proper role or purpose of default rules.
+The idea of a default rule in contract law is sometimes connected to the notion of a complete contract.  In contract theory, a complete contract fully specifies the rights and duties of the parties to the contract for all possible future states of the world.  An incomplete contract, therefore, contains gaps.  Most contract theorists find that default rules fill in the gaps in what would otherwise be incomplete contracts. This is often stated pragmatically as whether a court will imply terms so as to save a contract from uncertainty.

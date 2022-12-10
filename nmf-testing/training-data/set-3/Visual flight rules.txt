@@ -1,0 +1,6 @@
+Aviation law~
+||||||
+Visual flight rules
+||||||
+In aviation, visual flight rules (VFR) are a set of regulations under which a pilot operates an aircraft in weather conditions generally clear enough to allow the pilot to see where the aircraft is going. Specifically, the weather must be better than basic VFR weather minima, i.e. in visual meteorological conditions (VMC), as specified in the rules of the relevant aviation authority. The pilot must be able to operate the aircraft with visual reference to the ground, and by visually avoiding obstructions and other aircraft.If the weather is less than VMC, pilots are required to use instrument flight rules, and operation of the aircraft will be primarily through referencing the instruments rather than visual reference. In a control zone, a VFR flight may obtain a clearance from air traffic control to operate as Special VFR.
+

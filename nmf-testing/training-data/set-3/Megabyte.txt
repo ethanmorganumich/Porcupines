@@ -1,0 +1,6 @@
+Units of information~
+||||||
+Megabyte
+||||||
+The megabyte is a multiple of the unit byte for digital information. Its recommended unit symbol is MB.  The unit prefix mega is a multiplier of 1000000 (106) in the International System of Units (SI). Therefore, one megabyte is one million bytes of information. This definition has been incorporated into the International System of Quantities.
+In the computer and information technology fields, other definitions have been used that arose for historical reasons of convenience. A common usage has been to designate one megabyte as 1048576bytes (220 B), a quantity that conveniently expresses the binary architecture of digital computer memory. The standards bodies have deprecated this usage of the megabyte in favor of a new set of binary prefixes, in which this quantity is designated by the unit mebibyte (MiB).

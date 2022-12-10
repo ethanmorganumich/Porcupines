@@ -1,0 +1,9 @@
+Radio spectrum~Television terminology~
+||||||
+Very high frequency
+||||||
+Very high frequency (VHF) is the ITU designation for the range of radio frequency electromagnetic waves (radio waves) from 30 to 300 megahertz (MHz), with corresponding wavelengths of ten meters to one meter. 
+Frequencies immediately below VHF are denoted high frequency (HF), and the next higher frequencies are known as ultra high frequency (UHF).
+VHF radio waves propagate mainly by line-of-sight, so they are blocked by hills and mountains, although due to refraction they can travel somewhat beyond the visual horizon out to about 160 km (100 miles).  Common uses for radio waves in the VHF band are Digital Audio Broadcasting (DAB) and FM radio broadcasting, television broadcasting, two-way land mobile radio systems (emergency, business, private use and military), long range data communication up to several tens of kilometers with radio modems, amateur radio, and marine communications. Air traffic control communications and air navigation systems (e.g. VOR and ILS) work at distances of 100 kilometres (62 mi)  or more to aircraft at cruising altitude.
+In the Americas and many other parts of the world, VHF Band I was used for the transmission of analog television. As part of the worldwide transition to digital terrestrial television most countries require broadcasters to air television in the VHF range using digital, rather than analog encoding.
+

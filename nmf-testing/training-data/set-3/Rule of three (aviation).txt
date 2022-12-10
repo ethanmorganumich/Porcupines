@@ -1,0 +1,6 @@
+Air navigation~Flight training~
+||||||
+Rule of three (aeronautics)
+||||||
+In aviation, the rule of three or "3:1 rule of descent" is a rule of thumb that 3 nautical miles (5.6 km) of travel should be allowed for every 1,000 feet (300 m) of descent. For example, a descent from flight level 350 would require approximately 35x3=105 nautical miles. This would have to be adjusted for headwind or tailwind.Alternatively, David P. Davies gives the rule as 300 feet of descent required for each nautical mile of distance.: 176 Large aircraft approaching to land normally use a 3 degree approach path. This is equivalent to 3.14 nautical miles per 1000 ft of descent. If exactly 3 nm are allowed per 1000 ft of descent, the glide path will be 3.14 degrees.
+

@@ -1,0 +1,6 @@
+1979 in economics~1979 introductions~Behavioral economics~Behavioral finance~Decision theory~Finance theories~Framing (social sciences)~Prospect theory~
+||||||
+Prospect theory
+||||||
+Prospect theory is a theory of behavioral economics and behavioral finance that was developed by Daniel Kahneman and Amos Tversky in 1979. The theory was cited in the decision to award Kahneman the 2002 Nobel Memorial Prize in Economics.Based on results from controlled studies, it describes how individuals assess their loss and gain perspectives in an asymmetric manner (see loss aversion). For example, for some individuals, the pain from losing $1,000 could only be compensated by the pleasure of earning $2,000. Thus, contrary to the expected utility theory (which models the decision that perfectly rational agents would make), prospect theory aims to describe the actual behavior of people.
+In the original formulation of the theory, the term prospect referred to the predictable results of a lottery. However, prospect theory can also be applied to the prediction of other forms of behaviors and decisions.

@@ -1,0 +1,5 @@
+Educational psychology~Market research~Psychometrics~
+||||||
+Phrase completions
+||||||
+Phrase completion scales are a type of psychometric scale used in questionnaires. Developed in response to the problems associated with Likert scales, Phrase completions are concise, unidimensional measures that tap ordinal level data in a manner that approximates interval level data.

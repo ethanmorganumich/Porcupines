@@ -1,0 +1,5 @@
+Memory~Unsolved problems in neuroscience~
+||||||
+Memory consolidation
+||||||
+Memory consolidation is a category of processes that stabilize a memory trace after its initial acquisition.  A memory trace is a change in the nervous system caused by memorizing something. Consolidation is distinguished into two specific processes. The first, synaptic consolidation, which is thought to correspond to late-phase long-term potentiation, occurs on a small scale in the synaptic connections and neural circuits within the first few hours after learning. The second process is systems consolidation, occurring on a much larger scale in the brain, rendering hippocampus-dependent memories independent of the hippocampus over a period of weeks to years. Recently, a third process has become the focus of research, reconsolidation, in which previously consolidated memories can be made labile again through reactivation of the memory trace.

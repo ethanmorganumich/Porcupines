@@ -1,0 +1,9 @@
+Civil procedure~Contract law~Copyright law~Equitable defenses~
+||||||
+Waiver
+||||||
+A waiver is the voluntary relinquishment or surrender of some known right or privilege.
+Regulatory agencies of state departments or the federal government may issue waivers to exempt companies from certain regulations. For example, a United States law restricted the size of banks, but when banks exceeded these sizes, they obtained waivers. In another example, the United States federal government may issue waivers to individual states so that they may provide Medicaid in different ways than the law typically requires.While a waiver is often in writing, sometimes a person's words can also be used as a counteract to a waiver. An example of a written waiver is a disclaimer, which becomes a waiver when accepted. When the right to hold a person liable through a lawsuit is waived, the waiver may be called an exculpatory clause, liability waiver, legal release, or hold harmless clause.
+In some cases, parties may sign a "non-waiver" contract which specifies that no rights are waived, particularly if a person's actions may suggest that rights are being waived. This is particularly common in insurance.
+Sometimes the elements of "voluntary" and "known" are established by a legal fiction. In this case, one is presumed to know one's rights and that those rights are voluntarily relinquished if not asserted at the time.
+In civil procedure, certain arguments must be raised in the first objection that a party submits to the court, or else they will be deemed waived.

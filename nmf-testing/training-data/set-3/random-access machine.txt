@@ -1,0 +1,7 @@
+Register machines~
+||||||
+Random-access machine
+||||||
+In computer science, random-access machine (RAM) is an abstract machine in the general class of register machines. The RAM is very similar to the counter machine but with the added capability of 'indirect addressing' of its registers. Like the counter machine, The RAM has its instructions in the finite-state portion of the machine (the so-called Harvard architecture).
+The RAM's equivalent of the universal Turing machine – with its program in the registers as well as its data – is called the random-access stored-program machine or RASP. It is an example of the so-called von Neumann architecture and is closest to the common notion of a computer.
+Together with the Turing machine and counter-machine models, the RAM and RASP models are used for computational complexity analysis. Van Emde Boas (1990) calls these three plus the pointer machine "sequential machine" models, to distinguish them from "parallel random-access machine" models.

@@ -1,0 +1,7 @@
+1977 software~Berkeley Software Distribution~Free software operating systems~Free software programmed in C~Operating system families~Science and technology in the San Francisco Bay Area~University of California, Berkeley~
+||||||
+Berkeley Software Distribution
+||||||
+The Berkeley Software Distribution or Berkeley Standard Distribution (BSD) is a discontinued operating system based on Research Unix, developed and distributed by the Computer Systems Research Group (CSRG) at the University of California, Berkeley. The term "BSD" commonly refers to its open-source descendants, including FreeBSD, OpenBSD, NetBSD, and DragonFly BSD.
+BSD was initially called Berkeley Unix because it was based on the source code of the original Unix developed at Bell Labs. In the 1980s, BSD was widely adopted by workstation vendors in the form of proprietary Unix variants such as DEC Ultrix and Sun Microsystems SunOS due to its permissive licensing and familiarity to many technology company founders and engineers.
+Although these proprietary BSD derivatives were largely superseded in the 1990s by UNIX SVR4 and OSF/1, later releases provided the basis for several open-source operating systems including FreeBSD, OpenBSD, NetBSD, DragonFly BSD, Darwin, and TrueOS. These, in turn, have been used by proprietary operating systems, including Apple's macOS and iOS, which derived from them, and Microsoft Windows, which used (at least) part of its TCP/IP code, which was legal. Code from FreeBSD was also used to create the operating system for the PlayStation 4 and Nintendo Switch.

@@ -1,0 +1,6 @@
+Articles with example Scheme (programming language) code~Fractals~Iteration in programming~Programming idioms~Time management~
+||||||
+Iteration
+||||||
+Iteration is the repetition of a process in order to generate a (possibly unbounded) sequence of outcomes. Each repetition of the process is a single iteration, and the outcome of each iteration is then the starting point of the next iteration. 
+In mathematics and computer science, iteration (along with the related technique of recursion) is a standard element of algorithms.

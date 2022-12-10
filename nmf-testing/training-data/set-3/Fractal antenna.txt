@@ -1,0 +1,8 @@
+Antennas (radio)~Fractals~Radio frequency antenna types~
+||||||
+Fractal antenna
+||||||
+A fractal antenna is an antenna that uses a fractal, self-similar design to maximize the effective length, or increase the perimeter (on inside sections or the outer structure), of material that can receive or transmit electromagnetic radiation within a given total surface area or volume.
+Such fractal antennas are also referred to as multilevel and space filling curves, but the key aspect lies in their repetition of a motif over two or more scale sizes, or "iterations". For this reason, fractal antennas are very compact, multiband or wideband, and have useful applications in cellular telephone and microwave communications.
+A fractal antenna's response differs markedly from traditional antenna designs, in that it is capable of operating with good-to-excellent performance at many different frequencies simultaneously.  Normally standard antennas have to be "cut" for the frequency for which they are to be used—and thus the standard antennas only work well at that frequency.
+In addition the fractal nature of the antenna shrinks its size, without the use of any components, such as inductors or capacitors.

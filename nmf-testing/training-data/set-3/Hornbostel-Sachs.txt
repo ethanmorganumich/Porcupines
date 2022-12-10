@@ -1,0 +1,6 @@
+1914 introductions~Classification systems~Hornbostel–Sachs~Organology~
+||||||
+Hornbostel–Sachs
+||||||
+Hornbostel–Sachs or Sachs–Hornbostel is a system of musical instrument classification devised by Erich Moritz von Hornbostel and Curt Sachs, and first published in the Zeitschrift für Ethnologie in 1914. An English translation was published in the Galpin Society Journal in 1961. It is the most widely used system for classifying musical instruments by ethnomusicologists and organologists (people who study musical instruments). The system was updated in 2011 as part of the work of the Musical Instrument Museums Online (MIMO) Project.Hornbostel and Sachs based their ideas on a system devised in the late 19th century by Victor-Charles Mahillon, the curator of musical instruments at Brussels Conservatory. Mahillon divided instruments into four broad categories according to the nature of the sound-producing material: an air column; string; membrane; and body of the instrument. From this basis, Hornbostel and Sachs expanded Mahillon's system to make it possible to classify any instrument from any culture.
+Formally, the Hornbostel–Sachs is modeled on the Dewey Decimal Classification for libraries. It has five top-level classifications, with several levels below those, adding up to over 300 basic categories in all. The top five levels of the scheme are as follows:

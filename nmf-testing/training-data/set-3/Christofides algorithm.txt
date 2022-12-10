@@ -1,0 +1,6 @@
+1976 in computing~Approximation algorithms~Graph algorithms~Spanning tree~Travelling salesman problem~
+||||||
+Christofides algorithm
+||||||
+The Christofides algorithm or Christofides–Serdyukov algorithm is an algorithm for finding approximate solutions to the travelling salesman problem, on instances where the distances form a metric space (they are symmetric and obey the triangle inequality).
+It is an approximation algorithm that guarantees that its solutions will be within a factor of 3/2 of the optimal solution length, and is named after Nicos Christofides and Anatoliy I. Serdyukov, who discovered it independently in 1976.This algorithm still stands as the best polynomial time approximation algorithm that has been thoroughly peer-reviewed by the relevant scientific community for the traveling salesman problem on general metric spaces. In July 2020 however, Karlin, Klein, and Gharan released a preprint in which they introduced a novel approximation algorithm and claimed that its approximation ratio is 1.5 − 10−36. Their method follows similar principles to Christofides' algorithm, but uses a randomly chosen tree from a carefully chosen random distribution in place of the minimum spanning tree. The paper was published at STOC'21 where it received a best paper award.

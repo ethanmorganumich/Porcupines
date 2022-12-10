@@ -1,0 +1,8 @@
+Heaps (data structures)~Priority queues~Trees (data structures)~
+||||||
+Leftist tree
+||||||
+In computer science, a leftist tree or leftist heap is a priority queue implemented with a variant of a binary heap. Every node x has an s-value which is the distance to the nearest leaf in subtree rooted at x. In contrast to a binary heap, a leftist tree attempts to be very unbalanced. In addition to the heap property, leftist trees are maintained so the right descendant of each node has the lower s-value.
+The height-biased leftist tree was invented by Clark Allan Crane. The name comes from the fact that the left subtree is usually taller than the right subtree.
+A leftist tree is a mergeable heap.  When inserting a new node into a tree, a new one-node tree is created and merged into the existing tree. To delete an item, it is replaced by the merge of its left and right sub-trees. Both these operations take O(log n) time. For insertions, this is slower than Fibonacci heaps, which support insertion in O(1) (constant) amortized time, and O(log n) worst-case.
+Leftist trees are advantageous because of their ability to merge quickly, compared to binary heaps which take Θ(n). In almost all cases, the merging of skew heaps has better performance. However merging leftist heaps has worst-case O(log n) complexity while merging skew heaps has only amortized O(log n) complexity.

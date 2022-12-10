@@ -1,0 +1,8 @@
+Telecommunications infrastructure~Telecommunications stubs~
+||||||
+Inside plant
+||||||
+In telecommunication, the term inside plant has the following meanings:
+
+All the cabling and equipment installed in a telecommunications facility, including the main distribution frame (MDF) and all the equipment extending inward therefrom, such as PABX or central office equipment, MDF heat coil protectors, and grounding systems.
+In radio and radar systems, all communications-electronics (C-E) equipment that is installed in buildings.Around the turn of the 21st century, DSLAMs became an important part of telephone company inside plant. Inside plant will also have distribution frames and other equipment including passive optical network (name depends on the Service Provider).

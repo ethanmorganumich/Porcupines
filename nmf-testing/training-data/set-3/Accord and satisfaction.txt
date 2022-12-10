@@ -1,0 +1,6 @@
+Contract law~Debt~
+||||||
+Accord and satisfaction
+||||||
+Accord and satisfaction is a contract law concept about the purchase of the release from a debt obligation. It is one of the methods by which parties to a contract may terminate their agreement. The release is completed by the transfer of valuable consideration that must not be the actual performance of the obligation itself. The accord is the agreement to discharge the obligation and the satisfaction is the legal "consideration" which binds the parties to the agreement. A valid accord does not discharge the prior contract; instead it suspends the right to enforce it in accordance with the terms of the accord contract, in which satisfaction, or performance of the contract will discharge both contracts (the original and the accord). If the creditor breaches the accord, then the debtor will be able to bring up the existence of the accord in order to enjoin any action against him.
+If a person is sued over an alleged debt, that person bears the burden of proving the affirmative defense of accord and satisfaction.

@@ -1,0 +1,14 @@
+Guitar parts and accessories~Holes~String instrument construction~
+||||||
+Sound hole
+||||||
+A sound hole is an opening in the body of  a stringed musical instrument, usually the upper sound board. 
+Sound holes have different shapes:
+
+round in flat-top guitars and traditional bowl-back mandolins;
+F-holes in instruments from the violin family, archtop mandolins and in archtop guitars;
+C-holes in viola da gambas and occasionally double-basses and guitars
+rosettes in lutes and sometimes harpsichords;
+D-holes in bowed lyras.Some instruments come in more than one style (mandolins may have F-holes, round or oval holes). A round or oval hole or a rosette is usually a single one, under the strings. C-holes, D-holes and F-holes are usually made in pairs placed symmetrically on both sides of the strings. Most hollowbody and semi-hollow electric guitars also have F-holes.
+Though sound holes help acoustic instruments project sound more efficiently, sound does not emanate solely from the sound hole. Sound emanates from the surface area of the sounding boards, with sound holes providing an opening into the resonant chamber formed by the body, letting the sounding boards vibrate more freely, and letting vibrating air inside the instrument travel outside the instrument. The F-holes in the violin family instruments also serve the purpose of enabling a luthier to use specialized tools to adjust the sound post inside the instrument.
+In 2015, researchers at MIT, in collaboration with violin makers at North Bennet Street School, published an analysis that charted the evolution and improvements in effectiveness of violin F-hole design over time. One of the conclusions of this paper was that acoustic conductance (air flow) is proportional to the length of the perimeter of the sound hole and not the area. They proved this mathematically, and showed how it drove the evolution of shape of the F-holes in the violin family. The highest air flow in a violin's F-hole are the places at the top and bottom where the points nearly touch the other side. The effect is analogous to putting one's thumb over the end of a hose to accelerate the water coming out. By this measure, the open round hole of a flat-top acoustic guitar is not very effective.

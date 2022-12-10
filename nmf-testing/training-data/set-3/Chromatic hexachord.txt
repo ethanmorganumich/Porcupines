@@ -1,0 +1,12 @@
+Chromaticism~Hexachords~Music theory stubs~Musical set theory~
+||||||
+Chromatic hexachord
+||||||
+In music theory, the chromatic hexachord is the hexachord consisting of a consecutive six-note segment of the chromatic scale. It is the first hexachord as ordered by Forte number, and its complement is the chromatic hexachord at the tritone. For example, zero through five and six through eleven. On C:
+
+C, C♯, D, D♯, E, Fand
+
+F♯, G, G♯, A, A♯, B.This is the first of the six hexachords identified by Milton Babbitt as all-combinatorial source sets, a "source set" being "a set considered only in terms of the content of its hexachords, and whose combinatorial characteristics are independent of the ordering imposed on this content" (Babbitt 1955, 57). In the larger context of thirty-five source hexachords catalogued by Donald Martino, it is designated "Type A" (Martino 1961, 229–30). Applying the circle of fifths transformation to the chromatic hexachord produces the diatonic hexachord (Babbitt 1987, 93). As with the diatonic scale, the chromatic hexachord is, "hierarchical in interval makeup," and may also be produced by, or contains, 3-1, 3-2, 3-3, 3-6, and 3-7 (Friedmann 1990, 111).
+Serial compositions including Karlheinz Stockhausen's Kreuzspiel  and Klavierstück I feature the chromatic hexachord in permuted orderings, as do certain pieces composed by Milton Babbitt, Alban Berg, Ernst Krenek, Luigi Nono, Karlheinz Stockhausen, Igor Stravinsky, and Anton Webern in various fixed-order derivations (twelve-tone rows and arrays). Babbitt's Second Quartet and Reflections for piano and tape feature the hexachord (Babbitt 1987, 93). The retrograde-symmetrical all-interval series employed by Luigi Nono for the first time in Canti per tredeci in 1955, also used in his Il canto sospeso and  nearly all subsequent works up to Composizione per orchestra n. 2: Diario polacco ’58 in 1959, is built from two chromatic hexachords (Nielinger 2006, 97–98). 
+
+Stefan Wolpe's Suite in Hexachord (1936) begins with a chromatic hexachord on G, introducing the complementary hexachord in the final movement, while Elliott Carter calls his own piece, "Inner Song" for solo oboe—the second movement of Trilogy for oboe and harp (1992)—"some thoughts about Wolpe's hexachord" (Schiff 1998, 146).

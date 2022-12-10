@@ -1,0 +1,6 @@
+Environmental controversies~Health effects by subject~Medical physics~Radiation health effects~Radiobiology~
+||||||
+Electromagnetic radiation and health
+||||||
+Electromagnetic radiation can be classified into two types: ionizing radiation and non-ionizing radiation, based on the capability of a single photon with more than 10 eV energy to ionize atoms or break chemical bonds. Extreme ultraviolet and higher frequencies, such as X-rays or gamma rays are ionizing, and these pose their own special hazards: see radiation poisoning.
+The most common health hazard of radiation is sunburn, which causes between approximately 100,000 and 1 million new skin cancers annually in the United States.In 2011, the World Health Organization (WHO) and the International Agency for Research on Cancer (IARC) have classified radiofrequency electromagnetic fields as possibly carcinogenic to humans (Group 2B).

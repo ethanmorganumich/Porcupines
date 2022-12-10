@@ -1,0 +1,5 @@
+Analog circuits~Electronic design~Filter theory~Image impedance filters~
+||||||
+Image impedance
+||||||
+Image impedance is a concept used in electronic network design and analysis and most especially in filter design.  The term image impedance applies to the impedance seen looking into a port of a network. Usually a two-port network is implied but the concept can be extended to networks with more than two ports.  The definition of image impedance for a two-port network is the impedance, Zi 1, seen looking into port 1 when port 2 is terminated with the image impedance, Zi 2, for port 2.  In general, the image impedances of ports 1 and 2 will not be equal unless the network is symmetrical (or anti-symmetrical) with respect to the ports.

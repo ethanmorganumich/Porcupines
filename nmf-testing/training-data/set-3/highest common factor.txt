@@ -1,0 +1,33 @@
+Multiplicative functions~
+||||||
+Greatest common divisor
+||||||
+In mathematics, the greatest common divisor (GCD) of two or more integers, which are not all zero, is the largest positive integer that divides each of the integers. For two integers x, y, the greatest common divisor of x and y is denoted 
+  
+    
+      
+        gcd
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle \gcd(x,y)}
+  . For example, the GCD of 8 and 12 is 4, that is, 
+  
+    
+      
+        gcd
+        (
+        8
+        ,
+        12
+        )
+        =
+        4
+      
+    
+    {\displaystyle \gcd(8,12)=4}
+  .In the name "greatest common divisor", the adjective "greatest" may be replaced by "highest", and the word "divisor" may be replaced by "factor", so that other names include highest common factor (hcf), etc.  Historically, other names for the same concept have included greatest common measure.This notion can be extended to polynomials (see Polynomial greatest common divisor) and other commutative rings (see § In commutative rings below).

@@ -1,0 +1,7 @@
+Hardware acceleration~Sound cards~
+||||||
+Sound card
+||||||
+A sound card (also known as an audio card) is an internal expansion card that provides input and output of audio signals to and from a computer under the control of computer programs. The term sound card is also applied to external audio interfaces used for professional audio applications.
+Sound functionality can also be integrated onto the motherboard, using components similar to those found on plug-in cards. The integrated sound system is often still referred to as a sound card. Sound processing hardware is also present on modern video cards with HDMI to output sound along with the video using that connector; previously they used a S/PDIF connection to the motherboard or sound card.
+Typical uses of sound cards or sound card functionality include providing the audio component for multimedia applications such as music composition, editing video or audio, presentation, education and entertainment (games) and video projection. Sound cards are also used for computer-based communication such as voice over IP and teleconferencing.

@@ -1,0 +1,10 @@
+Motifs (music)~Musical form~
+||||||
+Fortspinnung
+||||||
+Fortspinnung (English: spinning-forth) is a German term conceived in 1915 to refer to a specific process of development of a musical motif. In this process, the motif is developed into an entire musical structure by using sequences, intervallic changes or simple repetitions. As a principle it exposes a thematic capus (German: Themenkopf) and from there on opens itself to a (mostly) counterpuntal structure, while the reentry of same Themenkopf (often transposed) diverts from the fact that there is no actual closing formula in the Fortspinnungsthema. Thus the Forspinnungsprinzip counters the principle of the German Periode, common to the Wiener Klassik sonata, which is metrically finite (albeit not closing, as such). Everything in the Periode points to a metrically defined point, where its 'end' its 'right border' is expected. This pointing structure is missing, i. e. carefully averted in the Fortspinnung. Thus the Gestalt of the Fortspinnungsthema has a 'rag margin', while the Periode ends more predictably.
+It is also possible to use the fortspinnung form term that stands for a structure with three parts: 
+
+Vordersatz: The antecedent or exposition of the motif.
+Fortspinnung: The fortspinnung itself where the motif is developed.
+Epilog: The epilogue or cadence section.In Baroque music, melodies and their lyrics were prose. Rather than paired lines they consist of rhetorical sentences or paragraphs consisting of an opening gesture, an amplification (often featuring sequence), and a close (featuring a cadence); in German Vordersatz-Fortspinnung-Epilog. For example:

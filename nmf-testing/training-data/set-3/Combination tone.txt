@@ -1,0 +1,6 @@
+Acoustics~Hearing~
+||||||
+Combination tone
+||||||
+A combination tone (also called resultant or subjective tone) is a psychoacoustic phenomenon of an additional tone or tones that are artificially perceived when two real tones are sounded at the same time. Their discovery is credited to the violinist Giuseppe Tartini  (although he was not the first, see Georg Andreas Sorge) and so they are also called Tartini tones.
+There are two types of combination tones: sum tones whose frequencies are found by adding the frequencies of the real tones, and difference tones whose frequencies are the difference between the frequencies of the real tones. "Combination tones are heard when two pure tones (i.e., tones produced by simple harmonic sound waves having no overtones), differing in frequency by about 50 cycles per second [Hertz] or more, sound together at sufficient intensity."Combination tones can also be produced electronically by combining two signals in a circuit that has nonlinear distortion, such as an amplifier subject to clipping or a ring modulator.

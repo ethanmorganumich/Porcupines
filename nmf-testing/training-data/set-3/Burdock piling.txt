@@ -1,0 +1,7 @@
+Architectural element stubs~Japanese architectural features~Masonry~Types of wall~
+||||||
+Burdock piling
+||||||
+Burdock piling (牛蒡積み, gobouzumi) is an advanced Japanese technique for building stone walls, named after the resemblance of the rough stones used to the ovate shapes of the blossoms of Japanese burdock plants. It was used to build ishi gaki (石垣), sloped stone walls which make up the foundations of many Japanese castles, such as Osaka Castle.Large rocks are fitted together over a mound of earth, and the remaining cracks are filled in with pebbles. This stone fill is called kuri ishi (栗石, chestnut stones) because of their small size. No mortar was used in the building of castle walls, which allowed the individual stones to move slightly during earthquakes without causing significant wall damage.
+This technique grew from an earlier Japanese wall-building technique known as disordered piling.
+

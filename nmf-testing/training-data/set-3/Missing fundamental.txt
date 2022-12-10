@@ -1,0 +1,7 @@
+Psychoacoustics~Waves~
+||||||
+Missing fundamental
+||||||
+A harmonic sound is said to have a missing fundamental, suppressed fundamental, or phantom fundamental when its overtones suggest a fundamental frequency but the sound lacks a component at the fundamental frequency itself.
+The brain perceives the pitch of a tone not only by its fundamental frequency, but also by the periodicity implied by the relationship between the higher harmonics; we may perceive the same pitch (perhaps with a different timbre) even if the fundamental frequency is missing from a tone.
+For example, when a note (that is not a pure tone) has a pitch of 100 Hz, it will consist of frequency components that are integer multiples of that value (e.g. 100, 200, 300, 400, 500.... Hz). However, smaller loudspeakers may not produce low frequencies, and so in our example, the 100 Hz component may be missing. Nevertheless, a pitch corresponding to the fundamental may still be heard.

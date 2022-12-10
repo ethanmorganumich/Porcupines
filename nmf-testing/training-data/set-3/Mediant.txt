@@ -1,0 +1,9 @@
+Diatonic functions~Scale degrees~
+||||||
+Mediant
+||||||
+In music, the mediant (Latin: to be in the middle) is the third scale degree () of a diatonic scale, being the note halfway between the tonic and the dominant. In the movable do solfège system, the mediant note is sung as mi. While the fifth scale degree is almost always a perfect fifth, the mediant can be a major or minor third.
+Schenkerian analysts consider this scale degree as expansion of the tonic since they have two common tones. On the other hand, in German theory derived from Hugo Riemann the mediant in major is considered the dominant parallel, Dp, and in minor the tonic parallel, tP.
+In Roman numeral analysis, the mediant chord can take several forms. In major scales, the mediant chord is a minor triad and is symbolized with the Roman numeral iii. In natural minor scales, the mediant is a major triad and is symbolized with the Roman numeral III. In harmonic minor scales and ascending melodic minor scales, the seventh scale degree is raised by a half step from the subtonic (♭) to the leading tone (♮), creating an augmented triad that is symbolized with the Roman numeral (♭)III+.
+The term mediant also refers to a relationship of musical keys. For example, relative to the key of A minor, the key of C major is the mediant, and it often serves as a mid-way point between I and V (hence the name). Tonicization or modulation to the mediant is quite common in pieces written in the minor mode and usually serves as the second theme group in sonata form since it is very easy to tonicize III in minor. Tonicization of III in major is quite rare in early classical harmony, compared with, say, modulation to the dominant in major. It becomes more common in late Haydn and Mozart and normal by middle-period Beethoven. Mediant tonicization in major is an important feature of Romantic music.
+

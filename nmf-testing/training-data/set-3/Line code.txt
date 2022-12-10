@@ -1,0 +1,6 @@
+Coding theory~Line codes~Physical layer protocols~
+||||||
+Line code
+||||||
+In telecommunication, a line code is a pattern of voltage, current, or photons used to represent digital data transmitted down a communication channel or written to a storage medium. This repertoire of signals is usually called a constrained code in data storage systems. 
+Some signals are more prone to error than others as the physics of the communication channel or storage medium constrains the repertoire of signals that can be used reliably.Common line encodings are unipolar, polar, bipolar, and Manchester code.

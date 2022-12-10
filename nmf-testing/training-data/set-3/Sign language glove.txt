@@ -1,0 +1,8 @@
+Computing input devices~Gloves~Sign language~Sign language stubs~
+||||||
+Sign language glove
+||||||
+A sign language glove is an electronic device which attempts to convert the motions of a sign language into written or spoken words. Some critics of such technologies have argued that the potential of sensor-enabled gloves to do this is commonly overstated or misunderstood, because many sign languages have a complex grammar that includes use of the sign space and facial expressions (non-manual elements).The wearable device contains sensors that run along the four fingers and thumb to identify each word, phrase or letter as it is made in Sign Language.
+Those signals are then sent wirelessly to a smartphone, which translates them into spoken words at a rate of one word per second.
+Scientists at UCLA, where one the many projects was developed, believe the innovation could allow for easier communication for deaf people. "Our hope is that this opens up an easy way for people who use sign language to communicate directly with non-signers without needing someone else to translate for them," said lead researcher Jun Chen.
+The researchers also added adhesive sensors to the faces of people used to test the device -- between their eyebrows and on one side of their mouths -- to capture nonmanual features of the language.

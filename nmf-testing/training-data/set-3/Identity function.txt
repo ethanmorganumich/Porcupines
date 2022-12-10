@@ -1,0 +1,5 @@
+1 (number)~Basic concepts in set theory~Elementary mathematics~Functions and mappings~Types of functions~
+||||||
+Identity function
+||||||
+In mathematics, an identity function, also called an identity relation, identity map or identity transformation, is a function that always returns the value that was used as its argument, unchanged. That is, when f is the identity function, the equality f(X) = X is true for all values of X to which f can be applied.

@@ -1,0 +1,5 @@
+Boolean algebra~Operators (programming)~
+||||||
+Boolean expression
+||||||
+In computer science, a Boolean expression is an expression used in programming languages that produces a Boolean value when evaluated. A Boolean value is either true or false. A Boolean expression may be composed of a combination of the Boolean constants true or false, Boolean-typed variables, Boolean-valued operators, and Boolean-valued functions.Boolean expressions correspond to propositional formulas in logic and are a special case of Boolean circuits.

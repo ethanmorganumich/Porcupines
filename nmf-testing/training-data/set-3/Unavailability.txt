@@ -1,0 +1,6 @@
+Systems engineering~
+||||||
+Unavailability
+||||||
+Unavailability, in mathematical terms, is the probability that an item will not operate correctly at a given time and under specified conditions. It opposes availability.
+Numerical values associated with the calculation of availability are often awkward, consisting of a series of 9s before reaching any significant numerical information (e.g. 0.9999999654). For this reason, it is more convenient to use the complement measure of availability, namely, unavailability. Expressed mathematically, unavailability is 1 minus the availability. Therefore, a system with availability 0.9999999654 is more concisely described as having an unavailability of 3.46 × 10−8.

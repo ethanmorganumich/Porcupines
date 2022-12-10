@@ -1,0 +1,6 @@
+Data transmission~Radio communications~Radio technology~
+||||||
+Ultra-wideband
+||||||
+Ultra-wideband (UWB, ultra wideband, ultra-wide band and ultraband) is a radio technology that can use a very low energy level for short-range, high-bandwidth communications over a large portion of the radio spectrum. UWB has traditional applications in non-cooperative radar imaging. Most recent applications target sensor data collection, precise locating, and tracking. UWB support started to appear in high-end smartphones c. 2019.
+

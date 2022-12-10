@@ -1,0 +1,6 @@
+Mathematical optimization~Optimal control~
+||||||
+Optimal control
+||||||
+Optimal control theory is a branch of mathematical optimization that deals with finding a control for a dynamical system over a period of time such that an objective function is optimized. It has numerous applications in science, engineering and operations research. For example, the dynamical system might be a spacecraft with controls corresponding to rocket thrusters, and the objective might be to reach the moon with minimum fuel expenditure. Or the dynamical system could be a nation's economy, with the objective to minimize unemployment; the controls in this case could be fiscal and monetary policy. A dynamical system may also be introduced to embed operations research problems within the framework of optimal control theory.Optimal control is an extension of the calculus of variations, and is a mathematical optimization method for deriving control policies. The method is largely due to the work of Lev Pontryagin and Richard Bellman in the 1950s, after contributions to calculus of variations by Edward J. McShane. Optimal control can be seen as a control strategy in control theory.
+

@@ -1,0 +1,5 @@
+Data transmission~Telecommunications stubs~
+||||||
+Data link
+||||||
+A data link is the means of connecting one location to another for the purpose of transmitting and receiving digital information (data communication). It can also refer to a set of electronics assemblies, consisting of a transmitter and a receiver (two pieces of data terminal equipment) and the interconnecting data telecommunication circuit. These are governed by a link protocol enabling digital data to be transferred from a data source to a data sink.

@@ -1,0 +1,7 @@
+Legal terminology stubs~Wills and trusts~
+||||||
+Simultaneous death
+||||||
+Simultaneous death is a problem of inheritance which occurs when two people (sometimes referred to as commorientes) die at, or very near, the same time, and at least one of them is entitled to part or all of the other's estate on their death. This is usually the result of an un-natural death occurring from events such as an accident, a homicide, or a murder-suicide.
+Under the common law, if there was any evidence whatsoever that one party had survived the other, even by a few moments, then the estates would be distributed in that order. However, the decedents could write (or have written) a clause in the will that requires their property to be distributed as though each had predeceased the other.
+Some wills now include Titanic clauses (named for the RMS Titanic, which caused many simultaneous deaths among testators and executors). These clauses lay out explicit instructions for dealing with simultaneous death.

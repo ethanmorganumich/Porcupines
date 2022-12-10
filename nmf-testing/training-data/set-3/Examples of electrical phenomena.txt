@@ -1,0 +1,44 @@
+Electrical phenomena~
+||||||
+List of electrical phenomena
+||||||
+This is a list of electrical phenomena. Electrical phenomena are a somewhat arbitrary division of electromagnetic phenomena.
+Some examples are:
+
+Biefeld–Brown effect — Thought by the person who coined the name, Thomas Townsend Brown, to be an anti-gravity effect, it is generally attributed to electrohydrodynamics (EHD) or sometimes electro-fluid-dynamics, a counterpart to the well-known magneto-hydrodynamics.
+Bioelectrogenesis — The generation of electricity by living organisms.
+Capacitive coupling — Transfer of energy within an electrical network or between distant networks by means of displacement current.
+Contact electrification — The phenomenon of electrification by contact. When two objects were touched together, sometimes the objects became spontaneously charged (οne negative charge, one positive charge).
+Corona effect — Build-up of charges in a high-voltage conductor (common in AC transmission lines), which ionizes the air and produces visible light, usually purple.
+Dielectric polarization — Orientation of charges in certain insulators inside an external static electric field, such as when a charged object is brought close, which produces an electric field inside the insulator.
+Direct Current  — (old: Galvanic Current)  or "continuous current"; The continuous flow of electricity through a conductor such as a wire from high to low potential.
+Electromagnetic induction — Production of a voltage by a time-varying magnetic flux.
+Electroluminescence — The phenomenon wherein a material emits light in response to an electric current passed through it, or to a strong electric field.
+Electrostatic induction — Redistribution of charges in a conductor inside an external static electric field, such as when a charged object is brought close.
+Electrical conduction — The movement of electrically charged particles through transmission medium.
+Electric shock — Physiological reaction of a biological organism to the passage of electric current through its body.
+Ferranti effect — A rise in the amplitude of the AC voltage at the receiving end of a transmission line, compared with the sending-end voltage, due to the capacitance between the conductors, when the receiving end is open-circuited.
+Ferroelectric effect — The phenomenon whereby certain ionic crystals may exhibit a spontaneous dipole moment.
+Hall effect — Separation of charges in a current-carrying conductor inside an external magnetic field, which produces a voltage across the conductor.
+Inductance  —  The phenomenon whereby the property of a circuit by which energy is stored in the form of an electromagnetic field.
+Induction heating — Heat produced in a conductor when eddy currents pass through it.
+Joule heating — Heat produced in a conductor when charges move through it, such as in resistors and wires.
+Lightning —  powerful natural electrostatic discharge produced during a thunderstorm. Lightning's abrupt electric discharge is accompanied by the emission of light.
+Noise and electromagnetic interference — Unwanted and usually random disturbance in an electrical signal. A Faraday cage can be used to attenuate electromagnetic fields, even to avoid the discharge from a Tesla coil.
+Photoconductivity —  The phenomenon in which a material becomes more conductive due to the absorption of electro-magnetic radiation such as visible light, ultraviolet light, or gamma radiation.
+Photoelectric effect —  Emission of electrons from a surface (usually metallic) upon exposure to, and absorption of, electromagnetic radiation (such as visible light and ultraviolet radiation).
+Photovoltaic effect — Production of a voltage by light exposure.
+Piezoelectric effect — Ability of certain crystals to generate a voltage in response to applied mechanical stress.
+Plasma — Plasma occur when gas is heated to very high temperatures and it disassociates into positive and negative charges.
+Proximity effect — Redistribution of charge flow in a conductor carrying alternating current when there are other nearby current-carrying conductors.
+Pyroelectric effect — The potential created in certain materials when they are heated.
+Redox  — (short for reduction-oxidation reaction) A chemical reaction in which the oxidation states of atoms are changed.
+Skin effect — Tendency of charges to distribute at the surface of a conductor, when an alternating current passes through it.
+Static electricity  —  Class of phenomena involving the imbalanced charge present on an object, typically referring to charge with voltages of sufficient magnitude to produce visible attraction (e.g., static cling), repulsion, and sparks.
+Sparks  — Electrical breakdown of a medium that produces an ongoing plasma discharge, similar to the instant spark, resulting from a current flowing through normally nonconductive media such as air.
+Telluric currents — Extremely low frequency electric current that occurs naturally over large underground areas at or near the surface of the Earth.
+Thermionic emission — the emission of electrons from a heated electrode, usually the cathode, the principle underlying most vacuum tubes.
+Thermoelectric effect — the Seebeck effect, the Peltier effect, and the Thomson effect.
+Thunderstorm — also  electrical storm, form of weather characterized by the presence of lightning and its acoustic effect on the Earth's atmosphere known as thunder.
+Triboelectric effect — Type of contact electrification in which objects become electrically charged after coming into contact and are then separated. A Van de Graaff generator is based on this principle.
+Whistlers — Very low frequency radio wave generated by lightning.

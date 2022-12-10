@@ -1,0 +1,5 @@
+Aerodynamics~Geometric centers~
+||||||
+Center of gravity of an aircraft
+||||||
+The center of gravity (CG) of an aircraft is the point over which the aircraft would balance. Its position is calculated after supporting the aircraft on at least two sets of weighing scales or load cells and noting the weight shown on each set of scales or load cells.  The center of gravity affects the stability of the aircraft. To ensure the aircraft is safe to fly, the center of gravity must fall within specified limits established by the aircraft manufacturer.

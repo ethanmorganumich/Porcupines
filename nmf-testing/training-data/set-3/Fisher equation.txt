@@ -1,0 +1,76 @@
+Equations~Fixed income analysis~Inflation~Interest rates~Mathematical finance~Monetary economics~
+||||||
+Fisher equation
+||||||
+In financial mathematics and economics, the Fisher equation expresses the relationship between nominal interest rates and real interest rates under inflation. Named after Irving Fisher, an American economist, it can be expressed as real interest rate ≈ nominal interest rate − inflation rate. In more formal terms, where 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   equals the real interest rate, 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   equals the nominal interest rate, and 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   equals the inflation rate, the Fisher equation is 
+  
+    
+      
+        r
+        =
+        i
+        −
+        π
+      
+    
+    {\displaystyle r=i-\pi }
+  .  It can also be expressed as 
+  
+    
+      
+        i
+        =
+        r
+        +
+        π
+      
+    
+    {\displaystyle i=r+\pi }
+   or 
+  
+    
+      
+        (
+        1
+        +
+        i
+        )
+        =
+        (
+        1
+        +
+        r
+        )
+        (
+        1
+        +
+        π
+        )
+      
+    
+    {\displaystyle (1+i)=(1+r)(1+\pi )}
+  .

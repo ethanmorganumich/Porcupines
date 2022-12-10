@@ -1,0 +1,253 @@
+Compound probability distributions~Discrete distributions~
+||||||
+Yule–Simon distribution
+||||||
+In probability and statistics, the Yule–Simon distribution is a discrete probability distribution named after Udny Yule and Herbert A. Simon.  Simon originally called it the Yule distribution.The probability mass function (pmf) of the Yule–Simon (ρ) distribution is
+
+  
+    
+      
+        f
+        (
+        k
+        ;
+        ρ
+        )
+        =
+        ρ
+        B
+        ⁡
+        (
+        k
+        ,
+        ρ
+        +
+        1
+        )
+        ,
+      
+    
+    {\displaystyle f(k;\rho )=\rho \operatorname {B} (k,\rho +1),}
+  for integer 
+  
+    
+      
+        k
+        ≥
+        1
+      
+    
+    {\displaystyle k\geq 1}
+   and real 
+  
+    
+      
+        ρ
+        >
+        0
+      
+    
+    {\displaystyle \rho >0}
+  , where 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle \operatorname {B} }
+   is the beta function.  Equivalently the pmf can be written in terms of the rising factorial as
+
+  
+    
+      
+        f
+        (
+        k
+        ;
+        ρ
+        )
+        =
+        
+          
+            
+              ρ
+              Γ
+              (
+              ρ
+              +
+              1
+              )
+            
+            
+              (
+              k
+              +
+              ρ
+              
+                )
+                
+                  
+                    
+                      ρ
+                      +
+                      1
+                    
+                    _
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle f(k;\rho )={\frac {\rho \Gamma (\rho +1)}{(k+\rho )^{\underline {\rho +1}}}},}
+  where 
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+   is the gamma function.  Thus, if 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is an integer,
+
+  
+    
+      
+        f
+        (
+        k
+        ;
+        ρ
+        )
+        =
+        
+          
+            
+              ρ
+              
+              ρ
+              !
+              
+              (
+              k
+              −
+              1
+              )
+              !
+            
+            
+              (
+              k
+              +
+              ρ
+              )
+              !
+            
+          
+        
+        .
+      
+    
+    {\displaystyle f(k;\rho )={\frac {\rho \,\rho !\,(k-1)!}{(k+\rho )!}}.}
+  The parameter 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   can be estimated using a fixed point algorithm.The probability mass function f has the property that for sufficiently large k we have
+
+  
+    
+      
+        f
+        (
+        k
+        ;
+        ρ
+        )
+        ≈
+        
+          
+            
+              ρ
+              Γ
+              (
+              ρ
+              +
+              1
+              )
+            
+            
+              k
+              
+                ρ
+                +
+                1
+              
+            
+          
+        
+        ∝
+        
+          
+            1
+            
+              k
+              
+                ρ
+                +
+                1
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle f(k;\rho )\approx {\frac {\rho \Gamma (\rho +1)}{k^{\rho +1}}}\propto {\frac {1}{k^{\rho +1}}}.}
+  
+This means that the tail of the Yule–Simon distribution is a realization of Zipf's law: 
+  
+    
+      
+        f
+        (
+        k
+        ;
+        ρ
+        )
+      
+    
+    {\displaystyle f(k;\rho )}
+   can be used to model, for example, the relative frequency of the 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  th most frequent word in a large collection of text, which according to Zipf's law is inversely proportional to a (typically small) power of 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  .

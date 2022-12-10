@@ -1,0 +1,10 @@
+Electromagnetic compatibility~Electronic engineering~Wireless energy transfer~
+||||||
+Inductive coupling
+||||||
+In electrical engineering, two conductors are said to be inductively coupled or magnetically coupled  when they are configured in a way such that change in current through one wire induces a voltage across the ends of the other wire through electromagnetic induction.  A changing current through the first wire creates a changing magnetic field around it by Ampere's circuital law.  The changing magnetic field induces an electromotive force (EMF or voltage) in the second wire by Faraday's law of induction.  The amount of inductive coupling between two conductors is measured by their mutual inductance.  
+The coupling between two wires can be increased by winding them into coils and placing them close together on a common axis, so the magnetic field of one coil passes through the other coil.  Coupling can also be increased by a magnetic core of a ferromagnetic material like iron or ferrite in the coils, which increases the magnetic flux.   The two coils may be physically contained in a single unit, as in the primary and secondary windings of a transformer, or may be separated.  Coupling may be intentional or unintentional. Unintentional inductive coupling can cause signals from one circuit to be induced into a nearby circuit, this is called cross-talk, and is a form of electromagnetic interference.
+
+An inductively coupled transponder consists of a solid state transceiver chip connected to a large coil that functions as an antenna.  When brought within the oscillating magnetic field of a reader unit, the transceiver is powered up by energy inductively coupled into its antenna and transfers data back to the reader unit inductively.  
+Magnetic coupling between two magnets can also be used to mechanically transfer power without contact, as in the magnetic gear.
+

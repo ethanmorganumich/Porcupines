@@ -1,0 +1,6 @@
+Bluetooth~Personal area networks~
+||||||
+Personal area network
+||||||
+A personal area network (PAN) is a computer network for interconnecting electronic devices  within an individual person's workspace. A PAN provides data transmission among devices such as computers, smartphones, tablets and personal digital assistants. PANs can be used for communication among the personal devices themselves, or for connecting to a higher level network and the Internet where one master device takes up the role as gateway. 
+A PAN may be wireless or carried over wired interfaces such as USB. A wireless personal area network (WPAN) is a PAN carried over a low-powered, short-distance wireless network technology such as IrDA, Wireless USB, Bluetooth or ZigBee. The reach of a WPAN varies from a few centimeters to a few meters. WPANs specifically tailored for low-power operation of the sensors are sometimes also called low-power personal area network (LPPAN) to better distinguish them from low-power wide-area network (LPWAN).

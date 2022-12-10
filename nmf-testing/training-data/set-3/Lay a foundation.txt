@@ -1,0 +1,6 @@
+Evidence law~Evidence law legal terminology~Legal terminology stubs~
+||||||
+Foundation (evidence)
+||||||
+In common law, a foundation is sufficient preliminary evidence of the authenticity and relevance for the admission of material evidence in the form of exhibits or testimony of witnesses.  Material evidence is important evidence that may serve to determine the outcome of a case.  Exhibits include real evidence, illustrative evidence, demonstrative evidence, and documentary evidence.  The type of preliminary evidence necessary to lay the proper foundation depends on the form and type of material evidence offered.
+The lack of foundation is a valid objection that an adverse party may raise during trial.

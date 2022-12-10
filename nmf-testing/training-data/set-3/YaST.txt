@@ -1,0 +1,8 @@
+1996 software~Free package management systems~Free software programmed in Ruby~Linux PMS graphical front-ends~Linux package management-related software~SUSE Linux~Software that uses ncurses~Unix configuration utilities~
+||||||
+YaST
+||||||
+YaST (Yet another Setup Tool) is a Linux operating system setup and configuration tool.
+YaST is featured in the openSUSE Linux distribution, as well as in SUSE's derived commercial distributions. It is also part of the defunct United Linux.
+YaST features tools that can configure many aspects of the system.
+YaST was released first in April 1995. The first SuSE distribution that included YaST was released in May 1996. YaST was re-written in 1999 and included first in SuSE Linux 6.3 as only an installer. YaST2 was added to the desktop in SuSE Linux 6.4 and co-existed with YaST1 until YaST1's removal in SuSE Linux 8.0.

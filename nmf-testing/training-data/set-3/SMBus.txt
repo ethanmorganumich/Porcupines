@@ -1,0 +1,9 @@
+Battery charging~Computer buses~Computer hardware standards~Computer-related introductions in 1995~Intel products~Out-of-band management~Serial buses~
+||||||
+System Management Bus
+||||||
+The System Management Bus (abbreviated to SMBus or SMB) is a single-ended simple two-wire bus for the purpose of lightweight communication. Most commonly it is found in computer motherboards for communication with the power source for ON/OFF instructions.
+It is derived from I²C for communication with low-bandwidth devices on a motherboard, especially power related chips such as a laptop's rechargeable battery subsystem (see Smart Battery System). Other devices might include temperature, fan or voltage sensors, lid switches, clock generator, and RGB lighting. PCI add-in cards may connect to an SMBus segment.
+A device can provide manufacturer information, indicate its model/part number, save its state for a suspend event, report different types of errors, accept control parameters and return status. The SMBus is generally not user configurable or accessible. Although SMBus devices usually can't identify their functionality, a new PMBus coalition has extended SMBus to include conventions allowing that.
+The SMBus was defined by Intel and Duracell in 1994. It carries clock, data, and instructions and is based on Philips' I²C serial bus protocol. Its clock frequency range is 10 kHz to 100 kHz. (PMBus extends this to 400 kHz.) Its voltage levels and timings are more strictly defined than those of I²C, but devices belonging to the two systems are often successfully mixed on the same bus.SMBus is used as an interconnect in several platform management standards including: ASF, DASH, IPMI.
+SMBus is used to access DRAM configuration information as part of serial presence detect. SMBus has grown into a wide variety of system enumeration use cases other than power management.

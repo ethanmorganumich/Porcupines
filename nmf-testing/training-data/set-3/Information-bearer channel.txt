@@ -1,0 +1,8 @@
+Telecommunication theory~Telecommunications stubs~
+||||||
+Information-bearer channel
+||||||
+In telecommunications, an information-bearer channel is one of: 
+
+A communication channel capable of transmitting all the information required for communication, such as user data, synchronizing sequences, and control signals. The information-bearer channel may operate at a higher data rate than that required for user data alone.
+A basic communications channel with the necessary bandwidth but without enhanced or value-added services.

@@ -1,0 +1,5 @@
+Capacitors~Diodes~
+||||||
+Varicap
+||||||
+In electronics, a varicap diode, varactor diode, variable capacitance diode, variable reactance diode or tuning diode is a type of diode designed to exploit the voltage-dependent capacitance of a reverse-biased p–n junction.

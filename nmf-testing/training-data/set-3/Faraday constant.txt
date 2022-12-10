@@ -1,0 +1,10 @@
+Electrochemical concepts~Michael Faraday~Physical constants~Units of amount of substance~Units of electrical charge~
+||||||
+Faraday constant
+||||||
+In physical chemistry, the Faraday constant, denoted by the symbol F and sometimes stylized as ℱ, is the electric charge per mole of elementary charges. It is named after the English scientist Michael Faraday. Since the 2019 redefinition of SI base units, which took effect on 20 May 2019, the Faraday constant has the exactly defined value given by the product of the elementary charge e and Avogadro constant NA:
+
+F = e × NA
+  = 1.602176634×10−19 C × 6.02214076×1023 mol−1
+  = 9.64853321233100184×104 C⋅mol−1.
+

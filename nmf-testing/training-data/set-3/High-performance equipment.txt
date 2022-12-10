@@ -1,0 +1,10 @@
+Telecommunications equipment~
+||||||
+High-performance equipment
+||||||
+High-performance equipment describes telecommunications equipment that
+
+(a) has the performance characteristics required for use in trunks or links,
+(b) is designed primarily for use in global and tactical systems, and
+(c) sufficiently withstands electromagnetic interference when operating in a variety of network or point-to-point circuits.Note:  Requirements for global and tactical high-performance equipment may differ.
+ This article incorporates public domain material from Federal Standard 1037C. General Services Administration. (in support of MIL-STD-188).

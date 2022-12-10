@@ -1,0 +1,6 @@
+Gate arrays~
+||||||
+Programmable logic device
+||||||
+A programmable logic device (PLD) is an electronic component used to build reconfigurable digital circuits. Unlike digital logic constructed using discrete logic gates with fixed functions, a PLD has an undefined function at the time of manufacture. Before the PLD can be used in a circuit it must be programmed to implement the desired function. Compared to fixed logic devices, programmable logic devices simplify the design of complex logic and may offer superior performance. Unlike for microprocessors, programming a PLD changes the connections made between the gates in the device.
+PLDs can broadly be categorised into, in increasing order of complexity, Simple Programmable Logic Devices (SPLDs), comprising programmable array logic, programmable logic array and generic array logic; Complex Programmable Logic Devices (CPLDs) and Field-Programmable Gate Arrays (FPGAs).

@@ -1,0 +1,6 @@
+Logarithmic scales of measurement~Optical filters~Spectroscopy~
+||||||
+Absorbance
+||||||
+Absorbance is  defined as "the logarithm of the ratio of incident to transmitted radiant power through a sample (excluding the effects on cell walls)". Alternatively, for samples which scatter light, absorbance may be defined as "the negative logarithm of one minus absorptance, as measured on a uniform sample". The term is used in many technical areas to quantify the results of an experimental measurement. While the term has its origin in quantifying the absorption of light, it is often entangled with quantification of light which is “lost” to a detector system through other mechanisms. What these uses of the term tend to have in common is that they refer to a logarithm of the ratio of a quantity of light incident on a sample or material to that which is detected after the light has interacted with the sample.  
+The term absorption refers to the physical process of absorbing light, while absorbance does not always measure only absorption; it may measure attenuation (of transmitted radiant power) caused by absorption, as well as reflection, scattering, and other physical processes.

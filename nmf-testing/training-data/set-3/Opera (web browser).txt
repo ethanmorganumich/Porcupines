@@ -1,0 +1,7 @@
+1994 software~1995 software~BSD software~C++ software~Computer-related introductions in 1995~Cross-platform web browsers~Embedded Linux~Freeware~MacOS web browsers~OS/2 web browsers~Opera Software~POSIX web browsers~Pocket PC software~Portable software~Proprietary cross-platform software~Proprietary freeware for Linux~Science and technology in Norway~Software based on WebKit~Software companies of Norway~Telenor~Windows web browsers~
+||||||
+Opera (web browser)
+||||||
+Opera is a multi-platform web browser developed by its namesake company Opera. The browser is based on Chromium, but distinguishes itself from other Chromium-based browsers (Chrome, Edge, etc.) through its user interface and other features.
+Opera was initially released on 10 April 1995, making it one of the oldest desktop web browsers still actively developed. It was commercial software for its first ten years and had its own proprietary layout engine, Presto. In 2013, it switched from the Presto engine to Chromium.
+Opera is available on Windows, macOS, Linux, Android, and iOS (Safari WebKit engine). There are also mobile versions called Opera Mobile and Opera Mini. Opera users also have access to Opera News, a news app based on an AI platform.The company released a gaming-oriented version of the browser, Opera GX, in 2019, and a blockchain-focused Opera Crypto Browser into public beta in January 2022.

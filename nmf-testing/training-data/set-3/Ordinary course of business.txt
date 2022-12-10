@@ -1,0 +1,11 @@
+American legal terminology~Business law~Legal terminology stubs~
+||||||
+Ordinary course of business
+||||||
+In United States law, the ordinary course of business (OCB) covers the usual transactions, customs and practices of a certain business and of a certain firm. This term is used particularly to judge the validity of certain transactions.  It is used in several different sections of the Uniform Commercial Code of the United States.
+Section 1-201 of the Uniform Commercial Code defines a "Buyer in the ordinary course of business" by a four-part test:
+
+a person that buys goods in good faith,
+without knowledge that the sale violates the rights of another person in the goods [e.g. a security interest],
+and in the ordinary course from a person, other than a pawnbroker, in the business of selling goods of that kind.
+A person buys goods in the ordinary course if the sale to the person comports with the usual or customary practices in the kind of business in which the seller is engaged or with the seller's own usual or customary practices.[emphasis added]

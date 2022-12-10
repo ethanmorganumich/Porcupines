@@ -1,0 +1,6 @@
+Bridge circuits~Electrical meters~English inventions~Impedance measurements~Measuring instruments~
+||||||
+Wheatstone bridge
+||||||
+A Wheatstone bridge is an electrical circuit used to measure an unknown electrical resistance by balancing two legs of a bridge circuit, one leg of which includes the unknown component. The primary benefit of the circuit is its ability to provide extremely accurate measurements (in contrast with something like a simple voltage divider). Its operation is similar to the original potentiometer.
+The Wheatstone bridge was invented by Samuel Hunter Christie (sometimes spelled "Christy") in 1833 and improved and popularized by Sir Charles Wheatstone in 1843.  One of the Wheatstone bridge's initial uses was for soil analysis and comparison.

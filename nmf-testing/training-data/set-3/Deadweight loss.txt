@@ -1,0 +1,7 @@
+Imperfect competition~Price controls~Scarcity~Welfare economics~
+||||||
+Deadweight loss
+||||||
+In economics, deadweight loss is the difference in production and consumption of any given product or service including government tax. The presence of deadweight loss is most commonly identified when the quantity produced relative to the amount consumed differs in regards to the optimal concentration of surplus. This difference in the amount reflects the quantity that is not being utilized or consumed and thus resulting in a loss. This "deadweight loss" is therefore attributed to both, producers and consumers because neither one of them benefits from the surplus of the overall production.  
+Deadweight loss can also be a measure of lost economic efficiency when the socially optimal quantity of a good or a service is not produced. Non-optimal production can be caused by monopoly pricing in the case of artificial scarcity, a positive or negative externality, a tax or subsidy, or a binding price ceiling or price floor such as a minimum wage.
+

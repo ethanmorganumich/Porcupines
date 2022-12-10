@@ -1,0 +1,7 @@
+Aerodynamics~Flight~Sky~
+||||||
+Flight
+||||||
+Flight or flying is the process by which an object moves through a space without contacting any planetary surface, either within an atmosphere (i.e. air flight or aviation) or through the vacuum of outer space (i.e. spaceflight).  This can be achieved by generating aerodynamic lift associated with gliding or propulsive thrust, aerostatically using buoyancy, or by ballistic movement.
+Many things can fly, from animal aviators such as birds, bats and insects, to natural gliders/parachuters such as patagial animals, anemochorous seeds and ballistospores, to human inventions like aircraft (airplanes, helicopters, airships, balloons, etc.) and rockets which may propel spacecraft and spaceplanes.
+The engineering aspects of flight are the purview of aerospace engineering which is subdivided into aeronautics, the study of vehicles that travel through the atmosphere, and astronautics, the study of vehicles that travel through space, and ballistics, the study of the flight of projectiles.

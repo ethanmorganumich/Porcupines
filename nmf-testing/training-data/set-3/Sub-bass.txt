@@ -1,0 +1,6 @@
+Bass (sound)~Music stubs~Pitch (music)~
+||||||
+Sub-bass
+||||||
+Sub-bass sounds are the deep, low-register pitches below approximately 70 Hz (C♯2 in scientific pitch notation) and extending downward to include the lowest frequency humans can hear, approximately 20 Hz (E0). 
+In this range, human hearing is less sensitive, so these notes tend to be felt more than heard. The low E-string on a bass guitar is usually tuned to 41.2 Hz, while the lowest note on a standard piano is A at 27.5 Hz. Sound reinforcement systems and PA systems often use one or more subwoofer loudspeakers to amplify sounds in the sub-bass range. Sounds below sub-bass are infrasound.

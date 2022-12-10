@@ -1,0 +1,6 @@
+Data transmission~Telecommunications equipment~
+||||||
+Data circuit-terminating equipment
+||||||
+A data circuit-terminating equipment (DCE) is a device that sits between the data terminal equipment (DTE) and a data transmission circuit. It is also called data communication(s) equipment and data carrier equipment. Usually, the DTE device is the terminal (or computer), and the DCE is a modem.
+In a data station, the DCE performs functions such as signal conversion, coding, and line clocking and may be a part of the DTE or intermediate equipment. Interfacing equipment may be required to couple the DTE into a transmission circuit or channel and from a transmission circuit or channel into the DTE.

@@ -1,0 +1,10 @@
+Chords~
+||||||
+Major chord
+||||||
+In music theory, a major chord is a chord that has a root, a major third, and a perfect fifth. When a chord comprises only these three notes, it is called a major triad. For example, the major triad built on C, called a C major triad, has pitches C–E–G:
+
+In harmonic analysis and on lead sheets, a C major chord can be notated as C, CM, CΔ, or Cmaj. A major triad is represented by the integer notation {0, 4, 7}.
+A major triad can also be described by its intervals: the interval between the bottom and middle notes is a major third, and the interval between the middle and top notes is a minor third. By contrast, a minor triad has a minor third interval on the bottom and major third interval on top. They both contain fifths, because a major third (four semitones) plus a minor third (three semitones) equals a perfect fifth (seven semitones). Chords that are constructed of consecutive (or "stacked") thirds are called tertian.
+In Western classical music from 1600 to 1820 and in Western pop, folk and rock music, a major chord is usually played as a triad. Along with the minor triad, the major triad is one of the basic building blocks of tonal music in the Western common practice period and Western pop, folk and rock music. It is considered consonant, stable, or not requiring resolution. In Western music, a minor chord "sounds darker than a major chord", giving off a sense of sadness or somber feeling.Some major chords with additional notes, such as the major seventh chord, are also called major chords. Major seventh chords are used in jazz and occasionally in rock music. In jazz, major chords may also have other chord tones added, such as the ninth and the thirteenth scale degrees.
+

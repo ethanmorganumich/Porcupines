@@ -1,0 +1,6 @@
+Film and video technology~High-definition television~Television terminology~Video signal~
+||||||
+Component video
+||||||
+Component video is an analog video signal that has been split into two or more component channels. In popular use, it refers to a type of component analog video (CAV) information that is transmitted or stored as three separate signals. Component video can be contrasted with composite video in which all the video information is combined into a single signal that is used in analog television. Like composite, component-video cables do not carry audio and are often paired with audio cables.
+When used without any other qualifications, the term component video usually refers to analog YPBPR component video with sync on luma (Y) found on analog high-definition televisions and associated equipment from the 1990s through the 2000s when they were largely replaced with HDMI and other all-digital standards. Component video cables and their RCA jack connectors on equipment are normally color-coded red, green and blue, although the signal is not in RGB. YPbPr component video can be losslessly converted to the RGB signal that internally drives the monitor; the encoding is useful as the Y signal will also work on black and white monitors.

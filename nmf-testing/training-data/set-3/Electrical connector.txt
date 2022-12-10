@@ -1,0 +1,11 @@
+Computer connectors~Electrical connectors~
+||||||
+Electrical connector
+||||||
+Components of an electrical circuit are electrically connected if an electric current can run between them through an electrical conductor. An electrical connector is an electromechanical device used to create an electrical connection between parts of an electrical circuit, or between different electrical circuits, thereby joining them into a larger circuit. Most electrical connectors have a gender – i.e. the male component, called a plug, connects to the female component, or socket. The connection may be removable (as for portable equipment), require a tool for assembly and removal, or serve as a permanent electrical joint between two points. An adapter can be used to join dissimilar connectors.
+Thousands of configurations of connectors are manufactured for power, data, and audiovisual applications. Electrical connectors can be divided into four basic categories, differentiated by their function:
+inline or cable connectors permanently attached to a cable, so it can be plugged into another terminal (either a stationary instrument or another cable)
+Chassis or panel connectors permanently attached to a piece of equipment so users can connect a cable to a stationary device
+PCB mount connectors soldered to a printed circuit board, providing a point for cable or wire attachment.: 56  (e.g. pin headers, screw terminals, board-to-board connectors)
+Splice or butt connectors (primarily insulation displacement connectors) that permanently join two lengths of wire or cableIn computing, electrical connectors are considered a physical interface and constitute part of the physical layer in the OSI model of networking.
+

@@ -1,0 +1,6 @@
+Modes (music)~
+||||||
+Hypoionian mode
+||||||
+The Hypoionian mode, literally meaning "below Ionian", is the name assigned by Henricus Glareanus in his Dodecachordon (1547) to the plagal mode on C, which uses the diatonic octave species from G to the G an octave higher, divided at its final, C. This is roughly the same as playing all the white notes of a piano from G to G: G A B C | (C) D E F G.Glarean regarded compositions with F as the final and a one-flat signature as transpositions of the Ionian or Hypoionian mode (depending on the ambitus). Most of his contemporaries, however, appear to have continued considering such compositions as being in the fifth and sixth modes (Lydian and Hypolydian), which had been regarded since the beginnings of medieval modal theory as preferring B♭ over B♮ for the fourth degree above the final, F.
+

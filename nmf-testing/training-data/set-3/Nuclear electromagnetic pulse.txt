@@ -1,0 +1,6 @@
+Bombs~Electromagnetic compatibility~Electromagnetic radiation~Electronic warfare~Energy weapons~Nuclear weapons~Pulsed power~
+||||||
+Nuclear electromagnetic pulse
+||||||
+A nuclear electromagnetic pulse (nuclear EMP or NEMP) is a burst of electromagnetic radiation created by a nuclear explosion. The resulting rapidly varying electric and magnetic fields may couple with electrical and electronic systems to produce damaging current and voltage surges. The specific characteristics of a particular nuclear EMP event vary according to a number of factors, the most important of which is the altitude of the detonation.
+The term "electromagnetic pulse" generally excludes optical (infrared, visible, ultraviolet) and ionizing (such as X-ray and gamma radiation) ranges. In military terminology, a nuclear warhead detonated tens to hundreds of miles above the Earth's surface is known as a high-altitude electromagnetic pulse (HEMP) device. Effects of a HEMP device depend on factors including the altitude of the detonation, energy yield, gamma ray output, interactions with the Earth's magnetic field and electromagnetic shielding of targets.

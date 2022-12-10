@@ -1,0 +1,8 @@
+Calendaring software~IOS~IOS software~IOS-based software made by Apple Inc.~MacOS-only software made by Apple Inc.~WatchOS software~
+||||||
+Calendar (Apple)
+||||||
+Calendar is a personal calendar app made by Apple Inc. that runs on both the macOS desktop operating system and the iOS mobile operating system. It offers online cloud backup of calendars using Apple's iCloud service, or can synchronize with other calendar services, including Google Calendar and Microsoft Exchange Server.
+The macOS version was known as iCal before the release of OS X Mountain Lion in July 2012. Originally released as a free download for Mac OS X v10.2 on September 10, 2002, it was bundled with the operating system as iCal 1.5 with the release of Mac OS X v10.3. iCal was the first calendar application for Mac OS X to offer support for multiple calendars and the ability to intermittently publish/subscribe to calendars on WebDAV servers. Version 2 of iCal was released as part of Mac OS X v10.4, Version 3 as part of Mac OS X v10.5, Version 4 as part of Mac OS X v10.6, Version 5 as part of Mac OS X v10.7, Version 6 as part of OS X v10.8, Version 7 as part of OS X v10.9, Version 8 as part of OS X v10.10 and OS X v10.11, and version 9 as part of macOS v10.12.
+Apple licensed the iCal name from Brown Bear Software, who have used it for their iCal application since 1997.iCal's initial development was quite different from other Apple software: it was designed independently by a small French team working "secretly" in Paris, led by Jean-Marie Hullot, a friend of Steve Jobs. iCal's development has since been transferred to Apple US headquarters in Cupertino.
+

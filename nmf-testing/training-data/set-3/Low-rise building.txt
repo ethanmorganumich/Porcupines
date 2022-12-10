@@ -1,0 +1,5 @@
+Apartment types~Building and structure type stubs~Structural system~
+||||||
+Low-rise building
+||||||
+A low-rise is a building that is only a few stories tall or any building that is shorter than a high-rise, though others include the classification of mid-rise.

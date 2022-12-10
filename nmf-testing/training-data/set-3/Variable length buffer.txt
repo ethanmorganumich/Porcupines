@@ -1,0 +1,6 @@
+Computer memory~Synchronization~
+||||||
+Variable-length buffer
+||||||
+In telecommunication, a variable length buffer or elastic buffer is a buffer into which data may be entered at one rate and removed at another rate without changing the data sequence.  
+Most first-in first-out (FIFO)  storage devices are variable-length buffers in that the input rate may be variable while the output rate is constant or the output rate may be variable while the input rate is constant. Various clocking and control systems are used to allow control of underflow or overflow conditions.

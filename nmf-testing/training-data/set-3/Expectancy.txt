@@ -1,0 +1,29 @@
+Actuarial science~Demographic economics~Demography~Life expectancy~Population~Senescence~
+||||||
+Life expectancy
+||||||
+Life expectancy is a statistical measure of the average time an organism is expected to live, based on the year of its birth, current age, and other demographic factors like sex. The most commonly used measure is life expectancy at birth (LEB), which can be defined in two ways. Cohort LEB is the mean length of life of a birth cohort (all individuals born in a given year) and can be computed only for cohorts born so long ago that all their members have died. Period LEB is the mean length of life of a hypothetical cohort assumed to be exposed, from birth through death, to the mortality rates observed at a given year.National LEB figures reported by national agencies and international organizations for human populations are estimates of period LEB. In the Bronze Age and the Iron Age, human LEB was 26 years; in 2010, world LEB was 67.2 years. In recent years, LEB in Eswatini (formerly Swaziland) is 49, while LEB in Japan is 83. The combination of high infant mortality and deaths in young adulthood from accidents, epidemics, plagues, wars, and childbirth, before modern medicine was widely available, significantly lowers LEB. For example, a society with a LEB of 40 would have relatively few people dying at exactly 40: most will die before 30 or after 55. In populations with high infant mortality rates, LEB is highly sensitive to the rate of death in the first few years of life. Because of this sensitivity, LEB can be grossly misinterpreted, leading to the belief that a population with a low LEB would have a small proportion of older people. A different measure, such as life expectancy at age 5 (e5), can be used to exclude the effect of infant mortality to provide a simple measure of overall mortality rates other than in early childhood. For instance, in a society with a life expectancy of 30, it may nevertheless be common to have a 40-year remaining timespan at age 5 (but perhaps not a 60-year one).
+Until the middle of the 20th century, infant mortality was approximately 40–60% of the total mortality. Excluding child mortality, the average life expectancy during the 12th–19th centuries was approximately 55 years. If a person survived childhood, they had about a 50% chance of living 50–55 years, instead of only 25–40 years.Aggregate population measures—such as the proportion of the population in various age groups—are also used alongside individual-based measures—such as formal life expectancy—when analyzing population structure and dynamics. Pre-modern societies had universally higher mortality rates and lower life expectancies at every age for both males and females. This example is relatively rare.
+Life expectancy, longevity, and maximum lifespan are not synonymous. Longevity refers to the relatively long lifespan of some members of a population. Maximum lifespan is the age at death for the longest-lived individual of a species. Mathematically, life expectancy is denoted 
+  
+    
+      
+        
+          e
+          
+            x
+          
+        
+      
+    
+    {\displaystyle e_{x}}
+    and is the mean number of years of life remaining at a given age 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , with a particular mortality. Because life expectancy is an average, a particular person may die many years before or after the expected survival.
+Life expectancy is also used in plant or animal ecology, and in life tables (also known as actuarial tables). The concept of life expectancy may also be used in the context of manufactured objects, though the related term shelf life is commonly used for consumer products, and the terms "mean time to breakdown" (MTTB) and "mean time between failures" (MTBF) are used in engineering.

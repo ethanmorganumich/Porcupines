@@ -1,0 +1,5 @@
+Demand~Elasticity (economics)~
+||||||
+Income elasticity of demand
+||||||
+In economics, the income elasticity of demand is the responsivenesses of the quantity demanded for a good to a change in consumer income. It is measured as the ratio of the percentage change in quantity demanded to the percentage change in income.  If a 10% increase in Mr. Ruskin Smith's income causes him to buy 20% more bacon, Smith's income elasticity of demand for bacon is 20%/10% = 2.

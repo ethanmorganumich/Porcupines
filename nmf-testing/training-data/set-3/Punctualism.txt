@@ -1,0 +1,7 @@
+Etiquette~Game theory~Queueing theory~Time management~
+||||||
+Punctuality
+||||||
+Punctuality is the characteristic of being able to complete a required task or fulfill an obligation before or at a previously designated time. "Punctual" is often used synonymously with "on time".
+An opposite personality trait is tardiness.
+According to each culture, there is often an understanding about what is considered an acceptable degree of punctuality. Usually, a small amount of lateness is acceptable; this is commonly about five to ten minutes in most Western cultures, but this is not the case in such instances as doctor's appointments.Some cultures have an unspoken understanding that actual deadlines are different from stated deadlines, for example with African time. For example, it may be understood in a particular culture that people will turn up an hour later than advertised. In this case, since everyone understands that a 9 pm party will actually start at around 10 pm, no-one is inconvenienced when everyone arrives at 10 pm.In cultures that value punctuality, being late is seen as disrespectful of others' time and may be considered insulting. In such cases, punctuality may be enforced by social penalties, for example by excluding low-status latecomers from meetings entirely. Such considerations can lead on to considering the value of punctuality in econometrics and to considering the effects of non-punctuality on others in queueing theory.

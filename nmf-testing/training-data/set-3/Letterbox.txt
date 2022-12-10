@@ -1,0 +1,6 @@
+Film and video technology~
+||||||
+Letterboxing (filming)
+||||||
+Letterboxing is the practice of transferring film shot in a widescreen aspect ratio to standard-width video formats while preserving the film's original aspect ratio.  The resulting videographic image has mattes (black bars) above and below it; these mattes are part of each frame of the video signal.  LBX and LTBX are identifying abbreviations for films and images thus formatted.
+

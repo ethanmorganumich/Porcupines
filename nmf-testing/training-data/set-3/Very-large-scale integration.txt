@@ -1,0 +1,6 @@
+Integrated circuits~MOSFETs~Telecommunications engineering~
+||||||
+Very Large Scale Integration
+||||||
+Very large-scale integration (VLSI) is the process of creating an integrated circuit (IC) by combining millions or billions of MOS transistors onto a single chip. VLSI began in the 1970s when MOS integrated circuit (Metal Oxide Semiconductor) chips were developed and then widely adopted, enabling complex semiconductor and telecommunication technologies. The microprocessor and memory chips are VLSI devices.
+Before the introduction of VLSI technology, most ICs had a limited set of functions they could perform. An electronic circuit might consist of a CPU, ROM, RAM and other glue logic. VLSI enables IC designers to add all of these into one chip.

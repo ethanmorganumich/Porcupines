@@ -1,0 +1,6 @@
+Contract law~Freight transport~Legal documents~Transport law~
+||||||
+Consignee
+||||||
+In a contract of carriage, the consignee is the entity who is financially responsible (the buyer) for the receipt of a shipment.  Generally, but not always, the consignee is the same as the receiver.
+If a sender dispatches an item to a receiver via a delivery service, the sender is the consignor, the recipient is the consignee, and the deliverer is the carrier.

@@ -1,0 +1,6 @@
+Data management~Transaction processing~
+||||||
+Schedule (computer science)
+||||||
+In the fields of databases and transaction processing (transaction management), a schedule (or history) of a system is an abstract model to describe execution of transactions running in the system. Often it is a list of operations (actions) ordered by time, performed by a set of transactions that are executed together in the system. If the order in time between certain operations is not determined by the system, then a partial order is used. Examples of such operations are requesting a read operation, reading, writing, aborting, committing, requesting a lock, locking, etc. Not all transaction operation types should be included in a schedule, and typically only selected operation types (e.g., data access operations) are included, as needed to reason about and describe certain phenomena. Schedules and schedule properties are fundamental concepts in database concurrency control theory.
+

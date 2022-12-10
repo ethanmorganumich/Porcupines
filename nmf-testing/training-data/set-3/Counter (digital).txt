@@ -1,0 +1,6 @@
+Digital circuits~Numeral systems~Unary operations~
+||||||
+Counter (digital)
+||||||
+In digital logic and computing, a counter is a device which stores (and sometimes displays) the number of times a particular event or process has occurred, often in relationship to a clock.  The most common type is a sequential digital logic circuit with an input line called the  clock  and multiple output lines.  The values on the output lines represent a number in the binary or BCD number system. Each pulse applied to the clock input increments or decrements the number in the counter.
+A counter circuit is usually constructed of several flip-flops connected in a cascade. Counters are a very widely used component in digital circuits, and are manufactured as separate integrated circuits and also incorporated as parts of larger integrated circuits.

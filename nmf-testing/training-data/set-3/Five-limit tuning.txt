@@ -1,0 +1,137 @@
+5-limit tuning and intervals~
+||||||
+Five-limit tuning
+||||||
+Five-limit tuning, 5-limit tuning, or 5-prime-limit tuning (not to be confused with 5-odd-limit tuning), is any system for tuning a musical instrument that obtains the frequency of each note by multiplying the frequency of a given reference note (the base note) by products of integer powers of 2, 3, or 5 (prime numbers limited to 5 or lower), such as 2−3·31·51 = 15/8.
+Powers of 2 represent intervallic movements by octaves. Powers of 3 represent movements by intervals of perfect fifths (plus one octave, which can be removed by multiplying by 1/2, i.e., 2−1). Powers of 5 represent intervals of major thirds (plus two octaves, removable by multiplying by 1/4, i.e., 2−2). Thus, 5-limit tunings are constructed entirely from stacking of three basic purely-tuned intervals (octaves, thirds and fifths). Since the perception of consonance seems related to low numbers in the harmonic series, and 5-limit tuning relies on the three lowest primes, 5-limit tuning should be capable of producing very consonant harmonies. Hence, 5-limit tuning is considered a method for obtaining just intonation.
+The number of potential intervals, pitch classes, pitches, key centers, chords, and modulations available to 5-limit tunings is unlimited, because no (nonzero integer) power of any prime equals any power of any other prime, so the available intervals can be imagined to extend indefinitely in a 3-dimensional lattice (one dimension, or one direction, for each prime). If octaves are ignored, it can be seen as a 2-dimensional lattice of pitch classes (note names) extending indefinitely in two directions.
+However, most tuning systems designed for acoustic instruments restrict the total number of pitches for practical reasons. It is also typical (but not always done) to have the same number of pitches in each octave, representing octave transpositions of a fixed set of pitch classes. In that case, the tuning system can also be thought of as an octave-repeating scale of a certain number of pitches per octave.
+The frequency of any pitch in a particular 5-limit tuning system can be obtained by multiplying the frequency of a fixed reference pitch chosen for the tuning system (such as A440, A442, A432, C256, etc.) by some combination of the powers of 3 and 5 to determine the pitch class and some power of 2 to determine the octave.
+For example, if we have a 5-limit tuning system where the base note is C256 (meaning it has 256 cycles per second and we decide to call it C), then fC = 256 Hz, or "frequency of C equals 256 Hz." There are several ways to define E above this C. Using thirds, one may go up one factor 5 and down two factors 2, reaching a frequency ratio of 5/4, or using fifths one may go up four factors of 3 and down six factors of 2, reaching 81/64. The frequencies become:
+
+  
+    
+      
+        
+          f
+          
+            E
+          
+        
+        =
+        
+          5
+          
+            1
+          
+        
+        ⋅
+        
+          3
+          
+            0
+          
+        
+        ⋅
+        
+          2
+          
+            −
+            2
+          
+        
+        ⋅
+        
+          f
+          
+            C
+          
+        
+        =
+        
+          
+            5
+            4
+          
+        
+        ⋅
+        256
+         
+        
+          H
+          z
+        
+        =
+        320
+         
+        
+          H
+          z
+        
+      
+    
+    {\displaystyle f_{E}=5^{1}\cdot 3^{0}\cdot 2^{-2}\cdot f_{C}={5 \over 4}\cdot 256\ \mathrm {Hz} =320\ \mathrm {Hz} }
+  or
+
+  
+    
+      
+        
+          f
+          
+            E
+          
+        
+        =
+        
+          5
+          
+            0
+          
+        
+        ⋅
+        
+          3
+          
+            4
+          
+        
+        ⋅
+        
+          2
+          
+            −
+            6
+          
+        
+        ⋅
+        
+          f
+          
+            C
+          
+        
+        =
+        
+          
+            81
+            64
+          
+        
+        ⋅
+        256
+         
+        
+          H
+          z
+        
+        =
+        324
+         
+        
+          H
+          z
+        
+      
+    
+    {\displaystyle f_{E}=5^{0}\cdot 3^{4}\cdot 2^{-6}\cdot f_{C}={81 \over 64}\cdot 256\ \mathrm {Hz} =324\ \mathrm {Hz} }

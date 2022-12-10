@@ -1,0 +1,18 @@
+Basic concepts in set theory~Operations on sets~
+||||||
+Complement (set theory)
+||||||
+In set theory, the complement of a set A, often denoted by A∁ (or A′), is the set of elements not in A.When all sets in the universe, i.e. all sets under consideration, are considered to be members of a given set U, the absolute complement of A is the set of elements in U that are not in A.
+The relative complement of A with respect to a set B, also termed the set difference of B and A, written 
+  
+    
+      
+        B
+        ∖
+        A
+        ,
+      
+    
+    {\displaystyle B\setminus A,}
+   is the set of elements in B that are not in A.
+

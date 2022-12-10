@@ -1,0 +1,13 @@
+Database normalization~
+||||||
+Fourth normal form
+||||||
+Fourth normal form (4NF) is a normal form used in database normalization. Introduced by Ronald Fagin in 1977, 4NF is the next level of normalization after Boyce–Codd normal form (BCNF). Whereas the second, third, and Boyce–Codd normal forms are concerned with functional dependencies, 4NF is concerned with a more general type of dependency known as a multivalued dependency. A table is in 4NF if and only if, for every one of its non-trivial multivalued dependencies X 
+  
+    
+      
+        ↠
+      
+    
+    {\displaystyle \twoheadrightarrow }
+   Y, X is a superkey—that is, X is either a candidate key or a superset thereof.

@@ -1,0 +1,159 @@
+Digital signal processing~Frequency~
+||||||
+Normalized frequency (signal processing)
+||||||
+In digital signal processing (DSP), normalized frequency (f') is a quantity having dimension of frequency expressed in units of "cycles per sample". It equals f'=f/fs, where f is an ordinary frequency quantity (in "cycles per second") and fs is the sampling rate (in "samples per second").
+For regularly spaced sampling, the continuous time variable, t (with units of seconds), is replaced by a discrete sampling count variable, n=t/T (with units of "samples"), upon division by the sampling interval, T=1/fs (in "seconds per sample").  This practice is analogous to the concept of natural units in physics, meaning that the natural unit of time in a DSP system is "samples".  
+The maximum frequency that can be unambiguously represented by digital data is 
+  
+    
+      
+        
+          
+            f
+            
+              s
+            
+          
+          
+            /
+          
+          2
+        
+      
+    
+    {\displaystyle \textstyle f_{s}/2}
+    (known as Nyquist frequency) when the samples are real numbers, and 
+  
+    
+      
+        
+          
+            f
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle f_{s}}
+    when the samples are complex numbers.  The normalized values of these limits are respectively 0.5 and 1.0 cycles/sample.  This has the advantage of simplicity, but (similar to natural units) there is a potential disadvantage in terms of loss of clarity and understanding, as these constants 
+  
+    
+      
+        
+          T
+        
+      
+    
+    {\displaystyle \textstyle T}
+   and 
+  
+    
+      
+        
+          
+            f
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle f_{s}}
+   are then omitted from mathematical expressions of physical laws.
+The simplicity offered by normalized units is favored in textbooks, where space is limited and where real units are incidental to the point of a theorem or its proof.  But there is another advantage in the DSP realm (compared to physics), because 
+  
+    
+      
+        
+          T
+        
+      
+    
+    {\displaystyle \textstyle T}
+   and 
+  
+    
+      
+        
+          
+            f
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle f_{s}}
+   are not "universal physical constants".  The use of normalized frequency allows us to present concepts that are universal to all sample rates in a way that is independent of sample rate.  An example of such a concept is a digital filter design whose bandwidth is specified not in hertz, but as a percentage of the sample rate of the data passing through it.  Formulas expressed in terms of 
+  
+    
+      
+        
+          
+            f
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle f_{s}}
+    and/or 
+  
+    
+      
+        
+          T
+        
+      
+    
+    {\displaystyle \textstyle T}
+    are readily converted to normalized frequency by setting those parameters to 1.  The inverse operation is usually accomplished by replacing instances of the frequency parameter, 
+  
+    
+      
+        
+          f
+          ,
+        
+      
+    
+    {\displaystyle \textstyle f,}
+    with 
+  
+    
+      
+        
+          f
+          
+            /
+          
+          
+            f
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle f/f_{s}}
+    or  
+  
+    
+      
+        
+          f
+          ⋅
+          T
+          .
+        
+      
+    
+    {\displaystyle \textstyle f\cdot T.}

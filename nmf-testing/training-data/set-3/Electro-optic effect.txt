@@ -1,0 +1,19 @@
+Nonlinear optics~
+||||||
+Electro–optic effect
+||||||
+An electro–optic effect is a change in the optical properties of a material in response to an electric field that varies slowly compared with the frequency of light.  The term encompasses a number of distinct phenomena, which can be subdivided into
+
+a) change of the absorption
+Electroabsorption: general change of the absorption constants
+Franz–Keldysh effect: change in the absorption shown in some bulk semiconductors
+Quantum-confined Stark effect: change in the absorption in some semiconductor quantum wells
+Electrochromic effect: creation of an absorption band at some wavelengths, which gives rise to a change in colour
+b) change of the refractive index and permittivity
+Pockels effect (or linear electro-optic effect): change in the refractive index linearly proportional to the electric field. Only certain crystalline solids show the Pockels effect, as it requires lack of inversion symmetry
+Kerr effect (or quadratic electro-optic effect, QEO effect): change in the refractive index proportional to the square of the electric field. All materials display the Kerr effect, with varying magnitudes, but it is generally much weaker than the Pockels effect
+electro-gyration: change in the optical activity.
+Electron-refractive effect or EIPMIn December 2015, two further electro-optic effects of type (b) were theoretically predicted to exist  but have not, as yet, been experimentally observed.
+Changes in absorption can have a strong effect on refractive index for wavelengths near the absorption edge, due to the Kramers–Kronig relation.
+Using a less strict definition of the electro-optic effect allowing also electric fields oscillating at optical frequencies, one could also include nonlinear absorption (absorption depends on the light intensity) to category a) and the optical Kerr effect (refractive index depends on the light intensity) to category b). Combined with the photoeffect and photoconductivity, the electro-optic effect gives rise to the photorefractive effect.
+The term "electro-optic" is often erroneously used as a synonym for "optoelectronic".

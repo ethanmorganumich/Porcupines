@@ -1,0 +1,5 @@
+Amateur radio~
+||||||
+Sideband
+||||||
+In radio communications, a sideband is a band of frequencies higher than or lower than the carrier frequency, that are the result of the modulation process.  The sidebands carry the information transmitted by the radio signal. The sidebands comprise all the spectral components of the modulated signal except the carrier. The signal components above the carrier frequency constitute the upper sideband (USB), and those below the carrier frequency constitute the lower sideband (LSB). All forms of modulation produce sidebands.

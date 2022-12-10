@@ -1,0 +1,128 @@
+Approximation algorithms~Combinatorics~Dynamic programming~Formal languages~NP-complete problems~Problems on strings~
+||||||
+Shortest common supersequence problem
+||||||
+In computer science, the shortest common supersequence of two sequences X and Y is the shortest sequence which has X and Y as subsequences. This is a problem closely related to the longest common subsequence problem. Given two sequences X = < x1,...,xm > and Y = < y1,...,yn >, a sequence U = < u1,...,uk > is a common supersequence of X and Y if items can be removed from U to produce X and Y.
+A shortest common supersequence (SCS) is a common supersequence of minimal length.  In the shortest common supersequence problem, two sequences X and Y are given, and the task is to find a shortest possible common supersequence of these sequences.  In general, an SCS is not unique.
+For two input sequences, an SCS can be formed from a longest common subsequence (LCS) easily.  For example, the longest common subsequence of X
+  
+    
+      
+        [
+        1..
+        m
+        ]
+        =
+        a
+        b
+        c
+        b
+        d
+        a
+        b
+      
+    
+    {\displaystyle [1..m]=abcbdab}
+   and Y
+  
+    
+      
+        [
+        1..
+        n
+        ]
+        =
+        b
+        d
+        c
+        a
+        b
+        a
+      
+    
+    {\displaystyle [1..n]=bdcaba}
+   is Z
+  
+    
+      
+        [
+        1..
+        L
+        ]
+        =
+        b
+        c
+        b
+        a
+      
+    
+    {\displaystyle [1..L]=bcba}
+  .  By inserting the non-LCS symbols into Z while preserving their original order, we obtain a shortest common supersequence U
+  
+    
+      
+        [
+        1..
+        S
+        ]
+        =
+        a
+        b
+        d
+        c
+        a
+        b
+        d
+        a
+        b
+      
+    
+    {\displaystyle [1..S]=abdcabdab}
+  .  In particular, the equation 
+  
+    
+      
+        L
+        +
+        S
+        =
+        m
+        +
+        n
+      
+    
+    {\displaystyle L+S=m+n}
+   holds for any two input sequences.
+There is no similar relationship between shortest common supersequences and longest common subsequences of three or more input sequences.  (In particular, LCS and SCS are not dual problems.)  However, both problems can be solved in 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            k
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{k})}
+   time using dynamic programming, where 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   is the number of sequences, and 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is their maximum length.  For the general case of an arbitrary number of input sequences, the problem is NP-hard.

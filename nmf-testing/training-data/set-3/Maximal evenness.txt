@@ -1,0 +1,36 @@
+Musical terminology~
+||||||
+Maximal evenness
+||||||
+In scale (music) theory, a maximally even set (scale) is one in which every generic interval has either one or two consecutive integers specific intervals-in other words a scale whose notes (pcs) are "spread out as much as possible." This property was first described by John Clough and Jack Douthett. Clough and Douthett also introduced the maximally even algorithm. For a chromatic cardinality c and pc-set cardinality d a maximally even set is
+
+  
+    
+      
+        D
+        =
+        
+          
+            ⌊
+            
+              
+                
+                  c
+                  k
+                  +
+                  m
+                
+                d
+              
+            
+            ⌋
+          
+        
+      
+    
+    {\displaystyle D={\left\lfloor {\frac {ck+m}{d}}\right\rfloor }}
+  
+where k ranges from 0 to d − 1 and m, 0 ≤ m ≤ c − 1 is fixed and the bracket pair is the floor function. A discussion on these concepts can be found in Timothy Johnson's book on the mathematical foundations of diatonic scale theory. Jack Douthett and Richard Krantz introduced maximally even sets to the mathematics literature.A scale is said to have Myhill's property if every generic interval comes in two specific interval sizes, and a scale with Myhill's property is said to be a well-formed scale. The diatonic collection is both a well-formed scale and is maximally even. The whole-tone scale is also maximally even, but it is not well-formed since each generic interval comes in only one size.
+Second-order maximal evenness is maximal evenness of a subcollection of a larger collection that is maximally even. Diatonic triads and seventh chords possess second-order maximal evenness, being maximally even in regard to the maximally even diatonic scale—but are not maximally even with regard to the chromatic scale. (ibid, p.115) This nested quality resembles Fred Lerdahl's "reductional format" for pitch space from the bottom up:
+
+(Lerdahl, 1992)In a dynamical approach, spinning concentric circles and iterated maximally even sets have been constructed. This approach has implications in Neo-Riemannian theory, and leads to some interesting connections between diatonic and chromatic theory. Emmanuel Amiot has discovered yet another way to define maximally even sets by employing discrete Fourier transforms.Carey, Norman and Clampitt, David (1989). "Aspects of Well-Formed Scales", Music Theory Spectrum 11: 187–206.

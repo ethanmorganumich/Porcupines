@@ -1,0 +1,5 @@
+Electronic circuits~
+||||||
+Hybrid integrated circuit
+||||||
+A hybrid integrated circuit (HIC),  hybrid microcircuit, hybrid circuit or simply hybrid is a miniaturized electronic circuit constructed of individual devices, such as semiconductor devices (e.g. transistors, diodes or monolithic ICs) and  passive components (e.g. resistors, inductors, transformers, and capacitors), bonded to a substrate or printed circuit board (PCB).  A PCB having components on a Printed Wiring Board (PWB) is not considered a true hybrid circuit according to the definition of MIL-PRF-38534.

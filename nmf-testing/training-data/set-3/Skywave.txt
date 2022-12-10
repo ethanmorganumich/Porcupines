@@ -1,0 +1,11 @@
+Broadcast engineering~Ionosphere~Radio frequency propagation~Surface waves~
+||||||
+Skywave
+||||||
+In radio communication, skywave or skip refers to the propagation of radio waves reflected or refracted back toward Earth from the ionosphere, an electrically charged layer of the upper atmosphere.  Since it is not limited by the curvature of the Earth,  skywave propagation can be used to communicate beyond the horizon, at intercontinental distances.  It is mostly used in the shortwave frequency bands.
+As a result of skywave propagation, a signal from a distant AM broadcasting station, a shortwave station, or – during sporadic E propagation conditions (principally during the summer months in both hemispheres) a distant VHF FM or TV station – can sometimes be received as clearly as local stations.  Most long-distance shortwave (high frequency) radio communication – between 3 and 30 MHz – is a result of skywave propagation. Since the early 1920s amateur radio operators (or "hams"), limited to lower transmitter power than broadcast stations, have taken advantage of skywave for long-distance (or "DX") communication.
+Skywave propagation is distinct from: 
+
+tropospheric scatter, an alternative method of achieving over-the-horizon transmission at higher frequencies,
+groundwave propagation, where radio waves travel along Earth's surface without being reflected or refracted by the atmosphere – the dominant propagation mode at lower frequencies,
+line-of-sight propagation, in which radio waves travel in a straight line, the dominant mode at higher frequencies.

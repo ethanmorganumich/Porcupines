@@ -1,0 +1,55 @@
+Microwave technology~Radio technology~Telecommunications equipment~
+||||||
+Circulator
+||||||
+A circulator is a passive, non-reciprocal three- or four-port device that only allows a microwave or radio-frequency signal to exit through the port directly after the one it entered. Optical circulators have similar behavior. Ports are where an external waveguide or transmission line, such as a microstrip line or a coaxial cable, connects to the device. For a three-port circulator, a signal applied to port 1 only comes out of port 2; a signal applied to port 2 only comes out of port 3; a signal applied to port 3 only comes out of port 1, and so on. An ideal three-port circulator has the following scattering matrix:
+
+  
+    
+      
+        S
+        =
+        
+          
+            (
+            
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  1
+                
+              
+              
+                
+                  1
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  1
+                
+                
+                  0
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle S={\begin{pmatrix}0&0&1\\1&0&0\\0&1&0\end{pmatrix}}}

@@ -1,0 +1,7 @@
+1974 software~IBM mainframe software~Proprietary database management systems~Relational database management systems~
+||||||
+IBM System R
+||||||
+IBM System R is a database system built as a research project at IBM's San Jose Research Laboratory beginning in 1974.  System R was a seminal project: it was the first implementation of SQL, which has since become the standard relational data query language. It was also the first system to demonstrate that a relational database management system could provide good transaction processing performance. Design decisions in System R, as well as some fundamental algorithm choices (such as the dynamic programming algorithm used in query optimization), influenced many later relational systems.
+System R's first customer was Pratt & Whitney in 1977.
+

@@ -1,0 +1,8 @@
+Fax~Photocopiers~Telecommunications stubs~
+||||||
+Reproduction speed
+||||||
+In telecommunication, the term reproduction speed has the following meanings: 
+
+In facsimile systems, the rate at which recorded copy is produced. (The reproduction speed is usually expressed (a) as the area of recorded copy produced per unit time, such as square meters per second or (b) as the number of pages per minute.)
+In duplicating equipment, the rate at which copies are made. (The reproduction speed is usually expressed in pages per minute.)

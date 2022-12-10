@@ -1,0 +1,6 @@
+Financial risk~Interest rates~
+||||||
+Risk-free rate
+||||||
+The risk-free rate of return, usually shortened to the risk-free rate, is the rate of return of a hypothetical investment with scheduled payments over a fixed period of time that is assumed to meet all payment obligations.Since the risk-free rate can be obtained with no risk, any other investment having some risk will have to have a higher rate of return in order to induce any investors to hold it.
+In practice, to infer the risk-free interest rate in a particular currency, market participants often choose the yield to maturity on a risk-free bond issued by a government of the same currency whose risks of default are so low as to be negligible. For example, the rate of return on T-bills is sometimes seen as the risk-free rate of return in US dollars.

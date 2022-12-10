@@ -1,0 +1,6 @@
+1912 introductions~Aircraft instruments~American inventions~Avionics~Uncrewed vehicles~
+||||||
+Autopilot
+||||||
+An autopilot is a  system used to control the path of an aircraft, marine craft or spacecraft without requiring constant manual control by a human operator. Autopilots do not replace human operators. Instead, the autopilot assists the operator's control of the vehicle, allowing the operator to focus on broader aspects of operations (for example, monitoring the trajectory, weather and on-board systems).When present, an autopilot is often used in conjunction with an autothrottle, a system for controlling the power delivered by the engines.
+An autopilot system is sometimes colloquially referred to as "George" (e.g. "we'll let George fly for a while"). The etymology  of the nickname is unclear: some claim it is a reference to inventor George De Beeson, who patented an autopilot in the 1930s, while others claim that Royal Air Force pilots coined the term during World War II to symbolize that their aircraft technically belonged to King George VI.

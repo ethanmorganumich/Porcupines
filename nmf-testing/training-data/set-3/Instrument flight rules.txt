@@ -1,0 +1,6 @@
+Aviation law~Avionics~Civil aviation~
+||||||
+Instrument flight rules
+||||||
+In aviation, instrument flight rules (IFR) is one of two sets of regulations governing all aspects of civil aviation aircraft operations; the other is visual flight rules (VFR).
+The U.S. Federal Aviation Administration's (FAA) Instrument Flying Handbook defines IFR as: "Rules and regulations established by the FAA to govern flight under conditions in which flight by outside visual reference is not safe. IFR flight depends upon flying by reference to instruments in the flight deck, and navigation is accomplished by reference to electronic signals." It is also a term used by pilots and controllers to indicate the type of flight plan an aircraft is flying, such as an IFR or VFR flight plan.

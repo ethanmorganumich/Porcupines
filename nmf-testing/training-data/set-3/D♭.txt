@@ -1,0 +1,10 @@
+Compositions in D-flat major~Major scales~Musical keys~
+||||||
+D-flat major
+||||||
+D-flat major (or the key of D-flat) is a major scale based on D♭, consisting of the pitches D♭, E♭, F, G♭, A♭, B♭ and C. Its key signature has five flats. It is enharmonically equivalent to C-sharp major. 
+The D-flat major scale is:
+
+Its relative minor is B-flat minor. Its parallel minor, D-flat minor, is usually replaced by C-sharp minor, since D-flat minor features a B (B-double-flat) in its key signature making it impractical to use. C-sharp major, the enharmonic equivalent to D-flat major, has a similar problem as it contains seven sharps. Therefore, D-flat major is often used as the parallel major for C-sharp minor. (The same enharmonic situation occurs with the keys of A-flat major and G-sharp minor).
+For example, in his Prelude No. 15 in D-flat major ("Raindrop"), Frédéric Chopin switches from D-flat major to C-sharp minor for the middle section in the parallel minor, while in his Fantaisie-Impromptu and Scherzo No. 3, primarily in C-sharp minor, he switches to D-flat major for the middle section for the opposite reason. Ferdinand Ries' third concerto likewise switches to D-flat major for a while for the return of the second theme in the first movement. Claude Debussy also switches from D-flat major to C-sharp minor in the significant section in his famous "Clair de lune". Antonín Dvořák's New World Symphony likewise switches to C-sharp minor for a while for the significant section in the slow movement.
+D-flat major is enharmonic to C-sharp major. In music for the harp, D-flat major is preferred enharmonically not only because harp strings are more resonant in the flat position and the key has fewer accidentals, but also because modulation to the dominant key is easier (by putting the G pedal in the natural position, whereas there is no double-sharp position in which to put the F pedal for G-sharp major).

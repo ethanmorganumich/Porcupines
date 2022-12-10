@@ -1,0 +1,10 @@
+Major scales~Musical keys~
+||||||
+G-sharp major
+||||||
+G-sharp major is a theoretical key based on the musical note G♯, consisting of the pitches G♯, A♯, B♯, C♯, D♯, E♯, and F. Its key signature has six sharps and one double sharp.Its relative minor is E-sharp minor, which is usually replaced by F minor. Its parallel minor is G-sharp minor; its enharmonic equivalent is A-flat major.
+The G-sharp major scale is:
+
+Although G-sharp major is usually notated as the enharmonic key of A-flat major, because A-flat major has only four flats as opposed to G-sharp major's eight sharps (including the F), it does appear as a secondary key area in several works in sharp keys, most notably in the Prelude and Fugue in C-sharp major from Johann Sebastian Bach's The Well-Tempered Clavier, Book 1. The G-sharp minor prelude (and the fugue) from the same set ends with a Picardy third, on a G-sharp major chord. G-sharp major is tonicised briefly in several of Frédéric Chopin's nocturnes in C-sharp minor. A section in the second movement of Chopin's Piano Concerto No. 1 is in G-sharp major, although the key signature has four sharps. The end of the exposition of the second movement Charles-Valentin Alkan's Grande sonate 'Les quatre âges', subtitled Quasi-Faust, is in G-sharp major, albeit written with a six-sharp key signature (the movement opens in D-sharp minor and ends in F-sharp major).
+The final pages of A World Requiem by John Foulds are written in G-sharp major with its correct key signature shown in the vocal score including the F. The key signature is shown as in the LilyPond example with the scale above, starting with the C♯ and ending at the F.
+

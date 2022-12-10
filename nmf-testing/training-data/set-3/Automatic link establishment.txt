@@ -1,0 +1,5 @@
+Amateur radio~Military communications~Quantized radio modulation modes~Signal processing~Telecommunications engineering~
+||||||
+Automatic link establishment
+||||||
+Automatic Link Establishment, commonly known as ALE, is the worldwide de facto standard for digitally initiating and sustaining HF radio communications. ALE is a feature in an HF communications radio transceiver system that enables the radio station to make contact, or initiate a circuit, between itself and another HF radio station or network of stations. The purpose is to provide a reliable rapid method of calling and connecting during constantly changing HF ionospheric propagation, reception interference, and shared spectrum use of busy or congested HF channels.

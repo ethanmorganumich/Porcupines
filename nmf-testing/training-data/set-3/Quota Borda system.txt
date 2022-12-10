@@ -1,0 +1,12 @@
+Electoral system quotas~
+||||||
+Quota Borda system
+||||||
+The Quota Borda system or quota preference score is a voting system 
+that was devised by the British philosopher Michael Dummett and first published in 1984 in his book, Voting Procedures, and again in his Principles of Electoral Reform.
+If proportionality is required in a Borda count election, a quota element should be included into the counting procedure, which works best in multi-member constituencies of either 4 or 6 members. The threshold used is the Droop quota; in a single-seat constituency, the quota is an absolute majority, i.e., (50% + 1) of the valid vote; in a 2-seat constituency, it is (33% + 1); in a 3-seat, it's (25% + 1); and in a 4-seat, it is (20% + 1) of the valid vote.
+The four-seat selection goes as follows;
+Stage i) Any candidate gaining a quota of 1st preferences is elected.
+Stage ii) Any pair of candidates gaining 2 quotas is elected. (A pair of candidates, Ms J and Mr M, say, gains 2 quotas when that number of voters vote either 'J-1, M-2' or 'M-1, J-2'.) If seats still remain to be filled, then, ignoring all those candidates who have already been elected;
+Stage iii) Any pair of candidates gaining 1 quota gains 1 seat, and the seat is given to the candidate of that pair who has the higher Modified Borda Count score.
+Stage iv) Any seats still remaining are given to those candidates with the highest Modified Borda Count scores.

@@ -1,0 +1,6 @@
+Computer network stubs~Modems~
+||||||
+Narrowband modem
+||||||
+In telecommunication, a narrowband modem is a modem whose modulated output signal has an essential frequency spectrum that is limited to that which can be wholly contained within, and faithfully transmitted through, a voice channel with a nominal 4 kHz bandwidth.  
+Note:  High frequency (HF) modems are limited to operation over a voice channel with a nominal 3 kHz bandwidth.

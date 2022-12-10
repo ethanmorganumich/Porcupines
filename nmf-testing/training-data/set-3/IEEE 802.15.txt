@@ -1,0 +1,6 @@
+IEEE 802~Wireless networking standards~Working groups~
+||||||
+IEEE 802.15
+||||||
+IEEE 802.15 is a working group of the Institute of Electrical and Electronics Engineers (IEEE) IEEE 802 standards committee which specifies wireless personal area network (WPAN) standards. There are 10 major areas of development, not all of which are active.
+The number of Task Groups in IEEE 802.15 varies based on the number of active projects.  The current list of active projects can be found on the IEEE 802.15 web site.

@@ -1,0 +1,32 @@
+Golden ratio~Non–octave-repeating scales~
+||||||
+833 cents scale
+||||||
+The 833 cents scale is a musical tuning and scale proposed by Heinz Bohlen based on combination tones, an interval of 833.09 cents, and, coincidentally, the Fibonacci sequence. The golden ratio is 
+  
+    
+      
+        φ
+        =
+        
+          
+            
+              1
+              +
+              
+                
+                  5
+                
+              
+            
+            2
+          
+        
+        =
+        1.6180339887
+        …
+        .
+      
+    
+    {\displaystyle \varphi ={\frac {1+{\sqrt {5}}}{2}}=1.6180339887\ldots .}
+  , which as a musical interval is 833.09 cents (Play ). In the 833 cents scale this interval is taken as an alternative to the octave as the interval of repetition, however the golden ratio is not regarded as an equivalent interval (notes 833.09 cents apart are not "the same" in the 833 cents scale the way notes 1200 cents apart are in traditional tunings). Other music theorists such as Walter O'Connell, in his 1993 "The Tonality of the Golden Section", and Loren Temes appear to have also created this scale prior to Bohlen's discovery of it.

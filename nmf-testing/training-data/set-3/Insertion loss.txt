@@ -1,0 +1,50 @@
+Engineering ratios~Telecommunications engineering~
+||||||
+Insertion loss
+||||||
+In telecommunications, insertion loss is the loss of signal power resulting from the insertion of a device in a transmission line or optical fiber and is usually expressed in decibels (dB).  
+If the power transmitted to the load before insertion is PT and the power received by the load after insertion is PR, then the insertion loss in decibels is given by,
+
+  
+    
+      
+        I
+        L
+        (
+        
+          d
+          B
+        
+        )
+        =
+        10
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          
+            
+              P
+              
+                
+                  T
+                
+              
+            
+            
+              P
+              
+                
+                  R
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle IL(\mathrm {dB} )=10\log _{10}{P_{\mathrm {T} } \over P_{\mathrm {R} }}}

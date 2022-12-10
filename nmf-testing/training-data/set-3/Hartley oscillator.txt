@@ -1,0 +1,5 @@
+1915 introductions~Electronic oscillators~
+||||||
+Hartley oscillator
+||||||
+The Hartley oscillator is an electronic oscillator circuit in which the oscillation frequency is determined by a tuned circuit consisting of capacitors and inductors, that is, an LC oscillator.  The circuit was invented in 1915 by American engineer Ralph Hartley. The distinguishing feature of the Hartley oscillator is that the tuned circuit consists of a single capacitor in parallel with two inductors in series (or a single tapped inductor), and the feedback signal needed for oscillation is taken from the center connection of the two inductors.

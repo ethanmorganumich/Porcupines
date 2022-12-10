@@ -1,0 +1,6 @@
+Business software stubs~IBM software~
+||||||
+IBM 709/90 9PAC
+||||||
+9PAC is a common abbreviation for 709 PACkage. It was a report generator developed in 1959 for the IBM 709 and used on its successor, the IBM 7090. It was developed by SHARE, an early IBM users' group, and based on the File Maintenance and Report Generator System developed by General Electric for the IBM 702, led by Harry Tellier.Charles Bachman worked on its design in 1957, and although his company's order for the 709 was cancelled, he later included some of its general concepts into the more generalized idea of navigational databases.
+Engineers at companies such as Union Carbide, Northwest Power Company, Philips Petroleum, Dow Chemical, and Chrysler cooperated on the project.

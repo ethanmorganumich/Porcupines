@@ -1,0 +1,119 @@
+Alan Turing~Reduction (complexity)~
+||||||
+Turing reduction
+||||||
+In computability theory, a Turing reduction from a decision problem 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   to a decision problem 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   is an oracle machine which decides problem 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   given an oracle for 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   (Rogers 1967, Soare 1987). It can be understood as an algorithm that could be used to solve 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   if it had available to it a subroutine for solving B. The concept can be analogously applied to function problems.
+If a Turing reduction from 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   to 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   exists, then every algorithm for 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   can be used to produce an algorithm for 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , by inserting the algorithm for 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   at each place where the oracle machine computing 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   queries the oracle for 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  . However, because the oracle machine may query the oracle a large number of times, the resulting algorithm may require more time asymptotically than either the algorithm for 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   or the oracle machine computing 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  . A Turing reduction in which the oracle machine runs in polynomial time is known as a Cook reduction.
+The first formal definition of relative computability, then called relative reducibility, was given by Alan Turing in 1939 in terms of oracle machines. Later in 1943 and 1952 Stephen Kleene defined an equivalent concept in terms of recursive functions. In 1944 Emil Post used the term "Turing reducibility" to refer to the concept.

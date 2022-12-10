@@ -1,0 +1,9 @@
+Italian words and phrases~Musical notation~
+||||||
+Dal segno
+||||||
+In music notation, dal segno (UK: , US: , Italian: [dal ˈseɲɲo]), often abbreviated as D.S., is used as a navigation marker. From Italian for "from the sign", D.S. appears in sheet music and instructs a musician to repeat a passage starting from the sign shown at right, sometimes called the segno in English.Two common variants:
+
+D.S. al coda instructs the musician to go back to the sign, and when Al coda or To coda is reached jump to the coda symbol.
+D.S. al fine instructs the musician to go back to the sign, and end the piece at the measure marked fine.The Italian term 'dal segno' literally means 'from the sign.' In most music you will see either D.S. al Fine (which means 'go back to the 𝄋 sign and play the music again until you come to the bar marked Fine, then stop') or D.S. al Coda (which means 'go back to the 𝄋 sign and play the music again until you come to the bar marked To Coda, then jump to the coda'). ...You may also see simply...D.S. in the final bar of a score, which means to repeat from...the 𝄋 sign...then stop at the end. In music, these instructions always appear at the end of the bar from which you have to jump back (either to the 𝄋 sign or to the start of the piece).
+Al segno indicates that the player should go to the sign. Da capo al segno (D.C. al Segno), "From the beginning to the sign (𝄋)."In operas of the 18th century, dal segno arias were a common alternative to da capo arias which began with an opening ritornello, which was then omitted in the repeat (the sign being placed after the ritornello).

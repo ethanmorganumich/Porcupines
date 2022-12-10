@@ -1,0 +1,7 @@
+Telecommunication theory~Television terminology~Wireless networking~
+||||||
+Intersymbol interference
+||||||
+In telecommunication, intersymbol interference (ISI) is a form of distortion of a signal in which one symbol interferes with subsequent symbols. This is an unwanted phenomenon as the previous symbols have a similar effect as noise, thus making the communication less reliable. The spreading of the pulse beyond its allotted time interval causes it to interfere with neighboring pulses. ISI is usually caused by multipath propagation or the inherent linear or non-linear frequency response of a communication channel causing successive symbols to blur together.
+The presence of ISI in the system introduces errors in the decision device at the receiver output. Therefore, in the design of the transmitting and receiving filters, the objective is to minimize the effects of ISI, and thereby deliver the digital data to its destination with the smallest error rate possible.
+Ways to alleviate intersymbol interference include adaptive equalization and error correcting codes.

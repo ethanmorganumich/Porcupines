@@ -1,0 +1,5 @@
+Electronic oscillators~
+||||||
+Clapp oscillator
+||||||
+The Clapp oscillator or Gouriet oscillator is an LC electronic oscillator that uses a particular combination of an inductor and three capacitors to set the oscillator's frequency. LC oscillators use a transistor (or vacuum tube or other gain element) and a positive feedback network. The oscillator has good frequency stability.

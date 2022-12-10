@@ -1,0 +1,6 @@
+Rhythm and meter~Serialism~
+||||||
+Time point
+||||||
+In music a time point or timepoint (point in time) is "an instant, analogous to a geometrical point in space". Because it has no duration, it literally cannot be heard, but it may be used to represent "the point of initiation of a single pitch, the repetition of a pitch, or a pitch simultaneity", therefore the beginning of a sound, rather than its duration. It may also designate the release of a note or the point within a note at which something changes (such as dynamic level). Other terms often used in music theory and analysis are attack point and starting point. Milton Babbitt calls the distance from one time point, attack, or starting point to the next a time-point interval, independent of the durations of the sounding notes which may be either shorter than the time-point interval (resulting in a silence before the next time point), or longer (resulting in overlapping notes). Charles Wuorinen shortens this expression to just time interval. Other writers use the terms attack interval, or (translating the German Einsatzabstand), interval of entry, interval of entrance, or starting interval.
+

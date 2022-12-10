@@ -1,0 +1,6 @@
+Competition (economics)~Economics models~Game theory~Oligopoly~
+||||||
+Bertrand–Edgeworth model
+||||||
+In microeconomics, the Bertrand–Edgeworth model of price-setting oligopoly looks at what happens when there is a homogeneous product (i.e. consumers want to buy from the cheapest seller) where there is a limit to the output of firms which are willing and able to sell at a particular price. This differs from the Bertrand competition model where it is assumed that firms are willing and able to meet all demand. The limit to output can be considered as a physical capacity constraint which is the same at all prices (as in Edgeworth's work), or to vary with price under other assumptions.
+

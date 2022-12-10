@@ -1,0 +1,6 @@
+Circle of fifths~Harmony~Musical keys~Tonality~
+||||||
+Circle of fifths
+||||||
+In music theory, the circle of fifths is a way of organizing the 12 chromatic pitches as a sequence of perfect fifths. (This is strictly true in the standard 12-tone equal temperament system — using a different system requires one interval of diminished sixth to be treated as a fifth). If C is chosen as a starting point, the sequence is: C, G, D, A, E, B (=C♭), F♯ (=G♭), C♯ (=D♭), A♭, E♭, B♭, F. Continuing the pattern from F returns the sequence to its starting point of C. This order places the most closely related key signatures adjacent to one another. It is usually illustrated in the form of a circle.
+

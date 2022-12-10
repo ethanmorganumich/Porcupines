@@ -1,0 +1,6 @@
+Telephony signals~
+||||||
+Ringing tone
+||||||
+Ringing tone (audible ringing, also ringback tone) is a signaling tone in telecommunication that is heard by the originator of a telephone call while the destination terminal is alerting the receiving party. The tone is typically a repeated cadence similar to a traditional power ringing signal (ringtone), but is usually not played synchronously. Various telecommunication groups, such as the Bell System and the General Post Office (GPO) developed standards, in part taken over by the European Telecommunications Standards Institute (ETSI) and other standards bodies. With modern cell phone and smartphone technology ringing tone can be customized and even used for advertising.
+

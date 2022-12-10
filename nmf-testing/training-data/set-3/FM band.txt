@@ -1,0 +1,8 @@
+Bandplans~Broadcast engineering~
+||||||
+FM broadcast band
+||||||
+The FM broadcast band is a range of radio frequencies used for FM broadcasting by radio stations. The range of frequencies used differs between different parts of the world. In Europe and Africa (defined as International Telecommunication Union (ITU) region 1) and in Australia and New Zealand, it spans from 87.5 to 108 megahertz (MHz) - also known as VHF Band II - while in the Americas (ITU region 2) it ranges from 88 to 108 MHz. The FM broadcast band in Japan uses 76 to 95 MHz, and in Brazil, 76 to 108 MHz. The International Radio and Television Organisation (OIRT) band in Eastern Europe is from 65.9 to 74.0 MHz, although these countries now primarily use the 87.5 to 108 MHz band, as in the case of Russia. Some other countries have already discontinued the OIRT band and have changed to the 87.5 to 108 MHz band.
+Frequency modulation radio originated in the United States during the 1930s; the system was developed by the American electrical engineer Edwin Howard Armstrong. However, FM broadcasting did not become widespread, even in North America, until the 1960s.
+Frequency-modulated radio waves can be generated at any frequency. All the bands mentioned in this article are in the very high frequency (VHF) range, which extends from 30 to 300 MHz.
+

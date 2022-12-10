@@ -1,0 +1,7 @@
+Elections~Electoral systems~
+||||||
+ThreeBallot
+||||||
+ThreeBallot is a voting protocol invented by Ron Rivest in 2006.
+ThreeBallot is an end-to-end (E2E) auditable voting system that can in principle be implemented on paper. The goal in its design was to provide some of the benefits of a cryptographic voting system without using cryptographic keys.
+It may be difficult for a vote to be both verifiable and anonymous. ThreeBallot attempts to solve this problem by giving each voter three ballots: one verifiable, and two anonymous.  The voter chooses which ballot is verifiable and keeps this secret; since the vote-counter does not know, there is a 1/3 chance of being discovered destroying or altering any single ballot.  The voter is forced to make two of their three ballots cancel each other out, so that they can only vote once.

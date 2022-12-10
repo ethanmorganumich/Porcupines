@@ -1,0 +1,7 @@
+Filter frequency response~Physical layer protocols~
+||||||
+Passband
+||||||
+A passband is the range of frequencies or wavelengths that can pass through a filter. For example, a radio receiver contains a bandpass filter to select the frequency of the desired radio signal out of all the radio waves picked up by its antenna. The passband of a receiver is the range of frequencies it can receive when it is tuned into the desired frequency (channel).
+A bandpass-filtered signal (that is, a signal with energy only in a passband), is known as a bandpass signal, in contrast to a baseband signal.
+

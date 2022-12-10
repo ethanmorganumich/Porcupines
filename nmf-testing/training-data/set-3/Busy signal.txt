@@ -1,0 +1,6 @@
+Telephony signals~
+||||||
+Busy signal
+||||||
+A busy signal (or busy tone or engaged tone) in telephony is an audible call-progress tone or audible signal to the calling party that indicates failure to complete the requested connection of that particular telephone call.
+The busy signal has become less common in the past few decades due to the prevalence of call waiting and voicemail.

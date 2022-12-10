@@ -1,0 +1,8 @@
+Electric power~Electromagnetism~Temporal rates~
+||||||
+Electric power
+||||||
+Electric power is the rate at which electrical energy is transferred by an electric circuit. The SI unit of power is the watt, one joule per second. Standard prefixes apply to watts as with other SI units: thousands, millions and billions of watts are called kilowatts, megawatts and gigawatts respectively.
+A common misconception is that electric power is bought and sold, but actually electrical energy is bought and sold.  For example, electricity is sold to consumers in kilowatt-hours (kilowatts multiplied by hours), because energy is power multiplied by time.
+Electric power is usually produced by electric generators, but can also be supplied by  sources such as electric batteries.  It is usually supplied to businesses and homes (as domestic mains electricity) by the electric power industry through an electrical grid. 
+Electric power can be delivered over long distances by transmission lines and used for applications such as motion, light or heat with high efficiency.

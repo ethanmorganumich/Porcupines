@@ -1,0 +1,6 @@
+Concepts~Constructivism (psychological school)~Diagrams~Educational technology~Graph drawing~Knowledge representation~Note-taking~Visual thinking~
+||||||
+Concept map
+||||||
+A concept map or conceptual diagram is a diagram that depicts suggested relationships between concepts. Concept maps may be used by instructional designers, engineers, technical writers, and others to organize and structure knowledge.
+A concept map typically represents ideas and information as boxes or circles, which it connects with labeled arrows, often in a downward-branching hierarchical structure but also in free-form maps. The relationship between concepts can be articulated in linking phrases such as "causes", "requires", "such as" or "contributes to".The technique for visualizing these relationships among different concepts is called concept mapping. Concept maps have been used to define the ontology of computer systems, for example with the object-role modeling or Unified Modeling Language formalism.

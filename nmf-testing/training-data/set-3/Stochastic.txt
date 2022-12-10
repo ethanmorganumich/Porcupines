@@ -1,0 +1,5 @@
+Mathematical terminology~Stochastic processes~
+||||||
+Stochastic
+||||||
+Stochastic (, from Greek  στόχος (stókhos) 'aim, guess') refers to the property of being well described by a random probability distribution. Although stochasticity and randomness are distinct in that the former refers to a modeling approach and the latter refers to phenomena themselves, these two terms are often used synonymously. Furthermore, in probability theory, the formal concept of a stochastic process is also referred to as a random process.Stochasticity is used in many different fields, including the natural sciences such as biology, chemistry, ecology,  neuroscience, and physics, as well as technology and engineering fields such as image processing, signal processing, information theory, computer science, cryptography, and telecommunications. It is also used in finance, due to seemingly random changes in financial markets as well as in medicine, linguistics,  music, media, colour theory,  botany, manufacturing, and geomorphology.

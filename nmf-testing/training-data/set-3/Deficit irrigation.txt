@@ -1,0 +1,6 @@
+Agronomy~Biological engineering~Hydrology~Irrigation~Water and the environment~Water supply~
+||||||
+Deficit irrigation
+||||||
+Deficit irrigation (DI) is a watering strategy that can be applied by different types of irrigation application methods. The correct application of DI requires thorough understanding of the yield response to water (crop sensitivity to drought stress) and of the economic impact of reductions in harvest. In regions where water resources are restrictive it can be more profitable for a farmer to maximize crop water productivity instead of maximizing the harvest per unit land. The saved water can be used for other purposes or to irrigate extra units of land.
+DI is sometimes referred to as incomplete supplemental irrigation or regulated DI.

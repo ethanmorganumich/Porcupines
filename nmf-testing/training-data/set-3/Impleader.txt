@@ -1,0 +1,6 @@
+Civil procedure~Legal terminology~
+||||||
+Impleader
+||||||
+Impleader is a United States civil court procedural device before trial in which a defendant joins a third party into a lawsuit because that third party is liable to an original defendant. Using the vocabulary of the Federal Rules of Civil Procedure, the defendant seeks to become a third-party plaintiff by filing a third party complaint against a third party not presently party to the lawsuit, who thereby becomes a third-party defendant. This complaint alleges that the third party is liable for all or part of the damages that the original plaintiff may win from the original defendant.The theory is that two cases may be decided together and justice may be done more efficiently than by having two suits in a series. Otherwise, more judicial time would be used in hearing the second suit.Common bases of contingent or derivative liability by which third parties may be impleaded include indemnity, subrogation, contribution, and warranty.
+For example, in a case where a driver rear-ended another car due to faulty brakes, and is sued by the accident victim, the driver may decide to implead the repair shop where the brakes were worked on because the driver's liability derives from the repair shop's liability for their faulty repair of the brakes.

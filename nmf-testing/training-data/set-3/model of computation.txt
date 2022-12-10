@@ -1,0 +1,6 @@
+Computability theory~Computational complexity theory~Models of computation~
+||||||
+Model of computation
+||||||
+In computer science, and more specifically in computability theory and computational complexity theory, a model of computation is a model which describes how an output of a mathematical function is computed given an input. A model describes how units of computations, memories, and communications are organized. The computational complexity of an algorithm can be measured given a model of computation. Using a model allows studying the performance of algorithms independently of the variations that are specific to particular implementations and specific technology.
+

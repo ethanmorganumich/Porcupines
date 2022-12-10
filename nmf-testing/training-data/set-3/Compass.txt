@@ -1,0 +1,7 @@
+Ancient inventions~Chinese inventions~Magnetic devices~Navigational equipment~
+||||||
+Compass
+||||||
+A compass is a device that shows the cardinal directions used for navigation and geographic orientation. It commonly consists of a magnetized needle or other element, such as a compass card or compass rose, which can pivot to align itself with magnetic north. Other methods may be used, including gyroscopes, magnetometers, and GPS receivers.
+Compasses often show angles in degrees: north corresponds to 0°, and the angles increase clockwise, so east is 90°, south is 180°, and west is 270°. These numbers allow the compass to show azimuths or bearings which are commonly stated in degrees. If local variation between magnetic north and true north is known, then direction of magnetic north also gives direction of true north.
+Among the Four Great Inventions, the magnetic compass was first invented as a device for divination as early as the Chinese Han Dynasty (since c. 206 BC), and later adopted for navigation by the Song Dynasty Chinese during the 11th century. The first usage of a compass recorded in Western Europe and the Islamic world occurred around 1190.

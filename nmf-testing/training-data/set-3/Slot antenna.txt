@@ -1,0 +1,6 @@
+Antennas (radio)~Canadian inventions~English inventions~Radar~Radar antennas~Radio frequency antenna types~
+||||||
+Slot antenna
+||||||
+A slot antenna consists of a metal surface, usually a flat plate, with one or more holes or slots cut out. When the plate is driven as an antenna by an applied radio frequency current, the slot radiates electromagnetic waves in a way similar to a dipole antenna. The shape and size of the slot, as well as the driving frequency, determine the radiation pattern.  Slot antennas are usually used at UHF and microwave frequencies at which wavelengths are small enough that the plate and slot are conveniently small.   At these frequencies, the radio waves are often conducted by a waveguide, and the antenna consists of slots in the waveguide; this is called a slotted waveguide antenna.   Multiple slots act as a directive array antenna and can emit a narrow fan-shaped beam of microwaves.   They are used in standard laboratory microwave sources used for research, UHF television transmitting antennas, antennas on missiles and aircraft, sector antennas for cellular base stations, and particularly marine radar antennas.   A slot antenna's main advantages are its size, design simplicity, and convenient adaptation to mass production using either waveguide or PC board technology.
+

@@ -1,0 +1,5 @@
+Broadcast engineering~Radio~
+||||||
+Capture effect
+||||||
+In a radio receiver, the capture effect, or FM capture effect, is a phenomenon associated with FM reception in which only the stronger of two signals at, or near, the same frequency or channel will be demodulated.

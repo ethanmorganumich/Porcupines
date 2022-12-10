@@ -1,0 +1,7 @@
+Broadcast engineering~Communication circuits~Telecommunications~Telecommunications engineering~Telecommunications infrastructure~
+||||||
+Telecommunications link
+||||||
+In a telecommunications network, a link is a communication channel that connects two or more devices for the purpose of data transmission. The link may be a dedicated physical link or a virtual circuit that uses one or more physical links or shares a physical link with other telecommunications links.
+A telecommunications link is generally based on one of several types of information transmission paths such as those provided by communication satellites, terrestrial radio communications infrastructure and computer networks to connect two or more points.
+The term link is widely used in computer networking to refer to the communications facilities that connect nodes of a network.Sometimes the communications facilities that provide the communication channel that constitutes a link are also included in the definition of link.

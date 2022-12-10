@@ -1,0 +1,11 @@
+20th-century inventions~American inventions~Energy conversion~Energy harvesting~Physical chemistry~Russian inventions~Solar cells~
+||||||
+Solar cell
+||||||
+A solar cell, or photovoltaic cell, is an electronic device that converts the energy of light directly into electricity by the photovoltaic effect, which is a physical and chemical phenomenon. It is a form of photoelectric cell, defined as a device whose electrical characteristics, such as current, voltage, or resistance, vary when exposed to light. Individual solar cell devices are often the electrical building blocks of photovoltaic modules, known colloquially as solar panels. The common single junction silicon solar cell can produce a maximum open-circuit voltage of approximately 0.5 volts to 0.6volts.Solar cells are described as being photovoltaic, irrespective of whether the source is sunlight or an artificial light. In addition to producing energy, they can be used as a photodetector (for example infrared detectors), detecting light or other electromagnetic radiation near the visible range, or measuring light intensity.
+The operation of a photovoltaic (PV) cell requires three basic attributes:
+
+The absorption of light, generating excitons (bound electron-hole pairs), unbound electron-hole pairs (via excitons), or plasmons.
+The separation of charge carriers of opposite types.
+The separate extraction of those carriers to an external circuit.In contrast, a solar thermal collector supplies heat by absorbing sunlight, for the purpose of either direct heating or indirect electrical power generation from heat. A "photoelectrolytic cell" (photoelectrochemical cell), on the other hand, refers either to a type of photovoltaic cell (like that developed by Edmond Becquerel and modern dye-sensitized solar cells), or to a device that splits water directly into hydrogen and oxygen using only solar illumination.
+Photovoltaic cells and solar collectors are the two means of producing solar power.

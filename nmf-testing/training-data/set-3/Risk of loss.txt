@@ -1,0 +1,14 @@
+Contract law~Contract law stubs~
+||||||
+Risk of loss
+||||||
+Risk of loss is a term used in the law of contracts to determine which party should bear the burden of risk for damage occurring to goods after the sale has been completed, but before delivery has occurred. Such considerations generally come into play after the contract is formed but before buyer receives goods, something bad happens.
+Under the Uniform Commercial Code (UCC), there are four risk of loss rules, in order of application:
+
+Agreement - the agreement of the parties controls
+Breach - the breaching party is liable for any uninsured loss even though breach is unrelated to the problem. Hence, if the breach is the time of delivery, and the goods show up broken, then the breaching rule applies risk of loss on the seller.
+Delivery by common carrier other than by seller.
+Risk of loss shifts from seller to buyer at the time that seller completes its delivery obligations
+If it is a destination contract (FOB (buyer's city)), then risk of loss is on the seller.
+If it is a delivery contract (standard, or FOB (seller's city)), then the risk of loss is on the buyer.
+In cases not covered by the foregoing rules, if the seller is a merchant, then the risk of loss shifts to the buyer upon buyer's "receipt" of the goods. If the buyer never takes possession, then the seller still has the risk of loss.In bankruptcy law, the risk of loss rule under a contract can be abrogated by a secured interest.

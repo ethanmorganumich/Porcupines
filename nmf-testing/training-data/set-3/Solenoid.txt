@@ -1,0 +1,8 @@
+Actuators~Electromagnetic coils~
+||||||
+Solenoid
+||||||
+A solenoid () is a type of electromagnet formed by a helical coil of wire whose length is substantially greater than its diameter, which generates a controlled magnetic field. The coil can produce a uniform magnetic field in a volume of space when an electric current is passed through it.
+The term solenoid was coined in 1823 by André-Marie Ampère.The helical coil of a solenoid does not necessarily need to revolve around a straight-line axis; for example, William Sturgeon's electromagnet of 1824 consisted of a solenoid bent into a horseshoe shape (not unlike an arc spring).
+Solenoids provide magnetic focusing of electrons in vacuums, notably in television camera tubes such as vidicons and image orthicons. Electrons take helical paths within the magnetic field. These solenoids, focus coils, surround nearly the whole length of the tube.
+In engineering, the term "solenoid" refers not only to the electromagnet but to a complete apparatus providing an actuator that converts electrical energy to mechanical energy.

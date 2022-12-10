@@ -1,0 +1,5 @@
+2003 software~Bug and issue tracking software~Cross-platform free software~Free project management software~Free software programmed in Python~Free wiki software~Software using the BSD license~
+||||||
+Trac
+||||||
+Trac is an open-source, web-based project management and bug tracking system. It has been adopted by a variety of organizations for use as a bug tracking system for both free and open-source software and proprietary projects and products. Trac integrates with major version control systems including ("out of the box") Subversion and Git. Trac is used, among others, by the Internet Research Task Force, Django, FFmpeg, jQuery UI,  WebKit, 0 A.D., and WordPress.Trac is available on all major operating systems including Windows via Installer or Bitnami, OS X via MacPorts or pkgsrc, Debian, Ubuntu, Arch Linux or FreeBSD, as well as on various cloud hosting services.

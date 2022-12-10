@@ -1,0 +1,6 @@
+Graph connectivity~Graph data structures~Trees (data structures)~
+||||||
+SPQR tree
+||||||
+In graph theory, a branch of mathematics, the triconnected components of a biconnected graph are a system of smaller graphs that describe all of the 2-vertex cuts in the graph. An SPQR tree is a  tree data structure used in computer science, and more specifically graph algorithms, to represent the triconnected components of a graph. The SPQR tree of a graph may be constructed in linear time and has several applications in dynamic graph algorithms and graph drawing.
+The basic structures underlying the SPQR tree, the triconnected components of a graph, and the connection between this decomposition and the planar embeddings of a planar graph, were first investigated by Saunders Mac Lane (1937); these structures were used in efficient algorithms by several other researchers prior to their formalization as the SPQR tree by Di Battista and Tamassia (1989, 1990, 1996).

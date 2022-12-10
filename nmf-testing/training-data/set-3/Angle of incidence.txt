@@ -1,0 +1,7 @@
+Angle~Geometrical optics~Optics stubs~
+||||||
+Angle of incidence (optics)
+||||||
+The angle of incidence, in geometric optics, is the angle between a ray incident on a surface and the line perpendicular (at 90 degree angle) to the surface at the point of incidence, called the normal. The ray can be formed by any waves, such as optical, acoustic, microwave, and X-ray. In the figure below, the line representing a ray makes an angle θ with the normal (dotted line). The angle of incidence at which light is first totally internally reflected is known as the critical angle. The angle of reflection and angle of refraction are other angles related to beams.
+In computer graphics and geography, the angle of incidence is also known as the illumination angle of a surface with a light source, such as the Earth's surface and the Sun. It can also be equivalently described as the angle between the tangent plane of the surface and another plane at right angles to the light rays. This means that the illumination angle of a certain point on Earth's surface is 0° if the Sun is precisely overhead and that it is 90° at sunset or sunrise.
+Determining the angle of reflection with respect to a planar surface is trivial, but the computation for almost any other surface is significantly more difficult.

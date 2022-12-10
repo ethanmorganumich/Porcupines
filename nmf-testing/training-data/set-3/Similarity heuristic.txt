@@ -1,0 +1,7 @@
+Heuristics~
+||||||
+Similarity heuristic
+||||||
+The similarity heuristic is a psychological heuristic pertaining to how people make judgments based on similarity. More specifically, the similarity heuristic is used to account for how people make judgments based on the similarity between current situations and other situations or prototypes of those situations.
+At its most basic level, the similarity heuristic is an adaptive strategy. The goal of the similarity heuristic is maximizing productivity through favorable experience while not repeating unfavorable experiences. Decisions based on how favorable or unfavorable the present seems are based on how similar the past was to the current situation.
+For example, a person may use the similarity heuristic when deciding on a book purchase. If a novel has a plot similar to that of novels read and enjoyed or the author has a writing style similar to that of favored authors, the purchasing decision will be positively influenced. A book with similar characteristics to previously pleasurable books is likely to also be enjoyed, causing the person to decide to obtain it.

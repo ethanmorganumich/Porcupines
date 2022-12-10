@@ -1,0 +1,5 @@
+Computational complexity theory~
+||||||
+Asymptotic computational complexity
+||||||
+In computational complexity theory, asymptotic computational complexity is the usage of asymptotic analysis for the estimation of computational complexity of algorithms and computational problems, commonly associated with the usage of the big O notation.

@@ -1,0 +1,5 @@
+Air traffic control~Aviation stubs~
+||||||
+Uncontrolled airspace
+||||||
+Uncontrolled airspace is airspace where an Air Traffic Control (ATC) service is not deemed necessary or cannot be provided for practical reasons.  It is the opposite of controlled airspace.  It is that portion of the airspace that has not been designated as Control Area, Control Zone, Terminal Control Area or Transition Area.According to the airspace classes set by ICAO, the uncontrolled classes of airspace are class F and G.

@@ -1,0 +1,5 @@
+Arbitrage~Finance theories~Financial economics~Mathematical finance~Pricing~
+||||||
+Rational pricing
+||||||
+Rational pricing is the assumption in financial economics that asset prices - and hence asset pricing models - will reflect the arbitrage-free price of the asset as any deviation from this price will be "arbitraged away". This assumption is useful in pricing fixed income securities, particularly bonds, and is fundamental to the pricing of derivative instruments.

@@ -1,0 +1,5 @@
+Structural engineering~
+||||||
+Volume and displacement indicators for an architectural structure
+||||||
+The volume (W) and displacement (Δ) indicators have been discovered by Philippe Samyn in 1997 to help the search for the optimal geometry of architectural structures.

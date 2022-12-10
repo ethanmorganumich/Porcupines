@@ -1,0 +1,6 @@
+Architectural elements~Architectural style stubs~Domes~
+||||||
+Ellipsoidal dome
+||||||
+An ellipsoidal dome is a dome (also see geodesic dome), which has a bottom cross-section which is a circle, but has a cupola whose curve is an ellipse.There are two types of ellipsoidal domes: prolate ellipsoidal domes and oblate ellipsoidal domes. A prolate ellipsoidal dome is derived by rotating an ellipse around the long axis of the ellipse; an oblate ellipsoidal dome is derived by rotating an ellipse around the short axis of the ellipse.Of small note, in reflecting telescopes the mirror is usually elliptical, so has the form of a "hollow" ellipsoidal dome.
+The Jameh Mosque of Yazd has an ellipsoidal dome.

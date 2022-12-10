@@ -1,0 +1,8 @@
+Optical diodes~Photodetectors~Silicon photonics devices~
+||||||
+Photodiode
+||||||
+A photodiode is a light-sensitive semiconductor diode. It produces current when it absorbs photons. 
+The package of a photodiode allows light (or infrared or ultraviolet radiation, or X-rays) to reach the sensitive part of the device. The package may include lenses or optical filters. Devices designed for use specially as a photodiode use a PIN junction rather than a p–n junction, to increase the speed of response. Photodiodes usually have a slower response time as their surface area increases.  A photodiode is designed to operate in reverse bias. A solar cell used to generate electric solar power is a large area photodiode.
+Photodiodes are used in scientific and industrial instruments to measure light intensity, either for its own sake or as a measure of some other property (density of smoke, for example). A photodiode can be used as the receiver of data encoded on an infrared beam, as in household remote controls. Photodiodes can be used to form an optocoupler, allowing transmission of signals between circuits without a direct metallic connection between them, allowing isolation from high voltage differences. 
+

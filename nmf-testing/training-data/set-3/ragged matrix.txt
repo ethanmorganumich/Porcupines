@@ -1,0 +1,55 @@
+Arrays~Matrices~
+||||||
+Irregular matrix
+||||||
+An irregular matrix, or ragged matrix, is a matrix that has a different number of elements in each row. Ragged matrices are not used in linear algebra, since standard matrix transformations cannot be performed on them, but they are useful as arrays in computing. Irregular matrices are typically stored using Iliffe vectors.
+For example, the following is an irregular matrix:
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  1
+                
+                
+                  31
+                
+                
+                  12
+                
+                
+                  −
+                  3
+                
+              
+              
+                
+                  7
+                
+                
+                  2
+                
+              
+              
+                
+                  1
+                
+                
+                  2
+                
+                
+                  2
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}1&31&12&-3\\7&2\\1&2&2\end{bmatrix}}}

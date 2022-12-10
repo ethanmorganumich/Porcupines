@@ -1,0 +1,5 @@
+Diagrams~Lattice theory~Pitch space~Topology~
+||||||
+Tonnetz
+||||||
+In musical tuning and harmony, the Tonnetz (German for 'tone network') is a conceptual lattice diagram representing tonal space first described by Leonhard Euler in 1739. Various visual representations of the Tonnetz can be used to show traditional harmonic relationships in European classical music.

@@ -1,0 +1,8 @@
+Antennas (radio)~Radio frequency antenna types~
+||||||
+Log-periodic antenna
+||||||
+A log-periodic antenna (LP), also known as a log-periodic array or log-periodic aerial, is a multi-element, directional antenna designed to operate over a wide band of frequencies. It was invented by John Dunlavy in 1952.
+The most common form of log-periodic antenna is the log-periodic dipole array or LPDA, The LPDA consists of a number of half-wave dipole driven elements of gradually increasing length, each consisting of a pair of metal rods. The dipoles are mounted close together in a line, connected in parallel to the feedline with alternating phase. Electrically, it simulates a series of two or three-element Yagi–Uda antennas connected together, each set tuned to a different frequency.
+LPDA antennas look somewhat similar to Yagi antennas, in that they both consist of dipole rod elements mounted in a line along a support boom, but they work in very different ways. Adding elements to a Yagi increases its directionality, or gain, while adding elements to a LPDA increases its frequency response, or bandwidth. 
+One large application for LPDAs is in rooftop terrestrial television antennas, since they must have large bandwidth to cover the wide television bands of roughly 54–88 and 174–216 MHz in the VHF and 470–890 MHz in the UHF  while also having high gain for adequate fringe reception. One widely used design for television reception combined a Yagi for UHF reception in front of a larger LPDA for VHF.

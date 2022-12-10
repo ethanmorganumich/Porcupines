@@ -1,0 +1,346 @@
+Infrared imaging~Physical quantities~
+||||||
+Specific detectivity
+||||||
+Specific detectivity, or D*, for a photodetector is a figure of merit used to characterize performance, equal to the reciprocal of noise-equivalent power (NEP), normalized per square root of the sensor's area and frequency bandwidth (reciprocal of twice the integration time).
+Specific detectivity is given by 
+  
+    
+      
+        
+          D
+          
+            ∗
+          
+        
+        =
+        
+          
+            
+              A
+              Δ
+              f
+            
+            
+              N
+              E
+              P
+            
+          
+        
+      
+    
+    {\displaystyle D^{*}={\frac {\sqrt {A\Delta f}}{NEP}}}
+  , where 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   is the area of the photosensitive region of the detector, 
+  
+    
+      
+        Δ
+        f
+      
+    
+    {\displaystyle \Delta f}
+   is the bandwidth, and NEP the noise equivalent power in units [W]. It is commonly expressed in Jones units (
+  
+    
+      
+        c
+        m
+        ⋅
+        
+          
+            H
+            z
+          
+        
+        
+          /
+        
+        W
+      
+    
+    {\displaystyle cm\cdot {\sqrt {Hz}}/W}
+  ) in honor of Robert Clark Jones who originally defined it.Given that noise-equivalent power can be expressed as a function of the responsivity 
+  
+    
+      
+        
+          
+            R
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {R}}}
+   (in units of 
+  
+    
+      
+        A
+        
+          /
+        
+        W
+      
+    
+    {\displaystyle A/W}
+   or 
+  
+    
+      
+        V
+        
+          /
+        
+        W
+      
+    
+    {\displaystyle V/W}
+  ) and the noise spectral density 
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+      
+    
+    {\displaystyle S_{n}}
+   (in units of 
+  
+    
+      
+        A
+        
+          /
+        
+        H
+        
+          z
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle A/Hz^{1/2}}
+   or 
+  
+    
+      
+        V
+        
+          /
+        
+        H
+        
+          z
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle V/Hz^{1/2}}
+  ) as 
+  
+    
+      
+        N
+        E
+        P
+        =
+        
+          
+            
+              S
+              
+                n
+              
+            
+            
+              R
+            
+          
+        
+      
+    
+    {\displaystyle NEP={\frac {S_{n}}{\mathfrak {R}}}}
+  , it is common to see the specific detectivity expressed as 
+  
+    
+      
+        
+          D
+          
+            ∗
+          
+        
+        =
+        
+          
+            
+              
+                
+                  R
+                
+              
+              ⋅
+              
+                
+                  A
+                
+              
+            
+            
+              S
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle D^{*}={\frac {{\mathfrak {R}}\cdot {\sqrt {A}}}{S_{n}}}}
+  .
+It is often useful to express the specific detectivity in terms of relative noise levels present in the device. A common expression is given below.
+
+  
+    
+      
+        
+          D
+          
+            ∗
+          
+        
+        =
+        
+          
+            
+              q
+              λ
+              η
+            
+            
+              h
+              c
+            
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    4
+                    k
+                    T
+                  
+                  
+                    
+                      R
+                      
+                        0
+                      
+                    
+                    A
+                  
+                
+              
+              +
+              2
+              
+                q
+                
+                  2
+                
+              
+              η
+              
+                Φ
+                
+                  b
+                
+              
+            
+            ]
+          
+          
+            −
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle D^{*}={\frac {q\lambda \eta }{hc}}\left[{\frac {4kT}{R_{0}A}}+2q^{2}\eta \Phi _{b}\right]^{-1/2}}
+  With q as the electronic charge, 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   is the wavelength of interest, h is Planck's constant, c is the speed of light, k is Boltzmann's constant, T is the temperature of the detector, 
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+        A
+      
+    
+    {\displaystyle R_{0}A}
+   is the zero-bias dynamic resistance area product (often measured experimentally, but also expressible in noise level assumptions), 
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+   is the quantum efficiency of the device, and 
+  
+    
+      
+        
+          Φ
+          
+            b
+          
+        
+      
+    
+    {\displaystyle \Phi _{b}}
+   is the total flux of the source (often a blackbody) in photons/sec/cm².

@@ -1,0 +1,11 @@
+Civil procedure~Law stubs~Legal costs~
+||||||
+Security for costs
+||||||
+Security for costs is a common law legal concept of application only in costs jurisdictions, and is an order sought from a court in litigation.
+The general rule in costs jurisdiction is that "costs follow the event". In other words, the loser in legal proceedings must pay the legal costs of the successful party. Where a defendant has a reasonable apprehension that its legal costs will not be paid for by the plaintiff if the defendant is successful, the defendant can apply to the court for an order that the plaintiff provide security for costs.  Furthermore, the amount that is ordered by the Judge is in direct correlation to the strength or weakness of the plaintiff's case brought herewith. The weaker the probability of the plaintiff prevailing, the higher the security order.
+Typically a claimant will be outside the jurisdiction of the court: the law of security for costs recognises that orders of the court relating to payment of a party's legal costs can be very difficult to enforce in non-common law jurisdictions, and so will order security to be provided. Security can also be ordered where a plaintiff is insolvent, or prone to vexatious litigation.
+Security is usually provided in the form of a bank cheque paid into the court, or held in a trust account operated jointly by both the plaintiff's and defendant's lawyers.
+If the defendant is successful, the money can be applied against the costs order. If the claimant is successful, the security is returned to the claimant.
+There are conditions that need to be satisfied for the court to grant security of costs. The first condition is if it is satisfied, having regard to all the circumstances of the case, that it is just to make such an order.
+

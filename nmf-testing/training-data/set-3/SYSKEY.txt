@@ -1,0 +1,5 @@
+Cryptographic software~Microsoft Windows security technology~Windows administration~
+||||||
+Syskey
+||||||
+The SAM Lock Tool, better known as Syskey (the name of its executable file), is a discontinued component of Windows NT that encrypts the Security Account Manager (SAM) database using a 128-bit RC4 encryption key.First introduced in the Q143475 hotfix which was included in Windows NT 4.0 SP3, it was removed in Windows 10's Fall Creators Update in 2017 due to its use of cryptography considered unsecure by modern standards, and its use as part of scams as a form of ransomware. Microsoft officially recommended use of BitLocker disk encryption as an alternative.

@@ -1,0 +1,6 @@
+120 mm discs~Blu-ray Disc~High-definition television~Interactive television~Java platform~Video storage~
+||||||
+BD-J
+||||||
+BD-J, or Blu-ray Disc Java, is a specification supporting Java ME (specifically the Personal Basis Profile of the Connected Device Configuration or CDC) Xlets for advanced content on Blu-ray Disc and the Packaged Media profile of Globally Executable MHP (GEM).
+BD-J allows bonus content on Blu-ray Disc titles to be far more sophisticated than bonus content provided by standard DVD, including network access, picture-in-picture and access to expanded local storage. Collectively, these features (other than internet access) are referred to as "Bonus View", and the addition of internet access is called "BD Live". BD-J was developed by the Blu-ray Disc Association. All Blu-ray Disc players supporting video content are required by the specification to support BD-J. Starting on October 31, 2007, all new players are required to have hardware support for the "Bonus View" features, but the players may require future firmware updates to enable the features. "BD Live" support is always optional for a BD player.Sony's PlayStation 3 has been the de facto leader in compliance and support of BD-J. The PlayStation 3 added Blu-ray Profile 1.1 support with a firmware upgrade and was used to showcase BD-Live at CES 2008 in January.

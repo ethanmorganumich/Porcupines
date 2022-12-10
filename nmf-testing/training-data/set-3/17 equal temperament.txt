@@ -1,0 +1,6 @@
+Equal temperaments~Microtonality~
+||||||
+17 equal temperament
+||||||
+In music, 17 tone equal temperament is the tempered scale derived by dividing the octave into 17 equal steps (equal frequency ratios). Each step represents a frequency ratio of 17√2, or 70.6 cents.
+17-ET is the tuning of the regular diatonic tuning in which the tempered perfect fifth is equal to 705.88 cents, as shown in Figure 1 (look for the label "17-TET").

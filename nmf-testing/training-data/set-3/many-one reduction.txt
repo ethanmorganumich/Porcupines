@@ -1,0 +1,217 @@
+Reduction (complexity)~
+||||||
+Many-one reduction
+||||||
+In computability theory and  computational complexity theory, a many-one reduction (also called mapping reduction) is a reduction which converts instances of one decision problem 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    {\displaystyle L_{1}}
+   into instances of a second decision problem 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L_{2}}
+   where the instance reduced to is in the language 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L_{2}}
+   if the initial instance was in its language 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    {\displaystyle L_{1}}
+   and is not in the language 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L_{2}}
+   if the initial instance was not in its language 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    {\displaystyle L_{1}}
+  . Thus if we can decide whether 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L_{2}}
+   instances are in the language 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L_{2}}
+  , we can decide whether 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    {\displaystyle L_{1}}
+   instances are in its language by applying the reduction and solving 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L_{2}}
+  . Thus, reductions can be used to measure the relative computational difficulty of two problems. It is said that 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    {\displaystyle L_{1}}
+   reduces to 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L_{2}}
+   if, in layman's terms 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L_{2}}
+   is harder to solve than 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    {\displaystyle L_{1}}
+  . That is to say, any algorithm that solves 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle L_{2}}
+   can also be used as part of a (otherwise relatively simple) program that solves 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    {\displaystyle L_{1}}
+  .
+Many-one reductions are a special case and stronger form of Turing reductions. With many-one reductions, the oracle (that is, our solution for B) can be invoked only once at the end, and the answer cannot be modified. This means that if we want to show that problem A can be reduced to problem B, we can use our solution for B only once in our solution for A, unlike in Turing reduction, where we can use our solution for B as many times as needed while solving A.
+This means that many-one reductions map instances of one problem to instances of another, while Turing reductions compute the solution to one problem, assuming the other problem is easy to solve. The many-one reduction is more effective at separating problems into distinct complexity classes. However, the increased restrictions on many-one reductions make them more difficult to find.
+Many-one reductions were first used by Emil Post in a paper published in 1944. Later Norman Shapiro used the same concept in 1956 under the name strong reducibility.
+

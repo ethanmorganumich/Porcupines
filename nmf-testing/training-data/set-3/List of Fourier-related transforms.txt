@@ -1,0 +1,5 @@
+Fourier analysis~Image processing~Integral transforms~Mathematics-related lists~
+||||||
+List of Fourier-related transforms
+||||||
+This is a list of linear transformations of functions related to Fourier analysis.  Such transformations map a function to a set of coefficients of basis functions, where the basis functions are sinusoidal and are therefore strongly localized in the frequency spectrum.  (These transforms are generally designed to be invertible.)  In the case of the Fourier transform, each basis function corresponds to a single frequency component.

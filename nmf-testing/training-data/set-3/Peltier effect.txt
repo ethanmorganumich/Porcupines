@@ -1,0 +1,8 @@
+Energy conversion~Physical phenomena~Thermoelectricity~
+||||||
+Thermoelectric effect
+||||||
+The thermoelectric effect is the direct conversion of temperature differences to electric voltage and vice versa via a thermocouple. A thermoelectric device creates a voltage when there is a different temperature on each side. Conversely, when a voltage is applied to it, heat is transferred from one side to the other, creating a temperature difference. At the atomic scale, an applied temperature gradient causes charge carriers in the material to diffuse from the hot side to the cold side.
+This effect can be used to generate electricity, measure temperature or change the temperature of objects. Because the direction of heating and cooling is affected by the applied voltage, thermoelectric devices can be used as temperature controllers.
+The term "thermoelectric effect" encompasses three separately identified effects: the Seebeck effect, Peltier effect, and Thomson effect. The Seebeck and Peltier effects are different manifestations of the same physical process; textbooks may refer to this process as the Peltier–Seebeck effect (the separation derives from the independent discoveries by French physicist Jean Charles Athanase Peltier and Baltic German physicist Thomas Johann Seebeck). The Thomson effect is an extension of the Peltier–Seebeck model and is credited to Lord Kelvin.
+Joule heating, the heat that is generated whenever a current is passed through a conductive material, is not generally termed a thermoelectric effect. The Peltier–Seebeck and Thomson effects are thermodynamically reversible, whereas Joule heating is not.

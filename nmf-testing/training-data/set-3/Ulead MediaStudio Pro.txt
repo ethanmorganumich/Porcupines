@@ -1,0 +1,9 @@
+Multimedia software stubs~Ulead software~Video editing software~Windows multimedia software~
+||||||
+Ulead MediaStudio Pro
+||||||
+Ulead MediaStudio Pro (MSP) is real-time, timeline based prosumer level video editing software by Ulead Systems. It is a suite of 5 digital video and audio applications, including: Video Capture, Video Paint, CG Infinity, Audio Editor and Video Editor. MSP is only available on the Windows platform.
+Since version 8.0, CG Infinity and Video Paint are separate from the MSP suite, and are being sold as a combination product called VideoGraphics Lab (VGL).
+On June 18, 2008, Corel formally announced that MediaStudio Pro would be discontinued. The final MediaStudio Pro version was 8.10.0039 (Pro 8 Service Pack 1) released June 2, 2006. Corel discontinued support for MediaStudio Pro in June 2009.  However, there remains an active community of avid users on the official MediaStudio Pro forum.
+Version 6.0 is last version to support Windows 95, although recent versions are not compatible with Windows Vista or Windows 7.
+

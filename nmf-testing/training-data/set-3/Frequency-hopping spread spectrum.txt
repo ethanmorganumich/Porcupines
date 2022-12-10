@@ -1,0 +1,11 @@
+Military radio systems~Multiplexing~Quantized radio modulation modes~Radio frequency propagation~Radio resource management~
+||||||
+Frequency-hopping spread spectrum
+||||||
+Frequency-hopping spread spectrum (FHSS) is a method of transmitting radio signals by rapidly changing the carrier frequency among many distinct frequencies occupying a large spectral band. The changes are controlled by a code known to both transmitter and receiver. FHSS is used to avoid interference, to prevent eavesdropping, and to enable code-division multiple access (CDMA) communications.
+The available frequency band is divided into smaller sub-bands. Signals rapidly change ("hop") their carrier frequencies among the center frequencies of these sub-bands in a predetermined order. Interference at a specific frequency will affect the signal only during a short interval.FHSS offers four main advantages over a fixed-frequency transmission:
+
+FHSS signals are highly resistant to narrowband interference because the signal hops to a different frequency band.
+Signals are difficult to intercept if the frequency-hopping pattern is not known.
+Jamming is also difficult if the pattern is unknown; the signal can be jammed only for a single hopping period if the spreading sequence is unknown.
+FHSS transmissions can share a frequency band with many types of conventional transmissions with minimal mutual interference. FHSS signals add minimal interference to narrowband communications, and vice versa.

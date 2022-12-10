@@ -1,0 +1,6 @@
+Telephony signals~
+||||||
+Signaling (telecommunications)
+||||||
+In telecommunication, signaling is the use of signals for controlling communications. This may constitute an information exchange concerning the establishment and control of a telecommunication circuit and the management of the network.
+

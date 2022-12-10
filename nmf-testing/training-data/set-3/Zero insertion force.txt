@@ -1,0 +1,6 @@
+CPU sockets~
+||||||
+Zero insertion force
+||||||
+Zero insertion force (ZIF) is a type of  IC socket or electrical connector that requires very little (but not literally zero) force for insertion. With a ZIF socket, before the IC is inserted, a lever or slider on the side of the socket is moved, pushing all the sprung contacts apart so that the IC can be inserted with very little force - generally the weight of the IC itself is sufficient and no external downward force is required. The lever is then moved back, allowing the contacts to close and grip the pins of the IC. ZIF sockets are much more expensive than standard IC sockets and also tend to take up a larger board area due to the space taken up by the lever mechanism. Typically, they are only used when there is a good reason to do so.
+

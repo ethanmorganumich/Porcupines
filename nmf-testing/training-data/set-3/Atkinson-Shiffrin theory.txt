@@ -1,0 +1,9 @@
+Memory~Psychological theories~
+||||||
+Atkinson–Shiffrin memory model
+||||||
+The Atkinson–Shiffrin model (also known as the multi-store model or modal model) is a model of memory proposed in 1968 by Richard Atkinson and Richard Shiffrin. The model asserts that human memory has three separate components: 
+
+a sensory register, where sensory information enters memory,
+a short-term store, also called working memory or short-term memory, which receives and holds input from both the sensory register and the long-term store, and
+a long-term store, where information which has been rehearsed (explained below) in the short-term store is held indefinitely.Since its first publication, this model has come under much scrutiny and has been criticized for various reasons (described below).  However, it is notable for the significant influence it had in stimulating subsequent memory research.

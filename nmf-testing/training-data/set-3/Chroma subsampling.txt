@@ -1,0 +1,6 @@
+Data compression~Film and video technology~Image compression~
+||||||
+Chroma subsampling
+||||||
+Chroma subsampling is the practice of encoding images by implementing less resolution for chroma information than for luma information, taking advantage of the human visual system's lower acuity for color differences than for luminance.It is used in many video and still image encoding schemes – both analog and digital – including in JPEG encoding.
+

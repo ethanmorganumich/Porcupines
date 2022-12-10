@@ -1,0 +1,15 @@
+Finite automata~
+||||||
+Nondeterministic finite automaton
+||||||
+In automata theory, a finite-state machine is called a deterministic finite automaton (DFA), if
+
+each of its transitions is uniquely determined by its source state and input symbol, and
+reading an input symbol is required for each state transition.A nondeterministic finite automaton (NFA), or nondeterministic finite-state machine, does not need to obey these restrictions. In particular, every DFA is also an NFA. Sometimes the term NFA is used in a narrower sense, referring to an NFA that is not a DFA, but not in this article.
+Using the subset construction algorithm, each NFA can be translated to an equivalent DFA; i.e., a DFA recognizing the same formal language.
+Like DFAs, NFAs only recognize regular languages.
+NFAs were introduced in 1959 by Michael O. Rabin and Dana Scott,  who also showed their equivalence to DFAs. NFAs are used in the implementation of regular expressions: Thompson's construction is an algorithm for compiling a regular expression to an NFA that can efficiently perform pattern matching on strings. Conversely, Kleene's algorithm can be used to convert an NFA into a regular expression (whose size is generally exponential in the input automaton).
+NFAs have been generalized in multiple ways, e.g., nondeterministic finite automata with ε-moves, finite-state transducers, pushdown automata, alternating automata, ω-automata, and probabilistic automata.
+Besides the DFAs, other known special cases of NFAs
+are unambiguous finite automata (UFA)
+and self-verifying finite automata (SVFA).

@@ -1,0 +1,5 @@
+Metal hydrides~Nickel~Nickel–metal hydride batteries~Rechargeable batteries~
+||||||
+Nickel–metal hydride battery
+||||||
+A nickel metal hydride battery (NiMH or Ni–MH) is a type of rechargeable battery. The chemical reaction at the positive electrode is similar to that of the nickel–cadmium cell (NiCd), with both  using  nickel oxide hydroxide (NiOOH). However, the negative electrodes use a hydrogen-absorbing alloy instead of cadmium. NiMH batteries can have two to three times the capacity of NiCd batteries of the same size, with significantly higher energy density, although much less than lithium-ion batteries.They are typically used as a substitute for similarly shaped non-rechargeable alkaline batteries, as they feature a slightly lower but generally compatible cell voltage, and are less prone to leaking.

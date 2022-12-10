@@ -1,0 +1,10 @@
+Cross-platform free software~Educational software that uses Qt~Esperanto education~Free language learning software~Free multilingual software~Free software programmed in C++~Software using the GPL license~
+||||||
+Kurso de Esperanto
+||||||
+Kurso de Esperanto (English: Course of Esperanto) is a free and open source language course software with 12 units for the constructed language Esperanto. The course is especially dedicated to beginners who will know the basics of Esperanto within two weeks, due to optimized learning exercises.
+The software uses listening tests of all used words to train pronunciation and listening comprehension.  The user can record their attempts at speaking Esperanto with a microphone and compare them with the examples.  Sound samples include songs available for singing along with, by the Brazilian pop music band Merlin among others.
+At the end of each unit, and for certification of the whole Esperanto course the user can pass an examination and utilize a special feature of this course: the tests can be given to course leaders to be corrected free of charge.  This correction service is provided by volunteers of the Esperanto movement including the German Esperanto youth organization.
+Kurso de Esperanto is based on a 10-hour course developed by the Quebec Esperanto Society and some other courses.
+The language course works with Android, Mac OS X, Windows and the numerous Linux distributions. As of August 2020 version 5.1 is available for download.
+Kurso de Esperanto is already in more than 23 languages. There are many volunteers working to increase this number. The translation process of the Esperanto course is simplified by a program called tradukilo that is also available for free download.

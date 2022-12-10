@@ -1,0 +1,5 @@
+Computational problems in graph theory~Mathematical optimization in business~Spatial analysis~
+||||||
+Facility location problem
+||||||
+The study of facility location problems (FLP), also known as location analysis, is a branch of operations research and computational geometry concerned with the optimal placement of facilities to minimize transportation costs while considering factors like avoiding placing hazardous materials near housing, and competitors' facilities. The techniques also apply to cluster analysis.

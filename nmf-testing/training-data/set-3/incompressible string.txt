@@ -1,0 +1,5 @@
+Lossless compression algorithms~String (computer science)~
+||||||
+Incompressible string
+||||||
+An incompressible string is a string with Kolmogorov complexity equal to its length, so that it has no shorter encodings.

@@ -1,0 +1,9 @@
+Compositions in D-sharp minor~Minor scales~Musical keys~
+||||||
+D-sharp minor
+||||||
+D-sharp minor is a minor scale based on D♯, consisting of the pitches D♯, E♯, F♯, G♯, A♯, B, and C♯. Its key signature has six sharps.
+Its relative major is F-sharp major (or enharmonically G-flat major), and its parallel major is D-sharp major, usually replaced by E-flat major, since D-sharp major's two double-sharps make it impractical to use. Its enharmonic equivalent, E-flat minor, has the same number of flats.
+The D-sharp natural minor scale is:
+
+Changes needed for the melodic and harmonic versions of the scale are written in with accidentals as necessary. The D-sharp harmonic minor and melodic minor scales are:

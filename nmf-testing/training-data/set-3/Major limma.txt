@@ -1,0 +1,6 @@
+Commas (music)~Music theory stubs~
+||||||
+Major limma
+||||||
+In music, a major limma is an interval with the ratio of 135:128, which is the difference between two major tones (a ditone) and a minor third. It is equal to about 92.18 cents.
+Composer Ben Johnston uses a "−" with a "♭" as an accidental to indicate a note is lowered 92 cents, or a "+" with a "♯" to indicate a note is raised 92 cents, the value of the syntonic comma and the just chromatic semitone.

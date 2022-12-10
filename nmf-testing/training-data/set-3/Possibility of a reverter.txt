@@ -1,0 +1,8 @@
+Real property law~Wills and trusts~
+||||||
+Future interest
+||||||
+In property law and real estate, a future interest is a legal right to property ownership that does not include the right to present possession or enjoyment of the property.  Future interests are created on the formation of a defeasible estate; that is, an estate with a condition or event triggering transfer of possessory ownership.  A common example is the landlord-tenant relationship.  The landlord may own a house, but has no general right to enter it while it is being rented.  The conditions triggering the transfer of possession, first to the tenant then back to the landlord, are usually detailed in a lease.
+As a slightly more complicated example, suppose O is the owner of Blackacre. Consider what happens when O transfers the property, "to A for life, then to B". Person A acquires possession of Blackacre. Person B does not receive any right to possess Blackacre immediately; however, once person A dies, possession will fall to person B (or his estate, if he died before person A). Person B has a future interest in the property.  In this example, the event triggering the transfer is person A's death.
+Because they convey ownership rights, future interests can usually be sold, gifted, willed, or otherwise disposed of by the beneficiary (but see Vesting below). Because the rights vest in the future, any such disposition will occur before the beneficiary actually takes possession of the property.
+There are five kinds of future interests recognized at common law:  three in the transferor and two in the transferee.

@@ -1,0 +1,11 @@
+Radio resource management~Telecommunications stubs~Telecommunications techniques~
+||||||
+Maximal-ratio combining
+||||||
+In telecommunications, maximum-ratio combining (MRC) is a method of diversity combining in which:
+
+the signals from each channel are added together,
+the gain of each channel is made proportional to the rms signal level and inversely proportional to the mean square noise level in that channel.
+different proportionality constants are used for each channel.It is also known as ratio-squared combining and predetection combining.  Maximum-ratio combining is the optimum combiner for independent additive white Gaussian noise channels.
+MRC can restore a signal to its original shape. The technique was invented by American engineer Leonard R. Kahn in 1954.
+MRC has also been found in the field of neuroscience, where it has been shown that neurons in the retina scale their dependence on two sources of input in proportion to the signal-to-noise ratio of the inputs.

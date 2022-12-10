@@ -1,0 +1,11 @@
+Neutral intervals~Quarter tones~
+||||||
+Neutral interval
+||||||
+In music theory, a neutral interval is an interval that is neither a major nor minor, but instead in between. For example, in equal temperament, a major third is 400 cents, a minor third is 300 cents, and a neutral third is 350 cents. A neutral interval inverts to a neutral interval. For example, the inverse of a neutral third is a neutral sixth.
+Roughly, neutral intervals are a quarter tone sharp from minor intervals and a quarter tone flat from major intervals. In just intonation, as well as in tunings such as 31-ET, 41-ET, or 72-ET, which more closely approximate just intonation, the intervals are closer together.
+
+Neutral second
+Neutral third
+Neutral sixth
+Neutral seventh

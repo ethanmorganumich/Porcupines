@@ -1,0 +1,5 @@
+Data processing~Information technology management~
+||||||
+Electronic data processing
+||||||
+Electronic data processing (EDP) can refer to the use of automated methods to process commercial data. Typically, this uses relatively simple, repetitive activities to process large volumes of similar information. For example: stock updates applied to an inventory, banking transactions applied to account and customer master files, booking and ticketing transactions to an airline's reservation system, billing for utility services. The modifier "electronic" or "automatic" was used with "data processing" (DP), especially c. 1960, to distinguish human clerical data processing from that done by computer.

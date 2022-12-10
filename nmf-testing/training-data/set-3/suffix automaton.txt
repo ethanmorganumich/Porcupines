@@ -1,0 +1,86 @@
+Algorithms on strings~Finite automata~String data structures~
+||||||
+Suffix automaton
+||||||
+In computer science, a suffix automaton is an efficient data structure for representing the substring index of a given string which allows the storage, processing, and retrieval of compressed information about all its substrings. The suffix automaton of a string 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   is the smallest directed acyclic graph with a dedicated initial vertex and a set of "final" vertices, such that paths from the initial vertex to final vertices represent the suffixes of the string.
+In terms of automata theory, a suffix automaton is the minimal partial deterministic finite automaton that recognizes the set of suffixes of a given string 
+  
+    
+      
+        S
+        =
+        
+          s
+          
+            1
+          
+        
+        
+          s
+          
+            2
+          
+        
+        …
+        
+          s
+          
+            n
+          
+        
+      
+    
+    {\displaystyle S=s_{1}s_{2}\dots s_{n}}
+  . The state graph of a suffix automaton is called a directed acyclic word graph (DAWG), a term that is also sometimes used for any deterministic acyclic finite state automaton.
+Suffix automata were introduced in 1983 by a group of scientists from the University of Denver and the University of Colorado Boulder. They suggested a linear time online algorithm for its construction and showed that the suffix automaton of a string 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   having length at least two characters has at most 
+  
+    
+      
+        2
+        
+          |
+        
+        S
+        
+          |
+        
+        −
+        1
+      
+    
+    {\textstyle 2|S|-1}
+    states and at most 
+  
+    
+      
+        3
+        
+          |
+        
+        S
+        
+          |
+        
+        −
+        4
+      
+    
+    {\textstyle 3|S|-4}
+   transitions. Further works have shown a close connection between suffix automata and suffix trees, and have outlined several generalizations of suffix automata, such as compacted suffix automaton obtained by compression of nodes with a single outgoing arc.
+Suffix automata provide efficient solutions to problems such as substring search and computation of the largest common substring of two and more strings.

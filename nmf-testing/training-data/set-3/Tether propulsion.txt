@@ -1,0 +1,5 @@
+Emerging technologies~Hypothetical technology~Satellites~Single-stage-to-orbit~Space elevator~Spacecraft propulsion~Spaceflight concepts~Vertical transport devices~
+||||||
+Space tether
+||||||
+Space tethers are long cables which can be used for propulsion, momentum exchange, stabilization and attitude control, or maintaining the relative positions of the components of a large dispersed satellite/spacecraft sensor system. Depending on the mission objectives and altitude, spaceflight using this form of spacecraft propulsion is theorized to be significantly less expensive than spaceflight using rocket engines.

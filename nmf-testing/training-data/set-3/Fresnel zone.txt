@@ -1,0 +1,6 @@
+Diffraction~Radio frequency propagation~
+||||||
+Fresnel zone
+||||||
+A Fresnel zone (English:  fray-NEL), named after physicist Augustin-Jean Fresnel, is one of a series of confocal prolate ellipsoidal regions of space between  and around a transmitter and a receiver.  The primary wave will travel in a relative straight line from the transmitter to the receiver.  Aberrant transmitted  radio, sound, or light waves which are transmitted at the same time can follow slightly different paths before reaching a receiver, especially if there are obstructions or deflecting objects between the two. The two waves can arrive at the receiver at slightly different times and the aberrant wave may arrive out of phase with the primary wave due to the different path lengths.  Depending on the magnitude of the phase difference between the two waves,  the waves can interfere constructively or destructively. The size of the calculated Fresnel zone at any particular distance from the transmitter and receiver can help to predict whether obstructions or discontinuities along the path will cause significant interference.
+

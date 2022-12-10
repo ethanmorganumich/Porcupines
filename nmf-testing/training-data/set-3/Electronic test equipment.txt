@@ -1,0 +1,8 @@
+Electronic test equipment~
+||||||
+Electronic test equipment
+||||||
+Electronic test equipment is used to create signals and capture responses from electronic devices under test (DUTs). In this way, the proper operation of the DUT can be proven or faults in the device can be traced. Use of electronic test equipment is essential to any serious work on electronics systems.
+Practical electronics engineering and assembly requires the use of many different kinds of electronic test equipment ranging from the very simple and inexpensive (such as a test light consisting of just a light bulb and a test lead) to extremely complex and sophisticated such as automatic test equipment (ATE). ATE often includes many of these instruments in real and simulated forms.
+Generally, more advanced test gear is necessary when developing circuits and systems than is needed when doing production testing or when troubleshooting existing production units in the field.
+

@@ -1,0 +1,7 @@
+Free search engine software~Free web crawlers~Internet search engines~Web software stubs~
+||||||
+Grub (search engine)
+||||||
+Grub is an open source distributed search crawler platform.
+Users of Grub could download the peer-to-peer grubclient software and let it run during their computer's idle time. The client indexed the URLs and sent them back to the main grub server in a highly compressed form. The collective crawl could then, in theory, be utilized by an indexing system, such as the one being proposed at Wikia Search. Grub was able to quickly build a large snapshot by asking thousands of clients to crawl and analyze a small portion of the web each.
+Wikia has now released the entire Grub package under an open source software license. However, the old Grub clients are not functional anymore. New clients can be found on the Wikia wiki.

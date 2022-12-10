@@ -1,0 +1,46 @@
+Additive functions~Elementary special functions~Logarithms~Scottish inventions~
+||||||
+Logarithm
+||||||
+In mathematics, the logarithm is the inverse function to exponentiation. That means the logarithm of a number x to the base b is the exponent to which b must be raised, to produce x. For example, since 1000 = 103, the logarithm base 10 of 1000 is 3, or log10 (1000) = 3. The logarithm of x to base b is denoted as logb (x), or without parentheses, logb x, or even without the explicit base, log x, when no confusion is possible, or when the base does not matter such as in big O notation.
+The logarithm base 10 is called the decimal or common logarithm and is commonly used in science and engineering. The natural logarithm has the number e ≈ 2.718 as its base; its use is widespread in mathematics and physics, because of its very simple derivative. The binary logarithm uses base 2 and is frequently used in computer science.
+Logarithms were introduced by John Napier in 1614 as a means of simplifying calculations. They were rapidly adopted by navigators, scientists, engineers, surveyors and others to perform high-accuracy computations more easily. Using logarithm tables, tedious multi-digit multiplication steps can be replaced by table look-ups and simpler addition. This is possible because the logarithm of a product is the sum of the logarithms of the factors:
+
+  
+    
+      
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        (
+        x
+        y
+        )
+        =
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        x
+        +
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        y
+        ,
+      
+    
+    {\displaystyle \log _{b}(xy)=\log _{b}x+\log _{b}y,}
+  provided that b, x and y are all positive and b ≠ 1. The slide rule, also based on logarithms, allows quick calculations without tables, but at lower precision. The present-day notion of logarithms comes from Leonhard Euler, who connected them to the exponential function in the 18th century, and who also introduced the letter e as the base of natural logarithms.Logarithmic scales reduce wide-ranging quantities to smaller scopes. For example, the decibel (dB) is a unit used to express ratio as logarithms, mostly for signal power and amplitude (of which sound pressure is a common example). In chemistry, pH is a logarithmic measure for the acidity of an aqueous solution. Logarithms are commonplace in scientific formulae, and in measurements of the complexity of algorithms and of geometric objects called fractals. They help to describe frequency ratios of musical intervals, appear in formulas counting prime numbers or approximating factorials, inform some models in psychophysics, and can aid in forensic accounting.
+The concept of logarithm as the inverse of exponentiation extends to other mathematical structures as well. However, in general settings, the logarithm tends to be a multi-valued function. For example, the complex logarithm is the multi-valued inverse of the complex exponential function. Similarly, the discrete logarithm is the multi-valued inverse of the exponential function in finite groups; it has uses in public-key cryptography.

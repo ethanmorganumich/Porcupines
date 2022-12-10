@@ -1,0 +1,6 @@
+Geometrical optics~Physical optics~
+||||||
+Optical path length
+||||||
+In optics, optical path length (OPL, denoted Λ in equations), also known as optical length or optical distance, is the product of the geometric length of the optical path followed by light and the refractive index of homogeneous medium through which a light ray propagates; for inhomogeneous optical media, the product above is generalized as a path integral as part of the ray tracing procedure. A difference in OPL between two paths is often called the optical path difference (OPD). OPL and OPD are important because they determine the phase of the light and governs interference and diffraction of light as it propagates.
+

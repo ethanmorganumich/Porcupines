@@ -1,0 +1,7 @@
+Electronics stubs~Engineering ratios~Telecommunications~
+||||||
+Signal-to-crosstalk ratio
+||||||
+The signal-to-crosstalk ratio at a specified point in a circuit is the ratio of the power of the wanted signal to the power of the unwanted signal from another channel. 
+The signals are adjusted in each channel so that they are of equal power at the zero transmission level point in their respective channels. 
+The signal-to-crosstalk ratio is usually expressed in dB.

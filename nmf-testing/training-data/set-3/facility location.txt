@@ -1,0 +1,9 @@
+Set index articles~
+||||||
+Facility location
+||||||
+Facility location is a name given to several different problems in computer science and in game theory:
+
+Facility location (optimization problem), the optimal placement of facilities as a function of transportation costs and other factors
+Facility location (competitive game), in which competitors simultaneously select facility locations and prices, in order to maximize profit
+Facility location (cooperative game), with the goal of sharing costs among clients

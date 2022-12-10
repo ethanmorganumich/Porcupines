@@ -1,0 +1,6 @@
+Animation techniques~Audiovisual introductions in 1897~Cinematic techniques~Photography by genre~Time~
+||||||
+Time-lapse photography
+||||||
+Time-lapse photography is a technique in which the frequency at which film frames are captured (the frame rate) is much lower than the frequency used to view the sequence. When played at normal speed, time appears to be moving faster and thus lapsing. For example, an image of a scene may be captured at 1 frame per second but then played back at 30 frames per second; the result is an apparent 30 times speed increase. Similarly, film can also be played at a much lower rate than at which it was captured, which slows down an otherwise fast action, as in slow motion or high-speed photography.
+Processes that would normally appear subtle and slow to the human eye, such as the motion of the sun and stars in the sky or the growth of a plant, become very pronounced. Time-lapse is the extreme version of the cinematography technique of undercranking. Stop motion animation is a comparable technique; a subject that does not actually move, such as a puppet, can repeatedly be moved manually by a small distance and photographed. Then, the photographs can be played back as a film at a speed that shows the subject appearing to move.

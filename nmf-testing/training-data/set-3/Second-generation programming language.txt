@@ -1,0 +1,6 @@
+Programming language classification~
+||||||
+Second-generation programming language
+||||||
+The label of second-generation programming language (2GL) is a generational way to categorize assembly languages.The term was coined to provide a distinction from higher level machine independent third-generation programming languages (3GLs) (such as COBOL, C, or JavaScript) and earlier first-generation programming languages (machine code)
+

@@ -1,0 +1,8 @@
+Radio frequency propagation~Telecommunications stubs~
+||||||
+Shadow loss
+||||||
+In telecommunication, the term shadow loss has the following meanings: 
+
+The attenuation caused to a radio signal by obstructions in the propagation path.
+In a reflector antenna, the relative reduction in the effective aperture of the antenna caused by the masking effect of other antenna parts, such as a feed horn or a secondary reflector, which parts obstruct the radiation path.

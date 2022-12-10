@@ -1,0 +1,5 @@
+Graph drawing~
+||||||
+Graph drawing
+||||||
+Graph drawing is an area of mathematics and computer science combining methods from geometric graph theory and information visualization to derive two-dimensional depictions of graphs arising from applications such as social network analysis, cartography, linguistics, and bioinformatics.A drawing of a graph or network diagram is a pictorial representation of the vertices and edges of a graph. This drawing should not be confused with the graph itself: very different layouts can correspond to the same graph.  In the abstract, all that matters is which pairs of vertices are connected by edges.  In the concrete, however, the arrangement of these vertices and edges within a drawing affects its understandability, usability, fabrication cost, and aesthetics. The problem gets worse if the graph changes over time by adding and deleting edges (dynamic graph drawing) and the goal is to preserve the user's mental map.

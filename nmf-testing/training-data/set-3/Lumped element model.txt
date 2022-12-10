@@ -1,0 +1,6 @@
+Acoustics~Conceptual models~Electronic circuits~Electronic design~Mechanics~
+||||||
+Lumped-element model
+||||||
+The lumped-element model (also called lumped-parameter model, or lumped-component model) simplifies the description of the behaviour of spatially distributed physical systems, such as electrical circuits, into a topology consisting of discrete entities that approximate the behaviour of the distributed system under certain assumptions. It is useful in electrical systems (including electronics), mechanical multibody systems, heat transfer, acoustics, etc. This may be contrasted to distributed parameter systems or models in which the behaviour is distributed spatially and cannot be considered as localized into discrete entities.
+Mathematically speaking, the simplification reduces the state space of the system to a finite dimension, and the partial differential equations (PDEs) of the continuous (infinite-dimensional) time and space model of the physical system into ordinary differential equations (ODEs) with a finite number of parameters.

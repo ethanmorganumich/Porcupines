@@ -1,0 +1,7 @@
+Waveforms~
+||||||
+Waveform
+||||||
+In electronics, acoustics, and related fields, the waveform of a signal is the shape of its graph as a function of time, independent of its time and magnitude scales and of any displacement in time.In electronics, the term is usually applied to periodically varying voltages, currents, or electromagnetic fields.  In acoustics, it is usually applied to steady periodic sounds—variations of pressure in air or other media.  In these cases, the waveform is an attribute that is independent of the frequency, amplitude, or phase shift of the signal.  The term can also be used for non-periodic signals, like chirps and pulses.
+The waveform of an electrical signal can be visualized in an oscilloscope or any other device that can capture and plot its value at various times, with a suitable scales in the time and value axes.  The electrocardiograph is a medical device to record the waveform of the electric signals that are associated with the beating of the heart; that waveform has important diagnostic value.  Waveform generators, that can output a periodic voltage or current with one of several waveforms, are a common tool in electronics laboratories and workshops.
+The waveform of a steady periodic sound affects its timbre.  Synthesizers and modern keyboards can generate sounds with many complicated waveforms.

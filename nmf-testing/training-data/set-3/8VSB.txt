@@ -1,0 +1,7 @@
+ATSC~Digital television~Radio modulation modes~
+||||||
+8VSB
+||||||
+8VSB is the modulation method used for broadcast in the ATSC digital television standard.  ATSC and 8VSB modulation is used primarily in North America; in contrast, the DVB-T standard uses COFDM.
+A modulation method specifies how the radio signal fluctuates to convey information.  ATSC and DVB-T specify the modulation used for over-the-air digital television; by comparison, QAM is the modulation method used for cable.  The specifications for a cable-ready television, then, might state that it supports 8VSB (for broadcast TV) and QAM (for cable TV).
+8VSB is an 8-level vestigial sideband modulation. In essence, it converts a binary stream into an octal representation by amplitude-shift keying a sinusoidal carrier to one of eight levels. 8VSB is capable of transmitting three bits (23=8) per symbol; in ATSC, each symbol includes two bits from the MPEG transport stream which are trellis modulated to produce a three-bit figure. The resulting signal is then band-pass filtered with a Nyquist filter to remove redundancies in the side lobes, and then shifted up to the broadcast frequency.

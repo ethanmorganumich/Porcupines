@@ -1,0 +1,8 @@
+Communication circuits~Telecommunications stubs~
+||||||
+Simplex communication
+||||||
+Simplex communication is a communication channel that sends information in one direction only.The International Telecommunication Union definition is a communications channel that operates in one direction at a time, but that may be reversible; this is termed half duplex in other contexts. A duplex communication channel requires two simplex channels operating in opposite directions at the same time. 
+For example, in TV and radio broadcasting, information flows only from the transmitter site to multiple receivers. A pair of walkie-talkie two-way radios provide a simplex circuit in the ITU sense; only one party at a time can talk, while the other listens until it can hear an opportunity to transmit. The transmission medium (the radio signal over the air) can carry information in only one direction. 
+The old Western Union company used the term simplex when describing the half-duplex and simplex capacity of their new transatlantic telegraph cable completed between Newfoundland and the Azores in 1928. The same definition for a simplex radio channel was used by the National Fire Protection Association in 2002.
+

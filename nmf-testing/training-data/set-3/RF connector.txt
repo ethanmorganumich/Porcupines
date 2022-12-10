@@ -1,0 +1,7 @@
+RF connectors~Television terminology~
+||||||
+RF connector
+||||||
+A coaxial RF connector (radio frequency connector) is an electrical connector designed to work at radio frequencies in the multi-megahertz range.
+RF connectors are typically used with coaxial cables and are designed to maintain the shielding that the coaxial design offers. Better models also minimize the change in transmission line impedance at the connection in order to reduce signal reflection and power loss. As the frequency increases, transmission line effects become more important, with small impedance variations from connectors causing the signal to reflect rather than pass through. An RF connector must not allow external signals into the circuit through electromagnetic interference and capacitive pickup.
+Mechanically, RF connectors may provide a fastening mechanism (thread, bayonet, braces, blind mate) and springs for a low ohmic electric contact while sparing the gold surface, thus allowing very high mating cycles and reducing the insertion force. Research activity in the area of radio-frequency (RF) circuit design has surged in the 2000s in direct response to the enormous market demand for inexpensive, high-data-rate wireless transceivers.Common types of RF connectors are used for television receivers, two-way radio, certain Wi-Fi devices with removable antennas, and industrial or scientific measurements instruments using radio frequencies.

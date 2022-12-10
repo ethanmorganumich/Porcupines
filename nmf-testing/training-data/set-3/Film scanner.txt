@@ -1,0 +1,7 @@
+Image scanners~Photography equipment~
+||||||
+Film scanner
+||||||
+A film scanner is a device made for scanning photographic film directly into a computer without the use of any intermediate printmaking. It provides several benefits over using a flatbed scanner to scan in a print of any size: the photographer has direct control over cropping and aspect ratio from the original, unmolested image on film; and many film scanners have special software or hardware that removes scratches and film grain and improves color reproduction from film.
+Film scanners can accept either strips of 35 mm or 120 film, or individual slides. Low-end scanners typically only take 35mm film strips, while medium- and high-end film scanners often have interchangeable film loaders. This allows the one scanning platform to be used for different sizes and packaging. For example, some allow microscope slides to be loaded for scanning, while mechanised slide loaders allow many individual slides to be batch scanned unattended.
+Some software used to process images scanned by film scanners allows for automatic color correction based on the film manufacturer and type.  In many cases the source film may not be marked with this information in human-readable form, but might be marked at the bottom edge with a DX film edge barcode following a standard maintained by ANSI and I3A.

@@ -1,0 +1,138 @@
+String matching algorithms~
+||||||
+Apostolico–Giancarlo algorithm
+||||||
+In computer science, the Apostolico–Giancarlo algorithm is a variant of the Boyer–Moore string search algorithm, the basic application of which is searching for occurrences of a pattern 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   in a text 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  . As with other comparison-based string searches, this is done by aligning 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   to a certain index of 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   and checking whether a match occurs at that index. 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   is then shifted relative to 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   according to the rules of the Boyer–Moore algorithm, and the process repeats until the end of 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   has been reached. Application of the Boyer-Moore shift rules often results in large chunks of the text being skipped entirely. 
+With regard to the shift operation, Apostolico–Giancarlo is exactly equivalent in functionality to Boyer–Moore. The utility of Apostolico–Giancarlo is to speed up the match-checking operation at any index. With Boyer-Moore, finding an occurrence of 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   in 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   requires that all 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   characters of 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   be explicitly matched. For certain patterns and texts, this is very inefficient – a simple example is when both pattern and text consist of the same repeated character, in which case Boyer–Moore runs in 
+  
+    
+      
+        O
+        (
+        n
+        m
+        )
+      
+    
+    {\displaystyle O(nm)}
+  , where 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   is the length in characters of 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  . Apostolico–Giancarlo speeds this up by recording the number of characters matched at the alignments of 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   in a table, which is combined with data gathered during the pre-processing of 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   to avoid redundant equality checking for sequences of characters that are known to match. It can be seen as a generalization of the Galil rule.

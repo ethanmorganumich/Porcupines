@@ -1,0 +1,6 @@
+Aircraft controls~American inventions~Computer peripherals~Computing input devices~Game controllers~Joysticks~
+||||||
+Joystick
+||||||
+A joystick, sometimes called a flight stick, is an input device consisting of a stick that pivots on a base and reports its angle or direction to the device it is controlling. A joystick, also known as the control column, is the principal control device in the cockpit of many civilian and military aircraft, either as a centre stick or side-stick. It often has supplementary switches to control various aspects of the aircraft's flight.
+Joysticks are often used to control video games, and usually have one or more push-buttons whose state can also be read by the computer.  A popular variation of the joystick used on modern video game consoles is the analog stick. Joysticks are also used for controlling machines such as cranes, trucks, underwater unmanned vehicles, wheelchairs, surveillance cameras, and zero turning radius lawn mowers. Miniature finger-operated joysticks have been adopted as input devices for smaller electronic equipment such as mobile phones.

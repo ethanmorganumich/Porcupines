@@ -1,0 +1,7 @@
+Telephony signals~Telephony stubs~
+||||||
+Wink pulsing
+||||||
+Winking is a telephony signaling technique used both in connection with DC signaling on a trunk, and with indicator lamps on a key telephone.
+In telephone switching systems, wink pulsing is recurring pulsing in which the off-condition is relatively short compared to the on-condition.  In wink start trunks, the exchange at the originating end sends an off-hook to alert to a call.  The terminating end indicates readiness to receive the dialed telephone number by sending an off-hook of approximately half a second duration, or "wink".  Upon receiving this go ahead signal, the originating end uses multi-frequency or other address signalling to send the phone number.
+On 1A2 key systems or similar key-operated telephone instruments, the hold position, i.e., the hold condition, of a line is often indicated by winking the associated lamp at 120 impulses per minute. During 6% of the pulse period the lamp is off and 94% of the period the lamp is on, i.e., 30 ms (milliseconds) off and 470 ms on.

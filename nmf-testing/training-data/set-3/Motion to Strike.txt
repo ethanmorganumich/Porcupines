@@ -1,0 +1,5 @@
+Legal motions~Legal terminology stubs~
+||||||
+Motion to strike (court of law)
+||||||
+A motion to strike is a request by one party in a United States trial requesting that the presiding judge order the removal of all or part of the opposing party's pleading to the court.  Motions to strike are most commonly sought by the defendant, as to a matter contained in the plaintiff's complaint; however, they may also be asserted by plaintiffs to a defendant's answer or other pleadings such as cross-complaints.  Federal Rule of Civil Procedure Rule 12(f) states that if a complaint contains "any redundant, immaterial, impertinent or scandalous matter," it may be stricken upon motion.  Similarly, for example, California Code of Civil Procedure Section 436 provides, in part, that a motion to strike may be made to strike out any "irrelevant, false, or improper matter inserted in any pleading."  A motion to strike may also be used to request the elimination of all or a portion of a trial witness's testimony. During a jury trial, if a motion to strike witness testimony is granted, the jury is typically instructed to disregard the stricken statements.

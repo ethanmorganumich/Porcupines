@@ -1,0 +1,6 @@
+Electronic amplifiers~
+||||||
+Low-noise amplifier
+||||||
+A low-noise amplifier (LNA) is an electronic amplifier that amplifies a very low-power signal without significantly degrading its signal-to-noise ratio. An amplifier will increase the power of both the signal and the noise present at its input, but the amplifier will also introduce some additional noise. LNAs are designed to minimize that additional noise. Designers can minimize additional noise by choosing low-noise components, operating points, and circuit topologies. Minimizing additional noise must balance with other design goals such as power gain and impedance matching.
+LNAs are found in radio communications systems, medical instruments and electronic test equipment. A typical LNA may supply a power gain of 100 (20 decibels (dB)) while decreasing the signal-to-noise ratio by less than a factor of two (a 3 dB noise figure (NF)). Although LNAs are primarily concerned with weak signals that are just above the noise floor, they must also consider the presence of larger signals that cause intermodulation distortion.

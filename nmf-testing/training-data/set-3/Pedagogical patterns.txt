@@ -1,0 +1,5 @@
+Design patterns~Educational psychology~Pedagogy~
+||||||
+Pedagogical pattern
+||||||
+A pedagogical pattern is the re-usable form of a solution to a problem or task in pedagogy, analogous to how a design pattern is the re-usable form of a solution to a design problem. Pedagogical patterns are used to document and share best practices of teaching. A network of interrelated pedagogical patterns is an example of a pattern language.

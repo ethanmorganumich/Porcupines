@@ -1,0 +1,7 @@
+Jazz terminology~Musical instruments~Musical notation~Transposing instruments~
+||||||
+Transposing instrument
+||||||
+A transposing instrument is a musical instrument for which music notation is not written at concert pitch (concert pitch is the pitch on a non-transposing instrument such as the piano). For example, playing a written middle C on a transposing instrument produces a pitch other than middle C; that sounding pitch identifies the interval of transposition when describing the instrument. Playing a written C on clarinet or soprano saxophone produces a concert B♭ (i.e. B♭ at concert pitch), so these are referred to as B♭ instruments. Providing transposed music for these instruments is a convention of musical notation. The instruments do not transpose the music; rather, their music is written at a transposed pitch. Where chords are indicated for improvisation they are also written in the appropriate transposed form.
+For some instruments, a written C sounds as a C, but is in a different octave; these instruments are said to transpose "at the octave".  Pitches on the piccolo sound an octave higher than written while those on the double bass sound an octave lower.
+

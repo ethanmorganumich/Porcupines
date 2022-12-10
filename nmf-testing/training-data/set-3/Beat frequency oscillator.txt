@@ -1,0 +1,5 @@
+Amateur radio~Communication circuits~Electronic design~Electronic oscillators~Radio electronics~
+||||||
+Beat frequency oscillator
+||||||
+In a radio receiver, a beat frequency oscillator or BFO is a dedicated oscillator used to create an audio frequency signal from Morse code radiotelegraphy (CW) transmissions to make them audible. The signal from the BFO is mixed with the received signal to create a heterodyne or beat frequency which is heard as a tone in the speaker. BFOs are also used to demodulate single-sideband (SSB) signals, making them intelligible, by essentially restoring the carrier that was suppressed at the transmitter. BFOs are sometimes included in communications receivers designed for short wave listeners; they are almost always found in communication receivers for amateur radio, which often receive CW and SSB signals.The beat frequency oscillator was invented in 1901 by Canadian engineer Reginald Fessenden. What he called the "heterodyne" receiver was the first application of the heterodyne principle.

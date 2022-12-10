@@ -1,0 +1,7 @@
+Business law~Corporate law~Legal terminology~Resolutions (law)~Shareholders~
+||||||
+Extraordinary resolution
+||||||
+In business or commercial law, an extraordinary resolution or special resolution is a resolution passed by the shareholders of a company by a greater majority than is required to pass an ordinary resolution. The precise figures vary in different countries, but commonly an extraordinary resolution must be affirmed by not less than 75% of members casting votes, whereas an ordinary resolution only requires a bare majority.
+Extraordinary resolutions are generally only required in certain specific situations required by statute.  For example, in the United Kingdom, to liquidate a company voluntarily on the ground that it cannot by reason of its insolvency continue its business, requires an extraordinary resolution.
+However, in certain circumstances a company may wish to amend its constitutional documents to provide that an extraordinary resolution needs to be passed prior to the company engaging in any reserved matters, purely as a matter of internal organisational control.

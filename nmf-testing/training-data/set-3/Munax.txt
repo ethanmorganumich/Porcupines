@@ -1,0 +1,6 @@
+Internet search engines~
+||||||
+Munax
+||||||
+Munax was a Swedish company that developed a Large Hyper-Parallel Execution (LHPE) search engine system Munax XE. Munax XE, is an all-content search engine and powered nationwide and worldwide public search engines with page, document, audio, video, images, software, and email search. Other customers included vertical search engines and mobile operators.
+For multimedia, Munax also developed functionality that let the visitors pre-listen to audio and preview videos, making it easier for the visitor to decide what song or video he is looking for before playing it, or visiting the site hosting it. The visitor could also decide to transcode any multimedia file to make it moveable to the mobile phone or any type of multimedia player.

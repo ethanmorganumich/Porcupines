@@ -1,0 +1,5 @@
+1964 introductions~Digital electronics~Integrated circuits~
+||||||
+7400-series integrated circuits
+||||||
+The 7400 series of integrated circuits (ICs) are a popular logic family of transistor–transistor logic (TTL) logic chips.In 1964, Texas Instruments introduced the SN5400 series of logic chips, in a ceramic semiconductor package. A low-cost plastic package SN7400 series was introduced in 1966 which quickly gained over 50% of the logic chip market, and eventually becoming de facto standardized electronic components.  Over the decades, many generations of pin-compatible descendant families evolved to include support for low power CMOS technology, lower supply voltages, and surface mount packages.

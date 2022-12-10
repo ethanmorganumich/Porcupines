@@ -1,0 +1,6 @@
+Finance stubs~Inheritance~Wills and trusts~
+||||||
+Contingent beneficiary
+||||||
+A contingent beneficiary is someone who benefits from a contingent contract; they profit from a promise, which may or may be fulfilled, to do or abstain from doing a certain thing. This matter itself is realized only on the happening of some future uncertain event.
+In the context of an insurance policy, the condition is generally the death of the insurance contract holder; the party who benefits is referred to as the primary beneficiary.

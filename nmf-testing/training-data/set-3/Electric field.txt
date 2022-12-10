@@ -1,0 +1,7 @@
+Electromagnetism~Electrostatics~Physical quantities~
+||||||
+Electric field
+||||||
+An electric field (sometimes E-field) is the physical field that surrounds electrically charged particles and exerts force on all other charged particles in the field, either attracting or repelling them. It also refers to the physical field for a system of charged particles. Electric fields originate from electric charges and time-varying electric currents. Electric fields and magnetic fields are both manifestations of the electromagnetic field, one of the four fundamental interactions (also called forces) of nature.
+Electric fields are important in many areas of physics, and are exploited in electrical technology. In atomic physics and chemistry, for instance, the electric field is the attractive force holding the atomic nucleus and electrons together in atoms. It is also the force responsible for chemical bonding between atoms that result in molecules.
+The electric field is defined as a vector field that associates to each point in space the (electrostatic or Coulomb) force per unit of charge exerted on an infinitesimal positive test charge at rest at that point. The derived SI unit for the electric field is the volt per meter (V/m), which is equal to the newton per coulomb (N/C).

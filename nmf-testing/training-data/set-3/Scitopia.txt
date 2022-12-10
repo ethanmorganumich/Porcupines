@@ -1,0 +1,7 @@
+Internet properties established in 2007~Internet search engines~Online databases~
+||||||
+Scitopia
+||||||
+Scitopia.org is a free federated, vertical search portal that enables users to explore the collective content of 21 science and technology societies – the research most cited in scholarly work and patents – from a single search box on the open web.  It aggregates the entire electronic libraries of its founders – societies in major science and technology disciplines.  More than three million documents, including peer-reviewed journal content, spanning hundreds of years of scientific and technological discovery, and conference proceedings, are searched through this dedicated gateway.
+In addition to the published works of its partners, scitopia.org also searches a database of approximately 50 million worldwide patents from the United States Patent and Trademark Office, the Japan Patent Office and the European Patent Office.To access the content, visitors to scitopia.org use an interface developed by Deep Web Technologies.  Most recently known for its work on science.gov, Deep Web Technologies has experience in the development and refinement of federated searching, particularly in the development of scientific portals.
+The Beta version of Scitopia.org was released in June 2007. Scitopia came out of Beta in October 2007. As of January 5, 2012 Scitopia has officially closed and the federated search portal is no longer available.

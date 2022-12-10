@@ -1,0 +1,6 @@
+Military communications~NATO standardisation~
+||||||
+Tactical data link
+||||||
+A tactical data link (TDL) uses a data link standard in order to provide communication via radio waves or cable used by NATO nations. All military C3 systems use standardized TDL to transmit, relay and receive tactical data. 
+Multi-TDL network (MTN) refers to the network of similar and dissimilar TDLs integrated through gateways, translators, and correlators to bring the common tactical picture and/or common operational picture together.

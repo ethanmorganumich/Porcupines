@@ -1,0 +1,6 @@
+Musical notation~
+||||||
+Simplified music notation
+||||||
+Simplified music notation is an alternative form of music notation designed to make sight-reading easier. It was proposed by Peter Hayes George (1927–2012). It is based on classical staff notation, but sharps and flats are incorporated into the shape of the note heads.  Notes such as double sharps and double flats are written at the pitch at which they are actually played, but preceded by symbols called "history signs" to show that they have been transposed.  The key signature and all other information in the original score is retained, but the player does not need to remember the key signature and accidentals while playing.
+The notation was designed to help players who struggle with sight-reading, including those who suffer from working memory impairments, dyslexia and other learning difficulties.

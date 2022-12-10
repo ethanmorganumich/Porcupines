@@ -1,0 +1,7 @@
+Laser science~
+||||||
+Q-switching
+||||||
+Q-switching, sometimes known as giant pulse formation or Q-spoiling, is a technique by which a laser can be made to produce a pulsed output beam. The technique allows the production of light pulses with extremely high (gigawatt) peak power, much higher than would be produced by the same laser if it were operating in a continuous wave (constant output) mode. Compared to modelocking, another technique for pulse generation with lasers, Q-switching leads to much lower pulse repetition rates, much higher pulse energies, and much longer pulse durations. The two techniques are sometimes applied together.
+Q-switching was first proposed in 1958 by Gordon Gould, and independently discovered and demonstrated in 1961 or 1962 by R.W. Hellwarth and F.J. McClung at Hughes Research Laboratories using electrically switched Kerr cell shutters in a ruby laser. Optical nonlinearities such as Q-switching were fully explained by Nicolaas Bloembergen, who won the Nobel prize in 1981 for this work.
+

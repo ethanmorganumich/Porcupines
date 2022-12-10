@@ -1,0 +1,7 @@
+Computer-related introductions in 1978~IBM PC compatibles~Instruction set architectures~Intel products~X86 architecture~
+||||||
+X86
+||||||
+x86 (also known as 80x86 or the 8086 family) is a family of complex instruction set computer (CISC) instruction set architectures initially developed by Intel based on the Intel 8086 microprocessor and its 8088 variant. The 8086 was introduced in 1978 as a fully 16-bit extension of Intel's 8-bit 8080 microprocessor, with memory segmentation as a solution for addressing more memory than can be covered by a plain 16-bit address. The term "x86" came into being because the names of several successors to Intel's 8086 processor end in "86", including the 80186, 80286, 80386 and 80486 processors.
+The term is not synonymous with IBM PC compatibility, as this implies a multitude of other computer hardware. Embedded systems and general-purpose computers used x86 chips before the PC-compatible market started, some of them before the IBM PC (1981) debut.
+As of June 2022, most desktop and laptop computers sold are based on the x86 architecture family, while mobile categories such as smartphones or tablets are dominated by ARM. At the high end, x86 continues to dominate computation-intensive workstation and cloud computing segments. The fastest supercomputer in the TOP500 list for June 2022 was the first exascale system, Frontier, built using AMD Epyc CPUs based on the x86 ISA; it broke the 1 exaFLOPS barrier in May 2022.

@@ -1,0 +1,5 @@
+Electromagnetism stubs~Radio frequency propagation~Telecommunications stubs~
+||||||
+Tropospheric wave
+||||||
+In telecommunication, a tropospheric wave is a radio wave that is propagated by reflection from a place of abrupt change in the dielectric constant, or its gradient, in the troposphere.  In some cases, a ground wave may be so altered that new components appear to arise from reflection in regions of rapidly changing dielectric constant. When these components are distinguishable from the other components, they are called "tropospheric waves."

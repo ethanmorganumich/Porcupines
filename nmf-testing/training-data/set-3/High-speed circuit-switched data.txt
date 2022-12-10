@@ -1,0 +1,6 @@
+GSM standard~
+||||||
+Circuit Switched Data
+||||||
+In communications, Circuit Switched Data (CSD) is the original form of data transmission developed for the time-division multiple access (TDMA)-based mobile phone systems like Global System for Mobile Communications (GSM). After 2010 many telecommunication carriers dropped support for CSD, and CSD has been superseded by GPRS and EDGE (E-GPRS).
+

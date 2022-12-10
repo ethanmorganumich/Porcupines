@@ -1,0 +1,178 @@
+Bipartite graphs~Graph families~Parity (mathematics)~
+||||||
+Bipartite graph
+||||||
+In the mathematical field of graph theory, a bipartite graph (or bigraph) is a graph whose vertices can be divided into two disjoint and independent sets 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   and 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  , that is every edge connects a vertex in 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   to one in 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  . Vertex sets 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   and 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   are usually called the parts of the graph. Equivalently, a bipartite graph is a graph that does not contain any odd-length cycles.The two sets 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   and 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   may be thought of as a coloring of the graph with two colors: if one colors all nodes in 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   blue, and all nodes in 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   red, each edge has endpoints of differing colors, as is required in the graph coloring problem. In contrast, such a coloring is impossible in the case of a non-bipartite graph, such as a triangle: after one node is colored blue and another red, the third vertex of the triangle is connected to vertices of both colors, preventing it from being assigned either color.
+One often writes 
+  
+    
+      
+        G
+        =
+        (
+        U
+        ,
+        V
+        ,
+        E
+        )
+      
+    
+    {\displaystyle G=(U,V,E)}
+   to denote a bipartite graph whose partition has the parts 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   and 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  , with 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   denoting the edges of the graph. If a bipartite graph is not connected, it may have more than one bipartition; in this case, the 
+  
+    
+      
+        (
+        U
+        ,
+        V
+        ,
+        E
+        )
+      
+    
+    {\displaystyle (U,V,E)}
+   notation is helpful in specifying one particular bipartition that may be of importance in an application.  If 
+  
+    
+      
+        
+          |
+        
+        U
+        
+          |
+        
+        =
+        
+          |
+        
+        V
+        
+          |
+        
+      
+    
+    {\displaystyle |U|=|V|}
+  , that is, if the two subsets have equal cardinality, then 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is called a balanced bipartite graph. If all vertices on the same side of the bipartition have the same degree, then 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   is called biregular.

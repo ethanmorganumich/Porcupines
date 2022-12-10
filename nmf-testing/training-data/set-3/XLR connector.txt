@@ -1,0 +1,6 @@
+Audiovisual connectors~DC power connectors~Electrical signal connectors~
+||||||
+XLR connector
+||||||
+The XLR connector is a type of electrical connector primarily found on professional audio, video, and stage lighting equipment. The connectors are circular in design and have between three and seven pins. They are most commonly associated with balanced audio interconnection, including AES3 digital audio, but are also used for lighting control, low-voltage power supplies, and other applications. XLR connectors are available from a number of manufacturers and are covered by an international standard for dimensions, IEC 61076-2-103.The XLR connector is superficially similar to the smaller DIN connector range, but not physically compatible. A smaller version, the mini XLR connector, is sometimes used on smaller equipment.
+

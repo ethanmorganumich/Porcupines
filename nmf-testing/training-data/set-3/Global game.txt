@@ -1,0 +1,5 @@
+Game theory game classes~
+||||||
+Global game
+||||||
+In economics and game theory, global games are games of incomplete information where players receive possibly-correlated signals of the underlying state of the world. Global games were originally defined by Carlsson and van Damme (1993).The most important practical application of global games has been the study of crises in financial markets such as bank runs, currency crises, and bubbles. However, they have other relevant applications such as investments with payoff complementarities, beauty contests, political riots and revolutions, and any other economic situation which displays strategic complementarity.

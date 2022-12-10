@@ -1,0 +1,8 @@
+Computability theory~Computational problems~
+||||||
+Decision problem
+||||||
+In computability theory and computational complexity theory, a decision problem is a computational problem that can be posed as a yes–no question of the input values. An example of a decision problem is deciding by means of an algorithm whether a given natural number is prime. Another is the problem "given two numbers x and y, does x evenly divide y?".  The answer is either 'yes' or 'no' depending upon the values of x and y. A method for solving a decision problem, given in the form of an algorithm, is called a decision procedure for that problem. A decision procedure for the decision problem "given two numbers x and y, does x evenly divide y?" would give the steps for determining whether x evenly divides y. One such algorithm is long division. If the remainder is zero the answer is 'yes', otherwise it is 'no'. A decision problem which can be solved by an algorithm is called decidable.
+Decision problems typically appear in mathematical questions of decidability, that is, the question of the existence of an effective method to determine the existence of some object or its membership in a set; some of the most important problems in mathematics are undecidable.
+The field of computational complexity categorizes decidable decision problems by how difficult they are to solve. "Difficult", in this sense, is described in terms of the computational resources needed by the most efficient algorithm for a certain problem. The field of recursion theory, meanwhile, categorizes undecidable decision problems by Turing degree, which is a measure of the noncomputability inherent in any solution.
+

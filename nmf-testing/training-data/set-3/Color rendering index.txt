@@ -1,0 +1,12 @@
+Color~Lighting~
+||||||
+Color rendering index
+||||||
+A color rendering index (CRI) is a quantitative measure of the ability of a light source to reveal the colors of various objects faithfully in comparison with a natural or standard light source. Light sources with a high CRI are desirable in color-critical applications such as neonatal care and art restoration. It is defined by the International Commission on Illumination (CIE) as follows:
+
+Color rendering: Effect of an illuminant on the color appearance of objects by conscious or subconscious comparison with their color appearance under a reference or standard illuminant.
+
+The CRI of a light source does not indicate the apparent color of the light source; that information is given by the correlated color temperature (CCT). The CRI is determined by the light source's spectrum. An incandescent lamp has a continuous spectrum, a fluorescent lamp has a discrete line spectrum; implying that the incandescent lamp has the higher CRI.
+The value often quoted as "CRI" on commercially available lighting products is properly called the CIE Ra value, "CRI" being a general term and CIE Ra being the international standard color rendering index.
+Numerically, the highest possible CIE Ra value is 100 and would only be given to a source whose spectrum is identical to the spectrum of daylight, very close to that of a black body (incandescent lamps are effectively black bodies), dropping to negative values for some light sources. Low-pressure sodium lighting has a negative CRI; fluorescent lights range from about 50 for the basic types, up to about 98 for the best multi-phosphor type. Typical white-color LEDs have a CRI of 80 or more, while some manufacturers claim that their LEDs achieve a CRI of up to 98.CIE Ra's ability to predict color appearance has been criticized in favor of measures based on color appearance models, such as CIECAM02 and for daylight simulators, the CIE metamerism index. CRI is not a good indicator for use in visual assessment of light sources, especially for sources below 5000 kelvin (K). New standards, such as the IES TM-30, resolve these issues and have begun replacing the usage of CRI among professional lighting designers. However, CRI is still common among household lighting products.
+

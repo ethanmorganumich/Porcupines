@@ -1,0 +1,363 @@
+Complexity classes~
+||||||
+SNP (complexity)
+||||||
+In computational complexity theory, SNP (from Strict NP) is a complexity class containing a limited subset of NP based on its logical characterization in terms of graph-theoretical properties. It forms the basis for the definition of the class MaxSNP of optimization problems.
+It is defined as the class of problems that are properties of relational structures (such as graphs) expressible by a second-order logic formula of the following form:
+
+  
+    
+      
+        ∃
+        
+          S
+          
+            1
+          
+        
+        …
+        ∃
+        
+          S
+          
+            ℓ
+          
+        
+        
+        ∀
+        
+          v
+          
+            1
+          
+        
+        …
+        ∀
+        
+          v
+          
+            m
+          
+        
+        
+        ϕ
+        (
+        
+          R
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          R
+          
+            k
+          
+        
+        ,
+        
+          S
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          S
+          
+            ℓ
+          
+        
+        ,
+        
+          v
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          v
+          
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle \exists S_{1}\dots \exists S_{\ell }\,\forall v_{1}\dots \forall v_{m}\,\phi (R_{1},\dots ,R_{k},S_{1},\dots ,S_{\ell },v_{1},\dots ,v_{m})}
+  ,where 
+  
+    
+      
+        
+          R
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          R
+          
+            k
+          
+        
+      
+    
+    {\displaystyle R_{1},\dots ,R_{k}}
+   are relations of the structure (such as the adjacency relation, for a graph), 
+  
+    
+      
+        
+          S
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          S
+          
+            ℓ
+          
+        
+      
+    
+    {\displaystyle S_{1},\dots ,S_{\ell }}
+   are unknown relations (sets of tuples of vertices), and 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   is a quantifier-free formula: any boolean combination of the relations. That is, only existential second-order quantification (over relations) is allowed and only universal first-order quantification (over vertices) is allowed.
+If existential quantification over vertices were also allowed, the resulting complexity class would be equal to NP (more precisely, the class of those properties of relational structures that are in NP), a fact known as Fagin's theorem.
+For example, SNP contains 3-Coloring (the problem of determining whether a given graph is 3-colorable), because it can be expressed by the following formula: 
+
+  
+    
+      
+        ∃
+        
+          S
+          
+            1
+          
+        
+        ∃
+        
+          S
+          
+            2
+          
+        
+        ∃
+        
+          S
+          
+            3
+          
+        
+        
+        ∀
+        u
+        ∀
+        v
+        
+        
+          
+            (
+          
+        
+        
+          S
+          
+            1
+          
+        
+        (
+        u
+        )
+        ∨
+        
+          S
+          
+            2
+          
+        
+        (
+        u
+        )
+        ∨
+        
+          S
+          
+            3
+          
+        
+        (
+        u
+        )
+        
+          
+            )
+          
+        
+        
+        ∧
+        
+        
+          
+            (
+          
+        
+        E
+        (
+        u
+        ,
+        v
+        )
+        
+        
+        ⟹
+        
+        
+        (
+        ¬
+        
+          S
+          
+            1
+          
+        
+        (
+        u
+        )
+        ∨
+        ¬
+        
+          S
+          
+            1
+          
+        
+        (
+        v
+        )
+        )
+        
+        ∧
+        
+        
+          (
+          
+            ¬
+            
+              S
+              
+                2
+              
+            
+            (
+            u
+            )
+            ∨
+            ¬
+            
+              S
+              
+                2
+              
+            
+            (
+            v
+            )
+          
+          )
+        
+        
+        ∧
+        
+        (
+        ¬
+        
+          S
+          
+            3
+          
+        
+        (
+        u
+        )
+        ∨
+        ¬
+        
+          S
+          
+            3
+          
+        
+        (
+        v
+        )
+        )
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle \exists S_{1}\exists S_{2}\exists S_{3}\,\forall u\forall v\,{\bigl (}S_{1}(u)\vee S_{2}(u)\vee S_{3}(u){\bigr )}\,\wedge \,{\bigl (}E(u,v)\,\implies \,(\neg S_{1}(u)\vee \neg S_{1}(v))\,\wedge \,\left(\neg S_{2}(u)\vee \neg S_{2}(v)\right)\,\wedge \,(\neg S_{3}(u)\vee \neg S_{3}(v)){\bigr )}}
+  .Here 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   denotes the adjacency relation of the input graph, while the sets (unary relations) 
+  
+    
+      
+        
+          S
+          
+            1
+          
+        
+        ,
+        
+          S
+          
+            2
+          
+        
+        ,
+        
+          S
+          
+            3
+          
+        
+      
+    
+    {\displaystyle S_{1},S_{2},S_{3}}
+   correspond to sets of vertices colored with one of the 3 colors.
+Similarly, SNP contains the k-SAT problem: the boolean satisfiability problem (SAT) where the formula is restricted to conjunctive normal form and to at most k literals per clause, where k is fixed.

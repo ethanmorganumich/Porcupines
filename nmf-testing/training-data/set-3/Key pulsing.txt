@@ -1,0 +1,6 @@
+Obsolete technologies~Telephony signals~
+||||||
+Pulse dialing
+||||||
+Pulse dialing is a signaling technology in telecommunications in which a direct current local loop circuit is interrupted according to a defined coding system for each signal transmitted, usually a digit. This lends the method the often used name loop disconnect dialing. In the most common variant of pulse dialing, decadic dialing, each of the ten Arabic numerals are encoded in a sequence of up to ten pulses. The most common version decodes the digits 1 through 9, as one to nine pulses, respectively, and the digit 0 as ten pulses. Historically, the most common device to produce such pulse trains is the rotary dial of the telephone, lending the technology another name, rotary dialing.
+The pulse repetition rate was historically determined based on the response time needed for electromechanical switching systems to operate reliably. Most telephone systems used the nominal rate of ten pulses per second, but operator dialing within and between central offices often used pulse rates up to twenty per second.

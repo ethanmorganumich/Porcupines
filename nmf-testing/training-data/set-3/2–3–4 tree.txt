@@ -1,0 +1,14 @@
+B-tree~
+||||||
+2–3–4 tree
+||||||
+In computer science, a 2–3–4 tree (also called a 2–4 tree) is a self-balancing data structure that can be used to implement dictionaries. The numbers mean a tree where every node with children (internal node) has either two, three, or four child nodes:
+
+a 2-node has one data element, and if internal has two child nodes;
+a 3-node has two data elements, and if internal has three child nodes;
+a 4-node has three data elements, and if internal has four child nodes;
+		
+		
+2–3–4 trees are B-trees of order 4; like B-trees in general, they can search, insert and delete in O(log n) time. One property of a 2–3–4 tree is that all external nodes are at the same depth.
+2–3–4 trees are isomorphic to red–black trees, meaning that they are equivalent data structures.  In other words, for every 2–3–4 tree, there exists at least one red–black tree with data elements in the same order. Moreover, insertion and deletion operations on 2–3–4 trees that cause node expansions, splits and merges are equivalent to the color-flipping and rotations in red–black trees.  Introductions to red–black trees usually introduce 2–3–4 trees first, because they are conceptually simpler.  2–3–4 trees, however, can be difficult to implement in most programming languages because of the large number of special cases involved in operations on the tree.  Red–black trees are simpler to implement, so tend to be used instead.
+

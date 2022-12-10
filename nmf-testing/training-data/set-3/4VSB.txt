@@ -1,0 +1,5 @@
+Radio communications stubs~Radio modulation modes~
+||||||
+4VSB
+||||||
+4VSB is an abbreviation for 4-level vestigial sideband modulation, a type of radio transmission capable of transmitting two bits of information (22=4) at a time. Other faster but less rugged forms include 8VSB and 16VSB.  While 2VSB is more rugged, it is also slower.

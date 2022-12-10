@@ -1,0 +1,16 @@
+Chip carriers~Computer hardware stubs~
+||||||
+Zig-zag in-line package
+||||||
+The zig-zag in-line package (ZIP) is a packaging technology for integrated circuits. It was intended as a replacement for dual in-line packaging (DIL or DIP). A ZIP is an integrated circuit encapsulated in a slab of plastic with 16, 20, 28 or 40 pins, measuring (for the ZIP-20 package) about 3 mm x 30 mm x 10 mm.  The package's pins protrude in two rows from one of the long edges. The two rows are staggered by 1.27 mm (0.05"), giving them a zig-zag appearance, and allowing them to be spaced more closely than a rectangular grid would allow.  The pins are inserted into holes in a printed circuit board, with the packages standing at right-angles to the board, allowing them to be placed closer together than DIPs of the same size. ZIPs have now been superseded by surface-mount packages such as the thin small-outline packages (TSOPs), but are still in use. The quad in-line package uses a smilar staggered semiconductor package design.
+High-power devices (such as high-voltage op-amp ICs, voltage regulators, and motor driver ICs) are still being manufactured in a package with a zig-zag pinout (and normally screwed onto a heatsink).  These zig-zag packages include variations on the TO220 such as "TO220S", "staggered leads TO-220-11", "staggered leads TO-220-15", and HZIP. The trademarks Pentawatt or Hexawatt are also used for chips in multi-leaded power packages like TDA2002/2003/2020/2030 and L200.
+
+		
+As for computers, dynamic RAM ZIP chips are now only to be found in obsolete computers, some of these are:
+
+Commodore Amiga 500 expansion packs
+Commodore Amiga 3000 on-board memory and some expansion boards
+Commodore CDTV on-board memory
+Acorn Archimedes 300 and 400 series on-board memory
+Acorn Archimedes A3010 and A3020
+

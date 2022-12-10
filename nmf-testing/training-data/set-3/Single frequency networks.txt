@@ -1,0 +1,11 @@
+Broadcast engineering~Digital television~Radio resource management~
+||||||
+Single-frequency network
+||||||
+A single-frequency network or SFN is a broadcast network where several transmitters simultaneously send the same signal over the same frequency channel.
+
+Analog AM and FM radio broadcast networks as well as digital broadcast networks can operate in this manner. SFNs are not generally compatible with analog television transmission, since the SFN results in ghosting due to echoes of the same signal.
+A simplified form of SFN can be achieved by a low power co-channel repeater, booster or broadcast translator, which is utilized as a gap filler transmitter.
+The aim of SFNs is efficient utilization of the radio spectrum, allowing a higher number of radio and TV programs in comparison to traditional multi-frequency network (MFN) transmission. An SFN may also increase the coverage area and decrease the outage probability in comparison to an MFN, since the total received signal strength may increase to positions midway between the transmitters.
+SFN schemes are somewhat analogous to what in non-broadcast wireless communication, for example cellular networks and wireless computer networks, is called transmitter macrodiversity, CDMA soft handoff and Dynamic Single Frequency Networks (DSFN).
+SFN transmission can be considered as creating a severe form of multipath propagation. The radio receiver receives several echoes of the same signal, and the constructive or destructive interference among these echoes (also known as self-interference) may result in fading. This is problematic especially in wideband communication and high-data rate digital communications, since the fading in that case is frequency-selective (as opposed to flat fading), and since the time spreading of the echoes may result in intersymbol interference (ISI). Fading and ISI can be avoided by means of diversity schemes and equalization filters.

@@ -1,0 +1,6 @@
+Music theory stubs~Musical set theory~
+||||||
+Projected set
+||||||
+In music a projected set is a technique where a collection of pitches or pitch classes is extended in a texture through the emphasized simultaneous statement of a set followed or preceded by a successive emphasized statement of each of its members.  For example, a set may be stated as a simultaneity and then a series of phrases may end on notes which are the members of the set, as in the downbeat of m. 19 through measures 46 of Béla Bartók's Second String Quartet. (Wilson 1992, p. 23)
+Pattern completion is "the use of a projected set to organize a work over a long span of time" (ibid, p. 210n5).

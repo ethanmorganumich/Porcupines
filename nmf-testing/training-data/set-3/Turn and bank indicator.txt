@@ -1,0 +1,5 @@
+Aircraft instruments~
+||||||
+Turn and slip indicator
+||||||
+In aviation, the turn and slip indicator (T/S, a.k.a. turn and bank indicator) and the turn coordinator (TC) variant are essentially two aircraft flight instruments in one device. One indicates the rate of turn, or the rate of change in the aircraft's heading; the other part indicates whether the aircraft is in coordinated flight, showing the slip or skid of the turn. The slip indicator is actually an inclinometer that at rest displays the angle of the aircraft's transverse axis with respect to horizontal, and in motion displays this angle as modified by the acceleration of the aircraft. The most commonly used units are degrees per second (deg/s) or minutes per turn (min/tr).

@@ -1,0 +1,5 @@
+Crystals~Electrical phenomena~Energy conversion~Thermodynamics~
+||||||
+Pyroelectricity
+||||||
+Pyroelectricity (from the two Greek words pyr meaning fire, and electricity) is a property of certain crystals which are naturally electrically polarized and as a result contain large electric fields. Pyroelectricity can be described as the ability of certain materials to generate a temporary voltage when they are heated or cooled. The change in temperature modifies the positions of the atoms slightly within the crystal structure, such that the polarization of the material changes. This polarization change gives rise to a voltage across the crystal. If the temperature stays constant at its new value, the pyroelectric voltage gradually disappears due to leakage current. The leakage can be due to electrons moving through the crystal, ions moving through the air, or current leaking through a voltmeter attached across the crystal.

@@ -1,0 +1,9 @@
+Data management~Data modeling~Knowledge representation~Metadata~
+||||||
+Data dictionary
+||||||
+A data dictionary, or metadata repository, as defined in the IBM Dictionary of Computing, is a "centralized repository of information about data such as meaning, relationships to other data, origin, usage, and format". Oracle defines it as a collection of tables with metadata. The term can have one of several closely related meanings pertaining to databases and database management systems (DBMS):
+
+A document describing a database or collection of databases
+An integral component of a DBMS that is required to determine its structure
+A piece of middleware that extends or supplants the native data dictionary of a DBMS

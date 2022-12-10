@@ -1,0 +1,5 @@
+Corporate taxation in the United States~Types of business entity~
+||||||
+S corporation
+||||||
+An S corporation, for United States federal income tax, is a closely held corporation (or, in some cases, a limited liability company (LLC) or a partnership) that makes a valid election to be taxed under Subchapter S of Chapter 1 of the Internal Revenue Code. In general, S corporations do not pay any income taxes. Instead, the corporation's income and losses are divided among and passed through to its shareholders. The shareholders must then report the income or loss on their own individual income tax returns.

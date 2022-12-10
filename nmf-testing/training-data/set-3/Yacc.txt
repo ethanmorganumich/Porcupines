@@ -1,0 +1,5 @@
+Compiling tools~Inferno (operating system) commands~Parser generators~Plan 9 commands~Unix SUS2008 utilities~Unix programming tools~
+||||||
+Yacc
+||||||
+Yacc (Yet Another Compiler-Compiler) is a computer program for the Unix operating system developed by Stephen C. Johnson.  It is a Look Ahead Left-to-Right Rightmost Derivation (LALR) parser generator, generating a LALR parser (the part of a compiler that tries to make syntactic sense of the source code) based on a formal grammar, written in a notation similar to Backus–Naur Form (BNF). Yacc is supplied as a standard utility on BSD and AT&T Unix. GNU-based Linux distributions include Bison, a forward-compatible Yacc replacement.

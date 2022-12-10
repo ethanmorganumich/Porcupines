@@ -1,0 +1,9 @@
+Contract law~International taxation~
+||||||
+Arm's length principle
+||||||
+The arm's length principle (ALP) is the condition or the fact that the parties of a transaction are independent and on an equal footing. Such a transaction is known as an "arm's-length transaction".
+It is used specifically in contract law to arrange an agreement that will stand up to legal scrutiny, even though the parties may have shared interests (e.g., employer-employee) or are too closely related to be seen as completely independent (e.g., the parties have familial ties).
+An arm's length relationship is distinguished from a fiduciary relationship, where the parties are not on an equal footing, but rather, power and information asymmetries exist.
+It is also one of the key elements in international taxation as it allows an adequate allocation of profit taxation rights among countries that conclude double tax conventions, through transfer pricing, among each other. Transfer pricing and the arm's length principle was one of the focal points of the Base Erosion and Profit Shifting (BEPS) project developed by the OECD and endorsed by the G20.
+

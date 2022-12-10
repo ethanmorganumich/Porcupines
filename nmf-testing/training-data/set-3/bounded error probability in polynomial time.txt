@@ -1,0 +1,12 @@
+Probabilistic complexity classes~
+||||||
+BPP (complexity)
+||||||
+In computational complexity theory, a branch of computer science, bounded-error probabilistic polynomial time (BPP) is the class of decision problems solvable by a probabilistic Turing machine in polynomial time with an error probability bounded by 1/3 for all instances.
+BPP is one of the largest practical classes of problems, meaning most problems of interest in BPP have efficient probabilistic algorithms that can be run quickly on real modern machines.  BPP also contains  P, the class of problems solvable in polynomial time with a deterministic machine, since a deterministic machine is a special case of a probabilistic machine.
+
+Informally, a problem is in BPP if there is an algorithm for it that has the following properties:
+
+It is allowed to flip coins and make random decisions
+It is guaranteed to run in polynomial time
+On any given run of the algorithm, it has a probability of at most 1/3 of giving the wrong answer, whether the answer is YES or NO.

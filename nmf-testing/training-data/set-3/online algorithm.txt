@@ -1,0 +1,8 @@
+Online algorithms~
+||||||
+Online algorithm
+||||||
+In computer science, an online algorithm is one that can process its input piece-by-piece in a serial fashion, i.e., in the order that the input is fed to the algorithm, without having the entire input available from the start.
+In contrast, an offline algorithm is given the whole problem data from the beginning and is required to output an answer which solves the problem at hand. In operations research, the area in which online algorithms are developed is called online optimization.
+As an example, consider the sorting algorithms selection sort and insertion sort: selection sort repeatedly selects the minimum element from the unsorted remainder and places it at the front, which requires access to the entire input; it is thus an offline algorithm. On the other hand, insertion sort considers one input element per iteration and produces a partial solution without considering future elements. Thus insertion sort is an online algorithm.
+Note that the final result of an insertion sort is optimum, i.e., a correctly sorted list. For many problems, online algorithms cannot match the performance of offline algorithms. If the ratio between the performance of an online algorithm and an optimal offline algorithm is bounded, the online algorithm is called competitive.Not every offline algorithm has an efficient online counterpart.

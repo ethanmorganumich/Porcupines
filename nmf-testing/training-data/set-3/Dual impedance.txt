@@ -1,0 +1,86 @@
+Analog circuits~Duality theories~Electronic design~Filter theory~
+||||||
+Dual impedance
+||||||
+Dual impedance and dual network are terms used in electronic network analysis.  The dual of an impedance 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   is its reciprocal, or algebraic inverse 
+  
+    
+      
+        
+          Z
+          ′
+        
+        =
+        
+          
+            1
+            Z
+          
+        
+      
+    
+    {\displaystyle Z'={\frac {1}{Z}}}
+  .   For this reason the dual impedance is also called the inverse impedance. Another way of stating this is that the dual of 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   is the admittance 
+  
+    
+      
+        
+          Y
+          ′
+        
+        =
+        Z
+      
+    
+    {\displaystyle Y'=Z}
+  .
+The dual of a network is the network whose impedances are the duals of the original impedances.  In the case of a black-box network with multiple ports, the impedance looking into each port must be the dual of the impedance of the corresponding port of the dual network.
+This is consistent with the general notion duality of electric circuits, where the voltage and current are interchanged, etc., since 
+  
+    
+      
+        Z
+        =
+        
+          
+            V
+            I
+          
+        
+      
+    
+    {\displaystyle Z={\frac {V}{I}}}
+   yields 
+  
+    
+      
+        
+          Z
+          ′
+        
+        =
+        
+          
+            I
+            V
+          
+        
+      
+    
+    {\displaystyle Z'={\frac {I}{V}}}

@@ -1,0 +1,5 @@
+Architectural element stubs~Architectural elements~Trusses~
+||||||
+Scissors truss
+||||||
+A scissors truss is a kind of truss used primarily in buildings, in which the bottom chord members cross each other, connecting to the angled top chords at a point intermediate on the top chords' length, creating an appearance similar to an opened pair of scissors. Scissors trusses are used almost entirely in building construction to support a pitched roof, where a sloping or raised ceiling surface is desired.

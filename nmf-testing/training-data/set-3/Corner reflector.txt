@@ -1,0 +1,5 @@
+Mirrors~Radar~
+||||||
+Corner reflector
+||||||
+A corner reflector is a retroreflector consisting of three mutually perpendicular, intersecting flat surfaces, which reflects waves directly towards the source, but translated.   The three intersecting surfaces often have square shapes. Radar corner reflectors made of metal are used to reflect radio waves from radar sets. Optical corner reflectors, called corner cubes or cube corners, made of three-sided glass prisms, are used in surveying and laser ranging.

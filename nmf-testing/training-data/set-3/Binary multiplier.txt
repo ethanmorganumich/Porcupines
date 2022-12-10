@@ -1,0 +1,6 @@
+Arithmetic logic circuits~Binary arithmetic~Multiplication~
+||||||
+Binary multiplier
+||||||
+A binary multiplier is an electronic circuit used in digital electronics, such as a computer, to multiply two binary numbers.
+A variety of computer arithmetic techniques can be used to implement a digital multiplier. Most techniques involve computing the set of partial products, which are then summed together using binary adders. This process is similar to long multiplication, except that it uses a base-2 (binary) numeral system.

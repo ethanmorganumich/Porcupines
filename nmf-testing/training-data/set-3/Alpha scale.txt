@@ -1,0 +1,105 @@
+Equal temperaments~Music theory stubs~Non–octave-repeating scales~Wendy Carlos~
+||||||
+Alpha scale
+||||||
+The α (alpha) scale is a non-octave-repeating musical scale invented by Wendy Carlos and first used on her album Beauty in the Beast (1986). It is derived from approximating just intervals using multiples of a single interval, but without requiring (as equal temperaments normally do) an octave (2:1). It may be approximated by dividing the perfect fifth (3:2) into nine equal steps (3:2)1⁄9, or by dividing the minor third (6:5) into four steps (6:5)1⁄4.The size of this scale step may also be precisely derived from using 9:5 (B♭, 1017.60 cents, Play ) to approximate the interval 3:2⁄5:4 (=6:5, E♭, 315.64 cents, Play ).
+Carlos' α (alpha) scale arises from...taking a value for the scale degree so that nine of them approximate a 3:2 perfect fifth, five of them approximate a 5:4 major third, and four of them approximate a 6:5 minor third. In order to make the approximation as good as possible we minimize the mean square deviation.
+The formula below finds the minimum by setting the derivative of the mean square deviation with respect to the scale step size to 0.
+
+  
+    
+      
+        
+          
+            
+              9
+              
+                log
+                
+                  2
+                
+              
+              ⁡
+              (
+              3
+              
+                /
+              
+              2
+              )
+              +
+              5
+              
+                log
+                
+                  2
+                
+              
+              ⁡
+              (
+              5
+              
+                /
+              
+              4
+              )
+              +
+              4
+              
+                log
+                
+                  2
+                
+              
+              ⁡
+              (
+              6
+              
+                /
+              
+              5
+              )
+            
+            
+              
+                9
+                
+                  2
+                
+              
+              +
+              
+                5
+                
+                  2
+                
+              
+              +
+              
+                4
+                
+                  2
+                
+              
+            
+          
+        
+        ≈
+        0.06497082462
+      
+    
+    {\displaystyle {\frac {9\log _{2}(3/2)+5\log _{2}(5/4)+4\log _{2}(6/5)}{9^{2}+5^{2}+4^{2}}}\approx 0.06497082462}
+   and 
+  
+    
+      
+        0.06497082462
+        ×
+        1200
+        =
+        77.965
+      
+    
+    {\displaystyle 0.06497082462\times 1200=77.965}
+   (Play )
+At 78 cents per step, this totals approximately 15.385 steps per octave, however, more accurately, the alpha scale step is 77.965 cents and there are 15.3915 per octave.Though it does not have an octave, the alpha scale produces "wonderful triads," (Play major  and minor triad ) and the beta scale has similar properties but the sevenths are more in tune. However, the alpha scale has "excellent harmonic seventh chords...using the [octave] inversion of 7⁄4, i.e., 8⁄7 [Play ]."

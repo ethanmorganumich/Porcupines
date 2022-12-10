@@ -1,0 +1,10 @@
+7-limit tuning and intervals~Augmented fourths~Diminished fifths~Music theory stubs~Tritones~
+||||||
+Septimal tritone
+||||||
+A septimal tritone is a tritone (about one half of an octave) that involves the factor seven. There are two that are inverses. The lesser septimal tritone (also Huygens' tritone) is the musical interval with ratio 7:5 (582.51 cents). The greater septimal tritone (also Euler's tritone), is an interval with ratio 10:7 (617.49 cents). They are also known as the sub-fifth and super-fourth, or subminor fifth and supermajor fourth, respectively.The 7:5 interval (diminished fifth) is equal to a 6:5 minor third plus a 7:6 subminor third.
+The 10:7 interval (augmented fourth) is equal to a 5:4 major third plus an 8:7 supermajor second, or a 9:7 supermajor third plus a 10:9 major second.
+The difference between these two is the septimal sixth tone (50:49, 34.98 cents) Play .
+12 equal temperament and 22 equal temperament do not distinguish between these tritones; 19 equal temperament does distinguish them but doesn't match them closely. 31 equal temperament and 41 equal temperament both distinguish between and closely match them.
+The lesser septimal tritone is the most consonant tritone when measured by combination tones, harmonic entropy, and period length.Depending on the temperament used, "the" tritone, defined as three whole tones, may be identified as either a lesser septimal tritone (in septimal meantone systems), a greater septimal tritone (when the tempered fifth is around 703 cents), neither (as in 72 equal temperament), or both (in 12 equal temperament only).
+

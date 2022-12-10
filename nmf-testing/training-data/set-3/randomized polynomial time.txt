@@ -1,0 +1,12 @@
+Probabilistic complexity classes~
+||||||
+RP (complexity)
+||||||
+In computational complexity theory, randomized polynomial time (RP) is the complexity class of problems for which a probabilistic Turing machine exists with these properties:
+
+It always runs in polynomial time in the input size
+If the correct answer is NO, it always returns NO
+If the correct answer is YES, then it returns YES with probability at least 1/2 (otherwise, it returns NO).In other words, the algorithm is allowed to flip a truly random coin while it is running.  The only case in which the algorithm can return YES is if the actual answer is YES; therefore if the algorithm terminates and produces YES, then the correct answer is definitely YES; however, the algorithm can terminate with NO regardless of the actual answer. That is, if the algorithm returns NO, it might be wrong.  
+Some authors call this class R, although this name is more commonly used for the class of recursive languages.
+If the correct answer is YES and the algorithm is run n times with the result of each run statistically independent of the others, then it will return YES at least once with probability at least 1 − 2−n.  So if the algorithm is run 100 times, then the chance of it giving the wrong answer every time is lower than the chance that cosmic rays corrupted the memory of the computer running the algorithm. In this sense, if a source of random numbers is available, most algorithms in RP are highly practical.
+The fraction 1/2 in the definition is arbitrary.  The set RP will contain exactly the same problems, even if the 1/2 is replaced by any constant nonzero probability less than 1; here constant means independent of the input to the algorithm.

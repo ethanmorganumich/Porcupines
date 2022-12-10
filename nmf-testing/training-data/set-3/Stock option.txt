@@ -1,0 +1,6 @@
+Contract law~Options (finance)~
+||||||
+Option (finance)
+||||||
+In finance, an option is a contract which conveys to its owner, the holder, the right, but not the obligation, to buy or sell a specific quantity of an underlying asset or instrument at a specified strike price on or before a specified date, depending on the style of the option. Options are typically acquired by purchase, as a form of compensation, or as part of a complex financial transaction. Thus, they are also a form of asset and have a valuation that may depend on a complex relationship between underlying asset price, time until expiration, market volatility, the risk-free rate of interest, and the strike price of the option. Options may be traded between private parties in over-the-counter (OTC) transactions, or they may be exchange-traded in live, public markets in the form of standardized contracts.
+

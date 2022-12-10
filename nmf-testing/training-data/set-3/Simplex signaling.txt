@@ -1,0 +1,8 @@
+Telephony signals~Telephony stubs~
+||||||
+Simplex signaling
+||||||
+Simplex signaling (SX) is signaling in which two conductors are used for a single telecommunication circuit, and a center-tapped coil, or its equivalent, is used to split the signaling current equally between the two conductors. The return path for the current is through ground. 
+It is distinct from a phantom circuit in which the return current path for power or signaling is provided through different signal conductors.
+SX signaling may be one-way, for intra-central-office use, or the simplex legs may be connected to form full duplex signaling circuits that function like composite (CX) signaling circuits with E&M lead control.
+Simplex is also used to describe a powering method where one or more signal conductors carries direct current to power a remote device, which sends its output signal back on the same conductor.  Phantom powering as used in audio is a form of simplex powering, as the return current flows through the ground or shield conductor.

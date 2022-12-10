@@ -1,0 +1,10 @@
+Basic concepts in set theory~Factorial and binomial topics~
+||||||
+Multiset
+||||||
+In mathematics, a multiset (or bag, or mset) is a modification of the concept of a set that, unlike a set, allows for multiple instances for each of its elements. The number of instances given for each element is called the multiplicity of that element in the multiset. As a consequence, an infinite number of multisets exist which contain only elements a and b, but vary in the multiplicities of their elements:
+
+The set {a, b} contains only elements a and b, each having multiplicity 1 when {a, b} is seen as a multiset.
+In the multiset {a, a, b}, the element a has multiplicity 2, and b has multiplicity 1.
+In the multiset {a, a, a, b, b, b}, a and b both have multiplicity 3.These objects are all different when viewed as  multisets, although they are the same set, since they all consist of the same elements. As with sets, and in contrast to tuples, order does not matter in discriminating multisets, so {a, a, b} and {a, b, a} denote the same multiset.  To distinguish between sets and multisets, a notation that incorporates square brackets is sometimes used: the multiset {a, a, b} can be denoted by [a, a, b].The cardinality of a multiset is the sum of the multiplicities of all its elements. For example, in the multiset {a, a, b, b, b, c} the multiplicities of the members a, b, and c are respectively 2, 3, and 1, and therefore the cardinality of this multiset is 6.
+Nicolaas Govert de Bruijn coined the word multiset in the 1970s, according to Donald Knuth.: 694  However, the concept of multisets predates the coinage of the word multiset by many centuries. Knuth himself attributes the first study of multisets to the Indian mathematician Bhāskarāchārya, who described permutations of multisets around 1150. Other names have been proposed or used for this concept, including list, bunch, bag, heap, sample, weighted set, collection, and suite.: 694 

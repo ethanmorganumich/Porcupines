@@ -1,0 +1,8 @@
+1988 documents~Computer science education~Computer science papers~Works by Edsger Dijkstra~
+||||||
+On the Cruelty of Really Teaching Computer Science
+||||||
+"On the Cruelty of Really Teaching Computing Science" is a 1988 scholarly article by E. W. Dijkstra which argues that computer programming should be understood as a branch of mathematics, and that the formal provability of a program is a major criterion for correctness.
+Despite the title, most of the article is on Dijkstra’s attempt to put computer science into a wider perspective within science, teaching being addressed as a corollary at the end.
+Specifically, Dijkstra made a “proposal for an introductory programming course for freshmen” that
+consisted of Hoare logic as an uninterpreted formal system.

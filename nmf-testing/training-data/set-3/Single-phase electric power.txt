@@ -1,0 +1,7 @@
+AC power~Electric power distribution~Electrical standards~
+||||||
+Single-phase electric power
+||||||
+In electrical engineering, single-phase electric power (abbreviated 1φ) is the distribution of alternating current electric power using a system in which all the voltages of the supply vary in unison. Single-phase distribution is used when loads are mostly lighting and heating, with few large electric motors. A single-phase supply connected to an alternating current electric motor does not produce a rotating magnetic field; single-phase motors need additional circuits for starting (capacitor start motor), and such motors are uncommon above 10 kW in rating.
+Because the voltage of a single phase system reaches a peak value twice in each cycle, the instantaneous power is not constant.
+Standard frequencies of single-phase power systems are either 50 or 60 Hz.  Special single-phase traction power networks may operate at 16.67 Hz or other frequencies to power electric railways.

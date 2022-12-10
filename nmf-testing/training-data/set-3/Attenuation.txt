@@ -1,0 +1,7 @@
+Acoustics~Telecommunications engineering~
+||||||
+Attenuation
+||||||
+In physics, attenuation (in some contexts, extinction) is the gradual loss of flux intensity through a medium. For instance, dark glasses attenuate sunlight, lead attenuates X-rays, and water and air attenuate both light and sound at variable attenuation rates.
+Hearing protectors help reduce acoustic flux from flowing into the ears. This phenomenon is called acoustic attenuation and is measured in decibels (dBs).
+In electrical engineering and telecommunications, attenuation affects the propagation of waves and signals in electrical circuits, in optical fibers, and in air. Electrical attenuators and optical attenuators are commonly manufactured components in this field.

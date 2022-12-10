@@ -1,0 +1,6 @@
+Electronic design~Electronic engineering~Metalworking terminology~Woodworking~
+||||||
+Chamfer
+||||||
+A chamfer  or  is a transitional edge between two faces of an object.  Sometimes defined as a form of bevel, it is often created at a 45° angle between two adjoining right-angled faces.
+Chamfers are frequently used in machining, carpentry, furniture, concrete formwork, mirrors, and to facilitate assembly of many mechanical engineering designs.

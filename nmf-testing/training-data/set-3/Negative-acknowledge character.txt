@@ -1,0 +1,7 @@
+Control characters~Data transmission~Error detection and correction~Flow control (data)~Link protocols~Network protocols~Routing protocols~
+||||||
+Acknowledgement (data networks)
+||||||
+In data networking, telecommunications, and computer buses, an acknowledgment (ACK) is a signal that is passed between communicating processes, computers, or devices to signify acknowledgment, or receipt of message, as part of a communications protocol. The negative-acknowledgement (NAK or NACK) is a signal that is sent to reject a previously received message or to indicate some kind of error. Acknowledgments and negative acknowledgments inform a sender of the receiver's state so that it can adjust its own state accordingly.
+Many protocols contain checksums to verify the integrity of the payload and header. Checksums are used to detect data corruption. If a message is received with an invalid checksum (that is, the data received would have a different checksum than the message had), the receiver can know that some information was corrupted. Most often, when checksums are employed, a corrupted message received will either not be served an ACK signal, or will be served a NAK signal.
+

@@ -1,0 +1,5 @@
+Linear temperaments~
+||||||
+Meantone temperament
+||||||
+Meantone temperament is a musical temperament, that is a tuning system, obtained by narrowing the fifths so that their ratio is slightly less than 3:2 (making them narrower than a perfect fifth), in order to push the thirds closer to pure. Meantone temperaments are constructed the same way as Pythagorean tuning, as a stack of equal fifths, but it is a temperament in that the fifths are not pure.

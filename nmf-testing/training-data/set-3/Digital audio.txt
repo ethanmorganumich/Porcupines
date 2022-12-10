@@ -1,0 +1,8 @@
+Digital audio~
+||||||
+Digital audio
+||||||
+Digital audio is a representation of sound recorded in, or converted into, digital form. In digital audio, the sound wave of the audio signal is typically encoded as numerical samples in a continuous sequence. For example, in CD audio, samples are taken 44,100 times per second, each with 16-bit sample depth. Digital audio is also the name for the entire technology of sound recording and reproduction using audio signals that have been encoded in digital form. Following significant advances in digital audio technology during the 1970s and 1980s, it gradually replaced analog audio technology in many areas of audio engineering, record production and telecommunications in the 1990s and 2000s
+In a digital audio system, an analog electrical signal representing the sound is converted with an analog-to-digital converter (ADC) into a digital signal, typically using pulse-code modulation (PCM). This digital signal can then be recorded, edited, modified, and copied using computers, audio playback machines, and other digital tools. For playback, a digital-to-analog converter (DAC) performs the reverse process, converting a digital signal back into an analog signal, which is then sent through an audio power amplifier and ultimately to a loudspeaker.
+Digital audio systems may include compression, storage, processing, and transmission components. Conversion to a digital format allows convenient manipulation, storage, transmission, and retrieval of an audio signal. Unlike analog audio, in which making copies of a recording results in generation loss and degradation of signal quality, digital audio allows an infinite number of copies to be made without any degradation of signal quality.
+

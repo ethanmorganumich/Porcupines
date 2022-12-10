@@ -1,0 +1,6 @@
+Legal terminology stubs~Real property law~
+||||||
+Dominant estate
+||||||
+A dominant estate (or dominant premises or dominant tenement) is the parcel of real property that has an easement over another piece of property (the servient estate). The type of easement involved may be an appurtenant easement that benefits another parcel of land, or an easement appurtenant, that benefits a person or entity. The easement may also be an affirmative easement, that permits a person to do something on the servient estate, or a negative easement that allows the holder of the easement to restrict activity on the servient estate. Estate is a common law concept.
+In real estate law, an easement appurtenant may be created for the benefit of the original owner (the seller or grantor) of property who splits off a property and conveys part of the original property; the owner may retain an easement for an access (such as a driveway or utilities).In certain cases, dominant estate refers specifically to a parcel or building premises that is subject to a cell tower or a solar panel: "that parcel of land to which the benefits of a solar access easement attach."

@@ -1,0 +1,7 @@
+Channel access methods~Ethernet~Media access control~
+||||||
+Carrier-sense multiple access with collision detection
+||||||
+Carrier-sense multiple access with collision detection (CSMA/CD) is a medium access control (MAC) method used most notably in early Ethernet technology for local area networking. It uses carrier-sensing to defer transmissions until no other stations are transmitting. This is used in combination with collision detection in which a transmitting station detects collisions by sensing transmissions from other stations while it is transmitting a frame. When this collision condition is detected, the station stops transmitting that frame, transmits a jam signal, and then waits for a random time interval before trying to resend the frame.CSMA/CD is a modification of pure carrier-sense multiple access (CSMA). CSMA/CD is used to improve CSMA performance by terminating transmission as soon as a collision is detected, thus shortening the time required before a retry can be attempted.
+With the growing popularity of Ethernet switches in the 1990s, IEEE 802.3 deprecated Ethernet repeaters in 2011, making CSMA/CD and half-duplex operation less common and less important.
+

@@ -1,0 +1,8 @@
+Cheques~Economics and finance stubs~
+||||||
+Certified check
+||||||
+A certified check (or certified cheque) is a form of check for which the bank verifies that sufficient funds exist in the account to cover the check, and so certifies, at the time the check is written. Those funds are then set aside in the bank's internal account until the check is cashed or returned by the payee. Thus, a certified check cannot be stopped or bounce, and, in this manner, its liquidity is similar to cash barring bank failure or an illegal act (such as the funds being based on a fraudulent loan, at which point the check will be disavowed).
+In some countries (e.g., Germany), it is illegal for a regular bank to certify checks. This regulation is supposed to prevent certified checks from becoming a universal substitute for cash, which is considered the only legal tender. In the case of Germany, the Deutsche Bundesbank (Federal Bank) is the only financial institution authorized to issue certified checks.
+Because of the liquidity and certainty of payment of a certified check, it is sometimes considered equivalent to cash such as in the regulation of credit for casino gaming in Macau where the law explicitly states that, if a casino patron obtains casino chips and pays with a certified check, the transaction is not regarded as credit for gaming (see Law 5/2004, art. 2).
+It is possible to counterfeit or forge a certified check in which case it is not binding on the bank and is worthless; see cashier's check for an exploration of associated risks.

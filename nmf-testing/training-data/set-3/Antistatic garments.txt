@@ -1,0 +1,6 @@
+Digital electronics~Electrical safety~Electrostatics~
+||||||
+Antistatic device
+||||||
+An antistatic device is any device that reduces, dampens, or otherwise inhibits electrostatic discharge, or ESD, which is the buildup or discharge of static electricity. ESD can damage electrical components such as computer hard drives, and even ignite flammable liquids and gases.
+Many methods exist for neutralizing static electricity, varying in use and effectiveness depending on the application. Antistatic agents are chemical compounds that can be added to an object, or the packaging of an object, to help deter the buildup or discharge of static electricity. For the neutralization of static charge in a larger area, such as a factory floor, semiconductor cleanroom or workshop, antistatic systems may utilize electron emission effects such as corona discharge or photoemission that introduce ions into the area that combine with and neutralize any electrically charged object. In many situations, sufficient ESD protection can be achieved with electrical grounding.

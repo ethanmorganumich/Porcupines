@@ -1,0 +1,7 @@
+Antennas (radio)~Radio electronics~
+||||||
+Directivity
+||||||
+In electromagnetics, directivity is a parameter of an antenna or optical system which measures the degree to which the radiation emitted is concentrated in a single direction.  It is the ratio of the radiation intensity in a given direction from the antenna to the radiation intensity averaged over all directions.  Therefore, the directivity of a hypothetical isotropic radiator is 1, or 0 dBi.
+An antenna's directivity is greater than its gain by an efficiency factor, radiation efficiency.  Directivity is an important measure because many antennas and optical systems are designed to radiate electromagnetic waves in a single direction or over a narrow-angle.  By the principle of reciprocity, the directivity of an antenna when receiving is equal to its directivity when transmitting.
+The directivity of an actual antenna can vary from 1.76 dBi for a short dipole to as much as 50 dBi for a large dish antenna.

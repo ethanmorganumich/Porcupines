@@ -1,0 +1,6 @@
+Copyleft media~Free software culture and documents~Free software movement~
+||||||
+Free software movement
+||||||
+The free software movement is a social movement with the goal of obtaining and guaranteeing certain freedoms for software users, namely the freedoms to run the software, to study the software, to modify the software, and to share copies of the software (whether modified or not). Software which meets these requirements, The Four Essential Freedoms of Free Software, is termed free software.
+Although drawing on traditions and philosophies among members of the 1970s hacker culture and academia, Richard Stallman formally founded the movement in 1983 by launching the GNU Project. Stallman later established the Free Software Foundation in 1985 to support the movement.

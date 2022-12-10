@@ -1,0 +1,8 @@
+Directed acyclic graphs~Trees (graph theory)~
+||||||
+Polytree
+||||||
+In mathematics, and more specifically in graph theory, a polytree (also called directed tree, oriented tree or singly connected network) is a directed acyclic graph whose underlying undirected graph is a tree. In other words, if we replace its directed edges with undirected edges, we obtain an undirected graph that is both connected and acyclic.
+A polyforest (or directed forest or oriented forest) is a directed acyclic graph whose underlying undirected graph is a forest. In other words, if we replace its directed edges with undirected edges, we obtain an undirected graph that is acyclic.
+A polytree is an example of an oriented graph.
+The term polytree was coined in 1987 by Rebane and Pearl.

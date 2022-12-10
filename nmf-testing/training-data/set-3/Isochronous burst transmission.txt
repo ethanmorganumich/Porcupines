@@ -1,0 +1,9 @@
+Quantized radio modulation modes~
+||||||
+Isochronous burst transmission
+||||||
+Isochronous burst transmission is a method of  transmission.  In a data network where the information-bearer channel rate is higher than the input data signaling rate, transmission is performed by interrupting, at controlled intervals, the data stream being transmitted.
+Note 1: Burst transmission in isochronous form enables communication between data terminal equipment (DTE) and data networks that operate at dissimilar data signaling rates, such as when the information-bearer channel rate is higher than the DTE output data signaling rate.
+Note 2:  The binary digits are transferred at the information-bearer channel rate. The data transfer is interrupted at intervals in order to produce the required average data signaling rate.
+Note 3:  The interruption is always for an integral number of unit intervals.
+Note 4:  Isochronous burst transmission has particular application where envelopes are being transferred between data circuit terminating equipment (DCE) and only the bytes contained within the envelopes are being transferred between the DCE and the DTE. Synonyms: burst isochronous (deprecated), interrupted isochronous transmission.

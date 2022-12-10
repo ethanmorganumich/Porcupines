@@ -1,0 +1,6 @@
+Mathematical modeling~Voting theory~
+||||||
+Calculus of voting
+||||||
+Calculus of voting refers to any mathematical model which predicts voting behaviour by an electorate, including such features as participation rate.  A calculus of voting represents a hypothesized decision-making process.
+These models are used in political science in an attempt to capture the relative importance of various factors influencing an elector to vote (or not vote) in a particular way.

@@ -1,0 +1,5 @@
+Architectural design~Computer-aided design software~
+||||||
+Computer-aided architectural design
+||||||
+Computer-aided architectural design (CAAD)  software programs are the repository of accurate and comprehensive records of buildings and are used by architects and architectural companies for architectural design and architectural engineering. As the latter often involve floor plan designs CAAD software greatly simplies this task.The first program was created back in the 1960s to increase architects' productivity, which at the time was held back by manual drawing of blueprints.Computer-aided design also known as CAD was originally the type of program that architects used, but since CAD could not offer all the tools that architects needed to complete a project, CAAD developed as a distinct class of software.

@@ -1,0 +1,6 @@
+Aircraft instruments~Aircraft systems~Avionics~
+||||||
+Flight management system
+||||||
+A flight management system (FMS) is a fundamental component of a modern airliner's avionics. An FMS is a specialized computer system that automates a wide variety of in-flight tasks, reducing the workload on the flight crew to the point that modern civilian aircraft no longer carry flight engineers or navigators. A primary function is in-flight management of the flight plan. Using various sensors (such as GPS and INS often backed up by radio navigation) to determine the aircraft's position, the FMS can guide the aircraft along the flight plan. From the cockpit, the FMS is normally controlled through a Control Display Unit (CDU) which incorporates a small screen and keyboard or touchscreen. The FMS sends the flight plan for display to the Electronic Flight Instrument System (EFIS), Navigation Display (ND), or Multifunction Display (MFD). The FMS can be summarised as being a dual system consisting of the Flight Management Computer (FMC), CDU and a cross talk bus.
+The modern FMS was introduced on the Boeing 767, though earlier navigation computers did exist. Now, systems similar to FMS exist on aircraft as small as the Cessna 182. In its evolution an FMS has had many different sizes, capabilities and controls. However certain characteristics are common to all FMSs.

@@ -1,0 +1,7 @@
+Electronic test equipment~Semiconductor analysis~Soil physics~
+||||||
+Time-domain reflectometer
+||||||
+A time-domain reflectometer (TDR) is an electronic instrument used to determine the characteristics of electrical lines by observing reflected waveforms.
+It can be used to characterize and locate faults in metallic cables (for example, twisted pair wire or coaxial cable).
+It can also be used to locate discontinuities in a connector, printed circuit board, or any other electrical path.

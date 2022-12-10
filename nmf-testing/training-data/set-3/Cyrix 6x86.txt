@@ -1,0 +1,6 @@
+Cyrix x86 microprocessors~Superscalar microprocessors~
+||||||
+Cyrix 6x86
+||||||
+The Cyrix 6x86 is a line of sixth-generation, 32-bit x86 microprocessors designed and released by Cyrix in 1995. Cyrix, being a fabless company, had the chips manufactured by IBM and SGS-Thomson. The 6x86 was made as a direct competitor to Intel's Pentium microprocessor line, and was pin compatible. During the 6x86's development, the majority of applications (office software as well as games) performed almost entirely integer operations. The designers foresaw that future applications would most likely maintain this instruction focus. So, to optimize the chip's performance for what they believed to be the most likely application of the CPU, the integer execution resources received most of the transistor budget. This would later prove to be a strategic mistake, as the popularity of the P5 Pentium caused many software developers to hand-optimize code in assembly language, to take advantage of the P5 Pentium's tightly pipelined and lower latency FPU. For example, the highly anticipated first-person shooter Quake used highly optimized assembly code designed almost entirely around the P5 Pentium's FPU. As a result, the P5 Pentium significantly outperformed other CPUs in the game.
+

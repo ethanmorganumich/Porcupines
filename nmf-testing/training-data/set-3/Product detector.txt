@@ -1,0 +1,6 @@
+Communication circuits~Demodulation~Frequency mixers~
+||||||
+Product detector
+||||||
+A product detector is a type of demodulator used for AM and SSB signals.  Rather than converting the envelope of the signal into the decoded waveform like an envelope detector, the product detector takes the product of the modulated signal and a local oscillator, hence the name. A product detector is a frequency mixer.
+Product detectors can be designed to accept either IF or RF frequency inputs.  A product detector which accepts an IF signal would be used as a demodulator block in a superheterodyne receiver, and a detector designed for RF can be combined with an RF amplifier and a low-pass filter into a direct-conversion receiver.

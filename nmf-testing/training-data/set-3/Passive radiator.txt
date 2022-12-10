@@ -1,0 +1,7 @@
+Audio engineering~Loudspeaker technology~
+||||||
+Passive radiator (speaker)
+||||||
+A speaker enclosure using a passive radiator (PR) usually contains an "active  loudspeaker" (or main driver), and a passive radiator (also known as a "drone cone"). The active loudspeaker is a normal driver, and the passive radiator is of similar construction, but without a voice coil and magnet assembly. It is not attached to a voice coil or wired to an electrical circuit or power amplifier. Small and Hurlburt have published the results of research into the analysis and design of passive-radiator loudspeaker systems. The passive-radiator principle was identified as being particularly useful in compact systems where vent realization is difficult or impossible, but it can also be applied satisfactorily to larger systems.
+
+In the same way as a ported loudspeaker, a passive radiator system uses the sound pressure otherwise trapped in the enclosure to excite a resonance that makes it easier for the speaker system to create the deepest pitches (e.g., basslines). The passive radiator resonates at a frequency determined by its mass and the springiness (compliance) of the air in the enclosure. It is tuned to the specific enclosure by varying its mass (e.g., by adding weight to the cone). Internal air pressure produced by movements of the active driver cone moves the passive radiator cone. This resonance simultaneously reduces the amount that the woofer has to move.

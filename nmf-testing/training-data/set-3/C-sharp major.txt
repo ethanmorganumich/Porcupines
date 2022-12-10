@@ -1,0 +1,9 @@
+Compositions in C-sharp major~Major scales~Musical keys~
+||||||
+C-sharp major
+||||||
+C-sharp major (or the key of C-sharp) is a major scale based on C♯, consisting of the pitches C♯, D♯, E♯, F♯, G♯, A♯, and B♯. It is enharmonically equivalent to D-flat major. Its key signature has seven sharps.
+The C-sharp major scale is:
+
+Its relative minor is A-sharp minor (or enharmonically B-flat minor) and its parallel minor is C-sharp minor.
+A harp tuned to C-sharp major has all its pedals in the bottom position. Because all the strings are then pinched and shortened, this is the least resonant key for the instrument.

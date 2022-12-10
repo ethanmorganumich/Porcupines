@@ -1,0 +1,5 @@
+Graph families~Regular graphs~
+||||||
+Null graph
+||||||
+In the mathematical field of graph theory, the term "null graph" may refer either to the order-zero graph, or alternatively, to any edgeless graph (the latter is sometimes called an "empty graph").

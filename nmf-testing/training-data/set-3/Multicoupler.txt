@@ -1,0 +1,7 @@
+Radio electronics~
+||||||
+Radio repeater
+||||||
+A radio repeater is a combination of a radio receiver and a radio transmitter that receives a signal and retransmits it, so that two-way radio signals can cover longer distances. A repeater sited at a high elevation can allow two mobile stations, otherwise out of line-of-sight propagation range of each other, to communicate. Repeaters are found in professional, commercial, and government mobile radio systems and also in amateur radio.
+Repeater systems use two different radio frequencies; the mobiles transmit on one frequency, and the repeater station receives those transmission and transmits on a second frequency.  Since the repeater must transmit at the same time as the signal is being received, and may even use the same antenna for both transmitting and receiving, frequency-selective filters are required to prevent the receiver from being overloaded by the transmitted signal. Some repeaters use two different frequency bands to provide isolation between input and output or as a convenience.
+In a communications satellite, a transponder serves a similar function, but the transponder does not necessarily demodulate the relayed signals.

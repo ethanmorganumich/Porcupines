@@ -1,0 +1,7 @@
+Broadcast engineering~Data transmission~Digital electronics~Physical layer protocols~Synchronization~
+||||||
+Asynchronous serial communication
+||||||
+Asynchronous serial communication is a form of serial communication in which the communicating endpoints' interfaces are not continuously synchronized by a common clock signal. Instead of a common synchronization signal, the data stream contains synchronization information in form of start and stop signals, before and after each unit of transmission, respectively. The start signal prepares the receiver for arrival of data and the stop signal resets its state to enable triggering of a new sequence.
+A common kind of start-stop transmission is ASCII over RS-232, for example for use in teletypewriter operation.
+

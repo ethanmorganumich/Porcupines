@@ -1,0 +1,8 @@
+Mobile technology~Physical layer protocols~Radio electronics~Telecommunications equipment~
+||||||
+Repeater
+||||||
+In telecommunications, a repeater is an electronic device that receives a signal and retransmits it. Repeaters are used to extend transmissions so that the signal can cover longer distances or be received on the other side of an obstruction. Some types of repeaters broadcast an identical signal, but alter its method of transmission, for example, on another frequency or baud rate.
+There are several different types of repeaters; a telephone repeater is an amplifier in a telephone line, an optical repeater is an optoelectronic circuit that amplifies the light beam in an optical fiber cable; and a radio repeater is a radio receiver and transmitter that retransmits a radio signal. 
+A broadcast relay station is a repeater used in broadcast radio and television.
+

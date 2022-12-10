@@ -1,0 +1,14 @@
+Rhythm and meter~
+||||||
+Additive rhythm and divisive rhythm
+||||||
+In music, the terms additive and divisive are used to distinguish two types of both rhythm and meter:
+
+A divisive (or, alternately, multiplicative) rhythm is a rhythm in which a larger period of time is divided into smaller rhythmic units or, conversely, some integer unit is regularly multiplied into larger, equal units.This can be contrasted with additive rhythm, in which larger periods of time are constructed by concatenating (joining end to end) a series of units into larger units of unequal length, such as a 58 meter produced by the regular alternation of 28 and 38.
+When applied to meters, the terms perfect and imperfect are sometimes used as the equivalents of divisive and additive, respectively .
+For example, 4 may be evenly divided by 2 or reached by adding 2 + 2. In contrast, 5 is only evenly divisible by 5 and 1 and may be reached by adding 2 or 3. Thus, 48 (or, more commonly, 24) is divisive while 58 is additive.
+The terms additive and divisive originate with Curt Sachs's book Rhythm and Tempo (1953), while the term aksak rhythm was introduced for the former concept at about the same time by Constantin Brăiloiu, in agreement with the Turkish musicologist Ahmet Adnan Saygun. The relationship between additive and divisive rhythms is complex, and the terms are often used in imprecise ways. In his article on rhythm in the second edition of the New Grove Dictionary of Music and Musicians, Justin London states that:
+
+[i]n discussions of rhythmic notation, practice or style, few terms are as confusing or used as confusedly as ‘additive’ and ‘divisive’. … These confusions stem from two misapprehensions. The first is a failure to distinguish between systems of notation (which may have both additive and divisive aspects) and the music notated under such a system. The second involves a failure to understand the divisive and additive aspects of meter itself.
+Winold recommends that, "metric structure is best described through detailed analysis of pulse groupings on various levels rather than through attempts to represent the organization with a single term".Sub-Saharan African music and most European (Western) music is divisive, while Indian and other Asian musics may be considered as primarily additive. However, many pieces of music cannot be clearly labeled divisive or additive.
+

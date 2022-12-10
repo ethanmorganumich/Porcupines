@@ -1,0 +1,9 @@
+Civil procedure~Criminal procedure~Statutes of limitations~Statutory law~
+||||||
+Statute of limitations
+||||||
+A statute of limitations, known in civil law systems as a prescriptive period, is a law passed by a legislative body to set the maximum time after an event within which legal proceedings may be initiated. In most jurisdictions, such periods exist for both criminal law and civil law such as contract law and property law, though often under different names and with varying details.
+When the time which is specified in a statute of limitations runs out, a claim might no longer be filed or, if it is filed, it may be subject to dismissal if the defense against that claim is raised that the claim is time-barred as having been filed after the statutory limitations period. When a statute of limitations expires in a criminal case, the courts no longer have jurisdiction. Most common crimes, misconducts and wrongdoings that have statutes of limitations are distinguished from particularly serious crimes because these claims may be brought at any time.
+In civil law systems, such provisions are typically part of their civil and criminal codes. The cause of action dictates the statute of limitations, which can be reduced or extended in order to ensure a full and fair trial. The intention of these laws is to facilitate resolution within a "reasonable" period of time. What amount of time is considered "reasonable" varies from country to country. In the United States, it may vary from jurisdiction to jurisdiction and state to state. Internationally, the statute of limitations may vary from one civil or criminal action to another. Some countries have no statute of limitations whatsoever.
+Analysis of a statute of limitations also requires the examination of any associated statute of repose, tolling provisions, and exclusions.
+

@@ -1,0 +1,9 @@
+MacOS APIs~
+||||||
+Cocoa (API)
+||||||
+Cocoa is Apple's native object-oriented application programming interface (API) for its desktop operating system macOS.
+Cocoa consists of the Foundation Kit, Application Kit, and Core Data frameworks, as included by the Cocoa.h header file, and the libraries and frameworks included by those, such as the C standard library and the Objective-C runtime.Cocoa applications are typically developed using the development tools provided by Apple, specifically Xcode (formerly Project Builder) and Interface Builder (now part of Xcode), using the programming languages Objective-C or Swift. However, the Cocoa programming environment can be accessed using other tools, such as Clozure CL, LispWorks, Object Pascal, Python, Perl, Ruby, and AppleScript with the aid of bridge mechanisms such as PasCocoa, PyObjC, CamelBones, RubyCocoa, and a D/Objective-C Bridge. A Ruby language implementation named MacRuby, which removes the need for a bridge mechanism, was formerly developed by Apple, while Nu is a Lisp-like language that can be used with Cocoa with no bridge.  It is also possible to write Objective-C Cocoa programs in a simple text editor and build it manually with GNU Compiler Collection (GCC) or Clang from the command line or from a makefile.
+For end users, Cocoa applications are those written using the Cocoa programming environment. Such applications usually have a familiar look and feel, since the Cocoa programming environment provides a lot of common UI elements (such as buttons, scroll bars, etc.), and automates many aspects of an application to comply with Apple's human interface guidelines.
+For iOS, iPadOS, tvOS, and watchOS, a similar API exists, named Cocoa Touch, which includes gesture recognition, animation, and a different set of graphical control elements. It is used in applications for Apple devices such as the iPhone, the iPod Touch, the iPad, the Apple TV, and the Apple Watch.
+

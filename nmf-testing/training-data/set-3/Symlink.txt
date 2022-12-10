@@ -1,0 +1,5 @@
+Computer file systems~Unix file system technology~
+||||||
+Symbolic link
+||||||
+In computing, a symbolic link (also symlink or soft link) is a file whose purpose is to point to a file or directory (called the "target") by specifying a path thereto.Symbolic links are supported by POSIX and by most Unix-like operating systems, such as FreeBSD, Linux, and macOS. Limited support also exists in Windows 7 and Windows Vista, and to some degree in Windows 2000 and Windows XP in the form of shortcut files. CTSS on IBM 7090 had files linked by name in 1963. By 1978 minicomputer operating systems from DEC, and in Data General's RDOS included symbolic links.

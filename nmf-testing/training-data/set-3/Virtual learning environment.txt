@@ -1,0 +1,6 @@
+Content management systems~Educational software~Educational technology~Learning methods~Technical communication~Virtual learning environments~
+||||||
+Virtual learning environment
+||||||
+A virtual learning environment  (VLE) in educational technology is a web-based platform for the digital aspects of courses of study, usually within educational institutions. They present resources, activities, and interactions within a course structure and provide for the different stages of assessment. VLEs also usually report on participation and have some level of integration with other institutional systems. In North America, VLE's are often referred to as Learning Management Systems (LMS). 
+For teachers and instructors who edit them, VLEs may be used as authoring and design environments. VLEs have been adopted by almost all higher education institutions in the English-speaking world.

@@ -1,0 +1,9 @@
+Antennas (radio)~Broadcast engineering~Logarithmic scales of measurement~Radio transmission power~
+||||||
+Effective radiated power
+||||||
+Effective radiated power (ERP), synonymous with equivalent radiated power,  is an IEEE standardized definition of directional radio frequency (RF) power, such as that emitted by a radio transmitter.  It is the total power in watts that would have to be radiated by a half-wave dipole antenna to give the same radiation intensity (signal strength or power flux density in watts per square meter) as the actual source antenna at a distant receiver located in the direction of the antenna's strongest beam (main lobe).  ERP measures the combination of the power emitted by the transmitter and the ability of the antenna to direct that power in a given direction. It is equal to the input power to the antenna multiplied by the gain of the antenna.  It is used in electronics and telecommunications, particularly in broadcasting to quantify the apparent power of a broadcasting station experienced by listeners in its reception area.
+
+An alternate parameter that measures the same thing is effective isotropic radiated power (EIRP). Effective isotropic radiated power is the hypothetical power that would have to be radiated by an isotropic antenna to give the same ("equivalent") signal strength as the actual source antenna in the direction of the antenna's strongest beam. The difference between EIRP and ERP is that ERP compares the actual antenna to a half-wave dipole antenna, while EIRP compares it to a theoretical isotropic antenna. Since a half-wave dipole antenna has a gain of 1.64 (or 2.15 dB) compared to an isotropic radiator, if ERP and EIRP are expressed in watts their relation is
+
+If they are expressed in decibels

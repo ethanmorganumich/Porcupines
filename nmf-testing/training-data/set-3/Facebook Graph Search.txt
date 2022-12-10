@@ -1,0 +1,6 @@
+Facebook~Internet search engines~Semantic Web~
+||||||
+Facebook Graph Search
+||||||
+Facebook Graph Search was a semantic search engine that was introduced by Facebook in March 2013. It was designed to give answers to user natural language queries rather than a list of links. The name refers to the social graph nature of Facebook, which maps the relationships among users. The Graph Search feature combined the big data acquired from its over one billion users and external data into a search engine providing user-specific search results. In a presentation headed by Facebook CEO Mark Zuckerberg, it was announced that the Graph Search algorithm finds information from within a user's network of friends.  Additional results were provided by Microsoft's Bing search engine. In July it was made available to all users using the U.S. English version of Facebook. After being made less publicly visible starting December 2014, the original Graph Search was almost entirely deprecated in June 2019.
+

@@ -1,0 +1,7 @@
+5-limit tuning and intervals~
+||||||
+List of intervals in 5-limit just intonation
+||||||
+The intervals of 5-limit just intonation (prime limit, not odd limit) are ratios involving only the powers of 2, 3, and 5.  The fundamental intervals are the superparticular ratios 2/1 (the octave), 3/2 (the perfect fifth) and 5/4 (the major third).  That is, the notes of the major triad are in the ratio 1:5/4:3/2 or 4:5:6.
+In all tunings, the major third is equivalent to two major seconds.  However, because just intonation does not allow the irrational ratio of √5/2, two different frequency ratios are used: the major tone (9/8) and the minor tone (10/9).
+The intervals within the diatonic scale are shown in the table below.

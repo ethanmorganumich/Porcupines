@@ -1,0 +1,6 @@
+Radio modulation modes~
+||||||
+Double-sideband suppressed-carrier transmission
+||||||
+Double-sideband suppressed-carrier transmission (DSB-SC) is  transmission in which frequencies produced by amplitude modulation  (AM) are symmetrically spaced above and below the carrier frequency and the carrier level is reduced to the lowest practical level, ideally being completely suppressed.In the DSB-SC modulation, unlike in AM, the wave carrier is not transmitted; thus, much of the power is distributed between the side bands, which implies an increase of the cover in DSB-SC, compared to AM, for the same power use.
+DSB-SC transmission is a special case of double-sideband reduced carrier transmission. It is used for radio data systems. This mode is frequently used in Amateur radio voice communications, especially on High-Frequency bands.

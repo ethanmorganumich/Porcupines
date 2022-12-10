@@ -1,0 +1,6 @@
+Aeronautical navigation systems~Aircraft instruments~Beacons~Radio navigation~
+||||||
+Non-directional beacon
+||||||
+A non-directional beacon (NDB) or non-directional radio beacon is a radio beacon which does not include inherent directional information. Radio beacons are radio transmitters at a known location, used as an aviation or marine navigational aid. NDB are in contrast to directional radio beacons and other navigational aids, such as low-frequency radio range, VHF omnidirectional range (VOR) and tactical air navigation system (TACAN). 
+NDB signals follow the curvature of the Earth, so they can be received at much greater distances at lower altitudes, a major advantage over VOR. However, NDB signals are also affected more by atmospheric conditions, mountainous terrain, coastal refraction and electrical storms, particularly at long range. The system, developed by United States Air Force (USAF) Captain Albert Francis Hegenberger, was used to fly the world's first instrument approach on May 9, 1932.

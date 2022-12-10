@@ -1,0 +1,6 @@
+Data transmission~Telegraphy~
+||||||
+Standard telegraph level
+||||||
+In telecommunication, standard telegraph level (STL) is the power per individual telegraph channel required to yield the standard composite data level. 
+For example, for a composite data level of -13 dBm at 0-dBm transmission level point (0TLP), the STL would be approximately -25 dBm for a 16-channel VFCT terminal computed from STL = - (13+10log10 n ), where n is the number of telegraph channels and the STL is in dBm.

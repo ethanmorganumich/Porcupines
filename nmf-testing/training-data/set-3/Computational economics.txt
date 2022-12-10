@@ -1,0 +1,7 @@
+Computational economics~Computational fields of study~Mathematical and quantitative methods (economics)~Mathematical economics~
+||||||
+Computational economics
+||||||
+Computational Economics is an interdisciplinary research discipline that involves computer science, economics, and management science.  This subject encompasses computational modeling of economic systems. Some of these areas are unique, while others established areas of economics by allowing robust data analytics and solutions of problems that would be arduous to research without computers and associated numerical methods.Computational methods have been applied in various fields of economics research, including but not limiting to:   
+Econometrics: Non-parametric approaches, Semi-parametric approaches, and Machine Learning.
+Dynamic Systems Modeling: Optimization, Dynamic stochastic general equilibrium modeling, and Agent-based modeling.

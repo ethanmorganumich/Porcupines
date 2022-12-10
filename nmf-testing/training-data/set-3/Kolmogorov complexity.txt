@@ -1,0 +1,7 @@
+Algorithmic information theory~Computability theory~Computational complexity theory~Data compression~Descriptive complexity~Information theory~Measures of complexity~
+||||||
+Kolmogorov complexity
+||||||
+In algorithmic information theory (a subfield of computer science and mathematics), the Kolmogorov complexity of an object, such as a piece of text, is the length of a shortest computer program (in a predetermined programming language) that produces the object as output. It is a measure of the computational resources needed to specify the object, and is also known as algorithmic complexity, Solomonoff–Kolmogorov–Chaitin complexity, program-size complexity, descriptive complexity, or algorithmic entropy. It is named after Andrey Kolmogorov, who first published on the subject in 1963  and is a generalization of classical information theory.
+The notion of Kolmogorov complexity can be used to state and prove impossibility results akin to Cantor's diagonal argument, Gödel's incompleteness theorem, and Turing's halting problem.
+In particular, no program P computing a lower bound for each text's Kolmogorov complexity can return a value essentially larger than P's own length (see section § Chaitin's incompleteness theorem); hence no single program can compute the exact Kolmogorov complexity for infinitely many texts.

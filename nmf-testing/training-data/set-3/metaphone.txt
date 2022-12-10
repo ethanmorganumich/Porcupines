@@ -1,0 +1,6 @@
+Phonetic algorithms~
+||||||
+Metaphone
+||||||
+Metaphone is a phonetic algorithm, published by Lawrence Philips in 1990, for indexing words by their English pronunciation. It fundamentally improves on the Soundex algorithm by using information about variations and inconsistencies in English spelling and pronunciation to produce a more accurate encoding, which does a better job of matching words and names which sound similar. As with Soundex, similar-sounding words should share the same keys. Metaphone is available as a built-in operator in a number of systems.
+Philips later produced a new version of the algorithm, which he named Double Metaphone. Contrary to the original algorithm whose application is limited to English only, this version takes into account spelling peculiarities of a number of other languages. In 2009 Philips released a third version, called Metaphone 3, which achieves an accuracy of approximately 99% for English words, non-English words familiar to Americans, and first names and family names commonly found in the United States, having been developed according to modern engineering standards against a test harness of prepared correct encodings.

@@ -1,0 +1,7 @@
+Electronic band structures~Optoelectronics~
+||||||
+Direct and indirect band gaps
+||||||
+In semiconductor physics, the band gap of a semiconductor can be of two basic types, a direct band gap or an indirect band gap.   The minimal-energy state in the conduction band and the maximal-energy state in the valence band are each characterized by a certain crystal momentum (k-vector) in the Brillouin zone. If the k-vectors are different, the material has an "indirect gap". The band gap is called "direct" if the crystal momentum of electrons and holes is the same in both the conduction band and the valence band; an electron can directly emit a photon. In an "indirect" gap, a photon cannot be emitted because the electron must pass through an intermediate state and transfer momentum to the crystal lattice. 
+Examples of direct bandgap materials include amorphous silicon and some III-V materials such as InAs and GaAs. Indirect bandgap materials include crystalline silicon and Ge. Some III-V materials are indirect bandgap as well, for example AlSb.
+

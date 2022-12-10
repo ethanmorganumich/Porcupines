@@ -1,0 +1,6 @@
+Information retrieval~Information retrieval evaluation~Internet search engines~
+||||||
+Evaluation measures (information retrieval)
+||||||
+Evaluation measures for an information retrieval (IR) system assess how well a search engine or database returns results from a collection of resources that satisfy a users' query. Various metrics may be used to evaluate an information retrieval system including observed user behaviour, precision and relevance, and scores from prepared benchmark test sets. 
+Evaluation for an information retrieval system should also include a validation of the measures used, i.e. an assessment of how well they measure what they are intended to measure and how well the system fits its intended use case.  Metrics are often split into two types: online metrics, which look at users' interactions with the search system, and offline metrics, which measure theoretical relevance, in other words how likely each result, or search engine results page (SERP) page as a whole, is to meet the information needs of the user.

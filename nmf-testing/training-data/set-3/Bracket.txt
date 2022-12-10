@@ -1,0 +1,8 @@
+Mathematical notation~Punctuation~
+||||||
+Bracket
+||||||
+A bracket is either of two tall fore- or back-facing punctuation marks commonly used to isolate a segment of text or data from its surroundings. Typically deployed in symmetric pairs, an individual bracket may be identified as a 'left' or 'right' bracket or, alternatively, an "opening bracket" or "closing bracket", respectively, depending on the directionality of the context.
+Specific forms of the mark include parentheses (also called "rounded brackets"), square brackets, curly brackets (also called 'braces'), and angle brackets (also called 'chevrons'), as well as various less common pairs of symbols.
+As well as signifying the overall class of punctuation, the word "bracket" is commonly used to refer to a specific form of bracket, which varies from region to region. In most English-speaking countries, an unqualified word "bracket" refers to the parenthesis (round bracket); in the United States, the square bracket.
+Various forms of brackets are used in mathematics, with specific mathematical meanings, often for denoting specific mathematical functions and subformulas.

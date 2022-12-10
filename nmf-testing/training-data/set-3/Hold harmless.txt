@@ -1,0 +1,6 @@
+Companies' terms of service~Contract law~Reparations~
+||||||
+Indemnity
+||||||
+In contract law, indemnity is a contractual obligation of one party (indemnifier) to compensate the loss incurred to the other party (indemnity holder) due to the acts of the indemnitor or any other party. The duty to indemnify is usually, but not always, coextensive with the contractual duty to "hold harmless" or "save harmless".  In contrast, a "guarantee" is an obligation of one party assuring the other party that guarantor will perform the promise of the third party if it defaults.
+Indemnities form the basis of many insurance contracts; for example, a car owner may purchase different kinds of insurance as an indemnity for various kinds of loss arising from operation of the car, such as damage to the car itself, or medical expenses following an accident. In an agency context, a principal may be obligated to indemnify their agent for liabilities incurred while carrying out responsibilities under the relationship. While the events giving rise to an indemnity may be specified by contract, the actions that must be taken to compensate the injured party are largely unpredictable, and the maximum compensation is often expressly limited.

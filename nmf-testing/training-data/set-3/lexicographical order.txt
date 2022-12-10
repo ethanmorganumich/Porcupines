@@ -1,0 +1,8 @@
+Lexicography~Order theory~
+||||||
+Lexicographic order
+||||||
+In mathematics, the lexicographic or lexicographical order (also known as lexical order, or dictionary order) is a generalization of the alphabetical order of the dictionaries to sequences of ordered symbols or, more generally, of elements of a totally ordered set.
+There are several variants and generalizations of the lexicographical ordering. One variant applies to sequences of different lengths by comparing the lengths of the sequences before considering their elements.
+Another variant, widely used in combinatorics, orders subsets of a given finite set by assigning a total order to the finite set, and converting subsets into increasing sequences, to which the lexicographical order is applied. 
+A generalization defines an order on a Cartesian product of partially ordered sets; this order is a total order if and only if all factors of the Cartesian product are totally ordered.

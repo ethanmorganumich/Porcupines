@@ -1,0 +1,5 @@
+Atomic physics~Foundational quantum physics~History of physics~Hydrogen physics~
+||||||
+Rydberg formula
+||||||
+In atomic physics, the Rydberg formula calculates the wavelengths of a spectral line in many chemical elements. The formula was primarily presented as a generalization of the Balmer series for all atomic electron transitions of hydrogen. It was first empirically stated in 1888 by the Swedish physicist Johannes Rydberg, then theoretically by Niels Bohr in 1913, who used a primitive form of quantum mechanics. The formula directly generalizes the equations used to calculate the wavelengths of the hydrogen spectral series.

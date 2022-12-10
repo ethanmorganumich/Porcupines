@@ -1,0 +1,5 @@
+Broken cryptography algorithms~Public-key encryption schemes~
+||||||
+Cayley–Purser algorithm
+||||||
+The Cayley–Purser algorithm was a public-key cryptography algorithm published in early 1999 by 16-year-old Irishwoman Sarah Flannery, based on an unpublished work by Michael Purser, founder of Baltimore Technologies, a Dublin data security company. Flannery named it for mathematician Arthur Cayley. It has since been found to be flawed as a public-key algorithm, but was the subject of considerable media attention.

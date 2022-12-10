@@ -1,0 +1,11 @@
+Ambient intelligence~Clothing industry~Emerging technologies~First aid~Medical equipment~Military medicine~Technical fabrics~Textile industry~
+||||||
+E-textiles
+||||||
+Electronic textiles or e-textiles are fabrics that enable electronic components such as batteries, lights, sensors, and microcontrollers to be embedded in them.  They are not to be confused with smart textiles, which are fabrics that have been developed with new technologies that provide added value. Many smart clothing, wearable technology, and wearable computing projects involve the use of e-textiles.Electronic textiles are distinct from wearable computing because the emphasis is placed on the seamless integration of textiles with electronic elements like microcontrollers, sensors, and actuators. Furthermore, e-textiles need not be wearable.  For instance, e-textiles are also found in interior design.
+The related field of fibretronics explores how electronic and computational functionality can be integrated into textile fibers.
+A new report from Cientifica Research examines the markets for textile-based wearable technologies, the companies producing them, and the enabling technologies. The report identifies three distinct generations of textile wearable technologies:
+
+"First-generation" attach a sensor to apparel. This approach is currently taken by sportswear brands such as Adidas, Nike, and Under Armour
+"Second-generation" products embed the sensor in the garment, as demonstrated by current products from Samsung, Alphabet, Ralph Lauren, and Flex.
+In "third-generation" wearables, the garment is the sensor. A growing number of companies are creating pressure, strain, and temperature sensors for this purpose.Future applications for e-textiles may be developed for sports and well-being products, and medical devices for patient monitoring. Technical textiles, fashion and entertainment will also be significant applications.

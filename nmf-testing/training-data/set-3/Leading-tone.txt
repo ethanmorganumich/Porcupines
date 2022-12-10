@@ -1,0 +1,6 @@
+Diatonic functions~Scale degrees~
+||||||
+Leading-tone
+||||||
+In music theory, a leading-tone (also called a subsemitone, and a leading-note in the UK) is a note or pitch which resolves or "leads" to a note one semitone higher or lower, being a lower and upper leading-tone, respectively. Typically, the leading tone refers to the seventh scale degree of a major scale (), a major seventh above the tonic. In the movable do solfège system, the leading-tone is sung as ti.
+A leading-tone triad is a triad built on the seventh scale degree in a major key (viio in Roman numeral analysis), while a leading-tone seventh chord is a seventh chord built on the seventh scale degree (viiø7). Walter Piston considers and notates viio as V07, an incomplete dominant seventh chord. (For the Roman numeral notation of these chords, see Roman numeral analysis.)

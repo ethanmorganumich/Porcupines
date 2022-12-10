@@ -1,0 +1,40 @@
+Seeds~
+||||||
+Seed testing
+||||||
+Seed testing is performed for a number of reasons, including research purposes or to determine if seed storage techniques are functioning.  There are four tests most commonly done.  The first two listed below are common for scientific research.
+For commercially sold seed, all four of these tests are done in dedicated laboratories by trained and usually certified analysts. The tests are designed to evaluate the quality of the seed lot being sold.
+Germination test :  Reports the percentage of seed that germinated. In commercial settings, tests are usually made in either 200 or 400 seed samples.
+Viability test (TZ test): A test for viability that involves three steps:
+1. preconditioning (imbibition)
+2. preparation and staining (sometimes cutting the seed and then soaking the seed in a 2,3,5 triphenyl tetrazolium chloride solution)
+Tetrazolim chloride seed testing: The Tetrazolium Chloride (TZ) test is often called the quick germination test. It's a chemical test used to determine seed viability, and results are usually available within 24 to 48 hours.
+How is the TZ Test Different From a Germination Test?    The TZ test can give you an early and quick snapshot of seed viability but is not a replacement for the more comprehensive seed germination test. In Canada, the TZ test is not officially recognized by the CFIA (except for western wheatgrass where the TZ result may be added to the germination for a final germination total). In the United States, the TZ test can be used as a replacement for a germination test, although a follow-up germination test is usually recommended.
+Why do a TZ Test?
+Advantages of the TZ test are:
+A rapid evaluation of seed viability.
+Detect seed weaknesses before they become evident in germination tests.
+Timely guidance in quality control programs.
+Disadvantages of the TZ test are:
+Requires specialized training and experience.
+Test is usually more laborious and tedious to perform than a germination test.
+Test results do not reflect fungal infection or chemical damage.
+Test results do not reflect dormancy.
+How is a TZ Test Done?  1. Preparation
+Seeds are soaked in water overnight. They may be pre-moistened, in which case the seeds are allowed to imbibe water between a moistened germination paper blotter.
+Seeds are then dissected, either longitudinally or transversely, with a scalpel so that the embryo is exposed to the tetrazolium chloride solution. One half of this seed is used for the test and the other half is discarded. 2. Staining
+A solution of 2, 3, 5 triphyenyl tetrazolium chloride (a salt) is added to water to form a colorless solution.
+The seeds are placed in a 1% solution (for legumes and grasses that are not bisected), or a dilute 0.1% solution for bisected grasses and cereals.
+Seed coats of legumes must usually be removed or peeled back before examination. Care must be taken to prevent breaking of radicles and other damage to the seeds.
+How are TZ Tests are Evaluated?  Dehydrogenase enzymes present in living tissue reduce the tetrazolium chloride to formazan, a reddish, water-insoluble compound. This reaction occurs in or near living cells, which are releasing hydrogen in respiration processes.  Depending on size, all seeds are examined under a microscope at 10-30 power. Larger seeds, such as peas, may be examined without a microscope. Analysts look for three things:
+Sound tissues produce a normal red color and resist the penetration of tetrazolium. The rate of hydrogen released in sound tissue is slow in comparison to that in partially weakened tissues.
+Weak living tissues produce an abnormal color. These tissues have lost some of their initial resistance to the penetration of tetrazolium. Respiration is accelerated and formazan is produced rapidly. During the early stages of deterioration, these tissues become darker red (bruised) quicker than sound, healthy tissues.
+Dead tissues do not stain, remaining usually white (aged tissue) because the lack of respiration prevents the production of formazan.
+Reporting
+TZ test results are recorded as a percentage and are usually reported in the remarks section of the Certificate of Seed Analysis issued by the seed laboratory.
+Hard seeds are to be reported (if applicable) as a percentage and are included in the total percent viable seed.
+regardless of how they are reported, TZ test results for viability give you an estimate of the maximum percentage of seeds that have the potential to produce normal seedlings.
+Accuracy
+Properly conducted TZ and germination test results are generally in close agreement and within the range of normal sampling variation. Differences of 3% to 5% may be due to an unavoidable sampling variation error. Differences between TZ and germination test results are usually smaller in high quality seed than in low quality seed, with large seeded crops than with small-seeded crops, and with uniform seed lots than with non-uniform lots.3. evaluation (examining the seed for a color change in the embryo).
+Purity test:  The percentage of seed described on the label that is actually found in the quantity of seed.
+Weed test: Examines a sample of seed and identifies every seed that is different from the labeled seed kind.

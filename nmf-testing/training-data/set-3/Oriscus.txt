@@ -1,0 +1,8 @@
+Musical notation~
+||||||
+Oriscus
+||||||
+An oriscus is a type of neume found in gregorian chant. 
+It is a single neume, meaning it represents one pitch, unlike a compound neume, representing a sequence of more than one pitch.
+It is considered an ornamental neume, like the strophicus, quilisma, salicus, and pressus, but the original meaning of the ornament is unclear. It is usually found added to another neume as an auxiliary note. Some modern chant editions replace the sign with a regular punctum. 
+It is found in the chant manuscripts of St. Gall, Northern Spain, Catalonia, Bologna, Breton, England, Metz, and Aquitaine, but not in those of Toledo. Wagner suggested the neume involved intervals of less than a semitone (i.e. microtone), but other scholars dispute this. For Cardine, it implied tension on the following note.The name is possibly derived from the Greek horos "limit" or oriskos "little hill."

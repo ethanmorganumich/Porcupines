@@ -1,0 +1,6 @@
+IBM i Qshell commands~Standard Unix programs~Unix SUS2008 utilities~Unix text processing utilities~
+||||||
+Cat (Unix)
+||||||
+cat is a standard Unix utility that reads files sequentially, writing them to standard output. The name is derived from its function to (con)catenate files (from Latin catenare, "to chain"). It has been ported to a number of operating systems.
+

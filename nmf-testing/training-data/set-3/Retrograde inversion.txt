@@ -1,0 +1,16 @@
+Music theory stubs~Musical symmetry~Serialism~
+||||||
+Retrograde inversion
+||||||
+Retrograde inversion is a musical term that literally means "backwards and upside down": "The inverse of the series is sounded in reverse order." Retrograde reverses the order of the motif's pitches: what was the first pitch becomes the last, and vice versa. This is a technique used in music, specifically in twelve-tone technique, where the inversion and retrograde techniques are performed on the same tone row successively, "[t]he inversion of the prime series in reverse order from last pitch to first."
+
+Conventionally, inversion is carried out first, and the inverted form is then taken backward to form the retrograde inversion, so that the untransposed retrograde inversion ends with the pitch that began the prime form of the series. In his late twelve-tone works, however, Igor Stravinsky preferred the opposite order, so that his row charts use inverse retrograde (IR) forms for his source sets, instead of retrograde inversions (RI), although he sometimes labeled them RI in his sketches.For example, the forms of the row from Requiem Canticles are as follows:
+
+ P0: 0 2 t e 1 8 6 7 9 4 3 5
+ R0: 5 3 4 9 7 6 8 1 e t 2 0
+ I0: 0 t 2 1 e 4 6 5 3 8 9 7
+RI0: 7 9 8 3 5 6 4 e 1 2 t 0
+IR0: 5 7 6 1 3 4 2 9 e 0 8 t
+
+Note that IR is a transposition of RI, the pitch class between the last pitches of P and I above RI.
+Other compositions that include retrograde inversions in its rows include works by Tadeusz Baird and Karel Goeyvaerts. One work in particular by the latter composer, Nummer 2, employs retrograde of the recurring twelve-tone row B–F♯–F–E–G–A♭–E♭–D–A–B♭–D♭–C in the piano part. It is performed in both styles, particularly in the outer sections of the piece. The final movement of Hindemith's Ludus Tonalis, the Postludium, is an exact retrograde inversion of the work's opening Praeludium.

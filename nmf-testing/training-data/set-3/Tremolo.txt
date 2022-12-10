@@ -1,0 +1,16 @@
+Italian words and phrases~Musical notation~Musical techniques~Ornamentation~String performance techniques~
+||||||
+Tremolo
+||||||
+In music, tremolo (Italian pronunciation: [ˈtrɛːmolo]), or tremolando ([tremoˈlando]), is a trembling effect. There are two types of tremolo.
+The first is a rapid reiteration:
+
+of a single note, particularly used on bowed string instruments, by rapidly moving the bow back and forth; plucked strings such as on a harp, where it is called bisbigliando (Italian pronunciation: [bizbiʎˈʎando]) or "whispering"; and tremolo picking, in which a single note is repeated extremely rapidly with a plectrum (or "pick") on traditionally plucked string instruments such as guitar (although a pick is not necessary to execute a tremolo), mandolin, etc. Tremolo picking sustains sound for a longer span.
+between two notes or chords in alternation, an imitation (not to be confused with a trill) of the preceding that is more common on keyboard instruments. Mallet instruments such as the marimba are capable of either method.
+a roll on any percussion instrument, whether tuned or untuned.A second type of tremolo is a variation in amplitude:
+
+as produced on organs by tremulants
+using electronic effects in guitar amplifiers and effects pedals which rapidly turn the volume of a signal up and down, creating a "shuddering" effect
+an imitation of the same by strings in which pulsations are taken in the same bow direction
+a vocal technique involving a wide or slow vibrato, not to be confused with the trillo or "Monteverdi trill"Some electric guitars use a (misnamed) lever called a "tremolo arm" or "whammy bar" that allows a performer to lower or (usually, to some extent) raise the pitch of a note or chord, an effect properly termed vibrato or "pitch bend". This non-standard use of the term "tremolo" refers to pitch rather than amplitude. However, the term "trem" or "tremolo" is still used to refer to a bridge system built for a whammy bar, or the bar itself. True tremolo for an electric guitar, electronic organ, or any electronic signal would normally be produced by a simple amplitude modulation electronic circuit. Electronic tremolo effects were available on many early guitar amplifiers. Tremolo effects pedals are also widely used to achieve this effect.
+

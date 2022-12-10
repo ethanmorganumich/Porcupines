@@ -1,0 +1,6 @@
+Architectural element stubs~Architecture of Greece~
+||||||
+Apophyge
+||||||
+An apophyge (Greek Ancient Greek: ἀποφυγή, a flying off), in architecture, is the lowest part of the shaft of an Ionic or Corinthian column, or the highest member of its base if the column be considered as a whole. The apophyge is the inverted cavetto or concave sweep, on the upper edge of which the diminishing shaft rests.It is, in effect, a curved join between the column shaft and the slightly larger section of the column to which the shaft joins.  It bridges the two radii to avoid a sharp change.  This was likely done to avoid cracking of the marble in ancient structures.
+The apophyge superior is the joining to the capital, while the apophyge inferior is the joining to the base.

@@ -1,0 +1,7 @@
+Aerodynamics~Classical mechanics~Force~
+||||||
+Lift (force)
+||||||
+A fluid flowing around an object exerts a force on it. Lift is the component of this force that is perpendicular to the oncoming flow direction. It contrasts with the drag force, which is the component of the force parallel to the flow direction. Lift conventionally acts in an upward direction in order to counter the force of gravity, but it can act in any direction at right angles to the flow.
+If the surrounding fluid is air, the force is called an aerodynamic force. In water or any other liquid, it is called a hydrodynamic force.
+Dynamic lift is distinguished from other kinds of lift in fluids. Aerostatic lift or buoyancy, in which an internal fluid is lighter than the surrounding fluid, does not require movement and is used by balloons, blimps, dirigibles, boats, and submarines. Planing lift, in which only the lower portion of the body is immersed in a liquid flow, is used by motorboats, surfboards, windsurfers, sailboats, and water-skis.

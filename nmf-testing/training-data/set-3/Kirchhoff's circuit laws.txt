@@ -1,0 +1,6 @@
+1845 in science~Circuit theorems~Conservation equations~Gustav Kirchhoff~Linear electronic circuits~Voltage~
+||||||
+Kirchhoff's circuit laws
+||||||
+Kirchhoff's circuit laws are two equalities that deal with the current and potential difference (commonly known as voltage) in the lumped element model of electrical circuits. They were first described in 1845 by German physicist Gustav Kirchhoff. This generalized the work of Georg Ohm and preceded the work of James Clerk Maxwell. Widely used in electrical engineering, they are also called Kirchhoff's rules or simply Kirchhoff's laws. These laws can be applied in time and frequency domains and form the basis for network analysis.
+Both of Kirchhoff's laws can be understood as corollaries of Maxwell's equations in the low-frequency limit. They are accurate for DC circuits, and for AC circuits at frequencies where the wavelengths of electromagnetic radiation are very large compared to the circuits.

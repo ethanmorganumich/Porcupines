@@ -1,0 +1,6 @@
+Demodulation~
+||||||
+Demodulation
+||||||
+Demodulation is extracting the original information-bearing signal from a carrier wave. A demodulator is an electronic circuit (or computer program in a software-defined radio) that is used to recover the information content from the modulated carrier wave.  There are many types of modulation so there are many types of demodulators.  The signal output from a demodulator may represent sound (an analog audio signal), images (an analog video signal) or binary data (a digital signal).
+These terms are traditionally used in connection with radio receivers, but many other systems use many kinds of demodulators. For example, in a modem, which is a contraction of the terms modulator/demodulator, a demodulator is used to extract a serial digital data stream from a carrier signal which is used to carry it through a telephone line, coaxial cable, or optical fiber.

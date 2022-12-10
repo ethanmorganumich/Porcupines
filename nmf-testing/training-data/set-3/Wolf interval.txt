@@ -1,0 +1,10 @@
+Intervals (music)~
+||||||
+Wolf interval
+||||||
+In music theory, the wolf fifth (sometimes also called Procrustean fifth,
+or imperfect fifth)
+is a particularly dissonant musical interval spanning seven semitones. Strictly, the term refers to an interval produced by a specific tuning system, widely used in the sixteenth and seventeenth centuries: the quarter-comma meantone temperament. More broadly, it is also used to refer to similar intervals (of close, but variable magnitudes) produced by other tuning systems, including Pythagorean and most meantone temperaments.
+When the twelve notes within the octave of a chromatic scale are tuned using the quarter-comma mean-tone systems of temperament, one of the twelve intervals spanning seven semitones (classified as a diminished sixth) turns out to be much wider than the others (classified as perfect fifths). In mean-tone systems, this interval is usually from C♯ to A♭ or from G♯ to E♭ but can be moved in either direction to favor certain groups of keys. The eleven perfect fifths sound almost perfectly consonant. Conversely, the diminished sixth is severely dissonant and seems to howl like a wolf, because of a phenomenon called beating. Since the diminished sixth is meant to be enharmonically equivalent to a perfect fifth, this anomalous interval has come to be called the wolf fifth.
+Besides the above-mentioned quarter comma meantone, other tuning systems may produce severely dissonant diminished sixths. Conversely, in 12-tone equal temperament, which is currently the most commonly used tuning system, the diminished sixth is not a wolf fifth, as it has exactly the same size as a perfect fifth.
+By extension, any interval which is perceived as severely dissonant and may be regarded as howling like a wolf may be called a wolf interval. For instance, in quarter comma meantone, the augmented second, augmented third, augmented fifth, diminished fourth and diminished seventh may be considered wolf intervals, as their size significantly deviates from the size of the corresponding justly tuned interval (see Size of quarter-comma meantone intervals).

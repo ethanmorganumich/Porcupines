@@ -1,0 +1,5 @@
+Programming language classification~
+||||||
+Third-generation programming language
+||||||
+A third-generation programming language (3GL) is a high-level computer programming language that tends to be more machine-independent and programmer-friendly than the machine code of the first-generation and assembly languages of the second-generation, while having a less specific focus to the fourth and fifth generations. Examples of common and historical third-generation programming languages are ALGOL, BASIC, C, COBOL, Fortran, Java, and Pascal.

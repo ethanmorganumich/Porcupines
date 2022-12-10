@@ -1,0 +1,7 @@
+Broadcast engineering~Radio communications~
+||||||
+AM broadcasting
+||||||
+AM broadcasting is radio broadcasting using amplitude modulation (AM) transmissions. It was the first method developed for making audio radio transmissions, and is still used worldwide, primarily for medium wave (also known as "AM band") transmissions, but also on the longwave and shortwave radio bands.
+The earliest experimental AM transmissions began in the early 1900s. However, widespread AM broadcasting was not established until the 1920s, following the development of vacuum tube receivers and transmitters. AM radio remained the dominant method of broadcasting for the next 30 years, a period called the "Golden Age of Radio", until television broadcasting became widespread in the 1950s and received most of the programming previously carried by radio. Subsequently, AM radio's audiences have also greatly shrunk due to competition from FM (frequency modulation) radio, Digital Audio Broadcasting (DAB), satellite radio, HD (digital) radio, Internet radio, music streaming services, and podcasting.
+AM transmissions are much more susceptible to interference than FM or digital signals, and often have lower audio fidelity. Thus, AM broadcasters tend to specialise in spoken-word formats, such as talk radio, all news and sports, with music formats primarily for FM and digital stations.

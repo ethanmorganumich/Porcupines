@@ -1,0 +1,5 @@
+Google~Internet search engines~Multilingual websites~
+||||||
+Google Shell
+||||||
+Google Shell, or goosh, is an open-source browser based Unix-like shell used as a front end for Google Search. Written in AJAX the results are shown directly on the page. Google Shell is open source under the Artistic License/GPL. The code is currently hosted on Google Code.

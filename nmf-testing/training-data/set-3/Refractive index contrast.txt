@@ -1,0 +1,117 @@
+Fiber optics~Optics stubs~Refraction~
+||||||
+Refractive index contrast
+||||||
+Refractive index contrast, in an optical waveguide, such as an optical fiber, is a measure of the relative difference in refractive index of the core and cladding. The refractive index contrast, Δ, is often given by 
+  
+    
+      
+        Δ
+        =
+        
+          
+            
+              
+                n
+                
+                  1
+                
+                
+                  2
+                
+              
+              −
+              
+                n
+                
+                  2
+                
+                
+                  2
+                
+              
+            
+            
+              2
+              
+                n
+                
+                  1
+                
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Delta ={n_{1}^{2}-n_{2}^{2} \over 2n_{1}^{2}}}
+  , where n1 is the maximum refractive index in the core (or simply the core index for a step-index profile) and n2 is the refractive index of the cladding. The criterion n2 < n1 must be satisfied in order to sustain a guided mode by total internal reflection. Alternative formulations include 
+  
+    
+      
+        Δ
+        =
+        
+          
+            
+              n
+              
+                1
+              
+              
+                2
+              
+            
+            −
+            
+              n
+              
+                2
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Delta ={\sqrt {n_{1}^{2}-n_{2}^{2}}}}
+    and 
+  
+    
+      
+        Δ
+        =
+        
+          
+            
+              
+                n
+                
+                  1
+                
+              
+              −
+              
+                n
+                
+                  2
+                
+              
+            
+            
+              n
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Delta ={n_{1}-n_{2} \over n_{1}}}
+  . Normal optical fibers, constructed of different glasses, have very low refractive index contrast (Δ<<1) and hence are weakly-guiding. The weak guiding will cause a greater portion of the cross-sectional Electric field profile to reside within the cladding (as evanescent tails of the guided mode) as compared to strongly-guided waveguides. Integrated optics can make use of higher core index to obtain Δ>1  allowing light to be efficiently guided around corners on the micro-scale, where popular high-Δ material platform is silicon-on-insulator. High-Δ allows sub-wavelength core dimensions and so greater control over the size of the evanescent tails. The most efficient low-loss optical fibers require low Δ to minimise losses to light scattered outwards.

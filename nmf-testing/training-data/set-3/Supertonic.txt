@@ -1,0 +1,13 @@
+Diatonic functions~Scale degrees~
+||||||
+Supertonic
+||||||
+In music, the supertonic is the second degree () of a diatonic scale, one whole step above the tonic. In the movable do solfège system, the supertonic note is sung as re.
+The triad built on the supertonic note is called the supertonic chord. In Roman numeral analysis, the supertonic chord is typically symbolized by the Roman numeral "ii" in a major key, indicating that the chord is a minor chord (in C: D–F–A). In a minor key, it is indicated by "iio" if it is built on the a natural minor scale, indicating that the chord is a diminished chord (in C: D–F–A♭). Because it is a diminished chord, it usually appears in first inversion (iio6) so that no note dissonates with the bass note.
+These chords may also appear as seventh chords: in major, as ii7 (in C: D–F–A–C), while in minor as iiø7 (in C: D–F–A♭–C) or rarely ii7. They are the second-most-common form of nondominant seventh chords.
+
+The supertonic chord normally functions as a predominant chord, a chord that naturally resolves to chord with dominant function. The supertonic chord lies a fifth above the V chord. Descending fifths are a strong basis for harmonic motion (see circle of fifths). The supertonic is one of the strongest predominants and approaches the V chord from above by descending fifth.
+
+In major or minor, the major chord built on the lowered supertonic (♭) is called a Neapolitan chord (in C: D♭–F–A♭), notated as N6 or ♭II6, usually used in first inversion. The supertonic may be raised as part of the common-tone diminished seventh chord, ♯iio7 (in C: D♯–F♯–A–C). One variant of the supertonic seventh chord is the supertonic diminished seventh with the raised supertonic, which equals the lowered third through enharmonic equivalence (in C: D♯=E♭).
+The term supertonic may also refer to a relationship of musical keys. For example, relative to the key of C major, the key of D major (or D minor) is the supertonic.
+In Riemannian theory, the supertonic is considered the subdominant parallel: Sp/T in major though sP/T in minor (A♭M).

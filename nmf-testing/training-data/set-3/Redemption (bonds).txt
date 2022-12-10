@@ -1,0 +1,8 @@
+Bond valuation~Bonds (finance)~Economics and finance stubs~Embedded options~Fixed income analysis~
+||||||
+Redemption value
+||||||
+Redemption value is the price at which the issuing company may choose to repurchase a  security before its maturity date.
+A bond is purchased "at a discount" if its redemption value exceeds its purchase price.  It is purchased "at a premium" if its purchase price exceeds its redemption value. Thus, the right will only be exercised at a discount.
+
+See: Callable bond; Embedded option; Convertible bond.

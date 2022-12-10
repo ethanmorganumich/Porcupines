@@ -1,0 +1,6 @@
+Aerospace engineering~Aircraft controls~Aviation risks~Aviation safety~Avionics~Control engineering~Technology systems~User interfaces~
+||||||
+Flight envelope protection
+||||||
+Flight envelope protection is a human machine interface extension of an aircraft's control system that prevents the pilot of an aircraft from making control commands that would force the aircraft to exceed its structural and aerodynamic operating limits. It is used in some form in all modern commercial fly-by-wire aircraft. The professed advantage of flight envelope protection systems is that they restrict a pilot's excessive control inputs, whether in surprise reaction to emergencies or otherwise, from translating into excessive flight control surface movements. Notionally, this allows pilots to react quickly to an emergency while blunting the effect of an excessive control input resulting from "startle," by electronically limiting excessive control surface movements that could over-stress the airframe and endanger the safety of the aircraft.In practice, these limitations have sometimes resulted in unintended human factors errors and accidents of their own.
+

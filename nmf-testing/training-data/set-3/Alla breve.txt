@@ -1,0 +1,6 @@
+Musical notation~Patterns~Rhythm and meter~
+||||||
+Alla breve
+||||||
+Alla breve [alla ˈbrɛːve] – also known as cut time or cut common time – is a musical meter notated by the time signature symbol  (a C with a vertical line through it), which is the equivalent of 22. The term is Italian for "on the breve", originally meaning that the beat was counted on the breve.Alla breve is a "simple-duple meter with a half-note pulse".  The note denomination that represents one beat is the minim or half-note.  There are two of these per bar, so that the time signature 22 may be interpreted as "two minim beats per bar". Alternatively this is read as two beats per measure, where the half note gets the beat.
+The name "common time" refers to 44, which has four beats to the bar, each of a quarter note (or crotchet).

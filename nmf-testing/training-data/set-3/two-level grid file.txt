@@ -1,0 +1,5 @@
+GIS file formats~
+||||||
+GIS file formats
+||||||
+A GIS file format is a standard of encoding geographical information into a computer file. They are created mainly by government mapping agencies (such as the USGS or National Geospatial-Intelligence Agency) or by GIS software developers.

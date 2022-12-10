@@ -1,0 +1,112 @@
+Equal temperaments~Non–octave-repeating scales~Wendy Carlos~
+||||||
+Beta scale
+||||||
+The β (beta) scale is a non-octave-repeating musical scale invented by Wendy Carlos and first used on her album Beauty in the Beast (1986). It is derived from approximating just intervals using multiples of a single interval without, as is standard in equal temperaments, requiring an octave (2:1). It may be approximated by splitting the perfect fifth (3:2) into eleven equal parts [(3:2)1⁄11 ≈ 63.8 cents]. It may be approximated by splitting the perfect fourth (4:3) into two equal parts [(4:3)1⁄2], or eight equal parts [(4:3)1⁄8 = 64 cents], totaling approximately 18.8 steps per octave.
+The scale step may also precisely be derived from using 11:6 (B↑♭-, 1049.36 cents, Play ) to approximate the interval 3:2⁄5:4, which equals 6:5 Play .
+
+In order to make the approximation as good as possible we minimize the mean square deviation. ... We choose a value of the scale degree so that eleven of them approximate a 3:2 perfect fifth, six of them approximate a 5:4 major third, and five of them approximate a 6:5 minor third.
+
+  
+    
+      
+        
+          
+            
+              11
+              
+                log
+                
+                  2
+                
+              
+              ⁡
+              
+                (
+                3
+                
+                  /
+                
+                2
+                )
+              
+              +
+              6
+              
+                log
+                
+                  2
+                
+              
+              ⁡
+              
+                (
+                5
+                
+                  /
+                
+                4
+                )
+              
+              +
+              5
+              
+                log
+                
+                  2
+                
+              
+              ⁡
+              
+                (
+                6
+                
+                  /
+                
+                5
+                )
+              
+            
+            
+              
+                11
+                
+                  2
+                
+              
+              +
+              
+                6
+                
+                  2
+                
+              
+              +
+              
+                5
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        0.05319411048
+      
+    
+    {\displaystyle {\frac {11\log _{2}{(3/2)}+6\log _{2}{(5/4)}+5\log _{2}{(6/5)}}{11^{2}+6^{2}+5^{2}}}=0.05319411048}
+   and 
+  
+    
+      
+        0.05319411048
+        ×
+        1200
+        =
+        63.832932576
+      
+    
+    {\displaystyle 0.05319411048\times 1200=63.832932576}
+   (Play )
+Although neither has an octave, one advantage to the beta scale over the alpha scale is that 15 steps, 957.494 cents, Play  is a reasonable approximation to the seventh harmonic (7:4, 968.826 cents) Play  though both have nice triads (Play major triad , minor triad , and dominant seventh ). "According to Carlos, beta has almost the same properties as the alpha scale, except that the sevenths are slightly more in tune."The delta scale may be regarded as the beta scale's reciprocal since it is "as far 'down' the (0 3 6 9) circle from α as β is 'up'."

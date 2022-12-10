@@ -1,0 +1,6 @@
+Architectural element stubs~Building engineering~Types of wall~
+||||||
+Knee wall
+||||||
+A knee wall is a short wall, typically under three feet (one metre) in height, used to support the rafters in timber roof construction. In his book A Visual Dictionary of Architecture, Francis D. K. Ching defines a knee wall as "a short wall supporting rafters at some intermediate position along their length."  The knee wall provides support to rafters which therefore need not be large enough to span from the ridge to the eaves. Typically the knee wall is covered with plaster or gypsum board, enclosing the useful part of the attic space (not necessarily high enough for a person to stand up), while the remaining small space under the eaves is only useful for storage.
+The term is derived from the association with a human knee, partly bent. Knee walls are common in houses in which the ceiling on the top floor is an attic, i.e. the ceiling is the underside of the roof and slopes down on one or more sides.

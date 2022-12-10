@@ -1,0 +1,8 @@
+Communication circuits~Telephony equipment~
+||||||
+Ringdown
+||||||
+In telephony, ringdown is a method of signaling an operator in which telephone ringing current is sent over the line to operate a lamp or cause the operation of a self-locking relay known as a drop.
+Ringdown is used in manual operation, and is distinguished from automatic signaling by dialing a number. The signal consists of a continuous or pulsed alternating current (AC) signal transmitted over the line. It may be used with or without a telephone switchboard.  The term originated in magneto telephone signaling in which cranking the magneto generator, either integrated into the telephone set or housed in a connected ringer box, would not only ring its bell but also cause a drop to fall down at the telephone exchange switchboard, marked with the number of the line to which the magneto telephone instrument was connected.  
+The last ringdown telephone exchange in the United States was located at Bryant Pond, Maine, had 400+ subscribers, and converted to dial service in October 1983.
+

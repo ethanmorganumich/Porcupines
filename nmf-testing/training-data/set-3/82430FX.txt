@@ -1,0 +1,5 @@
+Computer hardware stubs~Intel chipsets~
+||||||
+Intel 430HX
+||||||
+The Intel 430HX (codenamed Triton II) is a chipset from Intel, supporting Socket 7 processors, including the Pentium and Pentium MMX. It is also known as i430HX and it was released in February 1996. The official part number is 82430HX.

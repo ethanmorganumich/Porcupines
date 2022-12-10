@@ -1,0 +1,11 @@
+Musical symmetry~Seventh chords~
+||||||
+Diminished seventh chord
+||||||
+The diminished seventh chord is a four-note chord (a seventh chord) composed of a root note, together with a minor third, a diminished fifth, and a diminished seventh above the root: (1, ♭3, ♭5, 7). For example, the diminished seventh chord built on C, commonly written as Co7, has pitches C–E♭–G♭–B (A♮):
+
+As such, a diminished seventh chord comprises a diminished triad plus a diminished seventh. Because of this, it can also be viewed as four notes all stacked in intervals of a minor third and can be represented by the integer notation {0, 3, 6, 9}.
+Since a diminished seventh interval is enharmonically equivalent to a major sixth, the chord is enharmonically equivalent to (1, ♭3, ♭5, ♮6).
+The diminished seventh chord occurs as a leading-tone seventh chord in the harmonic minor scale. It typically has dominant function and contains two diminished fifths, which often resolve inwards.In most sheet music books, the notation Cdim or Co denotes a diminished seventh chord with root C; but it may also happen, mostly in modern jazz books and some music theory literature, that Cdim or Co denotes a diminished triad (more commonly denoted Cm♭5), while Cdim7 or Co7 in these books denotes a diminished seventh chord (corresponding to Cm6♭5).
+François-Joseph Fétis tuned the chord 10:12:14:17 (17-limit tuning).
+

@@ -1,0 +1,164 @@
+Combinatorics~
+||||||
+Combination
+||||||
+In mathematics, a combination is a selection of items from a set that has distinct members, such that the order of selection does not matter (unlike permutations). For example, given three fruits, say an apple, an orange and a pear, there are three combinations of two that can be drawn from this set: an apple and a pear; an apple and an orange; or a pear and an orange. More formally, a k-combination of a set S is a subset of k distinct elements of S. So, two combinations are identical if and only if each combination has the same members. (The arrangement of the members in each set does not matter.) If the set has n elements, the number of k-combinations, denoted as 
+  
+    
+      
+        
+          C
+          
+            k
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle C_{k}^{n}}
+  , is equal to the binomial coefficient
+
+which can be written using factorials as 
+  
+    
+      
+        
+          
+            
+              
+                n
+                !
+              
+              
+                k
+                !
+                (
+                n
+                −
+                k
+                )
+                !
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {n!}{k!(n-k)!}}}
+   whenever 
+  
+    
+      
+        k
+        ≤
+        n
+      
+    
+    {\displaystyle k\leq n}
+  , and which is zero when 
+  
+    
+      
+        k
+        >
+        n
+      
+    
+    {\displaystyle k>n}
+  . This formula can be derived from the fact that each k-combination of a set S of n members has 
+  
+    
+      
+        k
+        !
+      
+    
+    {\displaystyle k!}
+   permutations so 
+  
+    
+      
+        
+          P
+          
+            k
+          
+          
+            n
+          
+        
+        =
+        
+          C
+          
+            k
+          
+          
+            n
+          
+        
+        ×
+        k
+        !
+      
+    
+    {\displaystyle P_{k}^{n}=C_{k}^{n}\times k!}
+   or 
+  
+    
+      
+        
+          C
+          
+            k
+          
+          
+            n
+          
+        
+        =
+        
+          P
+          
+            k
+          
+          
+            n
+          
+        
+        
+          /
+        
+        k
+        !
+      
+    
+    {\displaystyle C_{k}^{n}=P_{k}^{n}/k!}
+  . The set of all k-combinations of a set S is often denoted by 
+  
+    
+      
+        
+          
+            
+              
+                (
+              
+              
+                S
+                k
+              
+              
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\binom {S}{k}}}
+  .
+A combination is a combination of n things taken k at a time without repetition. To refer to combinations in which repetition is allowed, the terms k-selection, k-multiset, or k-combination with repetition are often used. If, in the above example, it were possible to have two of any one kind of fruit there would be 3 more 2-selections: one with two apples, one with two oranges, and one with two pears.
+Although the set of three fruits was small enough to write a complete list of combinations, this becomes impractical as the size of the set increases. For example, a poker hand can be described as a 5-combination (k = 5) of cards from a 52 card deck (n = 52). The 5 cards of the hand are all distinct, and the order of cards in the hand does not matter. There are 2,598,960 such combinations, and the chance of drawing any one hand at random is 1 / 2,598,960.

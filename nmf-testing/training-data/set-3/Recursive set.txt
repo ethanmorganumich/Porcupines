@@ -1,0 +1,7 @@
+Computability theory~Theory of computation~
+||||||
+Computable set
+||||||
+In computability theory, a set of natural numbers is called computable, recursive, or decidable if there is an algorithm which takes a number as input, terminates after a finite amount of time (possibly depending on the given number) and correctly decides whether the number belongs to the set or not.
+A set which is not computable is called noncomputable or undecidable.
+A more general class of sets than the computable ones consists of the computably enumerable (c.e.) sets, also called semidecidable sets.  For these sets, it is only required that there is an algorithm that correctly decides when a number is in the set; the algorithm may give no answer (but not the wrong answer) for numbers not in the set.

@@ -1,0 +1,5 @@
+Fax~Telecommunications stubs~
+||||||
+X-dimension of recorded spot
+||||||
+In fax systems, the X-dimension of recorded spot is the effective recorded spot dimension measured in the direction of the recorded line. The effective recorded spot dimension" is the largest center-to-center spacing between recorded spots, which gives minimum peak-to-peak variation of density of the recorded line. X-dimension of recorded spot implies that the facsimile equipment response to a constant density in the object (original) is a succession of discrete recorded spots.

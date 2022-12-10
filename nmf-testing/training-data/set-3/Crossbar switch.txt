@@ -1,0 +1,5 @@
+Electronic circuits~Switches~Telephone exchange equipment~
+||||||
+Crossbar switch
+||||||
+In electronics and telecommunications, a crossbar switch (cross-point switch, matrix switch) is a collection of switches arranged in a matrix configuration. A crossbar switch has multiple input and output lines that form a crossed pattern of interconnecting lines between which a connection may be established by closing a switch located at each intersection, the elements of the matrix. Originally, a crossbar switch consisted literally of crossing metal bars that provided the input and output paths. Later implementations achieved the same switching topology in solid-state electronics. The crossbar switch is one of the principal telephone exchange architectures, together with a rotary switch, memory switch, and a crossover switch.

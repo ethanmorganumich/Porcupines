@@ -1,0 +1,6 @@
+Atmosphere~
+||||||
+Atmospheric waveguide
+||||||
+An atmospheric waveguide is an atmospheric flow feature that improves the propagation of certain atmospheric waves.
+The effect arises because wave parameters such as group velocity or vertical wavenumber depend on mean flow direction and strength.  Thus, for instance, westerlies might be a good waveguide for eastward-traveling waves, but might strongly dissipate westward-traveling waves, by increasing or decreasing their vertical wavenumber, respectively.  Modification of the waves' group velocity will change their meridional propagation speed, directing them more polewards or more equatorwards.

@@ -1,0 +1,6 @@
+Free file comparison tools~Inferno (operating system) commands~Plan 9 commands~Standard Unix programs~Unix SUS2008 utilities~
+||||||
+Comm
+||||||
+The comm command in the Unix family of computer operating systems is a utility that is used to compare two files for common and distinct lines. comm is specified in the POSIX standard. It has been widely available on Unix-like operating systems since the mid to late 1980s.
+

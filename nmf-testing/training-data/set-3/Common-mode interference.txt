@@ -1,0 +1,45 @@
+Electrical parameters~Telecommunications~
+||||||
+Common-mode signal
+||||||
+Common-mode signal is the voltage common to both input terminals of an electrical device. In telecommunication, the common-mode signal on a transmission line is also known as longitudinal voltage.
+In most electrical circuits the signal is transferred by a differential voltage between two conductors. If the voltages on these conductors are U1 and U2, the common-mode signal is the half-sum of the voltages:
+
+  
+    
+      
+        
+          U
+          
+            cm
+          
+        
+        =
+        
+          
+            
+              
+                U
+                
+                  1
+                
+              
+              +
+              
+                U
+                
+                  2
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle U_{\text{cm}}={\frac {U_{1}+U_{2}}{2}}}
+  When referenced to the local common or ground, a common-mode signal appears on both lines of a two-wire cable, in phase and with equal amplitudes. Technically, a common-mode voltage is one-half the vector sum of the voltages from each conductor of a balanced circuit to local ground or common. Such signals can arise from one or more of the following sources:
+
+Radiated signals coupled equally to both lines,
+An offset from signal common created in the driver circuit, or
+A ground differential between the transmitting and receiving locations.Noise induced into a cable, or transmitted from a cable, usually occurs in the common mode, as the same signal tends to be picked up by both conductors in a two-wire cable.  Likewise, RF noise transmitted from a cable tends to emanate from both conductors. Elimination of common-mode signals on cables entering or leaving electronic equipment is important to ensure electromagnetic compatibility. Unless the intention is to transmit or receive radio signals, an electronic designer generally designs electronic circuits to minimise or eliminate common-mode effects.

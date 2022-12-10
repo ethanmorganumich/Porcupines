@@ -1,0 +1,5 @@
+Musical scales~
+||||||
+Synthetic mode
+||||||
+A synthetic mode is a mode that cannot be derived from the diatonic scale by starting on a different note. Whereas the seven modes are all derived from the same scale and therefore can coincide with each other (i.e. B Locrian, A Aeolian, and D Dorian all coming to be the notes of the C Major Scale), synthetic modes work differently.

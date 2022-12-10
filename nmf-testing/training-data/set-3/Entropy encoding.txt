@@ -1,0 +1,95 @@
+Data compression~Entropy and information~Lossless compression algorithms~
+||||||
+Entropy coding
+||||||
+In information theory, an entropy coding (or entropy encoding) is any lossless data compression method that attempts to approach the lower bound declared by Shannon's source coding theorem, which states that any lossless data compression method must have expected code length greater or equal to the entropy of the source.More precisely, the source coding theorem states that for any source distribution, the expected code length satisfies 
+  
+    
+      
+        
+          
+            E
+          
+          
+            x
+            ∼
+            P
+          
+        
+        [
+        l
+        (
+        d
+        (
+        x
+        )
+        )
+        ]
+        ≥
+        
+          
+            E
+          
+          
+            x
+            ∼
+            P
+          
+        
+        [
+        −
+        
+          log
+          
+            b
+          
+        
+        ⁡
+        (
+        P
+        (
+        x
+        )
+        )
+        ]
+      
+    
+    {\displaystyle \mathbb {E} _{x\sim P}[l(d(x))]\geq \mathbb {E} _{x\sim P}[-\log _{b}(P(x))]}
+  , where 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+   is the number of symbols in a code word, 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+   is the coding function, 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   is the number of symbols used to make output codes and 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   is the probability of the source symbol. An entropy coding attempts to approach this lower bound.
+Two of the most common entropy coding techniques are Huffman coding and arithmetic coding.
+If the approximate entropy characteristics of a data stream are known in advance (especially for signal compression), a simpler static code may be useful.
+These static codes include universal codes (such as Elias gamma coding or Fibonacci coding) and Golomb codes (such as unary coding or Rice coding).
+Since 2014, data compressors have started using the asymmetric numeral systems family of entropy coding techniques, which allows combination of the compression ratio of arithmetic coding with a processing cost similar to Huffman coding.
+

@@ -1,0 +1,6 @@
+Costs~
+||||||
+Cost overrun
+||||||
+A cost overrun, also known as a cost increase or budget overrun, involves unexpected incurred costs. When these costs are in excess of budgeted amounts due to a value engineering underestimation of the actual cost during budgeting, they are known by these terms.
+Cost overruns are common in infrastructure, building, and technology projects. For IT projects, a 2004 industry study by the Standish Group found an average cost overrun of 43 percent; 71 percent of projects came in over budget, exceeded time estimates, and had estimated too narrow a scope; and total waste was estimated at $55 billion per year in the US alone.Many major construction projects have incurred cost overruns; cost estimates used to decide whether important transportation infrastructure should be built can mislead grossly and systematically.Cost overrun is distinguished from cost escalation, which is an anticipated growth in a budgeted cost due to factors such as inflation.

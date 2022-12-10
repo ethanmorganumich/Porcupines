@@ -1,0 +1,8 @@
+Telecommunication theory~
+||||||
+Availability
+||||||
+In reliability engineering, the term availability has the following meanings:
+
+The degree to which a system, subsystem or equipment is in a specified operable and committable state at the start of a mission, when the mission is called for at an unknown, i.e. a random, time.
+The probability that an item will operate satisfactorily at a given point in time when used under stated conditions in an ideal support environment.Normally high availability systems might be specified as 99.98%, 99.999% or 99.9996%.

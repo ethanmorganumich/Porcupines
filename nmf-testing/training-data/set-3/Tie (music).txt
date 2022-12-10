@@ -1,0 +1,6 @@
+Articulations (music)~Music theory stubs~
+||||||
+Tie (music)
+||||||
+In music notation, a tie is a curved line connecting the heads of two notes of the same pitch, indicating that they are to be played as a single note with a duration equal to the sum of the individual notes' values. A tie is similar in appearance to a slur; however, slurs join notes of different pitches which need to be played independently, but seamlessly (legato).
+Ties are used for three reasons: (a) when holding a note across a bar line; (b) when holding a note across a beat within a bar, i.e. to allow the beat to be clearly seen; and (c) for unusual note lengths which cannot be expressed in standard notation.

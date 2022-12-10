@@ -1,0 +1,5 @@
+Capacitors~Diodes~High-voltage direct current~Telecommunications stubs~Telecommunications techniques~
+||||||
+Back-to-back connection
+||||||
+A back-to-back connection is the direct connection of the output of one device to the input of a similar or related device.

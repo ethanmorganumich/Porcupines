@@ -1,0 +1,124 @@
+Bilinear forms~Normed spaces~
+||||||
+Inner product space
+||||||
+In mathematics, an inner product space (or, rarely, a Hausdorff pre-Hilbert space) is a real vector space or a complex vector space with an operation called an inner product.  The inner product of two vectors in the space is a scalar, often denoted with angle brackets such as in 
+  
+    
+      
+        ⟨
+        a
+        ,
+        b
+        ⟩
+      
+    
+    {\displaystyle \langle a,b\rangle }
+  . Inner products allow formal definitions of intuitive geometric notions, such as lengths, angles, and orthogonality (zero inner product) of vectors. Inner product spaces generalize Euclidean vector spaces, in which the inner product is the dot product or scalar product of Cartesian coordinates. Inner product spaces of infinite dimension are widely used in functional analysis. Inner product spaces over the field of complex numbers are sometimes referred to as unitary spaces. The first usage of the concept of a vector space with an inner product is due to Giuseppe Peano, in 1898.An inner product naturally induces an associated norm, (denoted 
+  
+    
+      
+        
+          |
+        
+        x
+        
+          |
+        
+      
+    
+    {\displaystyle |x|}
+   and 
+  
+    
+      
+        
+          |
+        
+        y
+        
+          |
+        
+      
+    
+    {\displaystyle |y|}
+   in the picture); so, every inner product space is a normed vector space. If this normed space is also complete (that is, a Banach space) then the inner product space is a Hilbert space. If an inner product space H is not a Hilbert space, it can be extended by completion to a Hilbert space 
+  
+    
+      
+        
+          
+            H
+            ¯
+          
+        
+        .
+      
+    
+    {\displaystyle {\overline {H}}.}
+   This means that 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is a linear subspace of 
+  
+    
+      
+        
+          
+            H
+            ¯
+          
+        
+        ,
+      
+    
+    {\displaystyle {\overline {H}},}
+   the inner product of 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is the restriction of that of 
+  
+    
+      
+        
+          
+            H
+            ¯
+          
+        
+        ,
+      
+    
+    {\displaystyle {\overline {H}},}
+   and 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   is dense in 
+  
+    
+      
+        
+          
+            H
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {H}}}
+   for the topology defined by the norm.

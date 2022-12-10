@@ -1,0 +1,7 @@
+Audio amplifier specifications~Electrical parameters~
+||||||
+Total harmonic distortion
+||||||
+The total harmonic distortion (THD or THDi) is a measurement of the harmonic distortion present in a signal and is defined as the ratio of the sum of the powers of all harmonic components to the power of the fundamental frequency. Distortion factor, a closely related term, is sometimes used as a synonym.
+In audio systems, lower distortion means the components in a loudspeaker, amplifier or microphone or other equipment produce a more accurate reproduction of an audio recording.
+In radio communications, devices with lower THD tend to produce less unintentional interference with other electronic devices. Since harmonic distortion tends to widen the frequency spectrum of the output emissions from a device by adding signals at multiples of the input frequency, devices with high THD are less suitable in applications such as spectrum sharing and spectrum sensing.In power systems, lower THD implies lower peak currents, less heating, lower electromagnetic emissions, and less core loss in motors. IEEE std 519-2014  covers the recommended practice and requirements for harmonic control in electric power systems.

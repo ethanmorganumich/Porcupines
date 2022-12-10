@@ -1,0 +1,8 @@
+Network architecture~Telecommunications engineering~
+||||||
+Network architecture
+||||||
+Network architecture is the design of a computer network. It is a framework for the specification of a network's physical components and their functional organization and configuration, its operational principles and procedures, as well as communication protocols used. 
+In telecommunication, the specification of a network architecture may also include a detailed description of products and services delivered via a communications network, as well as detailed rate and billing structures under which services are compensated.
+The network architecture of the Internet is predominantly expressed by its use of the Internet protocol suite, rather than a specific model for interconnecting networks or nodes in the network, or the usage of specific types of hardware links.
+

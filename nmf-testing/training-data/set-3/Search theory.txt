@@ -1,0 +1,10 @@
+Labour economics~Microeconomic theories~
+||||||
+Search theory
+||||||
+In microeconomics, search theory studies buyers or sellers who cannot instantly find a trading partner, and must therefore search for a partner prior to transacting.
+Search theory clarifies how buyers and sellers choose when to acknowledge a coordinating offer for a transaction. Search theory also provides an explanation for why frictional unemployment happens as people look for jobs and corporations look for new employees.
+Search theory has been used primarily to explain labor market inefficiencies, but also for all forms of "buyers" and "sellers", whether products, homes or even spouses/partners. It can be applied. The clearing price will be met quickly as supply and demand react freely. However, this does not happen in the real world. Search theory tries to explain how.
+Search theory has been applied in labor economics to analyze frictional unemployment resulting from job hunting by workers. In consumer theory, it has been applied to analyze purchasing decisions. From a worker's perspective, an acceptable job would be one that pays a high wage, one that offers desirable benefits, and/or one that offers pleasant and safe working conditions. From a consumer's perspective, a product worth purchasing would have sufficiently high quality and be offered at a sufficiently low price. In both cases, whether a given job or product is acceptable depends on the searcher's beliefs about the alternatives available in the market.
+More precisely, search theory studies an individual's optimal strategy when choosing from a series of potential opportunities of random quality, under the assumption that delaying choice is costly.  Search models illustrate how best to balance the cost of delay against the value of the option to try again. Mathematically, search models are optimal stopping problems.
+Macroeconomists have extended search theory by studying general equilibrium models in which one or more types of searchers interact. These macroeconomic theories have been called 'matching theory', or 'search and matching theory.

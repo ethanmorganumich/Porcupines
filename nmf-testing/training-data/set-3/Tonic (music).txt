@@ -1,0 +1,11 @@
+Diatonic functions~Scale degrees~
+||||||
+Tonic (music)
+||||||
+In music, the tonic is the first scale degree () of the diatonic scale (the first note of a scale) and the tonal center or final resolution tone that is commonly used in the final cadence in tonal (musical key-based) classical music, popular music, and traditional music. In the movable do solfège system, the tonic note is sung as do. More generally, the tonic is the note upon which all other notes of a piece are hierarchically referenced. Scales are named after their tonics: for instance, the tonic of the C major scale is the note C.
+The triad formed on the tonic note, the tonic chord, is thus the most significant chord in these styles of music. In Roman numeral analysis, the tonic chord is typically symbolized by the Roman numeral "I" if it is major and by "i" if it is minor.
+
+In very much conventionally tonal music, harmonic analysis will reveal a broad prevalence of the primary (often triadic) harmonies: tonic, dominant, and subdominant (i.e., I and its chief auxiliaries a 5th removed), and especially the first two of these.
+These chords may also appear as seventh chords: in major, as IM7, or in minor as i7 or rarely iM7:
+The tonic is distinguished from the root, which is the reference note of a chord, rather than that of the scale.
+

@@ -1,0 +1,11 @@
+Image search~Internet search engines~Multimedia~
+||||||
+Macroglossa Visual Search
+||||||
+Macroglossa was a visual search engine based on the comparison of images, coming from an Italian Group. The development of the project began in 2009. In April 2010 is released the first public alpha. Users can upload photos or images that they aren't sure what they are to determine what the images contain. Macroglossa compares images to return search results based on specific search categories. The engine does not use technologies and solutions such as OCR, tags, vocabulary trees. The comparison is directly based on the contents of the image which the user wants to know more.
+Included features are the categorization of the elements, the ability to search specific portions of the image or start a search from a video file, but the main function is to simulate a digital eye on trying to find similarities of an unknown subject.
+This technology allows users to pull results from collections of visual content without using tags for search. The visuals can be crowd sourced. In addition, Macroglosssa can also be used as a reverse image search to find orphan works and possible violations of copyright of images.
+Macroglossa supports all popular image extensions such jpeg, png, bmp, gif and video formats such avi, mov, mp4, m4v, 3gp, wmv, mpeg.
+Macroglossa enters beta stage in September 2011 and at the same time open to the public the opportunity to use the developed interfaces ( Api for web and mobile applications ) in order to expand the use of the engine in the B2B and B2C fields. Macroglossa becomes a SaaS.
+API are distributed on three levels : free, basic, and premium. The free API has limited use, but basic and premium do not. The premium API also offers custom services allowing customers to extend and mold the features offered by computer vision.Discontinued as the site is dead since February 2016.
+

@@ -1,0 +1,7 @@
+Multiplexing~Telecommunication protocols~Telecommunications standards~
+||||||
+T-carrier
+||||||
+The T-carrier is a member of the series of carrier systems developed by AT&T Bell Laboratories for digital transmission of multiplexed telephone calls.
+The first version, the Transmission System 1 (T1), was introduced in 1962 in the Bell System, and could transmit up to 24 telephone calls simultaneously over a single transmission line of copper wire.  Subsequent specifications carried multiples of the basic T1 (1.544 Mbit/s) data rates, such as T2 (6.312 Mbit/s) with 96 channels, T3 (44.736 Mbit/s) with 672 channels, and others.
+Although a T2 was defined as part of AT&T's T-carrier system, which defined five levels, T1 through T5, only the T1 and T3 were commonly in use.

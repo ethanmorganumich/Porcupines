@@ -1,0 +1,5 @@
+Music stubs~Musical notation~Musical performance techniques~
+||||||
+Breath mark
+||||||
+A breath mark or luftpause is a symbol used in musical notation.  It directs the performer of the music passage to take a breath (for wind instruments and vocalists) or to make a slight pause (for non-wind instruments). This pause is normally intended to shorten the duration of the preceding note and not to alter the tempo; in this function it can be thought of as a grace rest.  It is usually placed above the staff and at the ends of phrases.  Its function is analogous to the comma in several written languages.  Indeed, a common notation for the breath mark looks very similar to a written comma.

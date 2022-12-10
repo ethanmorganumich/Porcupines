@@ -1,0 +1,5 @@
+Telecommunications stubs~Telegraphy~
+||||||
+Neutral direct-current telegraph system
+||||||
+In telecommunication, a neutral direct-current telegraph system (single-current system, single-current transmission system, single-Morse system) is a telegraph system in which (a) current flows during marking intervals and no current flows during spacing intervals for the transmission of signals over a line, and (b) the direction of current flow (electric polarity) is immaterial.

@@ -1,0 +1,74 @@
+Analysis of algorithms~Mathematical analysis~Mathematical analysis stubs~Polynomials~Theoretical computer science stubs~
+||||||
+Polylogarithmic function
+||||||
+In mathematics, a polylogarithmic function in n is a polynomial in the logarithm of n,
+
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+        (
+        log
+        ⁡
+        n
+        
+          )
+          
+            k
+          
+        
+        +
+        
+          a
+          
+            k
+            −
+            1
+          
+        
+        (
+        log
+        ⁡
+        n
+        
+          )
+          
+            k
+            −
+            1
+          
+        
+        +
+        ⋯
+        +
+        
+          a
+          
+            1
+          
+        
+        (
+        log
+        ⁡
+        n
+        )
+        +
+        
+          a
+          
+            0
+          
+        
+        .
+      
+    
+    {\displaystyle a_{k}(\log n)^{k}+a_{k-1}(\log n)^{k-1}+\cdots +a_{1}(\log n)+a_{0}.}
+  The notation logkn is often used as a shorthand for (log n)k, analogous to sin2θ for (sin θ)2.
+In computer science, polylogarithmic functions occur as the order of time or memory used by some algorithms (e.g., "it has polylogarithmic order").
+All polylogarithmic functions of n are o(nε) for every exponent ε > 0 (for the meaning of this symbol, see small o notation), that is, a polylogarithmic function grows more slowly than any positive exponent.  This observation is the basis for the soft O notation Õ(n).

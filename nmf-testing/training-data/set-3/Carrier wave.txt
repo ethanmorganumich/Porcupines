@@ -1,0 +1,5 @@
+Communication circuits~Waveforms~
+||||||
+Carrier wave
+||||||
+In telecommunications, a carrier wave, carrier signal, or just carrier, is a waveform (usually sinusoidal) that is modulated (modified) with an information-bearing signal for the purpose of conveying information. This carrier wave usually has a much higher frequency than the input signal does. The purpose of the carrier is usually either to transmit the information through space as an electromagnetic wave (as in radio communication), or to allow several carriers at different frequencies to share a common physical transmission medium by frequency division multiplexing (as in a cable television system). The term originated in radio communication, where the carrier wave creates the waves which carry the information (modulation) through the air from the transmitter to the receiver. The term is also used for an unmodulated emission in the absence of any modulating signal.In music production, carrier signals can be controlled by a modulating signal to change the sound property of an audio recording and add a sense of depth and movement.

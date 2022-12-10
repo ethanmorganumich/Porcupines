@@ -1,0 +1,6 @@
+Airport infrastructure~
+||||||
+Taxiway
+||||||
+A taxiway is a path for aircraft at an airport connecting runways with aprons, hangars, terminals and other facilities. They mostly have a hard surface such as asphalt or concrete, although smaller general aviation airports sometimes use gravel or grass.
+Most airports do not have a specific speed limit for taxiing (though some do). There is a general rule on safe speed based on obstacles. Operators and aircraft manufacturers might have limits. Typical taxi speeds are 20–30 knots (37–56 km/h; 23–35 mph).

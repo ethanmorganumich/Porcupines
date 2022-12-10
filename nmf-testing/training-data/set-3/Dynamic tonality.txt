@@ -1,0 +1,5 @@
+Musical temperaments~Post-tonal music theory~
+||||||
+Dynamic tonality
+||||||
+Dynamic tonality is a new paradigm for music which generalizes the special relationship between just intonation and the harmonic series to apply to a wider set of pseudo-just tunings and related pseudo-harmonic timbres.The main limitation of Dynamic Tonality is that it is best used with compatible isomorphic keyboard instruments and compatible synthesizers or with voices and instruments whose sounds are transformed in real time via compatible digital tools.

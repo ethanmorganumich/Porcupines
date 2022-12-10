@@ -1,0 +1,6 @@
+Dynamic programming~
+||||||
+Overlapping subproblems
+||||||
+In computer science, a problem is said to have overlapping subproblems if the problem can be broken down into subproblems which are reused several times or a recursive algorithm for the problem solves the same subproblem over and over rather than always generating new subproblems.For example, the problem of computing the Fibonacci sequence exhibits overlapping subproblems.  The problem of computing the nth Fibonacci number F(n), can be broken down into the subproblems of computing F(n − 1) and F(n − 2), and then adding the two.  The subproblem of computing F(n − 1) can itself be broken down into a subproblem that involves computing F(n − 2).  Therefore, the computation of F(n − 2) is reused, and the Fibonacci sequence thus exhibits overlapping subproblems.
+A naive recursive approach to such a problem generally fails due to an exponential complexity. If the problem also shares an optimal substructure property, dynamic programming is a good way to work it out.

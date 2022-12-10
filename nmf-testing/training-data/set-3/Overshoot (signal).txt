@@ -1,0 +1,6 @@
+Classical control theory~Transient response characteristics~
+||||||
+Overshoot (signal)
+||||||
+In signal processing, control theory, electronics, and mathematics, overshoot is the occurrence of a signal or function exceeding its target. Undershoot is the same phenomenon in the opposite direction. It arises especially in the step response of bandlimited systems such as low-pass filters. It is often followed by ringing, and at times conflated with the latter.
+

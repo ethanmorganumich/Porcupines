@@ -1,0 +1,9 @@
+Gross domestic product~Macroeconomics stubs~National accounts~
+||||||
+Gross private domestic investment
+||||||
+Gross private domestic investment is the measure of physical investment used in computing GDP in the measurement of nations' economic activity. This is an important component of GDP because it provides an indicator of the future productive capacity of the economy. It includes replacement purchases plus net additions to capital assets plus investments in inventories. From 2002 to 2011 it amounted to 14.9% of GDP, and from 1945 to 2011 was 15.7% of GDP (BEA, USDC, 2013).  Net investment is gross investment minus depreciation. Of the four categories of GDP (investment, consumption, net exports, and government spending on goods and services) it is by far the least stable.
+Gross private domestic investment includes 4 types of investment:
+Non-residential investment: Expenditures by firms on capital such as tools, machinery, and factories.
+Residential Investment: Expenditures on residential structures and residential equipment that is owned by landlords and rented to tenants.
+Change in inventories (or stocks): The change of firm inventories in a given period. (Inventory or stock is the goods that are produced by firms but kept to be sold later.)

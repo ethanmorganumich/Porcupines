@@ -1,0 +1,9 @@
+Evidence law~Legal terminology stubs~
+||||||
+Exhibit (legal)
+||||||
+An exhibit, in a criminal prosecution or a civil trial, is physical or documentary evidence brought before the jury.  The artifact or document itself is presented for the jury's inspection. Examples may include a weapon allegedly used in the crime, an invoice or written contract, a photograph, or a video recording.
+The main concept behind correct evidence handling is that the item recovered is the same as that produced in the court room.
+The usual term applied to such handling is "chain of custody". The term denotes the links in the handling of the exhibit in question. For example, details of the item, the place, date, time it was recovered, and by whom it was recovered - the first link. The subsequent links in the chain refer to anyone required to handle the exhibit, mainly for identification purposes. The final link is the production of the item in court. This particular level of auditable handling is paramount when dealing with items of a forensic nature, as it reduces the opportunity for the defense to challenge the authenticity of the item.
+The chain of custody can be less stringent when dealing with property which has a unique identifying feature like a serial number. In such a case, the physical security becomes the main concern of the person recovering the item. Such security is normally achieved by booking the item into a central evidence room.
+The exhibits in any one law case are often labelled Exhibit A, Exhibit B, Exhibit C, etc. to distinguish between them.

@@ -1,0 +1,5 @@
+Audio software~Internet search engines~
+||||||
+Audio search engine
+||||||
+An audio search engine is a web-based search engine which crawls the web for audio content. The information can consist of web pages, images, audio files, or another type of document. Various techniques exist for research on these engines.

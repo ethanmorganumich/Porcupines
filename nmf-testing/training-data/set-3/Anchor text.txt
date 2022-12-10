@@ -1,0 +1,5 @@
+Hypertext~Information retrieval techniques~Internet search engines~Internet terminology~Search engine optimization~
+||||||
+Anchor text
+||||||
+The anchor text, link label or link text is the visible, clickable text in an HTML hyperlink.  The term "anchor" was used in older versions of the HTML specification for what is currently referred to as the a element, or <a>.  The HTML specification does not have a specific term for anchor text, but refers to it as "text that the a element wraps around".  In XML terms (since HTML is XML), the anchor text is the content of the element, provided that the content is text.Usually, web search engines analyze anchor text from hyperlinks on web pages. The words contained in the anchor text can determine the ranking that the page will receive by search engines. Other services apply the basic principles of anchor text analysis as well. For instance, academic search engines may use citation context to classify academic articles, and anchor text from documents linked in mind maps may be used too.

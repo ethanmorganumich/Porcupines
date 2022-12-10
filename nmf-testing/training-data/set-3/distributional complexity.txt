@@ -1,0 +1,7 @@
+Randomized algorithms~
+||||||
+Average-case complexity
+||||||
+In computational complexity theory, the average-case complexity of an algorithm is the amount of some computational resource (typically time) used by the algorithm, averaged over all possible inputs. It is frequently contrasted with worst-case complexity which considers the maximal complexity of the algorithm over all possible inputs.
+There are three primary motivations for studying average-case complexity. First, although some problems may be intractable in the worst-case, the inputs which elicit this behavior may rarely occur in practice, so the average-case complexity may be a more accurate measure of an algorithm's performance. Second, average-case complexity analysis provides tools and techniques to generate hard instances of problems which can be utilized in areas such as cryptography and derandomization.  Third, average-case complexity allows discriminating the most efficient algorithm in practice among algorithms of equivalent best case complexity (for instance Quicksort).
+Average-case analysis requires a notion of an "average" input to an algorithm, which leads to the problem of devising a probability distribution over inputs. Alternatively, a randomized algorithm can be used. The analysis of such algorithms leads to the related notion of an expected complexity.: 28 

@@ -1,0 +1,6 @@
+Evidence-based practices~Learning methods~Memorization~Psychology of learning~Spaced repetition software~
+||||||
+Spaced repetition
+||||||
+Spaced repetition is an evidence-based learning technique that is usually performed with flashcards. Newly introduced and more difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently in order to exploit the psychological spacing effect. The use of spaced repetition has been proven to increase the rate of learning.Although the principle is useful in many contexts, spaced repetition is commonly applied in contexts in which a learner must acquire many items and retain them indefinitely in memory. It is, therefore, well suited for the problem of vocabulary acquisition in the course of second-language learning. A number of spaced repetition software programs have been developed to aid the learning process. It is also possible to perform spaced repetition with flashcards using the Leitner system.
+Alternative names for spaced repetition include spaced rehearsal, expanding rehearsal, graduated intervals, repetition spacing, repetition scheduling, spaced retrieval, and expanded retrieval.

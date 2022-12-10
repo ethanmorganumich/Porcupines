@@ -1,0 +1,6 @@
+Aircraft weight measurements~Trucks~Vehicle law~
+||||||
+Empty weight
+||||||
+The empty weight of a vehicle is based on its weight without any payload (cargo, passengers, usable fuel, etc.).
+

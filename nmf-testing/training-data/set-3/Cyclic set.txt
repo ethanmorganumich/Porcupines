@@ -1,0 +1,21 @@
+Intervals (music)~Post-tonal music theory~
+||||||
+Cyclic set
+||||||
+In music, a cyclic set is a set, "whose alternate elements unfold complementary cycles of a single interval." Those cycles are ascending and descending, being related by inversion since complementary:
+
+In the above example, as explained, one interval (7) and its complement (-7 = +5), creates two series of pitches starting from the same note (8):
+
+P7: 8 +7= 3 +7= 10 +7=  5...1 +7= 8
+I5: 8 +5= 1 +5=  6 +5= 11...3 +5= 8
+
+According to George Perle, "a Klumpenhouwer network is a chord analyzed in terms of its dyadic sums and differences," and, "this kind of analysis of triadic combinations was implicit in," his, "concept of the cyclic set from the beginning".
+
+A cognate set is a set created from joining two sets related through inversion such that they share a single series of dyads.
+
+  0  7  2  9  4 11  6  1  8  3 10  5 (0
++ 0  5 10  3  8  1  6 11  4  9  2  7 (0
+________________________________________
+= 0  0  0  0  0  0  0  0  0  0  0  0 (0
+
+The two cycles may also be aligned as pairs of sum 7 or sum 5 dyads. All together these pairs of cycles form a set complex, "any cyclic set of the set complex may be uniquely identified by its two adjacency sums," and as such the example above shows p0p7 and i5i0.

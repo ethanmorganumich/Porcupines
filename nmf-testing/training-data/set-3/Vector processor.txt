@@ -1,0 +1,6 @@
+Central processing unit~Coprocessors~Parallel computing~Vector supercomputers~
+||||||
+Vector processor
+||||||
+In computing, a vector processor or array processor is a central processing unit (CPU) that implements an instruction set where its instructions are designed to operate efficiently and effectively on large one-dimensional arrays of data called vectors. This is in contrast to scalar processors, whose instructions operate on single data items only, and in contrast to some of those same scalar processors having additional single instruction, multiple data (SIMD) or SWAR Arithmetic Units. Vector processors can greatly improve performance on certain workloads, notably numerical simulation and similar tasks. Vector processing techniques also operate in video-game console hardware and in graphics accelerators.
+Vector machines appeared in the early 1970s and dominated supercomputer design through the 1970s into the 1990s, notably the various Cray platforms. The rapid fall in the price-to-performance ratio of conventional microprocessor designs led to a decline in vector supercomputers during the 1990s.

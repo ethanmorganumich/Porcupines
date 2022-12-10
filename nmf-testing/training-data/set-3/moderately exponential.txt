@@ -1,0 +1,6 @@
+Computational hardness assumptions~
+||||||
+Exponential time hypothesis
+||||||
+In computational complexity theory, the exponential time hypothesis is an unproven computational hardness assumption that was formulated by Impagliazzo & Paturi (1999). It states that satisfiability of 3-CNF Boolean formulas cannot be solved more quickly than exponential time in the worst case. The exponential time hypothesis, if true, would imply that P ≠ NP, but it is a stronger statement. It implies that many computational problems are equivalent in complexity, in the sense that if one of them has a subexponential time algorithm then they all do, and that many known algorithms for these problems have optimal or near-optimal time complexity.
+

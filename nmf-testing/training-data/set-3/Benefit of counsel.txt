@@ -1,0 +1,8 @@
+United States Sixth Amendment ineffective assistance of counsel case law~United States constitutional criminal procedure~
+||||||
+Ineffective assistance of counsel
+||||||
+In United States law, ineffective assistance of counsel (IAC) is a claim raised by a convicted criminal defendant asserting that the defendant's legal counsel performed so ineffectively that it deprived the defendant of the constitutional right guaranteed by the Assistance of Counsel Clause of the Sixth Amendment to the United States Constitution.  Ineffectiveness claims may only be brought where the defendant had the right to counsel, ordinarily during the critical stages of a prosecution.Having the "benefit of counsel" or "assistance of counsel" means that the criminal defendant has had a competent attorney representing them. Competence is defined as reasonable professional assistance and is defined in part by prevailing professional norms and standards. To prove they received ineffective assistance, a criminal defendant must show two things:
+
+Deficient performance by counsel
+Resulting prejudice, in that but for the deficient performance,  there is a “reasonable probability” that the result of the proceeding would have differed.The foregoing test was set forth in Strickland v. Washington (1984). In dissent, Justice Thurgood Marshall objected that the two-prong Strickland test was too permissive of attorney poor performance, and that the prejudice prong, in applying a form of harmless error review, would withhold relief from defendants who did not receive a fair trial, but for whom other evidence existed of their guilt. Scholars have often argued that the poor quality of appointed counsel imperils the right to counsel as guaranteed by Gideon v. Wainwright.

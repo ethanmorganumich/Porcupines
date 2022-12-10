@@ -1,0 +1,10 @@
+Arches and vaults~Masonry~
+||||||
+Jack arch
+||||||
+A jack arch is a structural element in masonry construction that provides support at openings in the masonry. Alternate names are "flat arch" and "straight arch".
+Unlike regular arches, jack arches are not semicircular in form. Instead, they are flat in profile and are used under the same circumstances as lintels. Unlike lintels, which are subject to bending stress, jack arches are composed of individual masonry elements cut or formed into a wedge shape that efficiently uses the compressive strength of the masonry in the same manner as a regular arch.  Like regular arches, jack arches require a mass of masonry to either side to absorb the considerable lateral thrust created by the jack arch.
+Jack arches have the advantage of being constructed from relatively small pieces of material that can be handled by individuals, as opposed to lintels which must necessarily be monolithic and which must be oversized unless reinforced by other means.
+In small-scale brick masonry projects, jack arches are typically sawn from an appropriately sized fired-clay lintel, giving a more precise and consistent joint width than field-sawn shapes.
+There is considerable scope for incorporation of decorative patterns and elements into jack arches.  Keystones, stepped or arched top profiles, and polychrome or contrasting colors and materials may all be used to create the desired effect.
+One of the earliest jack arches is in the Deyrü'z-Zafaran Monastery in eastern Turkey, near Mardin. The floor of the chapel (and the roof of the crypt) is formed from a jack arch and is said to have been constructed in the centuries BC.

@@ -1,0 +1,7 @@
+Applied mathematics~Arab inventions~Cryptographic attacks~
+||||||
+Cryptanalysis
+||||||
+Cryptanalysis (from the Greek kryptós, "hidden", and analýein, "to analyze") refers to the process of analyzing information systems in order to understand hidden aspects of the systems.  Cryptanalysis is used to breach cryptographic security systems and gain access to the contents of encrypted messages, even if the cryptographic key is unknown.
+In addition to mathematical analysis of cryptographic algorithms, cryptanalysis includes the study of side-channel attacks that do not target weaknesses in the cryptographic algorithms themselves, but instead exploit weaknesses in their implementation.
+Even though the goal has been the same, the methods and techniques of cryptanalysis have changed drastically through the history of cryptography, adapting to increasing cryptographic complexity, ranging from the pen-and-paper methods of the past, through machines like the British Bombes and Colossus computers at Bletchley Park in World War II, to the mathematically advanced computerized schemes of the present. Methods for breaking modern cryptosystems often involve solving carefully constructed problems in pure mathematics, the best-known being integer factorization.

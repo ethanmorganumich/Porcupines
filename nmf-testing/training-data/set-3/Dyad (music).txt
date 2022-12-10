@@ -1,0 +1,8 @@
+Intervals (music)~Music theory stubs~Simultaneities (music)~
+||||||
+Dyad (music)
+||||||
+In music, a dyad (less commonly, diad) is a set of two notes or pitches that, in particular contexts, may imply a chord. 
+
+Dyads can be classified by the interval between the notes. For example, the interval between C and E is a major third, which can imply a C major chord, made up of the notes C, E and G.  When the pitches of a dyad occur in succession, they form a melodic interval. When they occur simultaneously, they form a harmonic interval.
+The harmonic series is built over a fundamental pitch, and the rest of the partials in the series are called overtones. The second partial is an octave above the fundamental and the third pitch is a fifth, so if C is the fundamental pitch the second note is C an octave higher and then the next pitch would be G. The harmonic series has more fifths than just this one, for example the fourth to the sixth, the sixth to the ninth and the seventh to the eleventh partial are all a fifth away from each other, though the latter is of a slightly different size than the former ones.

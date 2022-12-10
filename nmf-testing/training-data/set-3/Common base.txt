@@ -1,0 +1,6 @@
+Single-stage transistor amplifiers~
+||||||
+Common base
+||||||
+In electronics, a common-base (also known as grounded-base) amplifier is one of three basic single-stage bipolar junction transistor (BJT) amplifier topologies, typically used as a current buffer or voltage amplifier.
+In this circuit the emitter terminal of the transistor serves as the input, the collector as the output, and the base is connected to ground, or "common", hence its name. The analogous field-effect transistor circuit is the common-gate amplifier.

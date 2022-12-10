@@ -1,0 +1,8 @@
+Telephone exchanges~Telephony stubs~
+||||||
+Semiautomatic switching system
+||||||
+In telecommunication, the term semiautomatic switching system has the following meanings: 
+
+In telephone systems, a switching system in which telephone operators receive call instructions orally from users and complete them by automatic equipment.
+At tape relay intermediate stations, the manual routing or rerouting of taped messages without rekeying them.

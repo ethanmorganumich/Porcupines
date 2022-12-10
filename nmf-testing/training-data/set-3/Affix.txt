@@ -1,0 +1,6 @@
+Affixes~Lexical units~Linguistics terminology~
+||||||
+Affix
+||||||
+In linguistics, an affix is a morpheme that is attached to a word stem to form a new word or word form. Affixes may be derivational, like English -ness and pre-, or inflectional, like English plural -s and past tense -ed. They are bound morphemes by definition; prefixes and suffixes may be separable affixes. Affixation is the linguistic process that speakers use to form different words by adding morphemes at the beginning (prefixation), the middle (infixation) or the end (suffixation) of words.
+

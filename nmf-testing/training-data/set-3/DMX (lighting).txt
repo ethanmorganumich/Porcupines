@@ -1,0 +1,7 @@
+American National Standards Institute standards~Network protocols~Stage lighting~
+||||||
+DMX512
+||||||
+DMX512 is a standard for digital communication networks that are commonly used to control lighting and effects.  It was originally intended as a standardized method for controlling stage lighting dimmers, which, prior to DMX512, had employed various incompatible proprietary protocols.  It quickly became the primary method for linking controllers (such as a lighting console) to dimmers and special effects devices such as fog machines and intelligent lights. 
+DMX512 has also expanded to uses in non-theatrical interior and architectural lighting, at scales ranging from strings of Christmas lights to electronic billboards and stadium or arena concerts.   It can now be used to control almost anything, reflecting its popularity in all types of venues.  
+DMX512 uses a unidirectional EIA-485 (RS-485) differential signaling at its physical layer, in conjunction with a variable-size, packet-based communication protocol.  DMX512 does not include automatic error checking and correction, and therefore is not an appropriate control for hazardous applications, such as pyrotechnics or movement of theatrical rigging. However, it is still used for such applications. False triggering may be caused by electromagnetic interference, static electricity discharges, improper cable termination, excessively long cables, or poor quality cables.

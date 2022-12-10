@@ -1,0 +1,7 @@
+Radio technology~Telecommunication theory~Telecommunications stubs~
+||||||
+Signal transition
+||||||
+Signal transition, when referring to the modulation of a carrier signal, is a change from one significant condition to another. 
+Examples of signal transitions are a change from one electric current, voltage, or power level to another; a change from one optical power level to another; a phase shift; or a change from one frequency or wavelength to another. 
+Signal transitions are used to create signals that represent information, such as "0" and "1" or "mark" and "space".

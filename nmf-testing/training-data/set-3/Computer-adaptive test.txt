@@ -1,0 +1,5 @@
+Computer-based testing~Psychometrics~School examinations~
+||||||
+Computerized adaptive testing
+||||||
+Computerized adaptive testing (CAT) is a form of computer-based test that adapts to the examinee's ability level. For this reason, it has also been called tailored testing. In other words, it is a form of computer-administered test in which the next item or set of items selected to be administered depends on the correctness of the test taker's responses to the most recent items administered.

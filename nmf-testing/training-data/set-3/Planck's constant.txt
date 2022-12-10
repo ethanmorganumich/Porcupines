@@ -1,0 +1,41 @@
+1900 in science~Fundamental constants~Max Planck~
+||||||
+Planck constant
+||||||
+The Planck constant, or Planck's constant, is a fundamental physical constant of foundational importance in quantum mechanics. The constant gives the relationship between the energy of a photon and its frequency, and by the mass-energy equivalence, the relationship between mass and frequency. Specifically, a photon's energy is equal to its frequency multiplied by the Planck constant. The constant is generally denoted by 
+  
+    
+      
+        h
+      
+    
+    {\textstyle h}
+  .  The reduced Planck constant, or Dirac constant, equal to the constant divided by 
+  
+    
+      
+        2
+        π
+      
+    
+    {\textstyle 2\pi }
+  , is denoted by 
+  
+    
+      
+        ℏ
+      
+    
+    {\textstyle \hbar }
+  .  
+In metrology it is used, together with other constants, to define the kilogram, the SI unit of mass. The SI units are defined in such a way that, when the Planck constant is expressed in SI units, it has the exact value 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   = 6.62607015×10−34 J⋅Hz−1.The constant was first postulated by Max Planck in 1900 as part of a solution to the ultraviolet catastrophe. At the end of the 19th century, accurate measurements of the spectrum of black body radiation existed, but the distribution of those measurements at higher frequencies diverged significantly from what was predicted by then-existing theories. Planck empirically derived a formula for the observed spectrum. He assumed that a hypothetical electrically charged oscillator in a cavity that contained black-body radiation can only change its energy in quantized steps, and that the energies of those steps are proportional to the frequency of the oscillator's associated electromagnetic wave. He was able to calculate the proportionality constant from experimental measurements, and that constant is named in his honor. 
+In 1905, Albert Einstein determined a "quantum" or minimal element of the energy of the electromagnetic wave itself. The light quantum behaved in some respects as an electrically neutral particle, and was eventually called a photon. Max Planck received the 1918 Nobel Prize in Physics "in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta".
+

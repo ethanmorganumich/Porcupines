@@ -1,0 +1,5 @@
+Chords~Musical symmetry~
+||||||
+Augmented triad
+||||||
+An augmented triad is a chord, made up of two major thirds (an augmented fifth). The term augmented triad arises from an augmented triad being considered a major chord whose top note (fifth) is raised.  When using popular-music symbols, it is indicated by the symbol "+" or "aug". For example, the augmented triad built on C, written as C+, has pitches C–E–G♯:The chord can be represented by the integer notation {0, 4, 8}.

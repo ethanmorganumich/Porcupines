@@ -1,0 +1,7 @@
+Multiplexing~
+||||||
+Time-assignment speech interpolation
+||||||
+In telecommunication, a time-assignment speech interpolation (TASI) was an analog technique used on certain long transmission links to increase voice-transmission capacity.
+TASI was invented by Bell Labs in the early 1960s to increase the capacity of transatlantic telephone cables.  It was one of their first applications requiring electronic switching of voice circuits.
+Later digital circuit multiplication equipment included TASI as a feature, not as distinct hardware.

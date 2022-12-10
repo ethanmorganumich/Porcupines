@@ -1,0 +1,7 @@
+Color~Lighting~
+||||||
+Color temperature
+||||||
+Color temperature is the color of light emitted by an idealized opaque, non-reflective body at a particular temperature measured in kelvins. The color temperature scale is used to categorize the color of light emitted by other light sources regardless of their temperature.
+Color temperature is a characteristic of visible light that has important applications in lighting, photography, videography, publishing, manufacturing, astrophysics, horticulture, and other fields. In practice, color temperature is meaningful only for light sources that do in fact correspond somewhat closely to the color of some black body, i.e., light in a range going from red to orange to yellow to white to bluish white; it does not make sense to speak of the color temperature of, e.g., a green or a purple light. Color temperature is conventionally expressed in kelvins, using the symbol K, a unit of measure for absolute temperature.
+Color temperatures over 5000 K are called "cool colors" (bluish), while lower color temperatures (2700–3000 K) are called "warm colors" (yellowish). "Warm" in this context is an analogy to radiated heat flux of traditional incandescent lighting rather than temperature. The spectral peak of warm-colored light is closer to infrared, and most natural warm-colored light sources emit significant infrared radiation. The fact that "warm" lighting in this sense actually has a "cooler" color temperature often leads to confusion.

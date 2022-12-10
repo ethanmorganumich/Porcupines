@@ -1,0 +1,8 @@
+Bass (sound)~Nonchord tones~
+||||||
+Pedal point
+||||||
+In music, a pedal point (also pedal note, organ point, pedal tone, or pedal) is a sustained tone, typically in the bass, during which at least one foreign (i.e. dissonant) harmony is sounded in the other parts. A pedal point sometimes functions as a "non-chord tone", placing it in the categories alongside suspensions, retardations, and passing tones. However, the pedal point is unique among non-chord tones, "in that it begins on a consonance, sustains (or repeats) through another chord as a dissonance until the harmony", not the non-chord tone, "resolves back to a consonance".
+
+Pedal points "have a strong tonal effect, 'pulling' the harmony back to its root". Pedal points can also build drama or intensity and expectation. When a pedal point occurs in a voice other than the bass, it is usually referred to as an inverted pedal point (see inversion). Pedal points are usually on either the tonic or the dominant (fifth note of the scale) tones. The pedal tone is considered a chord tone in the original harmony, then a nonchord tone during the intervening dissonant harmonies, and then a chord tone again when the harmony resolves. A dissonant pedal point may go against all harmonies present during its duration, being almost more like an added tone than a nonchord tone, or pedal points may serve as atonal pitch centers.
+The term comes from the organ for its ability to sustain a note indefinitely and the tendency for such notes to be played on an organ's pedal keyboard. The pedal keyboard on an organ is played by the feet; as such, the organist can hold down a pedal point for lengthy periods while both hands perform higher-register music on the manual keyboards.

@@ -1,0 +1,9 @@
+Aircraft wing design~Flying wings~Wing configurations~
+||||||
+Flying wing
+||||||
+A flying wing is a tailless fixed-wing aircraft that has no definite fuselage, with its crew, payload, fuel, and equipment housed inside the main wing structure. A flying wing may have various small protuberances such as pods, nacelles, blisters, booms, or vertical stabilizers.
+Similar aircraft designs, that are not technically flying wings, are sometimes casually referred to as such. These types include blended wing body aircraft and lifting body aircraft, which have a fuselage and no definite wings.
+A pure flying wing is theoretically the lowest drag design configuration for a fixed wing aircraft. However, because it lacks conventional stabilizing surfaces and the associated control surfaces, in its purest form the flying wing suffers from being unstable and difficult to control.
+The basic flying wing configuration became an object of significant study during the 1920s, often in conjunction with other tailless designs. In the Second World War, both Nazi Germany and the Allies made advances in developing flying wings. Military interest in the flying wing waned during the 1950s with the development of supersonic aircraft, but was renewed in the 1980s due to their potential for stealth technology. This approach eventually led to the Northrop Grumman B-2 Spirit stealth bomber. There has been continual interest in using it in the large transport roles for cargo or passengers. Boeing, McDonnell Douglas, and Armstrong Whitworth have undertaken design studies on flying wing airliners; however, no such airliners have yet been built.
+The flying wing concept is mostly suited to subsonic aircraft. No supersonic flying wing has ever been built.

@@ -1,0 +1,30 @@
+Legal terminology~Property law~
+||||||
+Title (property)
+||||||
+In property law, title is an intangible construct representing a bundle of rights in (to) a piece of property in which a party may own either a legal interest or equitable interest. The rights in the bundle may be separated and held by different parties. It may also refer to a formal document, such as a deed, that serves as evidence of ownership. Conveyance of the document (transfer of title to the property) may be required in order to transfer ownership in the property to another person. Title is distinct from possession, a right that often accompanies ownership but is not necessarily sufficient to prove it (for example squatting). In many cases, possession and title may each be transferred independently of the other. For real property, land registration and recording provide public notice of ownership information.
+In United States law, evidence of title is typically established through title reports written up by title insurance companies, which show the history of title (property abstract and chain of title) as determined by the recorded public record deeds; the title report will also show applicable encumbrances such as easements, liens, or covenants. In exchange for insurance premiums, the title insurance company conducts a title search through public records and provides assurance of good title, reimbursing the insured if a dispute over the title arises. In the case of vehicle ownership, a simple vehicle title document may be issued by a governmental agency.
+The main rights in the title bundle are usually:
+
+Exclusive possession
+Exclusive use and enclosure
+Acquisition
+Conveyance, including by bequest
+Access easement
+Hypothecation
+PartitionThe rights in real property may be separated further, examples including:
+
+Water rights, including riparian rights and runoff rights
+In some U.S. states, water rights are completely separate from land—see prior appropriation water rights
+Mineral rights
+Easement to neighboring property, for utility lines, etc.
+Tenancy or tenure in improvements
+Timber rights
+Farming rights
+Grazing rights
+Hunting rights
+Air rights
+Development rights to erect improvements under various restrictions
+Appearance rights, often subjected to local zoning ordinances and deed restrictionsPossession is the actual holding of a thing, whether or not one has any right to do so. The right of possession is the legitimacy of possession (with or without actual possession), evidence for which is such that the law will uphold it unless a better claim is proven. The right of property is that right which, if all relevant facts are known (and allowed), defeats all other claims.  Each of these may be in a different person.
+For example, suppose A steals from B something that B had previously bought in good faith from C and that C had earlier stolen from D and that had been an heirloom of D's family for generations but had originally been stolen centuries earlier (though this fact is now forgotten by all) from E. Here A has the possession, B has an apparent right of possession (as evidenced by the purchase), D has the absolute right of possession (being the best claim that can be proven), and the heirs of E, if they knew it, would have the right of property, which they however could not prove. A good title consists of the combination of these three (possession, right of possession, and right of property) in the same person(s).
+The extinguishing of ancient, forgotten, or unasserted claims, such as E's in the example above, was the original purpose of statutes of limitations. Otherwise, title to property would always be uncertain.

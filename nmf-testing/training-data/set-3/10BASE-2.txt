@@ -1,0 +1,6 @@
+Ethernet standards~
+||||||
+10BASE2
+||||||
+10BASE2 (also known as cheapernet, thin Ethernet, thinnet, and thinwire) is a variant of Ethernet that uses thin coaxial cable terminated with BNC connectors to build a local area network. 
+During the mid to late 1980s this was the dominant 10 Mbit/s Ethernet standard, but due to the immense demand for high-speed networking, the low cost of Category 5 cable, and the popularity of 802.11 wireless networks, both 10BASE2 and 10BASE5 have become increasingly obsolete, though devices still exist in some locations. As of 2011, IEEE 802.3 has deprecated this standard for new installations.

@@ -1,0 +1,7 @@
+Audio storage~Audiovisual introductions in 2006~Consumer electronics~DVD~Discontinued media formats~HD DVD~High-definition television~Optical computer storage media~Products and services discontinued in 2008~Rotating disc computer storage media~
+||||||
+HD DVD
+||||||
+HD DVD (short for High Definition Digital Versatile Disc) is an obsolete high-density optical disc format for storing data and playback of high-definition video. Supported principally by Toshiba, HD DVD was envisioned to be the successor to the standard DVD format.
+HD DVD employed a blue laser with a shorter wavelength (with the exception of the 3× DVD and HD REC variants), and it stored about 3.2 times as much data per layer as its predecessor (maximum capacity: 15 GB per layer compared to 4.7 GB per layer on a DVD). The format was commercially released in 2006 and fought a protracted format war with rival Blu-ray. On February 19, 2008, Toshiba abandoned the format, announcing it would no longer manufacture HD DVD players and drives. The HD DVD Promotion Group was dissolved on March 28, 2008.The HD DVD physical disc specifications (but not the codecs) were used as the basis for the China Blue High-definition Disc (CBHD) formerly called CH-DVD.
+

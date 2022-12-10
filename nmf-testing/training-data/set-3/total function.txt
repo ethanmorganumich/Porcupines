@@ -1,0 +1,259 @@
+Functions and mappings~Mathematical relations~
+||||||
+Partial function
+||||||
+In mathematics, a partial function f from a set X to a set Y is a function from a subset S of X (possibly X itself) to Y. The subset S, that is, the domain of f viewed as a function, is called the domain of definition of f. If S equals X, that is, if f is defined on every element in X, then f is said to be total.
+More technically, a partial function is a binary relation over two sets that associates every element of the first set to at most one element of the second set; it is thus a functional binary relation. It generalizes the concept of a (total) function by not requiring every element of the first set to be associated to exactly one element of the second set.
+A partial function is often used when its exact domain of definition is not known or difficult to specify. This is the case in calculus, where, for example, the quotient of two functions is a partial function whose domain of definition cannot contain the zeros of the denominator. For this reason, in calculus, and more generally in mathematical analysis, a partial function is generally called simply a function. In computability theory, a general recursive function is a partial function from the integers to the integers; for many of them no algorithm can exist for deciding whether they are in fact total.
+When arrow notation is used for functions, a partial function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   from 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   to 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   is sometimes written as 
+  
+    
+      
+        f
+        :
+        X
+        ⇀
+        Y
+        ,
+      
+    
+    {\displaystyle f:X\rightharpoonup Y,}
+   
+  
+    
+      
+        f
+        :
+        X
+        ↛
+        Y
+        ,
+      
+    
+    {\displaystyle f:X\nrightarrow Y,}
+   or 
+  
+    
+      
+        f
+        :
+        X
+        ↪
+        Y
+        .
+      
+    
+    {\displaystyle f:X\hookrightarrow Y.}
+   However, there is no general convention, and the latter notation is more commonly used for inclusion maps or embeddings.Specifically, for a partial function 
+  
+    
+      
+        f
+        :
+        X
+        ⇀
+        Y
+        ,
+      
+    
+    {\displaystyle f:X\rightharpoonup Y,}
+   and any 
+  
+    
+      
+        x
+        ∈
+        X
+        ,
+      
+    
+    {\displaystyle x\in X,}
+   one has either:
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        y
+        ∈
+        Y
+      
+    
+    {\displaystyle f(x)=y\in Y}
+   (it is a single element in Y), or
+
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   is undefined.For example, if 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   is the square root function restricted to the integers
+
+  
+    
+      
+        f
+        :
+        
+          Z
+        
+        →
+        
+          N
+        
+        ,
+      
+    
+    {\displaystyle f:\mathbb {Z} \to \mathbb {N} ,}
+   defined by:
+
+  
+    
+      
+        f
+        (
+        n
+        )
+        =
+        m
+      
+    
+    {\displaystyle f(n)=m}
+   if, and only if, 
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+        =
+        n
+        ,
+      
+    
+    {\displaystyle m^{2}=n,}
+   
+  
+    
+      
+        m
+        ∈
+        
+          N
+        
+        ,
+        n
+        ∈
+        
+          Z
+        
+        ,
+      
+    
+    {\displaystyle m\in \mathbb {N} ,n\in \mathbb {Z} ,}
+  then 
+  
+    
+      
+        f
+        (
+        n
+        )
+      
+    
+    {\displaystyle f(n)}
+   is only defined if 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is a perfect square (that is, 
+  
+    
+      
+        0
+        ,
+        1
+        ,
+        4
+        ,
+        9
+        ,
+        16
+        ,
+        …
+      
+    
+    {\displaystyle 0,1,4,9,16,\ldots }
+  ). So 
+  
+    
+      
+        f
+        (
+        25
+        )
+        =
+        5
+      
+    
+    {\displaystyle f(25)=5}
+   but 
+  
+    
+      
+        f
+        (
+        26
+        )
+      
+    
+    {\displaystyle f(26)}
+   is undefined.

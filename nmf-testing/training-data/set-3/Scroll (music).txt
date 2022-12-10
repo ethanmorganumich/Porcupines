@@ -1,0 +1,7 @@
+String instrument construction~String instrument stubs~
+||||||
+Scroll (music)
+||||||
+A scroll is the decoratively carved beginning of the neck of certain stringed instruments, mainly members of the violin family. The scroll is typically carved in the shape of a volute (a rolled-up spiral) according to a canonical pattern, although some violins are adorned with carved heads, human and animal. The quality of a scroll is one of the things used to judge the luthier's skill.  Instrument scrolls usually approximate a logarithmic spiral.  Although many references assert that the instrument scroll closely follows the golden spiral (a specific form of the logarithmic spiral) this assertion is demonstrably false.Scrollwork is a common feature of Baroque ornament, the period when string instrument design became essentially fixed. 
+
+Below the scroll is a hollowed-out compartment (the pegbox) through which the tuning pegs pass. The instrument's strings are wound around these pegs. The scroll and pegbox are almost always carved out of one piece of wood. In addition, the scroll aids in tuning solely with the pegs by providing leverage to push the peg in as it is being wound, preventing it from slipping out.

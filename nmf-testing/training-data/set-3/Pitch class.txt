@@ -1,0 +1,10 @@
+Musical notation~Musical set theory~Pitch (music)~
+||||||
+Pitch class
+||||||
+In music, a pitch class (p.c. or pc) is a set of all pitches that are a whole number of octaves apart; for example, the pitch class C consists of the Cs in all octaves. "The pitch class C stands for all possible Cs, in whatever octave position." Important to musical set theory, a pitch class is "all pitches related to each other by octave, enharmonic equivalence, or both." Thus, using scientific pitch notation, the pitch class "C" is the set
+
+{Cn : n is an integer} = {..., C−2, C−1, C0, C1, C2, C3 ...}.Although there is no formal upper or lower limit to this sequence, only a few of these pitches are audible to humans. 
+Pitch class is important because human pitch-perception is periodic: pitches belonging to the same pitch class are perceived as having a similar quality or color, a property called "octave equivalence".
+Psychologists refer to the quality of a pitch as its "chroma". A chroma is an attribute of pitches (as opposed to tone height), just like hue is an attribute of color. A pitch class is a set of all pitches that share the same chroma, just like "the set of all white things" is the collection of all white objects.Note that in standard Western equal temperament, distinct spellings can refer to the same sounding object: B♯3, C4, and D4 all refer to the same pitch, hence share the same chroma, and therefore belong to the same pitch class. This phenomenon is called enharmonic equivalence.
+

@@ -1,0 +1,6 @@
+Meromorphic functions~
+||||||
+Meromorphic function
+||||||
+In the mathematical field of complex analysis, a meromorphic function on an open subset D of the complex plane is a function that is holomorphic on all of D except  for a set of isolated points, which are poles of the function. The term comes from the Ancient Greek meros (μέρος), meaning "part".Every meromorphic function on D can be expressed as the ratio between two holomorphic functions (with the denominator not constant 0) defined on D: any pole must coincide with a zero of the denominator.
+

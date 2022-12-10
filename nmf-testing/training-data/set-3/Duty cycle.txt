@@ -1,0 +1,80 @@
+Mechanical engineering~Timing in electronic circuits~
+||||||
+Duty cycle
+||||||
+A duty cycle or power cycle is the fraction of one period in which a signal or system is active. Duty cycle is commonly expressed as a percentage or a ratio.  A period is the time it takes for a signal to complete an on-and-off cycle. As a formula, a duty cycle (%) may be expressed as:
+
+  
+    
+      
+        D
+        =
+        
+          
+            
+              P
+              W
+            
+            T
+          
+        
+        ×
+        100
+        %
+      
+    
+    {\displaystyle D={\frac {PW}{T}}\times 100\%}
+  Equally, a duty cycle (ratio) may be expressed as:
+
+  
+    
+      
+        D
+        =
+        
+          
+            
+              P
+              W
+            
+            T
+          
+        
+      
+    
+    {\displaystyle D={\frac {PW}{T}}}
+  where 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   is the duty cycle, 
+  
+    
+      
+        P
+        W
+      
+    
+    {\displaystyle PW}
+   is the pulse width (pulse active time), and 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   is the total period of the signal. Thus, a 60% duty cycle means the signal is on 60% of the time but off 40% of the time. The "on time" for a 60% duty cycle could be a fraction of a second, a day, or even a week, depending on the length of the period.
+Duty cycles can be used to describe the percent time of an active signal in an electrical device such as the power switch in a switching power supply or the firing of action potentials by a living system such as a neuron.The duty factor for periodic signal expresses the same notion, but is usually scaled to a maximum of one rather than 100%.The duty cycle can also be notated as 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  .

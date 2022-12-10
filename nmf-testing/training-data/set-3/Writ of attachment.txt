@@ -1,0 +1,8 @@
+Judicial remedies~Law stubs~Writs~
+||||||
+Writ of attachment
+||||||
+A writ of attachment is a court order to "attach" or seize an asset.  It is issued by a court to a law enforcement officer or sheriff. The writ of attachment is issued in order to satisfy a judgment issued by the court.
+A prejudgment writ of attachment may be ordered in a legal action where a plaintiff has demonstrated meritorious allegations, fraud in the underlying action, or that defendant may attempt to dispose of or hide assets from the court.  In this context, a prejudgment writ of attachment functions much like a temporary restraining order (TRO), which preserves the status quo pending a final resolution of the dispute.  However, unlike a TRO, a prejudgment writ of attachment provides a source of financial recovery for a plaintiff.  Usually, a plaintiff seeking a prejudgment writ of attachment must post a surety bond of up to two times the amount of the damages claimed by the plaintiff. Common grounds for obtaining a prejudgment writ of attachment are that a defendant has committed fraud or that a defendant is prepared to hide assets from a court.
+One species of this writ is called a "writ of body attachment".  This writ may be available to a court wishing to bring into its presence a person who has been held in contempt of court.  In this situation, the writ is also sometimes called a "writ of bodily attachment", an "order of commitment for civil contempt", or a "warrant for civil arrest".
+

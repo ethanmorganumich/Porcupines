@@ -1,0 +1,8 @@
+Film and video technology~Video editing software~
+||||||
+Video editing software
+||||||
+Video editing software, or a video editor is software used performing the post-production video editing of digital video sequences on a non-linear editing system (NLE). It has replaced traditional flatbed celluloid film editing tools and analog video tape-to-tape online editing machines.
+Video editing software serves a lot of purposes, such as filmmaking, audio commentary, and general editing of video content.
+In NLE software, the user manipulates sections of video, images, and audio on a sequence. These clips can be trimmed, cut, and manipulated in many different ways. When editing is finished, the user exports the sequence as a video file.
+

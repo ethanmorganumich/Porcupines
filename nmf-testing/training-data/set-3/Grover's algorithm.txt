@@ -1,0 +1,63 @@
+Post-quantum cryptography~Quantum algorithms~Search algorithms~
+||||||
+Grover's algorithm
+||||||
+In quantum computing, Grover's algorithm, also known as the quantum search algorithm, refers to a quantum algorithm for unstructured search that finds with high probability the unique input to a black box function that produces a particular output value, using just 
+  
+    
+      
+        O
+        (
+        
+          
+            N
+          
+        
+        )
+      
+    
+    {\displaystyle O({\sqrt {N}})}
+   evaluations of the function, where 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   is the size of the function's domain. It was devised by Lov Grover in 1996.The analogous problem in classical computation cannot be solved in fewer than 
+  
+    
+      
+        O
+        (
+        N
+        )
+      
+    
+    {\displaystyle O(N)}
+   evaluations (because, on average, one has to check half of the domain to get a 50% chance of finding the right input). Charles H. Bennett, Ethan Bernstein, Gilles Brassard, and Umesh Vazirani proved that any quantum solution to the problem needs to evaluate the function 
+  
+    
+      
+        Ω
+        (
+        
+          
+            N
+          
+        
+        )
+      
+    
+    {\displaystyle \Omega ({\sqrt {N}})}
+   times, so Grover's algorithm is asymptotically optimal. Since classical algorithms for NP-complete problems require exponentially many steps, and Grover's algorithm provides at most a quadratic speedup over the classical solution for unstructured search, this suggests that Grover's algorithm by itself will not provide polynomial-time solutions for NP-complete problems (as the square root of an exponential function is an exponential, not polynomial, function).Unlike other quantum algorithms, which may provide exponential speedup over their classical counterparts, Grover's algorithm provides only a quadratic speedup. However, even quadratic speedup is considerable when 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   is large, and Grover's algorithm can be applied to speed up broad classes of algorithms. Grover's algorithm could brute-force a 128-bit symmetric cryptographic key in roughly 264 iterations, or a 256-bit key in roughly 2128 iterations. As a result, it is sometimes suggested that symmetric key lengths be doubled to protect against future quantum attacks.
+

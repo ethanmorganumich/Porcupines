@@ -1,0 +1,6 @@
+Chip carriers~
+||||||
+Pin grid array
+||||||
+A pin grid array (PGA) is a type of integrated circuit packaging. In a PGA, the package is square or rectangular, and the pins are arranged in a regular array on the underside of the package. The pins are commonly spaced 2.54 mm (0.1") apart, and may or may not cover the entire underside of the package.
+PGAs are often mounted on printed circuit boards using the through hole method or inserted into a socket. PGAs allow for more pins per integrated circuit than older packages, such as dual in-line package (DIP).

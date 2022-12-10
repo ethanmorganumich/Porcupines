@@ -1,0 +1,7 @@
+Architectural element stubs~Architectural elements~Roofs~
+||||||
+Saddle roof
+||||||
+A  saddle roof is a roof form which follows a convex curve about one axis and a concave curve about the other.  The hyperbolic paraboloid form has been used for roofs at various times since it is easily constructed from straight sections of lumber, steel, or other conventional materials.  The term is used because the form resembles the shape of a saddle.
+Sometimes referred to as a hypar, the saddle roof may also be formed as a tensegrity structure.Mathematically, a saddle shape contains at least one saddle point.
+The historical meaning is a synonym for a gable roof particularly a dual-pitched roof on a tower,  also called a pack-saddle roof.

@@ -1,0 +1,5 @@
+Internet search engines~Search engine optimization~Yandex~
+||||||
+MatrixNet
+||||||
+MatrixNet is a proprietary machine learning algorithm developed by Yandex and used widely throughout the company products. The algorithm is based on gradient boosting and was introduced since 2009.

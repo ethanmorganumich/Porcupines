@@ -1,0 +1,6 @@
+Music theory stubs~Musical notation~
+||||||
+Cue note
+||||||
+In musical notation, a cue note is or cue notes are indications informing players, "of important passages being played by other instruments, [such as an] entrance after a long period of rest." A cue may also function as a guideline for another instrument for musical improvisation or if there are many bars rest to help the performer find where to come in.
+"Cue notes may be given as guidance only, to assist a performer's entrance after numerous measures of rest....[Their size, and all elements associated with them] is somewhat smaller than normal note size, but still large enough to be legible (65-75% of normal note size)."The cued instrument is indicated with text and the cue notes are smaller than the rest. The stems of cue notes all go in the same direction and cue notes are transposed into the key of the part entering.

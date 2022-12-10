@@ -1,0 +1,14 @@
+7-limit tuning and intervals~Harmonic series (music)~Sevenths (music)~
+||||||
+Harmonic seventh
+||||||
+The harmonic seventh interval, also known as the septimal minor seventh, or subminor seventh, is one with an exact 7:4 ratio (about 969 cents). This is somewhat narrower than and is, "particularly sweet", "sweeter in quality" than an "ordinary" just minor seventh, which has an intonation ratio of 9:5 (about 1018 cents).
+
+The harmonic seventh arises from the harmonic series as the interval between the fourth harmonic (second octave of the fundamental) and the seventh harmonic; in that octave, harmonics 4, 5, 6, and 7 constitute a purely consonant major chord with added seventh (root position).
+
+When played on the natural horn, as a compromise the note is often adjusted to 16:9 of the root (for C maj7♭, the substituted note is B♭-, 996.09 cents), but some pieces call for the pure harmonic seventh, including Britten's Serenade for Tenor, Horn and Strings. Composer Ben Johnston uses a small "7" as an accidental to indicate a note is lowered 49 cents (1018 − 969 = 49), or an upside-down "7" to indicate a note is raised 49 cents. Thus, in C major, "the seventh partial", or harmonic seventh, is notated as ♭ note with "7" written above the flat.
+
+The harmonic seventh is also expected from barbershop quartet singers when they tune dominant seventh chords (harmonic seventh chord), and is considered an essential aspect of the barbershop style.
+
+In ¼ comma meantone tuning, standard in the Baroque and earlier, the augmented sixth is 965.78 cents – only 3 cents below 7:4, well within normal tuning error and vibrato. Pipe organs were the last fixed-tuning instrument to adopt equal temperament. With the transition of organ tuning from meantone to equal-temperament in the late 19th and early 20th centuries the formerly harmonic Gmaj7♭ and B♭maj7♭ became "lost chords" (among other chords).
+The harmonic seventh differs from the Pythagorean augmented sixth by 225/224 (7.71 cents), or about ⅓ comma. The harmonic seventh note is about ⅓ semitone (≈ 31 cents) flatter than an equal-tempered minor seventh. When this flatter seventh is used, the dominant seventh chord's "need to resolve" down a fifth is weak or non-existent. This chord is often used on the tonic (written as I7) and functions as a "fully resolved" final chord.The twenty-first harmonic (470.78 cents) is the harmonic seventh of the dominant, and would then arise in chains of secondary dominants (known as the Ragtime progression) in styles using harmonic sevenths, such as barbershop music.

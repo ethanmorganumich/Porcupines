@@ -1,0 +1,8 @@
+Analog video connectors~Composite video formats~Film and video technology~Repurposing~Television technology~Video signal~
+||||||
+Composite video
+||||||
+Composite video is an analog video signal format that carries standard-definition video (typically at 525 lines or 625 lines) as a single channel. Video information is encoded on one channel, unlike the higher-quality S-Video (two channels) and the even higher-quality component video (three or more channels). In all of these video formats, audio is carried on a separate connection.
+Composite video is also known by the initials CVBS for composite video baseband signal or color, video, blanking and sync, or is simply referred to as SD video for the standard-definition television signal it conveys.
+There are three dominant variants of composite video signals, corresponding to the analog color system used: NTSC, PAL, and SECAM. Usually composite video is carried by a yellow RCA connector, but other connections are used in professional settings.
+

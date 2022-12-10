@@ -1,0 +1,7 @@
+Mathematical terminology~Order theory~Real analysis~
+||||||
+Upper and lower bounds
+||||||
+In mathematics, particularly in order theory, an upper bound or majorant of a subset S of some preordered set (K, ≤) is an element of K that is greater than or equal to every element of S.Dually, a lower bound or minorant of S is defined to be an element of K that is less than or equal to every element of S. 
+A set with an upper (respectively, lower) bound is said to be bounded from above or majorized (respectively bounded from below or minorized) by that bound. 
+The terms bounded above (bounded below) are also used in the mathematical literature for sets that have upper (respectively lower) bounds.

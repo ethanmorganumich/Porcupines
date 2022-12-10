@@ -1,0 +1,6 @@
+Annuities~Mathematical finance~
+||||||
+Perpetuity
+||||||
+A perpetuity is an annuity that has no end, or a stream of cash payments that continues forever. There are few actual perpetuities in existence.  For example, the United Kingdom (UK) government issued them in the past; these were known as consols and were all finally redeemed in 2015. Real estate and preferred stock are among some types of investments that affect the results of a perpetuity, and prices can be established using techniques for valuing a perpetuity. Perpetuities are but one of the time value of money methods for valuing financial assets. Perpetuities are a form of ordinary annuities.
+The concept is closely linked to terminal value and terminal growth rate in valuation.

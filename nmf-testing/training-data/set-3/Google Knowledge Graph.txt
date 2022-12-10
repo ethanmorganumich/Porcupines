@@ -1,0 +1,8 @@
+Google Search~Internet search engines~Knowledge bases~Products introduced in 2012~
+||||||
+Google Knowledge Graph
+||||||
+The Google Knowledge Graph is a knowledge base from which Google serves relevant information in an infobox beside its search results. This allows the user to see the answer in a glance. The data is generated automatically from a variety of sources, covering places, people, businesses, and more. The information covered by Google's Knowledge Graph grew quickly after launch, tripling its size within seven months (covering 570 million entities and 18 billion facts). By mid-2016, Google reported that it held 70 billion facts and answered "roughly one-third" of the 100 billion monthly searches they handled. By May 2020, this had grown to 500 billion facts on 5 billion entities.There is no official documentation of how the Google Knowledge Graph is implemented.  
+According to Google, its information is retrieved from many sources, including the CIA World Factbook and Wikipedia.
+It is used to answer direct spoken questions in Google Assistant and Google Home voice queries.  
+It has been criticized for providing answers without source attribution or citation.

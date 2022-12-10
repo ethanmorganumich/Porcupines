@@ -1,0 +1,8 @@
+Competition (economics)~Economics and finance stubs~Oligopoly~
+||||||
+Differentiated Bertrand competition
+||||||
+As a solution to the Bertrand paradox in economics, it has been suggested that each firm produces a somewhat differentiated product, and consequently faces a demand curve that is downward-sloping for all levels of the firm's price.
+An increase in a competitor's price is represented as an increase (for example, an upward shift) of the firm's demand curve.
+As a result, when a competitor raises price, generally a firm can also raise its own price and increase its profits.
+

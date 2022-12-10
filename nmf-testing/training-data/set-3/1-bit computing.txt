@@ -1,0 +1,7 @@
+Data unit~Programmable logic controllers~
+||||||
+1-bit computing
+||||||
+In computer architecture, 1-bit integers or other data units are those that are 1 bit (1/8 octet) wide. Also, 1-bit central processing unit (CPU) and arithmetic logic unit (ALU) architectures are those that are based on registers of that size.
+There are no computers or microcontrollers of any kind that are exclusively 1-bit for all registers and address buses. A 1-bit register can only store 21 different values, i.e. 0 or 1 (off or on, respectively). This is very restrictive and therefore not enough for a program counter which, on modern systems, is implemented in an on-chip register, that isn't implemented on-chip in some 1-bit systems. Opcodes for at least one 1-bit processor architecture were 4-bit and the address bus was 8-bit.
+While 1-bit CPUs are obsolete, the first carbon nanotube computer from 2013 is a 1-bit one-instruction set computer (and has only 178 transistors).

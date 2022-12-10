@@ -1,0 +1,11 @@
+Electric power distribution~Electrical engineering~
+||||||
+Electric power distribution
+||||||
+Electric power distribution is the final stage in the delivery of electric power; it carries electricity from the transmission system to individual consumers. Distribution substations connect to the transmission system and lower the transmission voltage to medium voltage ranging between 2 kV and 35 kV with the use of transformers. Primary distribution lines carry this medium voltage power to distribution transformers located near the customer's premises. Distribution transformers again lower the voltage to the utilization voltage used by lighting, industrial equipment and household appliances. Often several customers are supplied from one transformer through secondary distribution lines. Commercial and residential customers are connected to the secondary distribution lines through service drops. Customers demanding a much larger amount of power may be connected directly to the primary distribution level or the subtransmission level.
+
+The transition from transmission to distribution happens in a power substation, which has the following functions:
+Circuit breakers and switches enable the substation to be disconnected from the transmission grid or for distribution lines to be disconnected.
+Transformers step down transmission voltages, 35 kV or more, down to primary distribution voltages. These are medium voltage circuits, usually 600–35000 V.
+From the transformer, power goes to the busbar that can split the distribution power off in multiple directions. The bus distributes power to distribution lines, which fan out to customers.Urban distribution is mainly underground, sometimes in common utility ducts. Rural distribution is mostly above ground with utility poles, and suburban distribution is a mix.
+Closer to the customer, a distribution transformer steps the primary distribution power down to a low-voltage secondary circuit, usually 120/240 V in the US for residential customers. The power comes to the customer via a service drop and an electricity meter. The final circuit in an urban system may be less than 15 metres (50 ft), but may be over 91 metres (300 ft) for a rural customer.

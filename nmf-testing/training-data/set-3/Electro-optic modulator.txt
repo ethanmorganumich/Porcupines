@@ -1,0 +1,31 @@
+Nonlinear optics~Optical devices~Optoelectronics~
+||||||
+Electro-optic modulator
+||||||
+An electro-optic modulator (EOM) is an optical device in which a signal-controlled element exhibiting an electro-optic effect is used to modulate a beam of light. The modulation may be imposed on the phase, frequency, amplitude, or polarization of the beam. Modulation bandwidths extending into the gigahertz range are possible with the use of laser-controlled modulators.
+The electro-optic effect is the change in the refractive index of a material resulting from the application of a DC or low-frequency electric field. This is caused by forces that distort the position, orientation, or shape of the molecules constituting the material. Generally, a nonlinear optical material (organic polymers have the fastest response rates, and thus are best for this application) with an incident static or low frequency optical field will see a modulation of its refractive index.
+The simplest kind of EOM consists of a crystal, such as lithium niobate (LiNbO3), whose refractive index is a function of the strength of the local electric field. That means that if lithium niobate is exposed to an electric field, light will travel more slowly through it. But the phase of the light leaving the crystal is directly proportional to the length of time it takes that light to pass through it. Therefore, the phase of the laser light exiting an EOM can be controlled by changing the electric field in the crystal.
+Note that the electric field can be created by placing a parallel plate capacitor across the crystal. Since the field inside a parallel plate capacitor depends linearly on the potential, the index of refraction depends linearly on the field (for crystals where Pockels effect dominates), and the phase depends linearly on the index of refraction, the phase modulation must depend linearly on the potential applied to the EOM.
+The voltage required for inducing a phase change of 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   is called the half-wave voltage (
+  
+    
+      
+        
+          V
+          
+            π
+          
+        
+      
+    
+    {\displaystyle V_{\pi }}
+  ). For a Pockels cell, it is usually hundreds or even thousands of volts, so that a high-voltage amplifier is required. Suitable electronic circuits can switch such large voltages within a few nanoseconds, allowing the use of EOMs as fast optical switches.
+Liquid crystal devices are electro-optical phase modulators if no polarizers are used.

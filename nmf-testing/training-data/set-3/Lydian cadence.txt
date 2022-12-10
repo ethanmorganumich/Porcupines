@@ -1,0 +1,5 @@
+Cadences~Music theory stubs~
+||||||
+Lydian cadence
+||||||
+A Lydian cadence is a type of half cadence that was popular in the Ars nova style of the 14th and early 15th century. It is so-called because it evokes the Lydian mode based on its final chord as a tonic, and may be construed with the chord symbols VII♯63-I (if the final is taken as a Lydian-mode tonic) or III63-IV (if the final is taken as a  in major). It is also the most common type of double-leading-tone cadence, as it contains two leading-tone resolutions (♯- and -). A frequently-used type of Landini cadence is based on the Lydian cadence, with the upper voice dropping to  before skipping back up to the tonic.

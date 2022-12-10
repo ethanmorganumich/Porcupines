@@ -1,0 +1,28 @@
+Optoelectronics~
+||||||
+Optoelectronics
+||||||
+Optoelectronics (or optronics) is the study and application of electronic devices and systems that find, detect and control light, usually considered a sub-field of photonics.  In this context, light often includes invisible forms of radiation such as gamma rays, X-rays, ultraviolet and infrared, in addition to visible light.  Optoelectronic devices are electrical-to-optical or optical-to-electrical transducers, or instruments that use such devices in their operation.Electro-optics is often erroneously used as a synonym, but is a wider branch of physics that concerns all interactions between light and electric fields, whether or not they form part of an electronic device.
+Optoelectronics is based on the quantum mechanical effects of light on electronic materials, especially semiconductors, sometimes in the presence of electric fields.
+Photoelectric or photovoltaic effect, used in:
+photodiodes (including solar cells)
+phototransistors
+photomultipliers
+optoisolators
+integrated optical circuit (IOC) elements
+Photoconductivity, used in:
+photoresistors
+photoconductive camera tubes
+charge-coupled imaging devices
+Stimulated emission, used in:
+injection laser diodes
+quantum cascade lasers
+Lossev effect, or radiative recombination, used in:
+light-emitting diodes or LED
+OLEDs
+Photoemissivity, used in
+photoemissive camera tubeImportant applications of optoelectronics include:
+
+Optocoupler
+Optical fiber communications
+

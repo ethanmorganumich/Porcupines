@@ -1,0 +1,6 @@
+Educational technology~
+||||||
+Computer-supported collaborative learning
+||||||
+Computer-supported collaborative learning (CSCL) is a pedagogical approach wherein learning takes place via social interaction using a computer or through the Internet. This kind of learning is characterized by the sharing and construction of knowledge among participants using technology as their primary means of communication or as a common resource. CSCL can be implemented in online and classroom learning environments and can take place synchronously or asynchronously.
+The study of computer-supported collaborative learning draws on a number of academic disciplines, including instructional technology, educational psychology, sociology, cognitive psychology, and social psychology. It is related to collaborative learning and computer supported cooperative work (CSCW).

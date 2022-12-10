@@ -1,0 +1,6 @@
+Electronic band structures~
+||||||
+Valence and conduction bands
+||||||
+In solid-state physics, the valence band and conduction band are the bands closest to the Fermi level, and thus determine the electrical conductivity of the solid. In nonmetals, the valence band is the highest range of electron energies in which electrons are normally present at absolute zero temperature, while the conduction band is the lowest range of vacant electronic states. On a graph of the electronic band structure of a material, the valence band is located below the Fermi level, while the conduction band is located above it. 
+The distinction between the valence and conduction bands is meaningless in metals, because conduction occurs in one or more partially filled bands that take on the properties of both the valence and conduction bands.

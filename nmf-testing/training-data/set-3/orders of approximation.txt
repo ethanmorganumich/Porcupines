@@ -1,0 +1,6 @@
+Numerical analysis~Perturbation theory~
+||||||
+Order of approximation
+||||||
+In science, engineering, and other quantitative disciplines, order of approximation refers to formal or informal expressions for how accurate an approximation is.
+

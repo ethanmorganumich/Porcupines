@@ -1,0 +1,5 @@
+Law of negligence~Legal doctrines and principles~Tort law~
+||||||
+Contributory negligence
+||||||
+In some common law jurisdictions, contributory negligence is a defense to a tort claim based on negligence. If it is available, the defense completely bars plaintiffs from any recovery if they contribute to their own injury through their own negligence.Because the contributory negligence doctrine can lead to harsh results, many common law jurisdictions have abolished it in favor of a "comparative fault" or "comparative negligence" approach. A comparative negligence approach reduces the plaintiff's damages award by the percentage of fault that the fact-finder assigns to the plaintiff for his or her own injury. For example, if a jury thinks that the plaintiff is 30% at fault for his own injury, the plaintiff's damages award will be reduced by 30%.

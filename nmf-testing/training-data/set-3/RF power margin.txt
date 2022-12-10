@@ -1,0 +1,8 @@
+Radio communications stubs~Radio technology~Radio transmission power~
+||||||
+RF power margin
+||||||
+In telecommunication, the term RF power margin has the following meanings: 
+
+The amount of transmitter power above that which is computed by the link designer as the minimum required to meet specified link performance.  The RF power margin allows for uncertainties in (a) empirical components of the signal level prediction method, (b) terrain characteristics, (c) atmospheric conditions, and (d) equipment performance parameters.
+At any given time in an operational link, the reserve transmitter power over that which is required to maintain specified link performance.

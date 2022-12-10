@@ -1,0 +1,6 @@
+Architectural elements~Energy conservation~Solar architecture~Types of wall~
+||||||
+Double-skin facade
+||||||
+The double-skin façade is a system of building consisting of two skins, or façades, placed in such a way that air flows in the intermediate cavity. The ventilation of the cavity can be natural, fan supported or mechanical. Apart from the type of the ventilation inside the cavity, the origin and destination of the air can differ depending mostly on climatic conditions, the use, the location, the occupational hours of the building and the HVAC strategy.
+The glass skins can be single or double glazing units with a distance from 20 cm up to 2 metres. Often, for protection and heat extraction reasons during the cooling period, solar shading devices are placed inside the cavity.

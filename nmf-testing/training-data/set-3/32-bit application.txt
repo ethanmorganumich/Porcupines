@@ -1,0 +1,6 @@
+Data unit~
+||||||
+32-bit computing
+||||||
+In computer architecture, 32-bit computing refers to computer systems with a processor, memory, and other major system components that operate on data in 32-bit units. Compared to smaller bit widths, 32-bit computers can perform large calculations more efficiently and process more data per clock cycle. Typical 32-bit personal computers also have a 32-bit address bus, permitting up to 4 GB of RAM to be accessed; far more than previous generations of system architecture allowed.32-bit designs have been used since the earliest days of electronic computing, in experimental systems and then in large mainframe and minicomputer systems. The first hybrid 16/32-bit microprocessor, the Motorola 68000, was introduced in the late 1970s and used in systems such as the original Apple Macintosh. Fully 32-bit microprocessors such as the Motorola 68020 and Intel 80386 were launched in the early to mid 1980s and became dominant by the early 1990s. This generation of personal computers coincided with and enabled the first mass-adoption of the World Wide Web. While 32-bit architectures are still widely-used in specific applications, their dominance of the PC market ended in the early 2000s.
+

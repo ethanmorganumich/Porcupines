@@ -1,0 +1,8 @@
+Musical notation~
+||||||
+Stem (music)
+||||||
+In musical notation, stems are the, "thin, vertical lines that are directly connected to the [note] head." Stems may point up or down. Different-pointing stems indicate the voice for polyphonic music written on the same staff. Within one voice, the stems usually point down for notes on the middle line or higher, and up for those below. If the stem points up from a notehead, the stem originates from the right-hand side of the note, but if it points down, it originates from the left. If there are multiple notes beamed together, the stem's direction is defined by the average of the lowest and highest notes in the beam. There is an exception to this rule: if a chord contains a second, the stem runs between the two notes with the higher being placed on the right of the stem and the lower on the left. If the chord contains an odd numbered cluster of notes a second apart (such as C, D, E), the outer two will be on the correct side of the stem, while the middle note will be on the wrong side.
+The length of a stem should be that of an octave on the staff, going to either an octave higher or lower than the notehead, depending on which way the stem is pointing. If a note head is on a ledger line more than an octave away from the middle line of a staff, the stem will be elongated to touch the middle line. In any polyphonic music in which two parts are written on the same staff, stems are typically shortened to keep the music visually centered upon the staff.
+
+Stems may be altered in various ways to alter the rhythm or other method of performance. For example, a note with diagonal slashes through its stem is played tremolo.

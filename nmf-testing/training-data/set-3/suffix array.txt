@@ -1,0 +1,39 @@
+Arrays~Computer science suffixes~String data structures~Substring indices~
+||||||
+Suffix array
+||||||
+In computer science, a suffix array is a sorted array of all suffixes of a string. It is a data structure used in, among others, full-text indices, data-compression algorithms, and the field of bibliometrics.
+Suffix arrays were introduced by Manber & Myers (1990) as a simple, space efficient alternative to suffix trees. They had independently been discovered by Gaston Gonnet in 1987 under the name PAT array (Gonnet, Baeza-Yates & Snider 1992).
+Li, Li & Huo (2016) gave the first in-place 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        n
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(n)}
+   time suffix array construction algorithm that is optimal both in time and space, where in-place means that the algorithm only needs 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(1)}
+   additional space beyond the input string and the output suffix array.
+Enhanced suffix arrays (ESAs) are suffix arrays with additional tables that reproduce the full functionality of suffix trees preserving the same time and memory complexity.
+The suffix array for a subset of all suffixes of a string is called sparse suffix array. Multiple probabilistic algorithms have been developed to minimize the additional memory usage including an optimal time and memory algorithm.
